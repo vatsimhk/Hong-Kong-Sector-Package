@@ -1,0 +1,108 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Asus\Documents\EuroScope\HK dev build\Data\Sector\Hong-Kong-Sector-File.sct
+SECTORTITLE:Hong-Kong-Sector-File.sct
+Airports:VHHH:name
+Airports:VHHH:symbol
+Airports:VHHX:name
+Airports:VHHX:symbol
+Airports:VHSK:name
+Airports:VHSK:symbol
+Airports:VHSS:name
+Airports:VHSS:symbol
+Airports:VMMC:name
+Airports:VMMC:symbol
+Airports:VMMH:name
+Airports:VMMH:symbol
+ARTCC low boundary:Tower CTR - VHHX | Kai Tak:
+ARTCC low boundary:Tower CTR - VMMC | Macau:
+Free Text:Restricted Airspace\VHD11 - SFC - 2000FT:freetext
+Free Text:Restricted Airspace\VHD5 - GND - 12000FT:freetext
+Free Text:Restricted Airspace\VHP8 - GND - 1000FT:freetext
+Free Text:Restricted Airspace\VHR12 - SFC - 4000FT:freetext
+Free Text:Restricted Airspace\VHR13 - SFC - 3000FT:freetext
+Free Text:VHHH VFR routes\9PN:freetext
+Free Text:VHHH VFR routes\ATZ:freetext
+Free Text:VHHH VFR routes\CCC:freetext
+Free Text:VHHH VFR routes\DTA:freetext
+Free Text:VHHH VFR routes\ESP:freetext
+Free Text:VHHH VFR routes\FAN:freetext
+Free Text:VHHH VFR routes\FSG:freetext
+Free Text:VHHH VFR routes\GCC:freetext
+Free Text:VHHH VFR routes\GRI:freetext
+Free Text:VHHH VFR routes\HBR:freetext
+Free Text:VHHH VFR routes\HKS:freetext
+Free Text:VHHH VFR routes\ISL:freetext
+Free Text:VHHH VFR routes\KAM:freetext
+Free Text:VHHH VFR routes\KDG:freetext
+Free Text:VHHH VFR routes\LAN:freetext
+Free Text:VHHH VFR routes\LMM:freetext
+Free Text:VHHH VFR routes\LYM:freetext
+Free Text:VHHH VFR routes\MAW:freetext
+Free Text:VHHH VFR routes\MBY:freetext
+Free Text:VHHH VFR routes\MWC:freetext
+Free Text:VHHH VFR routes\NBD:freetext
+Free Text:VHHH VFR routes\NEW:freetext
+Free Text:VHHH VFR routes\PAG:freetext
+Free Text:VHHH VFR routes\PAK:freetext
+Free Text:VHHH VFR routes\PCH:freetext
+Free Text:VHHH VFR routes\PPT:freetext
+Free Text:VHHH VFR routes\PSH:freetext
+Free Text:VHHH VFR routes\REP:freetext
+Free Text:VHHH VFR routes\SCU:freetext
+Free Text:VHHH VFR routes\SHC:freetext
+Free Text:VHHH VFR routes\SIL:freetext
+Free Text:VHHH VFR routes\SKARA:freetext
+Free Text:VHHH VFR routes\SOK:freetext
+Free Text:VHHH VFR routes\SOP:freetext
+Free Text:VHHH VFR routes\SOU:freetext
+Free Text:VHHH VFR routes\SSK:freetext
+Free Text:VHHH VFR routes\STL:freetext
+Free Text:VHHH VFR routes\STP:freetext
+Free Text:VHHH VFR routes\TCP:freetext
+Free Text:VHHH VFR routes\TOL:freetext
+Free Text:VHHH VFR routes\TPX:freetext
+Free Text:VHHH VFR routes\TPZ:freetext
+Free Text:VHHH VFR routes\TUM:freetext
+Free Text:VHHH VFR routes\VPK:freetext
+Free Text:VHHH VFR routes\WAG:freetext
+Free Text:VHHH VFR routes\WLC:freetext
+Geo:GEO:
+Geo:Restricted Airspace:
+Geo:VFR Zones:
+Geo:VHHK Landmark Hong Kong Coastline:
+Geo:VHSK Groundlayout Shek Kong Base:
+Regions:VHSK 16777215 markings:polygon
+Regions:VHSK 6910575:polygon
+Runways:VHHH 07C-25C:centerline
+Runways:VHHH 07R-25L:centerline
+Runways:VHHX 13-31:centerline
+Runways:VMMC 16-34:centerline
+Sids:VHHH/HELI DEP/ARR TRACK K:
+Sids:VHHH/HELI TRANSIT ROUTE A:
+Sids:VHHH/HELI TRANSIT ROUTE B:
+Sids:VHHH/HELI TRANSIT ROUTE C:
+Sids:VHHH/LANDING TWY H and G1:
+Sids:VHHH/LANDING TWY K and Z3:
+Sids:VMMC/ATZ:
+Sids:VMMC/VFR Entry Sector:
+Stars:VHSS/HELIPORT:
+SHOWC:1
+SHOWSB:1
+BELOW:100
+ABOVE:9000
+LEADER:-1
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Hong Kong Radar TOPSKY
+WINDOWAREA:22.033842:113.545102:22.648512:114.754777
+PLUGIN:CoFrance:RAD:1
+PLUGIN:CoFrance:VV:1
+PLUGIN:CoFrance:VVTIME:1
+PLUGIN:TopSky plugin:HideMapData:IFR,WS

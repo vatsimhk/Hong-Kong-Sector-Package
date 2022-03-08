@@ -1,0 +1,29 @@
+----------VHHH----------
+HKG_E1_CTR Hong Kong Radar
+HKG_E_CTR Hong Kong Radar
+HKG_S1_CTR Hong Kong Radar
+HKG_S2_CTR Hong Kong Radar
+HKG_S_CTR Hong Kong Radar
+HKG_W_CTR Hong Kong Radar
+VHHH_APP Hong Kong Approach
+VHHH_DEP Hong Kong Departures
+VHHH_E_APP Hong Kong Approach
+VHHH_F_APP Hong Kong Director
+VHHH_H_DEP Hong Kong Departures
+VHHH_P_APP Hong Kong Precision
+VHHH_S_APP Hong Kong Approach
+VHHH_W_APP Hong Kong Approach
+VHHH_Z_APP Hong Kong Zone
+VMMC_APP Macau Approach
+VMMC_TWR Macau Tower
+VHSK_TWR Shek Kong Base
+VHHX_TWR Kai Tak Tower
+VHHH_N_TWR Hong Kong Tower
+VHHH_S_TWR Hong Kong Tower
+VHHH_N_GND Hong Kong Ground
+VHHH_S_GND Hong Kong Ground
+VHHH_C_GND Hong Kong Ground
+VMMC_GND Hong Kong Ground
+VHHX_GND Hong Kong Ground
+VHHX_DEL Kai Tak Delivery
+VHHH_DEL Hong Kong Delivery

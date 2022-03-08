@@ -1,0 +1,396 @@
+RECORD:-:minus.wav
+RECORD:   :silence.wav
+RECORD:,:decimal.wav
+RECORD:.:decimal.wav
+RECORD:+:plus.wav
+RECORD:0:0.wav
+RECORD:000:thousand.wav
+RECORD:1:1.wav
+RECORD:10:10.wav
+RECORD:10 to 25 percent:10to25percent.wav
+RECORD:2:2.wav
+RECORD:25 to 50 percent:25to50percent.wav
+RECORD:3:3.wav
+RECORD:4:4.wav
+RECORD:5:5.wav
+RECORD:6:6.wav
+RECORD:7:7.wav
+RECORD:8:8.wav
+RECORD:9:9.wav
+RECORD:A:a.wav
+RECORD:AC:AC.wav
+RECORD:Acknowledge Information:AcknowledgeInformation.wav
+RECORD:advise on initial contact you have information:adviseoninitialcontactyouhaveinformation.wav
+RECORD:after:after.wav
+RECORD:All pilots are advised to check their initial climb, departure frequency and procedures, as stated in the published charts:checkprocedures.wav
+RECORD:all runways:allrunways.wav
+RECORD:altitude:altitude.wav
+RECORD:and:and.wav
+RECORD:Approach:APP.wav
+RECORD:Arrival:ARR.wav
+RECORD:arrival runway:arrival runway.wav
+RECORD:at:at.wav
+RECORD:at time:at time.wav
+RECORD:Attention!:attention.wav
+RECORD:AUGSBURG:EDMA.wav
+RECORD:automated weather message:auto.wav
+RECORD:B:b.wav
+RECORD:BADEN:EDSB.wav
+RECORD:becoming:becoming.wav
+RECORD:below 10 percent:below10percent.wav
+RECORD:BERLIN SCHOENEFELD:EDDB.wav
+RECORD:BERLIN TEGEL:EDDT.wav
+RECORD:blowing dust:blowingdust.wav
+RECORD:blowing sand:blowingsand.wav
+RECORD:blowing snow:blowingsnow.wav
+RECORD:BREMEN:EDDW.wav
+RECORD:Bremen Radar:bremenradar.wav
+RECORD:broken:broken.wav
+RECORD:by:by.wav
+RECORD:C:c.wav
+RECORD:calm:calm.wav
+RECORD:CAT:cat.wav
+RECORD:CAVOK:cavok.wav
+RECORD:CB:CB.wav
+RECORD:CENTER:center.wav
+RECORD:CI:CI.wav
+RECORD:clear and dry:clearanddry.wav
+RECORD:cleared of deposits:clearedofdeposits.wav
+RECORD:closed due clearance in progress:closeddueclearanceinprogress.wav
+RECORD:closed due to work in progress:closedduetoworkinprogress.wav
+RECORD:clouds:clouds.wav
+RECORD:CLR:CLR.wav
+RECORD:cm:cm.wav
+RECORD:COBURG:EDQC.wav
+RECORD:compacted or rolled snow:compactedorrolledsnow.wav
+RECORD:covered with:coveredwith.wav
+RECORD:covered with compacted or rolled snow:coveredwithcompactedorrolledsnow.wav
+RECORD:covered with dry snow:coveredwithdrysnow.wav
+RECORD:covered with frozen ruts or ridges:coveredwithfrozenrutsorridges.wav
+RECORD:covered with ice:coveredwithice.wav
+RECORD:covered with rime or frost:coveredwithrimeorfrost.wav
+RECORD:covered with slush:coveredwithslush.wav
+RECORD:covered with wet snow:coveredwithwetsnow.wav
+RECORD:D:d.wav
+RECORD:damp:damp.wav
+RECORD:degrees:degrees.wav
+RECORD:Delivery:DEL.wav
+RECORD:Departure:DEP.wav
+RECORD:departure frequency:departurefrequency.wav
+RECORD:Departure frequency for all departing aircraft is:depfreq.wav
+RECORD:departure runway:departurerunway.wav
+RECORD:departure runway:departure runway.wav
+RECORD:dew point:dewpoint.wav
+RECORD:DORTMUND:EDLW.wav 
+RECORD:downgrading:downgrading.wav
+RECORD:DRESDEN:EDDC.wav
+RECORD:drizzle:drizzle.wav
+RECORD:dry snow:drysnow.wav
+RECORD:DUESSELDORF:EDDL.wav
+RECORD:dust whirls:dustwhirls.wav
+RECORD:duststorm:duststorm.wav
+RECORD:E:e.wav
+RECORD:East:east.wav
+RECORD:EGGENFELDEN:EDME.wav
+RECORD:EGLL:EGLL.wav
+RECORD:ERFURT:EDDE.wav
+RECORD:expect GPS approach:expgps.wav
+RECORD:expect ILS approach:expi.wav
+RECORD:Expect ILS Approach Runway 25 with circling Runway 07:circle_EDMA.wav
+RECORD:Expect ILS Approach Runway 30 with circling Runway 12:circle_LJLJ.wav
+RECORD:expect LOC/DME approach:explocdme.wav
+RECORD:expect NDB approach:expndb.wav
+RECORD:expect NDB/DME approach:expndbdme.wav
+RECORD:expect RNAV approach:exprnav.wav
+RECORD:expect VISUAL approach:expvis.wav
+RECORD:expect VOR approach:expvor.wav
+RECORD:expect VOR/DME approach:expvordme.wav
+RECORD:F:f.wav
+RECORD:feet:feet.wav
+RECORD:few:few.wav
+RECORD:fog:fog.wav
+RECORD:For Landing:forlanding.wav
+RECORD:For Take Off:fortakeoff.wav
+RECORD:FRANKFURT:EDDF.wav
+RECORD:FRANKFURT:EDDF.wav
+RECORD:freezing:freezing.wav
+RECORD:freezing drizzle:freezingdrizzle.wav
+RECORD:freezing fog:freezingfog.wav
+RECORD:freezing precipitation:freezingprecipitation.wav
+RECORD:freezing rain:freezingrain.wav
+RECORD:friction coefficient:frictioncoefficient.wav
+RECORD:FRIEDRICHSHAFEN:EDNY.wav
+RECORD:frozen ruts or ridges:frozenrutsorridges.wav
+RECORD:funnel cloud:funnelcloud.wav
+RECORD:G:g.wav
+RECORD:good:good.wav
+RECORD:Ground:GND.wav
+RECORD:gusts up to:gustsupto.wav
+RECORD:H:h.wav
+RECORD:HAHN:EDFH.wav
+RECORD:hail:hail.wav
+RECORD:HAMBURG:EDDH.wav 
+RECORD:HANNOVER:EDDV.wav
+RECORD:haze:haze.wav
+RECORD:heavy:heavy.wav
+RECORD:Hongkong:VHHH.wav
+RECORD:hpa:hpa.wav
+RECORD:hundred:hundred.wav
+RECORD:I:i.wav
+RECORD:ice:ice.wav
+RECORD:ice crystals:icecrystals.wav
+RECORD:ice pellets:icepellets.wav
+RECORD:in depth:indepth.wav
+RECORD:in the vicinity:inthevicinity.wav
+RECORD:in use:inuse.wav
+RECORD:inches:inches.wav
+RECORD:information:information.wav
+RECORD:J:j.wav
+RECORD:K:k.wav
+RECORD:kilometers:kilometers.wav
+RECORD:knots:knots.wav
+RECORD:KOELN BONN:EDDK.wav
+RECORD:L:l.wav
+RECORD:landing runway:landingrunway.wav
+RECORD:Langen Radar:langenradar.wav
+RECORD:LEFT:left.wav
+RECORD:LEIPZIG:EDDP.wav
+RECORD:less than:lessthan.wav
+RECORD:light:light.wav
+RECORD:LJUBLJANA:LJLJ.wav
+RECORD:low drifting dust:lowdriftingdust.wav
+RECORD:low drifting sand:lowdriftingsand.wav
+RECORD:low drifting snow:lowdriftingsnow.wav
+RECORD:Low visibility procedures. CAT II in operation:cat2.wav
+RECORD:Low visibility procedures. CAT III in operation:cat3.wav
+RECORD:LUEBECK:EDHL.wav
+RECORD:LUQA:LMML.wav
+RECORD:M:m.wav
+RECORD:MANNHEIM:EDFM.wav
+RECORD:mbs:millibars.wav
+RECORD:medium:medium.wav
+RECORD:medium to good:mediumtogood.wav
+RECORD:medium to poor:mediumtopoor.wav
+RECORD:MEMMINGEN:EDJA.wav
+RECORD:met report time:metreptime.wav
+RECORD:meters:meters.wav
+RECORD:miles:miles.wav
+RECORD:mist:mist.wav
+RECORD:mm:mm.wav
+RECORD:moderate:moderate.wav
+RECORD:MOENCHENGLADBACH:EDLN.wav
+RECORD:more than:morethan.wav
+RECORD:more than 50 percent:morethan50percent.wav
+RECORD:Muenchen Radar:muenchenradar.wav
+RECORD:MUENSTER:EDDG.wav 
+RECORD:Munich:EDDM.wav
+RECORD:N:n.wav
+RECORD:neutral:neutral.wav
+RECORD:NIEDERRHEIN:EDLV.wav
+RECORD:no cloud base available:nocloudbaseavailable.wav
+RECORD:no cloud detected:noclouddetected.wav
+RECORD:no directional variation:nodirectionalvariation.wav
+RECORD:no significant clouds:nosignificantclouds.wav
+RECORD:no significant weather:nosignificantweather.wav
+RECORD:No vertical visibility:noverticalvisibility.wav
+RECORD:North:north.wav
+RECORD:NorthEast:northeast.wav
+RECORD:NorthWest:northwest.wav
+RECORD:NOSIG:nosig.wav
+RECORD:NUERNBERG:EDDN.wav
+RECORD:O:o.wav
+RECORD:On First Contact:OnFirstContact.wav
+RECORD:On First Contact With:OnFirstContactWith.wav
+RECORD:on frequency:onfreq.wav
+RECORD:on request:onrequest.wav
+RECORD:or:or.wav
+RECORD:or more:ormore.wav
+RECORD:out:out.wav
+RECORD:overcast:overcast.wav
+RECORD:P:p.wav
+RECORD:PADERBORN:EDLP.wav
+RECORD:parallel operations in use:paralleloperationsinuse.wav
+RECORD:partial fog:partialfog.wav
+RECORD:patches of fog:patchesoffog.wav
+RECORD:poor:poor.wav
+RECORD:previous surface condition:previoussurfacecondition.wav
+RECORD:Q:q.wav
+RECORD:QFE:qfe.wav
+RECORD:QNH:qnh.wav
+RECORD:R:r.wav
+RECORD:Radar:radar.wav 
+RECORD:rain:rain.wav
+RECORD:RECENT:recent.wav
+RECORD:RIGHT:right.wav
+RECORD:rime or frost:rimeorfrost.wav
+RECORD:runway:runway.wav
+RECORD:runway visual range:runwayvisualrange.wav
+RECORD:runways:runways.wav
+RECORD:S:s.wav
+RECORD:SAARBRUECKEN:EDDR.wav
+RECORD:sand:sand.wav
+RECORD:sandstorm:sandstorm.wav
+RECORD:SC:SC.wav
+RECORD:scattered:scattered.wav
+RECORD:sea state:seastate.wav
+RECORD:sea surface temperature:seasurfacetemperature.wav
+RECORD:shallow fog:shallowfog.wav
+RECORD:shower:shower.wav
+RECORD:showers of hail:showersofhail.wav
+RECORD:showers of rain:showersofrain.wav
+RECORD:showers of small hail:showersofsmallhail.wav
+RECORD:showers of snow:showersofsnow.wav
+RECORD:SIEGERLAND:EDGS.wav
+RECORD:sky conditions clear:skyconditionsclear.wav
+RECORD:slush:slush.wav
+RECORD:small hail or snow pellets:smallhailorsnowpellets.wav
+RECORD:smoke:smoke.wav
+RECORD:snow:snow.wav
+RECORD:snow grains:snowgrains.wav
+RECORD:South:south.wav
+RECORD:SouthEast:southeast.wav
+RECORD:SouthWest:southwest.wav
+RECORD:squalls:squalls.wav
+RECORD:ST:ST.wav
+RECORD:STRAUBING:EDMS.wav
+RECORD:STUTTGART:EDDS.wav
+RECORD:STUTTGART:EDDS.wav
+RECORD:surface:surface.wav
+RECORD:surface condition:surfacecondition.wav
+RECORD:SYLT:EDXW.wav
+RECORD:T:t.wav
+RECORD:Take Off:takeoff.wav
+RECORD:taxiway:taxiway.wav
+RECORD:TCU:TCU.wav
+RECORD:temperature:temperature.wav
+RECORD:temporary:temporary.wav
+RECORD:ten:ten.wav
+RECORD:the aerodrome is closed due to contamination of the runways:snowclosed.wav
+RECORD:This is:thisis.wav
+RECORD:thousand:thousand.wav
+RECORD:thunderstorm:thunderstorm.wav
+RECORD:thunderstorm with hail:thunderstormwithhail.wav
+RECORD:thunderstorm with ice pellets:thunderstormwithicepellets.wav
+RECORD:thunderstorm with rain:thunderstormwithrain.wav
+RECORD:thunderstorm with snow:thunderstormwithsnow.wav
+RECORD:thunderstorm with snow grains:thunderstormwithsnowgrains.wav
+RECORD:time:time.wav
+RECORD:to:to.wav
+RECORD:to less than:tolessthan.wav
+RECORD:to more than:tomorethan.wav
+RECORD:Tower:TWR.wav
+RECORD:transition level:trl.wav
+RECORD:Trend:trend.wav
+RECORD:TRL:TRL.wav
+RECORD:U:u.wav
+RECORD:UNICOM:unicom.wav
+RECORD:unknown precipitation:unknownprecipitation.wav
+RECORD:unmeasurable:unmeasurable.wav
+RECORD:upgrading:upgrading.wav
+RECORD:V:v.wav
+RECORD:variable:variable.wav
+RECORD:variable between:variablebetween.wav
+RECORD:VIS 9999:visibilitymorethan10kilometers.wav
+RECORD:visibility:visibility.wav
+RECORD:volcanic ash:volcanicash.wav
+RECORD:W:w.wav
+RECORD:West:west.wav
+RECORD:wet:wet.wav
+RECORD:wet snow:wetsnow.wav
+RECORD:When vacated contact Ground on 121.820:whenvacs.wav
+RECORD:When vacated contact Ground on 121.970:whenvacn.wav
+RECORD:widespread dust:widespreaddust.wav
+RECORD:wind:wind.wav
+RECORD:wind calm:windcalm.wav
+RECORD:wind variable:windvariable.wav
+RECORD:windshear:windshear.wav
+RECORD:windshear all runways:windshearallrunways.wav
+RECORD:X:x.wav
+RECORD:Y:y.wav
+RECORD:Z:z.wav
+ITEM:HONGKONG:XXX
+ITEM:INFORMATION:XXX
+ITEM:B:
+ITEM:   :XXX
+ITEM:AT TIME:XXX
+ITEM:1230:
+ITEM:   :XXX
+ITEM:ARRIVAL RUNWAY:XXX
+ITEM:07L:
+ITEM:   :XXX
+ITEM:DEPARTURE RUNWAY:XXX
+ITEM:07R:
+ITEM:   :XXX
+ITEM:TRL:XXX
+ITEM:110:
+ITEM:   :XXX
+ITEM:WIND:XXX
+ITEM:080:
+ITEM:DEGREES:XXX
+ITEM:15:
+ITEM:KNOTS:XXX
+ITEM:   :XXX
+ITEM:VISIBILITY:XXX
+ITEM:10:
+ITEM:KILOMETERS:XXX
+ITEM:   :XXX
+ITEM:LIGHT:XXX
+ITEM:SHOWERS OF RAIN:XXX
+ITEM:   :XXX
+ITEM:CLOUDS:XXX
+ITEM:FEW:XXX
+ITEM:{1200}:
+ITEM:FEET:XXX
+ITEM:   :XXX
+ITEM:SCATTERED:XXX
+ITEM:{2500}:
+ITEM:FEET:XXX
+ITEM:   :XXX
+ITEM:TEMPERATURE:XXX
+ITEM:28:
+ITEM:DEW POINT:XXX
+ITEM:26:
+ITEM:   :XXX
+ITEM:   :XXX
+ITEM:QNH:XXX
+ITEM:1004:
+ITEM:   :XXX
+ITEM:RECENT:XXX
+ITEM:THUNDERSTORM:XXX
+ITEM:   :XXX
+ITEM:TEMPORARY:XXX
+ITEM:   :XXX
+ITEM:WIND:XXX
+ITEM:100:
+ITEM:DEGREES:XXX
+ITEM:22:
+ITEM:KNOTS:XXX
+ITEM:GUST:XXX
+ITEM:32:
+ITEM:KNOTS:XXX
+ITEM:   :XXX
+ITEM:   :XXX
+ITEM:VISIBILITY:XXX
+ITEM:{3500}:
+ITEM:METERS:XXX
+ITEM:   :XXX
+ITEM:   :XXX
+ITEM:LIGHT:XXX
+ITEM:THUNDERSTORM WITH RAIN:XXX
+ITEM:MODERATE:XXX
+ITEM:SHOWERS OF RAIN:XXX
+ITEM:   :XXX
+ITEM:CLOUDS:XXX
+ITEM:FEW:XXX
+ITEM:CB:XXX
+ITEM:{1200}:
+ITEM:FEET:XXX
+ITEM:   :XXX
+ITEM:SCATTERED:XXX
+ITEM:{2000}:
+ITEM:FEET:XXX
+ITEM:   :XXX
+ITEM:ACKNOWLEDGE INFORMATION:XXX
+ITEM:B:
+ITEM:ON FIRST CONTACT:XXX
+ITEM:   :XXX

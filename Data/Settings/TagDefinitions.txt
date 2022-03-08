@@ -1,0 +1,786 @@
+TAGS
+TAGFAMILY:Hong Kong Radar TOPSKY
+TAGTYPE:0:0:0
+TAGITEM:9::1:0:7:6::0:1::TopSky plugin:9
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:15::0:0:99:12:TopSky plugin:0:1:TopSky plugin:TopSky plugin:3
+TAGITEM:3::0:0:0:0::0:1:::1
+TAGITEM:114::0:1:0:15:TopSky plugin:0:1::TopSky plugin:3
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
+TAGTYPE:1:2:1
+TAGITEM:42::0:0:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:9::1:0:0:0::0:1:::9
+TAGITEM:58::0:0:1:10:TopSky plugin:0:1:::0
+TAGITEM:74::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:15::0:0:0:26:TopSky plugin:0:1:::1
+TAGITEM:3::0:0:0:0::0:1:::1
+TAGITEM:113::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:114::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:54::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:19::0:0:0:0::0:1:::1
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
+TAGTYPE:2:2:1
+TAGITEM:42::0:1:0:62::0:1::TopSky plugin:1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:22::1:0:7:6:TopSky plugin:0:1::TopSky plugin:9
+TAGITEM:58::0:0:0:32:TopSky plugin:2:1:::1
+TAGITEM:73::0:1:4:27:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:0::0:1:0:0::0:1:::1
+TAGITEM:15::0:1:99:12:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:3::0:0:0:0::0:1:::1
+TAGITEM:43::0:1:99:12:TopSky plugin:0:1:TopSky plugin:TopSky plugin:5
+TAGITEM:159::0:1:16:16:TopSky plugin:0:1::TopSky plugin:1
+TAGITEM:56::0:1:16:16:TopSky plugin:0:1::TopSky plugin:5
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:40::0:1:103:15:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:54::0:1:0:14:TopSky plugin:0:1::TopSky plugin:1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:47::0:1:71:15:TopSky plugin:0:1:TopSky plugin:TopSky plugin:5
+TAGITEM:79::0:1:99:45:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:66::0:1:42:20:TopSky plugin:0:1:TopSky plugin::0
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:66::0:0:29:29::0:1:::1
+TAGITEM:78::0:0:0:0:TopSky plugin:0:1:::1
+TAGTYPE:3:0:0
+TAGITEM:15::1:0:0:99:TopSky plugin:0:1::TopSky plugin:1
+TAGITEM:3::0:0:0:0::0:1:::1
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
+TAGTYPE:4:0:0
+TAGITEM:9::1:0:7:6::0:1::TopSky plugin:9
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:15::0:0:12:0:TopSky plugin:0:1:TopSky plugin::3
+TAGITEM:114::0:1:15:0:TopSky plugin:0:1:TopSky plugin::3
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
+TAGTYPE:5:1:0
+TAGITEM:82::1:0:0:0::0:1:::1
+TAGITEM:82::1:0:0:0::0:1:::1
+TAGTYPE:6:0:0
+TAGITEM:9::1:0:7:7::0:1:::9
+TAGITEM:70::0:1:0:0::0:1:::9
+TAGITEM:0::0:0:0:0::0:1:::9
+TAGITEM:4::0:0:0:0::0:1:::9
+TAGITEM:0::0:0:0:0::0:1:::9
+TAGTYPE:7:2:1
+TAGITEM:67::0:0:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:9::1:0:0:0::0:1:::1
+TAGITEM:80::0:0:0:0::0:1:::1
+TAGITEM:70::0:1:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:4::0:0:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:17::0:0:0:0::0:1:::1
+TAGITEM:16::0:1:0:0::0:1:::1
+TAGTYPE:8:0:0
+TAGITEM:15::1:0:0:99:TopSky plugin:0:1::TopSky plugin:1
+TAGITEM:3::0:0:0:0::0:1:::1
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
+TAGTYPE:9:1:0
+TAGITEM:66::0:0:0:41:TopSky plugin:0:1:::1
+TAGITEM:106::1:1:62:33:TopSky plugin:0:1:TopSky plugin::0
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:15::0:0:99:0:TopSky plugin:0:1:TopSky plugin::1
+TAGITEM:3::0:1:0:0::0:1:::1
+TAGITEM:78::0:0:0:0:TopSky plugin:0:1:::1
+TAGTYPE:10:1:0
+TAGITEM:66::0:0:0:41:TopSky plugin:0:1:::1
+TAGITEM:106::1:1:62:33:TopSky plugin:0:1:TopSky plugin::0
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:15::0:0:99:0:TopSky plugin:0:1:TopSky plugin::1
+TAGITEM:3::0:1:0:0::0:1:::1
+TAGITEM:78::0:0:0:0:TopSky plugin:0:1:::1
+TAGTYPE:11:1:0
+TAGITEM:66::0:0:0:41:TopSky plugin:0:1:::1
+TAGITEM:106::1:1:62:33:TopSky plugin:0:1:TopSky plugin::0
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:15::0:0:99:0:TopSky plugin:0:1:TopSky plugin::1
+TAGITEM:3::0:1:0:0::0:1:::1
+TAGITEM:78::0:0:0:0:TopSky plugin:0:1:::1
+TAGTYPE:12:1:0
+TAGITEM:66::0:0:0:41:TopSky plugin:0:1:::1
+TAGITEM:106::1:1:62:33:TopSky plugin:0:1:TopSky plugin::0
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:15::0:0:99:0:TopSky plugin:0:1:TopSky plugin::1
+TAGITEM:3::0:1:0:0::0:1:::1
+TAGITEM:78::0:0:0:0:TopSky plugin:0:1:::1
+TAGTYPE:13:1:0
+TAGITEM:7::0:0:0:0:CoFrance:0:1:::1
+TAGITEM:15::1:0:0:99:TopSky plugin:0:1::TopSky plugin:1
+TAGITEM:2::0:1:0:0:CoFrance:0:1:::1
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
+TAGTYPE:14:1:0
+TAGITEM:7::0:0:0:0:CoFrance:0:1:::1
+TAGITEM:15::1:0:0:99:TopSky plugin:0:1::TopSky plugin:1
+TAGITEM:2::0:1:0:0:CoFrance:0:1:::1
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
+TAGTYPE:15:2:0
+TAGITEM:6::0:0:0:0:CoFrance:0:1:::1
+TAGITEM:90::0:0:0:41::0:1:::1
+TAGITEM:2::1:1:62:33::0:1:TopSky plugin::0
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:15::0:0:99:0:TopSky plugin:0:1:TopSky plugin::1
+TAGITEM:2::0:1:0:0:CoFrance:0:1:::1
+TAGITEM:78::0:0:0:0:TopSky plugin:0:1:::1
+TAGTYPE:16:2:1
+TAGITEM:42::0:0:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:9::1:0:0:0::0:1:::9
+TAGITEM:11::0:0:1:10::0:1:::0
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:15::0:0:0:26:TopSky plugin:0:1:::1
+TAGITEM:2::0:0:0:0:CoFrance:0:1:::1
+TAGITEM:113::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:114::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:54::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:19::0:0:0:0::0:1:::1
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
+TAGTYPE:17:2:1
+TAGITEM:42::0:1:0:62::0:1::TopSky plugin:1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:22::1:0:7:6:TopSky plugin:0:1::TopSky plugin:9
+TAGITEM:58::0:0:0:32:TopSky plugin:2:1:::1
+TAGITEM:0::0:1:0:0::0:1:::1
+TAGITEM:43::0:1:16:12:TopSky plugin:0:1::TopSky plugin:5
+TAGITEM:15::0:1:16:12:TopSky plugin:0:1::TopSky plugin:1
+TAGITEM:2::0:0:0:0:CoFrance:0:1:::1
+TAGITEM:131::0:0:0:16:TopSky plugin:0:1::TopSky plugin:1
+TAGITEM:56::0:1:0:16:TopSky plugin:0:1::TopSky plugin:5
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:40::0:1:0:15:TopSky plugin:0:1::TopSky plugin:1
+TAGITEM:25::0:1:0:14::0:1::TopSky plugin:1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:47::0:1:71:15:TopSky plugin:0:1:TopSky plugin:TopSky plugin:5
+TAGITEM:79::0:1:99:45:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:66::0:1:100:20:TopSky plugin:0:1:TopSky plugin::0
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:8::0:0:29:29:CoFrance:0:1:::1
+TAGITEM:78::0:0:0:0:TopSky plugin:0:1:::1
+TAGTYPE:18:1:0
+TAGITEM:82::1:0:0:0::0:1:::1
+TAGITEM:82::1:0:0:0::0:1:::1
+TAGTYPE:19:1:0
+TAGITEM:82::1:0:0:0::0:1:::1
+TAGITEM:82::1:0:0:0::0:1:::1
+TAGTYPE:20:8:3
+TAGITEM:42::0:0:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:9::1:0:0:0::0:1:::1
+TAGITEM:80::0:0:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:21::0:1:0:0::0:1:::1
+TAGITEM:42::0:0:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:9::1:0:0:0::0:1:::1
+TAGITEM:80::0:0:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:21::0:1:0:0::0:1:::1
+TAGTYPE:21:2:1
+TAGITEM:42::0:0:0:31::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:9::1:0:1:0::0:1:::1
+TAGITEM:80::0:0:0:32::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:26::0:0:6:20::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:66::0:0:29:0::0:1:::1
+TAGTYPE:22:2:0
+TAGITEM:81::1:0:0:0::0:1:::1
+TAGITEM:16::0:1:0:0::0:1:::1
+TAGITEM:81::1:0:0:0::0:1:::1
+TAGITEM:16::0:1:0:0::0:1:::1
+TAGTYPE:23:2:0
+TAGITEM:81::1:0:0:0::0:1:::1
+TAGITEM:16::0:1:0:0::0:1:::1
+TAGITEM:81::1:0:0:0::0:1:::1
+TAGITEM:16::0:1:0:0::0:1:::1
+TAGFAMILY:Hong Kong Timelapse
+TAGTYPE:0:0:0
+TAGITEM:9::1:0:7:0::0:1:::9
+TAGITEM:16::0:1:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:13::0:0:0:0::0:1:::1
+TAGITEM:4::0:1:0:0::0:1:::1
+TAGITEM:3::0:0:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:54::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:26::0:1:0:0::0:1:::1
+TAGTYPE:1:0:0
+TAGITEM:9::1:0:7:0::0:1:::9
+TAGITEM:16::0:1:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:13::0:0:0:0::0:1:::1
+TAGITEM:4::0:1:0:0::0:1:::1
+TAGITEM:3::0:0:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:54::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:26::0:1:0:0::0:1:::1
+TAGTYPE:2:0:0
+TAGITEM:9::1:0:7:0::0:1:::9
+TAGITEM:16::0:1:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:13::0:0:0:0::0:1:::1
+TAGITEM:4::0:1:0:0::0:1:::1
+TAGITEM:3::0:0:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:54::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:26::0:1:0:0::0:1:::1
+TAGTYPE:3:3:1
+TAGITEM:39::1:0:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:21::0:0:0:0::0:1:::1
+TAGITEM:39::1:0:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:21::0:0:0:0::0:1:::1
+TAGTYPE:4:12:4
+TAGITEM:42::0:0:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:9::1:0:0:0::0:1:::0
+TAGITEM:80::0:0:0:0::0:1:::1
+TAGITEM:70::0:1:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:4::0:0:0:0::0:1:::1
+TAGITEM:26::0:1:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:66::0:0:0:0::0:1:::1
+TAGITEM:42::0:0:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:9::1:0:0:0::0:1:::0
+TAGITEM:80::0:0:0:0::0:1:::1
+TAGITEM:70::0:1:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:4::0:0:0:0::0:1:::1
+TAGITEM:26::0:1:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:66::0:0:0:0::0:1:::1
+TAGTYPE:5:1:0
+TAGITEM:82::1:0:0:0::0:1:::1
+TAGITEM:82::1:0:0:0::0:1:::1
+TAGTYPE:6:0:0
+TAGITEM:9::1:0:7:7::0:1:::9
+TAGITEM:16::0:1:0:31::0:1:::9
+TAGITEM:0::0:0:0:0::0:1:::9
+TAGITEM:13::0:0:0:0::0:1:::9
+TAGTYPE:7:2:1
+TAGITEM:67::0:0:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:9::1:0:0:0::0:1:::1
+TAGITEM:80::0:0:0:0::0:1:::1
+TAGITEM:70::0:1:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:4::0:0:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:17::0:0:0:0::0:1:::1
+TAGITEM:16::0:1:0:0::0:1:::1
+TAGTYPE:8:3:1
+TAGITEM:39::1:0:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:21::0:0:0:0::0:1:::1
+TAGITEM:39::1:0:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:21::0:0:0:0::0:1:::1
+TAGTYPE:9:3:1
+TAGITEM:39::1:0:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:66::0:0:29:0::0:1:::1
+TAGITEM:39::1:0:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:66::0:0:29:0::0:1:::1
+TAGTYPE:10:12:4
+TAGITEM:42::0:0:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:2::1:0:33:0::0:1:::0
+TAGITEM:80::0:0:0:0::0:1:::1
+TAGITEM:70::0:1:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:4::0:0:0:0::0:1:::1
+TAGITEM:26::0:1:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:21::0:0:0:0::0:1:::1
+TAGITEM:42::0:0:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:2::1:0:33:0::0:1:::0
+TAGITEM:80::0:0:0:0::0:1:::1
+TAGITEM:70::0:1:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:4::0:0:0:0::0:1:::1
+TAGITEM:26::0:1:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:21::0:0:0:0::0:1:::1
+TAGTYPE:11:12:4
+TAGITEM:42::0:0:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:2::1:0:33:0::0:1:::0
+TAGITEM:80::0:0:0:0::0:1:::1
+TAGITEM:70::0:1:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:4::0:0:0:0::0:1:::1
+TAGITEM:26::0:1:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:21::0:0:0:0::0:1:::1
+TAGITEM:42::0:0:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:2::1:0:33:0::0:1:::0
+TAGITEM:80::0:0:0:0::0:1:::1
+TAGITEM:70::0:1:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:4::0:0:0:0::0:1:::1
+TAGITEM:26::0:1:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:21::0:0:0:0::0:1:::1
+TAGTYPE:12:18:5
+TAGITEM:42::0:0:0:31::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:2::1:0:33:31::0:1:::0
+TAGITEM:11::0:0:7:32::0:1:::1
+TAGITEM:70::0:1:7:12::0:1:::1
+TAGITEM:44::0:1:0:12::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:4::0:0:0:26::0:1:::1
+TAGITEM:12::0:1:0:0::0:1:::1
+TAGITEM:3::0:0:0:0::0:1:::1
+TAGITEM:20::0:1:0:11::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:25::0:0:0:14::0:1:::1
+TAGITEM:26::0:1:6:8::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:66::0:0:29:0::0:1:::1
+TAGITEM:42::0:0:0:31::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:2::1:0:33:31::0:1:::0
+TAGITEM:11::0:0:7:32::0:1:::1
+TAGITEM:70::0:1:7:12::0:1:::1
+TAGITEM:44::0:1:0:12::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:4::0:0:0:26::0:1:::1
+TAGITEM:12::0:1:0:0::0:1:::1
+TAGITEM:3::0:0:0:0::0:1:::1
+TAGITEM:20::0:1:0:11::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:25::0:0:0:14::0:1:::1
+TAGITEM:26::0:1:6:8::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:66::0:0:29:0::0:1:::1
+TAGTYPE:13:12:4
+TAGITEM:42::0:0:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:9::1:0:33:0::0:1:::0
+TAGITEM:80::0:0:0:0::0:1:::1
+TAGITEM:70::0:1:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:4::0:0:0:0::0:1:::1
+TAGITEM:26::0:1:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:21::0:0:0:0::0:1:::1
+TAGITEM:42::0:0:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:9::1:0:33:0::0:1:::0
+TAGITEM:80::0:0:0:0::0:1:::1
+TAGITEM:70::0:1:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:4::0:0:0:0::0:1:::1
+TAGITEM:26::0:1:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:21::0:0:0:0::0:1:::1
+TAGTYPE:14:12:4
+TAGITEM:42::0:0:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:9::1:0:33:0::0:1:::0
+TAGITEM:80::0:0:0:0::0:1:::1
+TAGITEM:70::0:1:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:4::0:0:0:0::0:1:::1
+TAGITEM:26::0:1:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:21::0:0:0:0::0:1:::1
+TAGITEM:42::0:0:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:9::1:0:33:0::0:1:::0
+TAGITEM:80::0:0:0:0::0:1:::1
+TAGITEM:70::0:1:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:4::0:0:0:0::0:1:::1
+TAGITEM:26::0:1:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:21::0:0:0:0::0:1:::1
+TAGTYPE:15:18:5
+TAGITEM:42::0:0:0:31::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:9::1:0:33:33::0:1:::0
+TAGITEM:11::0:0:7:32::0:1:::1
+TAGITEM:70::0:1:7:12::0:1:::1
+TAGITEM:44::0:1:0:12::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:4::0:0:0:26::0:1:::1
+TAGITEM:12::0:1:0:0::0:1:::1
+TAGITEM:3::0:0:0:0::0:1:::1
+TAGITEM:20::0:1:0:11::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:25::0:0:0:14::0:1:::1
+TAGITEM:26::0:1:6:8::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:66::0:0:29:0::0:1:::1
+TAGITEM:42::0:0:0:31::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:9::1:0:33:33::0:1:::0
+TAGITEM:11::0:0:7:32::0:1:::1
+TAGITEM:70::0:1:7:12::0:1:::1
+TAGITEM:44::0:1:0:12::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:4::0:0:0:26::0:1:::1
+TAGITEM:12::0:1:0:0::0:1:::1
+TAGITEM:3::0:0:0:0::0:1:::1
+TAGITEM:20::0:1:0:11::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:25::0:0:0:14::0:1:::1
+TAGITEM:26::0:1:6:8::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:66::0:0:29:0::0:1:::1
+TAGTYPE:16:14:5
+TAGITEM:42::0:0:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:9::1:0:0:0::0:1:::0
+TAGITEM:80::0:0:0:0::0:1:::1
+TAGITEM:70::0:1:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:4::0:0:0:0::0:1:::1
+TAGITEM:26::0:1:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:16::0:0:0:0::5:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:19::0:0:0:0::0:1:::1
+TAGITEM:42::0:0:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:9::1:0:0:0::0:1:::0
+TAGITEM:80::0:0:0:0::0:1:::1
+TAGITEM:70::0:1:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:4::0:0:0:0::0:1:::1
+TAGITEM:26::0:1:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:16::0:0:0:0::5:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:19::0:0:0:0::0:1:::1
+TAGTYPE:17:19:5
+TAGITEM:42::0:0:0:31::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:9::1:0:1:10::0:1:::0
+TAGITEM:11::0:0:7:32::0:1:::1
+TAGITEM:70::0:1:7:12::0:1:::1
+TAGITEM:44::0:1:0:12::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:4::0:0:0:26::0:1:::1
+TAGITEM:12::0:1:0:0::0:1:::1
+TAGITEM:3::0:0:0:0::0:1:::1
+TAGITEM:20::0:1:0:11::0:1:::1
+TAGITEM:75::0:1:0:26::4:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:25::0:0:0:14::0:1:::1
+TAGITEM:26::0:1:6:8::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:66::0:0:29:0::0:1:::1
+TAGITEM:42::0:0:0:31::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:9::1:0:1:10::0:1:::0
+TAGITEM:11::0:0:7:32::0:1:::1
+TAGITEM:70::0:1:7:12::0:1:::1
+TAGITEM:44::0:1:0:12::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:4::0:0:0:26::0:1:::1
+TAGITEM:12::0:1:0:0::0:1:::1
+TAGITEM:3::0:0:0:0::0:1:::1
+TAGITEM:20::0:1:0:11::0:1:::1
+TAGITEM:75::0:1:0:26::4:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:25::0:0:0:14::0:1:::1
+TAGITEM:26::0:1:6:8::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:66::0:0:29:0::0:1:::1
+TAGTYPE:18:1:0
+TAGITEM:82::1:0:0:0::0:1:::1
+TAGITEM:82::1:0:0:0::0:1:::1
+TAGTYPE:19:1:0
+TAGITEM:82::1:0:0:0::0:1:::1
+TAGITEM:82::1:0:0:0::0:1:::1
+TAGTYPE:20:8:3
+TAGITEM:42::0:0:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:9::1:0:0:0::0:1:::1
+TAGITEM:80::0:0:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:21::0:1:0:0::0:1:::1
+TAGITEM:42::0:0:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:9::1:0:0:0::0:1:::1
+TAGITEM:80::0:0:0:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:21::0:1:0:0::0:1:::1
+TAGTYPE:21:2:1
+TAGITEM:42::0:0:0:31::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:9::1:0:1:0::0:1:::1
+TAGITEM:80::0:0:0:32::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:26::0:0:6:20::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:66::0:0:29:0::0:1:::1
+TAGTYPE:22:2:0
+TAGITEM:81::1:0:0:0::0:1:::1
+TAGITEM:16::0:1:0:0::0:1:::1
+TAGITEM:81::1:0:0:0::0:1:::1
+TAGITEM:16::0:1:0:0::0:1:::1
+TAGTYPE:23:2:0
+TAGITEM:81::1:0:0:0::0:1:::1
+TAGITEM:16::0:1:0:0::0:1:::1
+TAGITEM:81::1:0:0:0::0:1:::1
+TAGITEM:16::0:1:0:0::0:1:::1
+TAGFAMILY:TopSky Default
+TAGTYPE:0:1:0
+TAGITEM:7::0:0:0:0:CoFrance:0:1:::1
+TAGITEM:15::1:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:2::0:1:0:0:CoFrance:0:1:::1
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
+TAGTYPE:1:7:1
+TAGITEM:7::0:0:0:0:CoFrance:0:1:::1
+TAGITEM:1::0:0:0:0:CoFrance:0:1:::1
+TAGITEM:90::0:1:41:0::0:1:::1
+TAGITEM:21::0:1:0:0::0:1:::1
+TAGITEM:42::0:1:0:0::0:1:::1
+TAGITEM:65::0:1:25:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:22::1:0:0:0:TopSky plugin:0:1:::0
+TAGITEM:58::0:0:32:0:TopSky plugin:0:1:::1
+TAGITEM:66::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:11::0:1:0:0:CoFrance:0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:15::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:2::0:1:0:0:CoFrance:0:1:::1
+TAGITEM:43::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:25::0:1:0:0::0:1:::1
+TAGITEM:47::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:33::0:0:0:0::0:1:::1
+TAGITEM:4::0:0:0:0:CoFrance:0:1:::1
+TAGITEM:3::0:1:0:0:CoFrance:0:1:::1
+TAGITEM:79::0:1:0:0:TopSky plugin:0:0:::8
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
+TAGTYPE:2:8:1
+TAGITEM:6::0:0:0:0:CoFrance:0:1:::1
+TAGITEM:1::0:0:0:0:CoFrance:0:1:::1
+TAGITEM:90::0:1:41:0::0:1:::1
+TAGITEM:42::0:1:62:0::0:1:TopSky plugin::1
+TAGITEM:8::0:1:29:0:CoFrance:0:1:::1
+TAGITEM:65::0:1:25:0::0:1:::1
+TAGITEM:69::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:22::1:0:6:6:TopSky plugin:0:1:TopSky plugin:TopSky plugin:0
+TAGITEM:58::0:0:32:0:TopSky plugin:0:1:::1
+TAGITEM:66::0:1:20:0:TopSky plugin:0:1:::1
+TAGITEM:120::0:1:59:0:TopSky plugin:0:1:TopSky plugin::1
+TAGITEM:9::0:1:500:0:CoFrance:0:1:CoFrance::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:15::0:0:99:16:TopSky plugin:0:1:TopSky plugin::1
+TAGITEM:2::0:1:0:0:CoFrance:0:1:::1
+TAGITEM:43::0:1:12:0:TopSky plugin:0:1:TopSky plugin::1
+TAGITEM:25::0:1:45:14::0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:47::0:1:15:15:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:5::0:0:44:0:CoFrance:0:1:TopSky plugin::1
+TAGITEM:44::0:1:45:45:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:79::0:1:1001:2:TopSky plugin:0:1:TopSky plugin::1
+TAGITEM:78::0:0:0:0:TopSky plugin:0:1:::1
+TAGTYPE:3:0:0
+TAGITEM:39::1:1:0:0::0:1:::0
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
+TAGTYPE:4:1:0
+TAGITEM:7::0:0:0:0:CoFrance:0:1:::1
+TAGITEM:15::1:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:2::0:1:0:0:CoFrance:0:1:::1
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
+TAGTYPE:5:1:0
+TAGITEM:90::0:0:41:0::0:1:::1
+TAGITEM:22::1:1:0:0:TopSky plugin:0:1:::0
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:15::0:0:0:99:TopSky plugin:0:1::TopSky plugin:1
+TAGITEM:3::0:0:0:0::0:1:::1
+TAGITEM:79::0:1:1001:0:TopSky plugin:0:1:TopSky plugin::1
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
+TAGTYPE:6:1:0
+TAGITEM:90::0:0:41:0::0:1:::1
+TAGITEM:22::1:1:0:0:TopSky plugin:0:1:::0
+TAGITEM:69::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
+TAGTYPE:7:1:0
+TAGITEM:90::0:0:41:0::0:1:::1
+TAGITEM:81::1:1:0:0::0:1:::0
+TAGITEM:16::0:1:0:0::0:1:::1
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
+TAGTYPE:8:0:0
+TAGITEM:39::1:1:0:0::0:1:::0
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
+TAGTYPE:9:0:0
+TAGITEM:39::1:1:0:0::0:1:::0
+TAGITEM:78::0:0:0:0:TopSky plugin:0:1:::1
+TAGTYPE:10:1:0
+TAGITEM:7::0:0:0:0:CoFrance:0:1:::1
+TAGITEM:15::1:0:0:99:TopSky plugin:0:1::TopSky plugin:1
+TAGITEM:2::0:1:0:0:CoFrance:0:1:::1
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
+TAGTYPE:11:1:0
+TAGITEM:7::0:0:0:0:CoFrance:0:1:::1
+TAGITEM:15::1:0:0:99:TopSky plugin:0:1::TopSky plugin:1
+TAGITEM:2::0:1:0:0:CoFrance:0:1:::1
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
+TAGTYPE:12:2:0
+TAGITEM:6::0:0:0:0:CoFrance:0:1:::1
+TAGITEM:90::0:0:41:0::0:1:::1
+TAGITEM:2::1:1:33:0::0:1:::0
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:15::0:0:0:99:TopSky plugin:0:1::TopSky plugin:1
+TAGITEM:2::0:1:0:0:CoFrance:0:1:::1
+TAGITEM:78::0:0:0:0:TopSky plugin:0:1:::1
+TAGTYPE:13:1:0
+TAGITEM:7::0:0:0:0:CoFrance:0:1:::1
+TAGITEM:15::1:0:0:99:TopSky plugin:0:1::TopSky plugin:1
+TAGITEM:2::0:1:0:0:CoFrance:0:1:::1
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
+TAGTYPE:14:1:0
+TAGITEM:7::0:0:0:0:CoFrance:0:1:::1
+TAGITEM:15::1:0:0:99:TopSky plugin:0:1::TopSky plugin:1
+TAGITEM:2::0:1:0:0:CoFrance:0:1:::1
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
+TAGTYPE:15:2:0
+TAGITEM:6::0:0:0:0:CoFrance:0:1:::1
+TAGITEM:90::0:0:41:0::0:1:::1
+TAGITEM:2::1:1:33:0::0:1:::0
+TAGITEM:1:@:0:1:0:0::0:1:::1
+TAGITEM:22::0:0:33:0:TopSky plugin:0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:15::0:0:0:99:TopSky plugin:0:1::TopSky plugin:1
+TAGITEM:2::0:1:0:0:CoFrance:0:1:::1
+TAGITEM:78::0:0:0:0:TopSky plugin:0:1:::1
+TAGTYPE:16:7:1
+TAGITEM:7::0:0:0:0:CoFrance:0:1:::1
+TAGITEM:1::0:0:0:0:CoFrance:0:1:::1
+TAGITEM:90::0:1:41:0::0:1:::1
+TAGITEM:21::0:1:0:0::0:1:::1
+TAGITEM:42::0:1:0:0::0:1:::1
+TAGITEM:65::0:1:25:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:22::1:0:0:0:TopSky plugin:0:1:::0
+TAGITEM:58::0:0:32:0:TopSky plugin:0:1:::1
+TAGITEM:66::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:11::0:1:0:0:CoFrance:0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:15::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:2::0:1:0:0:CoFrance:0:1:::1
+TAGITEM:43::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:25::0:1:0:0::0:1:::1
+TAGITEM:47::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:33::0:0:0:0::0:1:::1
+TAGITEM:4::0:0:0:0:CoFrance:0:1:::1
+TAGITEM:3::0:1:0:0:CoFrance:0:1:::1
+TAGITEM:79::0:1:0:0:TopSky plugin:0:0:::8
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
+TAGTYPE:17:8:1
+TAGITEM:6::0:0:0:0:CoFrance:0:1:::1
+TAGITEM:1::0:0:0:0:CoFrance:0:1:::1
+TAGITEM:90::0:1:41:0::0:1:::1
+TAGITEM:42::0:1:62:0::0:1:TopSky plugin::1
+TAGITEM:8::0:1:29:0:CoFrance:0:1:::1
+TAGITEM:65::0:1:25:0::0:1:::1
+TAGITEM:69::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:22::1:0:100:9:TopSky plugin:0:1:TopSky plugin::0
+TAGITEM:58::0:0:32:0:TopSky plugin:0:1:::1
+TAGITEM:66::0:1:20:0:TopSky plugin:0:1:::1
+TAGITEM:120::0:1:59:0:TopSky plugin:0:1:TopSky plugin::1
+TAGITEM:9::0:1:500:0:CoFrance:0:1:CoFrance::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:15::0:0:99:16:TopSky plugin:0:1:TopSky plugin::1
+TAGITEM:2::0:1:0:0:CoFrance:0:1:::1
+TAGITEM:43::0:1:12:0:TopSky plugin:0:1:TopSky plugin::1
+TAGITEM:25::0:1:45:14::0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:47::0:1:15:15:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:5::0:0:44:0:CoFrance:0:1:TopSky plugin::1
+TAGITEM:44::0:1:45:45:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:79::0:1:1001:2:TopSky plugin:0:1:TopSky plugin::1
+TAGITEM:78::0:0:0:0:TopSky plugin:0:1:::1
+TAGTYPE:18:5:1
+TAGITEM:90::0:0:41:0::0:1:::1
+TAGITEM:21::0:1:0:0::0:1:::1
+TAGITEM:42::0:0:0:0::0:1:::1
+TAGITEM:65::0:1:25:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:22::1:0:0:0:TopSky plugin:0:1:::0
+TAGITEM:66::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:70::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:58::0:0:32:0:TopSky plugin:0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:15::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:3::0:0:0:0::0:1:::1
+TAGITEM:44::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:1:N:0:1:0:0::0:1:::1
+TAGITEM:40::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:149::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:79::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:32::0:0:0:0::0:1:::1
+TAGITEM:31::0:1:0:0::0:1:::1
+TAGITEM:33::0:0:0:0::0:1:::1
+TAGITEM:233::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:19::0:1:0:0::0:1:::1
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
+TAGTYPE:19:5:1
+TAGITEM:90::0:0:41:0::0:1:::1
+TAGITEM:21::0:1:0:0::0:1:::1
+TAGITEM:42::0:1:0:0::0:1:::1
+TAGITEM:65::0:1:25:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:22::1:0:100:0:TopSky plugin:0:1:TopSky plugin::0
+TAGITEM:66::0:1:20:6:TopSky plugin:0:1:::1
+TAGITEM:70::0:1:0:5:TopSky plugin:0:1:::1
+TAGITEM:58::0:0:32:0:TopSky plugin:0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:15::0:0:16:99:TopSky plugin:0:1::TopSky plugin:1
+TAGITEM:3::0:0:0:0::0:1:::1
+TAGITEM:44::0:1:45:0:TopSky plugin:0:1:TopSky plugin::1
+TAGITEM:1:N:0:1:0:0::0:1:::1
+TAGITEM:40::0:0:0:2:TopSky plugin:0:1:::1
+TAGITEM:149::0:1:0:3:TopSky plugin:0:1:::1
+TAGITEM:79::0:1:1001:4:TopSky plugin:0:1:TopSky plugin::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:43::0:0:12:0:TopSky plugin:0:1:TopSky plugin::1
+TAGITEM:29::0:1:44:36::0:1:TopSky plugin::1
+TAGITEM:47::0:1:15:15:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:56::0:1:16:0:TopSky plugin:0:1:TopSky plugin::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:54::0:0:14:0:TopSky plugin:0:1:TopSky plugin::1
+TAGITEM:66::0:1:29:0::0:1:::1
+TAGITEM:78::0:0:0:0:TopSky plugin:0:1:::1
+TAGTYPE:20:1:0
+TAGITEM:90::0:0:41:0::0:1:::1
+TAGITEM:9::1:1:0:0::0:1:::0
+TAGITEM:16::0:1:0:0::0:1:::1
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
+TAGTYPE:21:1:0
+TAGITEM:90::0:0:41:0::0:1:::1
+TAGITEM:9::1:1:0:0::0:1:::0
+TAGITEM:16::0:1:0:0::0:1:::1
+TAGITEM:78::0:0:0:0:TopSky plugin:0:1:::1
+TAGTYPE:22:1:0
+TAGITEM:90::0:0:41:0::0:1:::1
+TAGITEM:81::1:1:0:0::0:1:::0
+TAGITEM:16::0:1:0:0::0:1:::1
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
+TAGTYPE:23:1:0
+TAGITEM:90::0:0:41:0::0:1:::1
+TAGITEM:81::1:1:0:0::0:1:::0
+TAGITEM:16::0:1:0:0::0:1:::1
+TAGITEM:78::0:0:0:0:TopSky plugin:0:1:::1
+END

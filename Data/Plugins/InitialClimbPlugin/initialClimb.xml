@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<initialClimb>
+    <apt icao="VHHH">
+		<runway name="07R">
+			<sid name="PECAN">
+				<alt>050</alt>
+			</sid>
+			<sid name="BEKOL">
+				<alt>050</alt>
+			</sid>
+			<sid name="LAKES">
+				<alt>050</alt>
+			</sid>
+			<sid name="OCEAN">
+				<alt>050</alt>
+			</sid>
+			<sid name="RASSE">
+				<alt>050</alt>
+			</sid>
+			<sid name="SKATE">
+				<alt>050</alt>
+			</sid>
+			<sid name="VENGO">
+				<alt>050</alt>
+			</sid>
+			<sid name="ATENA">
+				<alt>050</alt>
+			</sid>
+			<sid name="RDVR">
+				<alt>050</alt>
+			</sid>
+		</runway>
+		<runway name="07C">
+			<sid name="PECAN">
+				<alt>050</alt>
+			</sid>
+			<sid name="BEKOL">
+				<alt>050</alt>
+			</sid>
+			<sid name="LAKES">
+				<alt>050</alt>
+			</sid>
+			<sid name="OCEAN">
+				<alt>050</alt>
+			</sid>
+			<sid name="RASSE">
+				<alt>050</alt>
+			</sid>
+			<sid name="SKATE">
+				<alt>050</alt>
+			</sid>
+			<sid name="VENGO">
+				<alt>050</alt>
+			</sid>
+			<sid name="ATENA">
+				<alt>050</alt>
+			</sid>
+			<sid name="RDVR">
+				<alt>050</alt>
+			</sid>
+		</runway>
+		<runway name="25L">
+			<sid name="PECAN">
+				<alt>050</alt>
+			</sid>
+			<sid name="BEKOL">
+				<alt>050</alt>
+			</sid>
+			<sid name="LAKES">
+				<alt>050</alt>
+			</sid>
+			<sid name="OCEAN">
+				<alt>050</alt>
+			</sid>
+			<sid name="RDVR">
+				<alt>050</alt>
+			</sid>
+		</runway>
+		<runway name="25C">
+			<sid name="PECAN">
+				<alt>050</alt>
+			</sid>
+			<sid name="BEKOL">
+				<alt>050</alt>
+			</sid>
+			<sid name="LAKES">
+				<alt>050</alt>
+			</sid>
+			<sid name="OCEAN">
+				<alt>050</alt>
+			</sid>
+			<sid name="RDVR">
+				<alt>050</alt>
+			</sid>
+		</runway>
+    </apt>
+	<apt icao="VMMC">
+		<runway name="34">
+			<sid name="SHL">
+				<alt>060</alt>
+			</sid>
+			<sid name="MIPAG">
+				<alt>060</alt>
+			</sid>
+			<sid name="NLG">
+				<alt>060</alt>
+			</sid>
+			<sid name="BIGRO">
+				<alt>060</alt>
+			</sid>
+			<sid name="SOUSA">
+				<alt>060</alt>
+			</sid>
+			<sid name="CONGA">
+				<alt>060</alt>
+			</sid>
+			<sid name="GRUPA">
+				<alt>060</alt>
+			</sid>
+			<sid name="ALLEY">
+				<alt>060</alt>
+			</sid>
+			<sid name="RDVR">
+				<alt>060</alt>
+			</sid>
+		</runway>
+		<runway name="16">
+			<sid name="SHL">
+				<alt>040</alt>
+			</sid>
+			<sid name="MIPAG">
+				<alt>040</alt>
+			</sid>
+			<sid name="NLG">
+				<alt>040</alt>
+			</sid>
+			<sid name="BIGRO">
+				<alt>040</alt>
+			</sid>
+			<sid name="SOUSA">
+				<alt>040</alt>
+			</sid>
+			<sid name="CONGA">
+				<alt>040</alt>
+			</sid>
+			<sid name="GRUPA">
+				<alt>040</alt>
+			</sid>
+			<sid name="ALLEY">
+				<alt>040</alt>
+			</sid>
+			<sid name="RDVR">
+				<alt>040</alt>
+			</sid>
+		</runway>
+		</runway>
+    </apt>
+	<apt icao="VHHX">
+		<runway name="13">
+			<sid name="BEKOL">
+				<alt>070</alt>
+			</sid>
+			<sid name="DOTMI">
+				<alt>070</alt>
+			</sid>
+			<sid name="ELATO">
+				<alt>070</alt>
+			</sid>
+			<sid name="ENVAR">
+				<alt>070</alt>
+			</sid>
+			<sid name="SABNO">
+				<alt>070</alt>
+			</sid>
+			<sid name="SIKOU">
+				<alt>070</alt>
+			</sid>
+			<sid name="IDOSI">
+				<alt>070</alt>
+			</sid>
+			<sid name="EPDOS">
+				<alt>070</alt>
+			</sid>
+			<sid name="RDVR">
+				<alt>070</alt>
+			</sid>
+		</runway>
+		<runway name="31">
+			<sid name="BEKOL">
+				<alt>070</alt>
+			</sid>
+			<sid name="DOTMI">
+				<alt>070</alt>
+			</sid>
+			<sid name="ELATO">
+				<alt>070</alt>
+			</sid>
+			<sid name="ENVAR">
+				<alt>070</alt>
+			</sid>
+			<sid name="SABNO">
+				<alt>070</alt>
+			</sid>
+			<sid name="SIKOU">
+				<alt>070</alt>
+			</sid>
+			<sid name="IDOSI">
+				<alt>070</alt>
+			</sid>
+			<sid name="EPDOS">
+				<alt>070</alt>
+			</sid>
+			<sid name="RDVR">
+				<alt>070</alt>
+			</sid>
+		</runway>
+    </apt>
+</initialClimb>

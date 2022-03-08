@@ -1,0 +1,370 @@
+;*** VHHK ***
+;(c) VATSIM Hong Kong VACC
+;QNH SETTINGS:
+.hkg Hong Kong QNH is $altim(VHHH)
+.kt Kai Tak QNH is $altim(VHHH)
+.mac Macau QNH is $altim(VMMC)
+.qnh QNH $altim($arr)
+.metar $metar($1)
+;HANDOFF:
+.ho Contact $radioname($1) on $freq($1), good day.
+.req Contact $radioname($1) on $freq($1) with your requests, good day
+.ctr Contact Hong Kong Radar on 121.30, good day.
+.tme Contact Hong Kong Radar on 126.50, good day.
+.dep Contact Hong Kong Departure on 123.80, good day.
+.app Contact Hong Kong Approach on 119.10, good day.
+.fad Contact Hong Kong Director on 119.50, callsign only, good day.
+.twr Contact Hong Kong Tower on 118.40, good day.
+.twrn Contact Hong Kong Tower on 118.20, good day.
+.gnd Contact Hong Kong Ground on 122.55, good day.
+.pek Contact Beijing Control on 133.075, good day.
+;Predeparture Clearance PDC: 
+.pdc $time $dep PDC $aircraft CLRD TO $dep OFF $deprwy VIA $sid SQUAWK $asquawk NEXT FREQ $com ATIS $atiscode. CLIMB VIA SID TO $temp. ACK PDC. CTC $uc($radioname) ON $com WHEN READY TO START
+.nopdc $aircraft PDC REJECTED � FLIGHT PLAN INVALID � REVERT TO VOICE PROCEDURES.
+;Dep Clearence:
+;HONGKONG Chek Lap Kok SID
+.depc Cleared to destination $arr, flight plan route, $sid departure, Runway $deprwy, Climb Via SID $temp, squawk $asquawk
+;RADAR VECTORS
+.rdrdep Cleared to destination $arr, flight plan route, radar vectors dep, initial climb 5000 ft, squawk $asquawk
+;ATENA
+.atena2a Cleared to destination $arr, flight plan route, ATENA2A dep, RWY07R, climb via SID 5000ft, squawk $asquawk
+.atena3c Cleared to destination $arr, flight plan route, ATENA3C dep, RWY07C, climb via SID 5000ft, squawk $asquawk
+.atena1x Cleared to destination $arr, flight plan route, ATENA1X dep, RWY07R, climb via SID 5000ft, squawk $asquawk
+.atena1y Cleared to destination $arr, flight plan route, ATENA1Y dep, RWY07C, climb via SID 5000ft, squawk $asquawk
+;BEKOL
+.bekol3a Cleared to destination $arr, flight plan route, BEKOL3A dep, RWY07R, climb via SID 5000ft, squawk $asquawk
+.bekol2b Cleared to destination $arr, flight plan route, BEKOL2B dep, RWY25L, climb via SID 5000ft, squawk $asquawk
+.bekol4c Cleared to destination $arr, flight plan route, BEKOL4C dep, RWY07C, climb via SID 5000ft, squawk $asquawk
+.bekol3d Cleared to destination $arr, flight plan route, BEKOL3D dep, RWY25C, climb via SID 5000ft, squawk $asquawk
+;LAKES
+.lakes3a Cleared to destination $arr, flight plan route,  LAKES3A dep, RWY07R, climb via SID 5000ft, squawk $asquawk
+.lakes2b Cleared to destination $arr, flight plan route,  LAKES2B dep, RWY25L, climb via SID 5000ft, squawk $asquawk
+.lakes4c Cleared to destination $arr, flight plan route,  LAKES4C dep, RWY07C, climb via SID 5000ft, squawk $asquawk
+.lakes3d Cleared to destination $arr, flight plan route,  LAKES3D dep, RWY25C, climb via SID 5000ft, squawk $asquawk
+;OCEAN
+.ocean2a Cleared to destination $arr, flight plan route, OCEAN2A dep, RWY07R, climb via SID 5000ft, squawk $asquawk
+.ocean2b Cleared to destination $arr, flight plan route, OCEAN2B dep, RWY25L, climb via SID 5000ft, squawk $asquawk
+.ocean3c Cleared to destination $arr, flight plan route, OCEAN3C dep, RWY07C, climb via SID 5000ft, squawk $asquawk
+.ocean3d Cleared to destination $arr, flight plan route, OCEAN3D dep, RWY25C, climb via SID 5000ft, squawk $asquawk
+;VENGO
+.VENGO1a Cleared to destination $arr, flight plan route, VENGO1A dep, RWY07R, climb via SID 5000ft, squawk $asquawk
+.VENGO2c Cleared to destination $arr, flight plan route, VENGO2C dep, RWY07C, climb via SID 5000ft, squawk $asquawk
+.VENGO1x Cleared to destination $arr, flight plan route, VENGO1Y dep, RWY07R, climb via SID 5000ft, squawk $asquawk
+.VENGO1y Cleared to destination $arr, flight plan route, VENGO1Y dep, RWY07C, climb via SID 5000ft, squawk $asquawk
+;RASSE
+.rasse1x Cleared to destination $arr, flight plan route, RASSE1X dep, RWY07R, climb via SID 5000ft, squawk $asquawk
+.rasse1y Cleared to destination $arr, flight plan route, RASSE1Y dep, RWY07C, climb via SID 5000ft, squawk $asquawk
+.rasse3a Cleared to destination $arr, flight plan route, RASSE3A dep, RWY07R, climb via SID 5000ft, squawk $asquawk
+.rasse4c Cleared to destination $arr, flight plan route, RASSE3C dep, RWY07C, climb via SID 5000ft, squawk $asquawk
+;SKATE
+.skate1e Cleared to destination $arr, flight plan route, SKATE1X dep, RWY07R, climb via SID 5000ft, squawk $asquawk
+.skate1f Cleared to destination $arr, flight plan route, SKATE1Y dep, RWY07C, climb via SID 5000ft, squawk $asquawk
+.skate3a Cleared to destination $arr, flight plan route, SKATE3A dep, RWY07R, climb via SID 5000ft, squawk $asquawk
+.skate4c Cleared to destination $arr, flight plan route, SKATE4C dep, RWY07C, climb via SID 5000ft, squawk $asquawk
+;PECAN
+.pecan1a Cleared to destination $arr, flight plan route, PECAN1A dep, RWY07R, climb via SID 5000ft, squawk $asquawk
+.pecan2c Cleared to destination $arr, flight plan route, PECAN2C dep, RWY07C, climb via SID 5000ft, squawk $asquawk
+.pecan1b Cleared to destination $arr, flight plan route, PECAN1B dep, RWY25L, climb via SID 5000ft, squawk $asquawk
+.pecan2d Cleared to destination $arr, flight plan route, PECAN2D dep, RWY25C, climb via SID 5000ft, squawk $asquawk
+.pecan1x Cleared to destination $arr, flight plan route, PECAN1X dep, RWY07R, climb via SID 5000ft, squawk $asquawk
+.pecan1y Cleared to destination $arr, flight plan route, PECAN1Y dep, RWY07C, climb via SID 5000ft, squawk $asquawk
+;Hong Kong Kai Tak
+;BEKOL
+.bekol1akt Cleared to $arr, BEKOL1A dep on RWY13 Kai Tak, climb via SID 7000ft, squawk $squawk
+.bekol2ckt Cleared to $arr, BEKOL2C dep on RWY31 Kai Tak, climb via SID 7000ft, squawk $squawk
+;DOTMI
+.dotmi1akt Cleared to $arr, DOTMI1A dep on RWY13 Kai Tak, climb via SID 7000ft, squawk $squawk
+.dotmi2ckt Cleared to $arr, DOTMI2C dep on RWY31 Kai Tak, climb via SID 7000ft, squawk $squawk
+;ELATO
+.elato1akt Cleared to $arr, ELATO1A dep on RWY13 Kai Tak, climb via SID 7000ft, squawk $squawk
+.elato2ckt Cleared to $arr, ELATO2C dep on RWY31 Kai Tak, climb via SID 7000ft, squawk $squawk
+;ENVAR
+.envar1akt Cleared to $arr, ENVAR1A dep on RWY13 Kai Tak, climb via SID 7000ft, squawk $squawk
+.envar2ckt Cleared to $arr, ENVAR2C dep on RWY31 Kai Tak, climb via SID 7000ft, squawk $squawk
+;NOMAN
+.noman1akt Cleared to $arr, NOMAN1A dep on RWY13 Kai Tak, climb via SID 7000ft, squawk $squawk
+.noman2ckt Cleared to $arr, NOMAN2C dep on RWY31 Kai Tak, climb via SID 7000ft, squawk $squawk
+;SABNO
+.sabno1akt Cleared to $arr, SABNO1A dep on RWY13 Kai Tak, climb via SID 7000ft, squawk $squawk
+.sabno2ckt Cleared to $arr, SABNO2C dep on RWY31 Kai Tak, climb via SID 7000ft, squawk $squawk
+;DUMOL
+.dumol1akt Cleared to $arr, DUMOL1A dep on RWY13 Kai Tak, climb via SID 7000ft, squawk $squawk
+.dumol2ckt Cleared to $arr, DUMOL2C dep on RWY31 Kai Tak, climb via SID 7000ft, squawk $squawk
+;IDOSI
+.idosi1akt Cleared to $arr, IDOSI1A dep on RWY13 Kai Tak, climb via SID 7000ft, squawk $squawk
+.idosi2ckt Cleared to $arr, IDOSI2C dep on RWY31 Kai Tak, climb via SID 7000ft, squawk $squawk
+;DAGON
+.dagon1akt Cleared to $arr, DAGON1A dep on RWY13 Kai Tak, climb via SID 7000ft, squawk $squawk
+.dagon2ckt Cleared to $arr, DAGON2C dep on RWY31 Kai Tak, climb via SID 7000ft, squawk $squawk
+;SIKOU
+.SIKOU1akt Cleared to $arr, SIKOU1A dep on RWY13 Kai Tak, climb via SID 7000ft, squawk $squawk
+.SIKOU2ckt Cleared to $arr, SIKOU2C dep on RWY31 Kai Tak, climb via SID 7000ft, squawk $squawk
+;MACAU SID
+;ALLEY
+.alley2t Cleared to destination $arr, flight plan route, ALLEY2T dep, squawk $squawk
+.alley2u Cleared to destination $arr, flight plan route, ALLEY2U dep, squawk $squawk
+.alley1v Cleared to destination $arr, flight plan route, ALLEY1V dep, squawk $squawk
+.alley1w Cleared to destination $arr, flight plan route, ALLEY1W dep, squawk $squawk
+.alley2p Cleared to destination $arr, flight plan route, ALLEY2P dep, squawk $squawk
+;BIGRO
+.bigro5d Cleared to destination $arr, flight plan route, BIGRO5D dep, squawk $squawk
+.bigro6d Cleared to destination $arr, flight plan route, BIGRO6D dep, squawk $squawk
+.bigro7d Cleared to destination $arr, flight plan route, BIGRO7D dep, squawk $squawk
+.bigro9d Cleared to destination $arr, flight plan route, BIGRO9D dep, squawk $squawk
+.bigro1d Cleared to destination $arr, flight plan route, BIGRO1D dep, squawk $squawk
+.bigro2d Cleared to destination $arr, flight plan route, BIGRO2D dep, squawk $squawk
+;CONGA
+.conga2t Cleared to destination $arr, flight plan route, CONGA2T dep, squawk $squawk
+.conga2u Cleared to destination $arr, flight plan route, CONGA2U dep, squawk $squawk
+.conga1v Cleared to destination $arr, flight plan route, CONGA1V dep, squawk $squawk
+.conga1w Cleared to destination $arr, flight plan route, CONGA1W dep, squawk $squawk
+.conga2p Cleared to destination $arr, flight plan route, CONGA2P dep, squawk $squawk
+;GRUPA
+.grupa2t Cleared to destination $arr, flight plan route, GRUPA2T dep, squawk $squawk
+.grupa2u Cleared to destination $arr, flight plan route, GRUPA2U dep, squawk $squawk
+.grupa1v Cleared to destination $arr, flight plan route, GRUPA1V dep, squawk $squawk
+.grupa1w Cleared to destination $arr, flight plan route, GRUPA1W dep, squawk $squawk
+.grupa2p Cleared to destination $arr, flight plan route, GRUPA2P dep, squawk $squawk
+;NLG
+.nlg5d Cleared to destination $arr, flight plan route, NLG5D dep, squawk $squawk
+.nlg6d Cleared to destination $arr, flight plan route, NLG6D dep, squawk $squawk
+.nlg7d Cleared to destination $arr, flight plan route, NLG7D dep, squawk $squawk
+.nlg9d Cleared to destination $arr, flight plan route, NLG9D dep, squawk $squawk
+.nlg1d Cleared to destination $arr, flight plan route, NLG1D dep, squawk $squawk
+.nlg2d Cleared to destination $arr, flight plan route, NLG2D dep, squawk $squawk
+;SHL
+.shl5d Cleared to destination $arr, flight plan route, SHL5D dep, squawk $squawk
+.shl6d Cleared to destination $arr, flight plan route, SHL6D dep, squawk $squawk
+.shl7d Cleared to destination $arr, flight plan route, SHL7D dep, squawk $squawk
+.shl9d Cleared to destination $arr, flight plan route, SHL9D dep, squawk $squawk
+.shl1d Cleared to destination $arr, flight plan route, SHL1D dep, squawk $squawk
+.shl2d Cleared to destination $arr, flight plan route, SHL2D dep, squawk $squawk
+;MIPAG
+.mipag5d Cleared to destination $arr, flight plan route, MIPAG5D dep, squawk $squawk
+.mipag6d Cleared to destination $arr, flight plan route, MIPAG6D dep, squawk $squawk
+.mipag7d Cleared to destination $arr, flight plan route, MIPAG7D dep, squawk $squawk
+.mipag9d Cleared to destination $arr, flight plan route, MIPAG9D dep, squawk $squawk
+.mipag1d Cleared to destination $arr, flight plan route, MIPAG1D dep, squawk $squawk
+.mipag2d Cleared to destination $arr, flight plan route, MIPAG2D dep, squawk $squawk
+;SOUSA
+.sousa2t Cleared to destination $arr, flight plan route, SOUSA2T dep, squawk $squawk
+.sousa2u Cleared to destination $arr, flight plan route, SOUSA2U dep, squawk $squawk
+.sousa1v Cleared to destination $arr, flight plan route, SOUSA1V dep, squawk $squawk
+.sousa1w Cleared to destination $arr, flight plan route, SOUSA1W dep, squawk $squawk
+.sousa2p Cleared to destination $arr, flight plan route, SOUSA2P dep, squawk $squawk
+.rb Readback correct. Report ready for push and start.
+.correct Readback correct
+.report Report when ready
+.sq Squawk $squawk
+.atis Information $atiscode current
+;GROUND
+.ps Pushback and engine startup approved, facing $1. Report ready for taxi
+.psred Pushback and engine startup approved, push back colour RED. Report ready for taxi
+.psblue Pushback and engine startup approved, push back colour BLUE. Report ready for taxi
+.psgreen Pushback and engine startup approved, push back colour GREEN. Report ready for taxi
+.start Start engines only. standby for push
+.j1 Taxi via TWYs $1 to holding point J1 rwy 07R
+.k1 Taxi via TWYs $1 to holding point K1 rwy 07R
+.j2 Taxi via TWYs $1 to holding point J2 rwy 07R
+.a1 Taxi via TWYs $1 to holding point A1 rwy 07C
+.a2 Taxi via TWYs $1 to holding point A2 rwy 07C
+.j11 Taxi via TWYs $1 to holding point J11 rwy 25L
+.k7 Taxi via TWYs $1 to holding point K7 rwy 25L
+.j10 Taxi via TWYs $1 to holding point J10 rwy 25L
+.a10 Taxi via TWYs $1 to holding point A12 rwy 25C
+.a11 Taxi via TWYs $1 to holding point A12 rwy 25C
+.taxi13 Taxi via TWYs $1 to holding point rwy 13 
+.taxi31 Taxi via TWYs $1 to holding point rwy 31 
+.taxi16 Taxi via TWYs $1 to holding point rwy 16 
+.taxi34 Taxi via TWYs $1 to holding point rwy 34 
+.taxist Taxi via TWYs $1 to stand $2
+.sqb Squawk mode standby
+.own Taxi to the gate of your choice
+.stno say stand number
+.gate Taxi to Stand $1 via TWY $2
+.eng Report engines shutdown
+.hs holdshort $1
+;TOWER
+;TAKeOFF VHHH
+.cft surface wind $wind($dep) knots, RWY $deprwy, cleared for takeoff. 
+.cft07C surface wind $wind(VHHH) knots, RWY 07C, cleared for takeoff. 
+.cft07r surface wind $wind(VHHH) knots, RWY 07R, cleared for takeoff. 
+.cft25l surface wind $wind(VHHH) knots, RWY 25L, cleared for takeoff. 
+.cft25C surface wind $wind(VHHH) knots, RWY 25C, cleared for takeoff. 
+;LAND VHHH
+.ctl surface wind $wind($arr), RWY $arrrwy, cleared to land. 
+.ctl07C surface wind $wind(VHHH), RWY 07C, cleared to land. 
+.ctl07r surface wind $wind(VHHH), RWY 07R, cleared to land. 
+.ctl25l surface wind $wind(VHHH), RWY 25L, cleared to land. 
+.ctl25C surface wind $wind(VHHH), RWY 25C, cleared to land. 
+;OTHERS
+.cft13 surface wind $wind(VHHH), RWY 13 Kai Tak, cleared for takeoff. 
+.cft31 surface wind $wind(VHHH), RWY 31 Kai Tak, cleared for takeoff. 
+.ctl13 surface wind $wind(VHHH), RWY 13 Kai Tak, cleared to land. 
+.ctl31 surface wind $wind(VHHH), RWY 31 Kai Tak, cleared to land. 
+.cft16 surface wind $wind(VMMC), RWY 16, cleared for takeoff.
+.cft34 surface wind $wind(VMMC), RWY 34 Macau, cleared for takeoff. 
+.ctl16 surface wind $wind(VMMC), RWY 16 Macau, cleared to land. 
+.ctl34 surface wind $wind(VMMC), RWY 34 Macau, cleared to land. 
+.cftg RWY $1, cleared for touch and go. surface wind $wind($arr)
+.cfla RWY $1, cleared for low approach. surface wind $wind($arr)
+.line Line up and wait RWY $deprwy
+.hold hold position
+.imm able immediate take off?
+.cftimm RWY $1, cleared for an immediate takeoff. surface wind $wind($dep)
+.sqc Squawk mode C (squawk normal)
+;DEPARTURE
+.ri Radar identified.
+.ric Radar identified, climb via SID $alt 
+.say say passing altitude.
+.richi Identified, climb to $1 feet, high speed approved
+.proceed Proceed $1 departure
+.cl Climb $alt.
+.uc Climb unrestricted $alt.
+.csid Climb Via SID $alt .
+.cm Climb $1 metres ($alt)
+.mn Maintain $1
+.ap You are $dist($arr) miles from the airport.
+.cruise Climb to $cruise. cruising altitude
+.nospd Cancel all speed restrictions
+;APPROACH
+.star Cleared $star arrival. 
+.des Descend $alt.
+.daq Descend altitude $alt, QNH $altim($arr).
+.dstar Descend Via STAR $alt.
+.rwy Expect ILS approach RWY $arrrwy.
+.tr Turn Right heading $1 degrees.
+.tl Turn Left heading $1 degrees.
+.fh Fly heading $1.
+.va Cleared for the visual app rwy $1
+.ev Expect vectoring for arrival
+.spd Speed $1 knots.
+.rspd Reduce Speed $1 knots.
+.ispd Increase Speed $1 knots.
+.pd On pilot's own Discretion,
+.rais $arr airport is at your $oclock($arr), $dist($arr) nm, report it insight.
+;ILS Clearence
+.ils Cleared ILS RWY $arrrwy approach, report established.
+.ils07C After LIMES, descend altitude 2000ft, From LIMES via TONIC, cleared ILS RWY 07C approach.
+.ils07r After LIMES, descend altitude 2000ft, From LIMES via STELA, cleared ILS RWY 07R approach.
+.ils25l From TD, descend altitude 4500ft, cleared ILS RWY 25L approach. 
+.ils25C From TD, descend altitude 4500ft, cleared ILS RWY 25C approach. 
+.rptest Report established
+;KaiTak
+.igs13 From CH, descend altitude 4500ft, cleared IGS RWY13 approach, report established.
+.OM Report Outer Marker
+.GL Report Green Island insight
+.cb Report checkboard insight
+;Macau
+.hazel From HAZEL, descend altitude 3000ft, QNH $altim(VMMC), cleared ILS Z approach runway 34. Report established
+.ils34 Cleared ILS RWY34 approach. Report established
+.llz16 Cleared LOC/DME RWY16 approach. Report established.
+;VFR
+.left Left closed traffic, maintain VFR not above $1 ft, squawk $squawk, report downwind
+.right Right closed traffic, maintain VFR not above $1 ft, squawk $squawk, report downwind
+;CENTER
+.unicom No further ATC avaliable, monitor unicom 122.80, good day.
+.out You are outside of my airspace, monitor unicom 122.80, resume on own navigation. Good day.
+.idt Radar Identified.
+.clrstar cleared $1 arrival. expect Rwy $2 for arrival in $arr
+.expstar expect $1 arrival. expect Rwy $2 for arrival in $arr
+.intds1 when ready, descend to reach $1 by $2.
+.intds2 when ready, descend to reach $1 by $2. Report leaving $3 .
+.dct Track direct $1
+.thx Thank you for flying in hong kong. Hope to see you again. Good bye
+.dmusel When ready, descend FL130 by MUSEL
+.dmango When ready, descend FL130 by MANGO
+.dcanto When ready, descend FL130 by CANTO
+.dmurry When ready, descend FL150 by MURRY
+.wrdes When ready, descned $alt by $1
+;General
+.info Hong Kong VACC information "http://vatsim.hk/"
+.pdcinfo Information about Pre-departure Clearance at Hong Kong FIR "http://hkvacc.org/?page_id=714"
+.psinfo Hong Kong FIR uses the colour coded pushback procedures: "https://vatsim.hk/pushback"
+.alcohol Did you consume any alcholic beverages in the past 12 hours?
+;GATE ALLOCATIONS
+.PAXS ACARS MSG to CREW of $aircraft: PAX arrival information, expect STAND $uc($1), BAGGAGE CLAIM No. $uc($2) END of MSG /Reply to confirm the Message
+.PAXG ACARS MSG to CREW of $aircraft: PAX arrival information, expect GATE $uc($1), BAGGAGE CLAIM No. $uc($2) END of MSG /Reply to confirm the Message
+.CARGO ACARS MSG to CREW of $aircraft: Cargo arrival information, expect STAND $uc($1) END of MSG /Reply to confirm the Message
+;EASTER EGG
+.bream2baosh Cleared to $arr, BREAM2 dep on RWY07R, BAOSH trans, climb 5000 ft initially, squawk $squawk
+.bream2bekol Cleared to $arr, BREAM2 dep on RWY07R, BEKOL trans, climb 5000 ft initially, squawk $squawk
+.bream2dagon Cleared to $arr, BREAM2 dep on RWY07R, DAGON trans, climb 5000 ft initially, squawk $squawk
+.bream2idosi Cleared to $arr, BREAM2 dep on RWY07R, IDOSI trans, climb 5000 ft initially, squawk $squawk
+.bream2sikou Cleared to $arr, BREAM2 dep on RWY07R, SIKOU trans, climb 5000 ft initially, squawk $squawk
+.td1akero Cleared to $arr, TD1 dep on RWY07R, AKERO trans, climb 5000 ft initially, squawk $squawk
+.td1dotmi Cleared to $arr, TD1 dep on RWY07R, DOTMI trans, climb 5000 ft initially, squawk $squawk
+.td1dovar Cleared to $arr, TD1 dep on RWY07R, DOVAR trans, climb 5000 ft initially, squawk $squawk
+.td1elato Cleared to $arr, TD1 dep on RWY07R, ELATO trans, climb 5000 ft initially, squawk $squawk
+.td1envar Cleared to $arr, TD1 dep on RWY07R, ENVAR trans, climb 5000 ft initially, squawk $squawk
+.tunna2akero Cleared to $arr, TUNNA2 dep on RWY25L, AKERO trans, climb 5000 ft initially, squawk $squawk
+.tunna2baosh Cleared to $arr, TUNNA2 dep on RWY25L, BAOSH trans, climb 5000 ft initially, squawk $squawk
+.tunna2bekol Cleared to $arr, TUNNA2 dep on RWY25L, BEKOL trans, climb 5000 ft initially, squawk $squawk
+.tunna2dagon Cleared to $arr, TUNNA2 dep on RWY25L, DAGON trans, climb 5000 ft initially, squawk $squawk
+.tunna2dotmi Cleared to $arr, TUNNA2 dep on RWY25L, DOTMI trans, climb 5000 ft initially, squawk $squawk
+.tunna2dovar Cleared to $arr, TUNNA2 dep on RWY25L, DOVAR trans, climb 5000 ft initially, squawk $squawk
+.tunna2elato Cleared to $arr, TUNNA2 dep on RWY25L, ELATO trans, climb 5000 ft initially, squawk $squawk
+.tunna2envar Cleared to $arr, TUNNA2 dep on RWY25L, ENVAR trans, climb 5000 ft initially, squawk $squawk
+.tunna2idosi Cleared to $arr, TUNNA2 dep on RWY25L, IDOSI trans, climb 5000 ft initially, squawk $squawk
+.tunna2sikou Cleared to $arr, TUNNA2 dep on RWY25L, SIKOU trans, climb 5000 ft initially, squawk $squawk
+.bream3baosh Cleared to $arr, BREAM3 dep on RWY07R, BAOSH trans, climb 5000 ft initially, squawk $squawk
+.bream3bekol Cleared to $arr, BREAM3 dep on RWY07R, BEKOL trans, climb 5000 ft initially, squawk $squawk
+.bream3dagon Cleared to $arr, BREAM3 dep on RWY07R, DAGON trans, climb 5000 ft initially, squawk $squawk
+.bream3idosi Cleared to $arr, BREAM3 dep on RWY07R, IDOSI trans, climb 5000 ft initially, squawk $squawk
+.bream3sikou Cleared to $arr, BREAM3 dep on RWY07R, SIKOU trans, climb 5000 ft initially, squawk $squawk
+.roach3baosh Cleared to $arr, ROACH3 dep on RWY07R, BAOSH trans, climb 5000 ft initially, squawk $squawk
+.roach3bekol Cleared to $arr, ROACH3 dep on RWY07R, BEKOL trans, climb 5000 ft initially, squawk $squawk
+.roach3dagon Cleared to $arr, ROACH3 dep on RWY07R, DAGON trans, climb 5000 ft initially, squawk $squawk
+.roach3idosi Cleared to $arr, ROACH3 dep on RWY07R, IDOSI trans, climb 5000 ft initially, squawk $squawk
+.roach3sikou Cleared to $arr, ROACH3 dep on RWY07R, SIKOU trans, climb 5000 ft initially, squawk $squawk
+.td2akero Cleared to $arr, TD2 dep on RWY07R, AKERO trans, climb 5000 ft initially, squawk $squawk
+.td2dotmi Cleared to $arr, TD2 dep on RWY07R, DOTMI trans, climb 5000 ft initially, squawk $squawk
+.td2dovar Cleared to $arr, TD2 dep on RWY07R, DOVAR trans, climb 5000 ft initially, squawk $squawk
+.td2elato Cleared to $arr, TD2 dep on RWY07R, ELATO trans, climb 5000 ft initially, squawk $squawk
+.td2envar Cleared to $arr, TD2 dep on RWY07R, ENVAR trans, climb 5000 ft initially, squawk $squawk
+.brothers2akero Cleared to $arr, BROTHERS2 dep on RWY07R, AKERO trans, climb 5000 ft initially, squawk $squawk
+.brothers2dotmi Cleared to $arr, BROTHERS2 dep on RWY07R, DOTMI trans, climb 5000 ft initially, squawk $squawk
+.brothers2dovar Cleared to $arr, BROTHERS2 dep on RWY07R, DOVAR trans, climb 5000 ft initially, squawk $squawk
+.brothers2elato Cleared to $arr, BROTHERS2 dep on RWY07R, ELATO trans, climb 5000 ft initially, squawk $squawk
+.brothers2envar Cleared to $arr, BROTHERS2 dep on RWY07R, ENVAR trans, climb 5000 ft initially, squawk $squawk
+.tunna3akero Cleared to $arr, TUNNA3 dep on RWY25L, AKERO trans, climb 5000 ft initially, squawk $squawk
+.tunna3baosh Cleared to $arr, TUNNA3 dep on RWY25L, BAOSH trans, climb 5000 ft initially, squawk $squawk
+.tunna3bekol Cleared to $arr, TUNNA3 dep on RWY25L, BEKOL trans, climb 5000 ft initially, squawk $squawk
+.tunna3dagon Cleared to $arr, TUNNA3 dep on RWY25L, DAGON trans, climb 5000 ft initially, squawk $squawk
+.tunna3dotmi Cleared to $arr, TUNNA3 dep on RWY25L, DOTMI trans, climb 5000 ft initially, squawk $squawk
+.tunna3dovar Cleared to $arr, TUNNA3 dep on RWY25L, DOVAR trans, climb 5000 ft initially, squawk $squawk
+.tunna3elato Cleared to $arr, TUNNA3 dep on RWY25L, ELATO trans, climb 5000 ft initially, squawk $squawk
+.tunna3envar Cleared to $arr, TUNNA3 dep on RWY25L, ENVAR trans, climb 5000 ft initially, squawk $squawk
+.tunna3idosi Cleared to $arr, TUNNA3 dep on RWY25L, IDOSI trans, climb 5000 ft initially, squawk $squawk
+.tunna3sikou Cleared to $arr, TUNNA3 dep on RWY25L, SIKOU trans, climb 5000 ft initially, squawk $squawk
+.attol1a Cleared to $arr, ATTOL1A dep on RWY07R, climb 5000 ft initially, squawk $squawk
+.attol1b Cleared to $arr, ATTOL1B dep on RWY25L, climb 5000 ft initially, squawk $squawk
+.attol1c Cleared to $arr, ATTOL1C dep on RWY07C, climb 5000 ft initially, squawk $squawk
+.attol1d Cleared to $arr, ATTOL1D dep on RWY25C, climb 5000 ft initially, squawk $squawk
+.bekol1a Cleared to $arr, BEKOL1A dep on RWY07R, climb 5000 ft initially, squawk $squawk
+.bekol1b Cleared to $arr, BEKOL1B dep on RWY25L, climb 5000 ft initially, squawk $squawk
+.bekol1c Cleared to $arr, BEKOL1C dep on RWY07C, climb 5000 ft initially, squawk $squawk
+.bekol1d Cleared to $arr, BEKOL1D dep on RWY25C, climb 5000 ft initially, squawk $squawk
+.bekol1e Cleared to $arr, BEKOL1E dep on RWY07R, climb 5000 ft initially, squawk $squawk
+.bekol1f Cleared to $arr, BEKOL1F dep on RWY07C, climb 5000 ft initially, squawk $squawk
+.bekol2a Cleared to $arr, BEKOL2A dep on RWY07R, climb 5000 ft initially, squawk $squawk
+.bekol2c Cleared to $arr, BEKOL2C dep on RWY07C, climb 5000 ft initially, squawk $squawk
+.lakes1a Cleared to $arr, LAKES1A dep on RWY07R, climb 5000 ft initially, squawk $squawk
+.lakes1b Cleared to $arr, LAKES1B dep on RWY25L, climb 5000 ft initially, squawk $squawk
+.lakes1c Cleared to $arr, LAKES1C dep on RWY07C, climb 5000 ft initially, squawk $squawk
+.lakes1d Cleared to $arr, LAKES1D dep on RWY25C, climb 5000 ft initially, squawk $squawk
+.lakes1e Cleared to $arr, LAKES1E dep on RWY07R, climb 5000 ft initially, squawk $squawk
+.lakes1f Cleared to $arr, LAKES1F dep on RWY07C, climb 5000 ft initially, squawk $squawk
+.ocean1a Cleared to $arr, OCEAN1A dep on RWY07R, climb 5000 ft initially, squawk $squawk
+.ocean1b Cleared to $arr, OCEAN1B dep on RWY25L, climb 5000 ft initially, squawk $squawk
+.ocean1c Cleared to $arr, OCEAN1C dep on RWY07C, climb 5000 ft initially, squawk $squawk
+.ocean1d Cleared to $arr, OCEAN1D dep on RWY25C, climb 5000 ft initially, squawk $squawk
+.ocean1e Cleared to $arr, OCEAN1E dep on RWY07R, climb 5000 ft initially, squawk $squawk
+.ocean1f Cleared to $arr, OCEAN1F dep on RWY07C, climb 5000 ft initially, squawk $squawk
+.sandi1a Cleared to $arr, SANDI1A dep on RWY07R, climb 5000 ft initially, squawk $squawk
+.sandi1b Cleared to $arr, SANDI1B dep on RWY25L, climb 5000 ft initially, squawk $squawk
+.sandi1c Cleared to $arr, SANDI1C dep on RWY07C, climb 5000 ft initially, squawk $squawk
+.sandi1d Cleared to $arr, SANDI1D dep on RWY25C, climb 5000 ft initially, squawk $squawk
+.rapot2a Cleared to $arr, RAPOT2A dep on RWY07R, climb 5000 ft initally, squawk $squawk
+.rapot2c Cleared to $arr, RAPOT2C dep on RWY07C, climb 5000 ft initally, squawk $squawk
+

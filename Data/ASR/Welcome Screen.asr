@@ -1,0 +1,19 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Asus\Documents\EuroScope\HK dev build\Data\Sector\Hong-Kong-Sector-File.sct
+SECTORTITLE:Hong-Kong-Sector-File.sct
+SHOWC:1
+SHOWSB:0
+BELOW:100
+ABOVE:200
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:1
+DISABLEZOOMING:1
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:23.623550:109.126201:27.232719:116.229074

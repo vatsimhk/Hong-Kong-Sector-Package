@@ -1,0 +1,126 @@
+RECORD:0:0.wav
+RECORD:1:1.wav
+RECORD:10:10.wav
+RECORD:13L:13L.wav
+RECORD:13R:13R.wav
+RECORD:2:2.wav
+RECORD:3:3.wav
+RECORD:31L:31L.wav
+RECORD:31R:31R.wav
+RECORD:4:4.wav
+RECORD:5:5.wav
+RECORD:6:6.wav
+RECORD:7:7.wav
+RECORD:8:8.wav
+RECORD:9:9.wav
+RECORD:A:A.wav
+RECORD:and:and.wav
+RECORD:B:B.wav
+RECORD:becoming:becoming.wav
+RECORD:between:between.wav
+RECORD:breaking actions:breaking.wav
+RECORD:breaking actions moderate:breakingmod.wav
+RECORD:broken:broken.wav
+RECORD:C:C.wav
+RECORD:calm:calm.wav
+RECORD:cavok:cavok.wav
+RECORD:clouds:clouds.wav
+RECORD:cumulonimbus:cumulonimbus.wav
+RECORD:D:D.wav
+RECORD:degree:degree.wav
+RECORD:degrees:degrees.wav
+RECORD:dew point:dewpoint.wav
+RECORD:E:E.wav
+RECORD:expect transition to RWY 13R, departure RWY 13L:trans13.wav
+RECORD:expect transition to RWY 31 paralell ops, dep RWY 31L:trans31.wav
+RECORD:F:F.wav
+RECORD:feet:feet.wav
+RECORD:few:few.wav
+RECORD:fog:fog.wav
+RECORD:freezing:freezing.wav
+RECORD:G:G.wav
+RECORD:generated:generated
+RECORD:good:good.wav
+RECORD:guisting to:guisting.wav
+RECORD:H:H.wav
+RECORD:heavy:heavy.wav
+RECORD:hectopascal:hectopascal.wav
+RECORD:hundred:00.wav
+RECORD:I:I.wav
+RECORD:J:J.wav
+RECORD:K:K.wav
+RECORD:knots:knots.wav
+RECORD:L:L.wav
+RECORD:light rain:lrain.wav
+RECORD:low:low.wav
+RECORD:low visibility procedures are anforced:lowvis.wav
+RECORD:M:M.wav
+RECORD:meters:meters.wav
+RECORD:middle point:middle.wav
+RECORD:minus:minus.wav
+RECORD:mists:mists.wav
+RECORD:moderate:moderate.wav
+RECORD:more than 10 km:more10km.wav
+RECORD:N:N.wav
+RECORD:nosig:nosig.wav
+RECORD:O:O.wav
+RECORD:observation at:observation.wav
+RECORD:on first contact notify received info:firstcontact.wav
+RECORD:overcast:overcast.wav
+RECORD:P:P.wav
+RECORD:Q:Q.wav
+RECORD:QNH:qnh.wav
+RECORD:R:R.wav
+RECORD:rain:rain.wav
+RECORD:rainshowers:rainshowers.wav
+RECORD:RVR for runway:RVR.wav
+RECORD:S:S.wav
+RECORD:scattered:scattered.wav
+RECORD:silence:silence.wav
+RECORD:snow:snow.wav
+RECORD:stop end:stopend.wav
+RECORD:T:T.wav
+RECORD:temperature:temperature.wav
+RECORD:tempo:tempo.wav
+RECORD:This is Ferihegy information:intro.wav
+RECORD:thousand:000.wav
+RECORD:thunderstorm:thunderstorm.wav
+RECORD:touchdown:touchdown.wav
+RECORD:transition level:tlevel.wav
+RECORD:U:U.wav
+RECORD:unlimited:unlimited.wav
+RECORD:V:V.wav
+RECORD:variable:variable.wav
+RECORD:vg_atis:vg_atis
+RECORD:visibility:visibility.wav
+RECORD:W:W.wav
+RECORD:winds:winds.wav
+RECORD:X:X.wav
+RECORD:Y:Y.wav
+RECORD:Z:Z.wav
+ITEM:This is Ferihegy information:XXX
+ITEM:I:
+ITEM:observation at:XXX
+ITEM:1800Z:
+ITEM:expect transition to RWY 31 paralell ops, dep RWY 31L:XXX
+ITEM:breaking actions:XXX
+ITEM:good:XXX
+ITEM:transition level:XXX
+ITEM:110:
+ITEM:winds:XXX
+ITEM:variable:XXX
+ITEM:3:
+ITEM:knots:XXX
+ITEM:cavok:XXX
+ITEM:temperature:XXX
+ITEM:23:
+ITEM:degrees:XXX
+ITEM:dew point:XXX
+ITEM:18:
+ITEM:degrees:XXX
+ITEM:QNH:XXX
+ITEM:$altim(LHBP):
+ITEM:hectopascal:XXX
+ITEM:nosig:XXX
+ITEM:on first contact notify received info:XXX
+ITEM:I:

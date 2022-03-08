@@ -1,0 +1,94 @@
+Settings	AtisFolder	\Data\ATIS\AtisFiles.txt
+Settings	SettingsfileSYMBOLOGY	\Data\Settings\Symbology.txt
+Settings	SettingsfileVOICE	\Data\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\Data\Settings\LoginProfiles.txt
+Settings	SettingsfileTAGS	\Data\Settings\TagDefinitions.txt
+Settings	SettingsfileSCREEN	\Data\Settings\ScreenLayout.txt
+Settings	SettingsfileSIL	\Data\Settings\Lists.txt
+Settings	SettingsfileSEL	\Data\Settings\Lists.txt
+Settings	SettingsfileDEP	\Data\Settings\Lists.txt
+Settings	SettingsfileARR	\Data\Settings\Lists.txt
+Settings	SettingsfileFP	\Data\Settings\Lists.txt
+Settings	Settingsfile	\Data\Settings\GeneralSettings.txt
+Settings	SettingsfileCONFLICT	\Data\Settings\Lists.txt
+Settings	SettingsfilePILOTING	\Data\Settings\GeneralSettings.txt
+Settings	alias	\Data\Alias\alias.txt
+Sounds	Sound0	\Data\Sounds\handoff_request.wav
+Sounds	Sound1	\Data\Sounds\handoff_accept.wav
+Sounds	Sound2	\Data\Sounds\conflict_alert.wav
+Sounds	Sound3	\Data\Sounds\radio_message.wav
+Sounds	Sound4	\Data\Sounds\private_message.wav
+Sounds	Sound5	\Data\Sounds\atc_message.wav
+Sounds	Sound6	\Data\Sounds\broadcast_message.wav
+Sounds	Sound7	\Data\Sounds\landline_request.wav
+Sounds	Sound8	\Data\Sounds\supervisor_message.wav
+Sounds	Sound9	\Data\Sounds\connected.wav
+Sounds	Sound10	\Data\Sounds\disconnected.wav
+Sounds	Sound11	\Data\Sounds\ongoing_request.wav
+Sounds	Sound12	\Data\Sounds\handoff_accept.wav
+Sounds	Sound13	\Data\Sounds\handoff_refused.wav
+Sounds	Sound14	\Data\Sounds\ongoing_manual.wav
+Sounds	Sound15	\Data\Sounds\new_atis.wav
+Sounds	Sound16	\Data\Sounds\handoff_refused.wav
+Sounds	Sound17	\Data\Sounds\pointout.wav
+Sounds	Sound18	\Data\Sounds\startup.wav
+Settings	airlines	\Data\ICAO\ICAO_Airlines.txt
+Settings	airports	\Data\ICAO\ICAO_Airports.txt
+Settings	aircraft	\Data\ICAO\ICAO_Aircraft.txt
+Settings	airportcoords	\Data\NAVDATA\icao.txt
+Settings	airways	\Data\NAVDATA\airway.txt
+Settings	SettingsfileVCCS	\Data\Settings\VCCS.txt
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+ASRFastKeys	1	\Data\ASR\Hong Kong ACC.asr
+ASRFastKeys	2	\Data\ASR\Hong Kong TMA.asr
+ASRFastKeys	3	\Data\ASR\Hong Kong GMC.asr
+ASRFastKeys	4	\Data\ASR\Kai Tak GMC.asr
+ASRFastKeys	5	\Data\ASR\Macau GMC.asr
+ASRFastKeys	6	\Data\ASR\Hong Kong Zone.asr
+Plugins	Plugin0	\Data\Plugins\TopSky\TopSky.dll
+Plugins	Plugin2	\Data\Plugins\Radio Direction Finder\RDFPlugin.dll
+Plugins	Plugin3	\Data\Plugins\Discord Euroscope\DiscordEuroscope.dll
+Plugins	Plugin4	\Data\Plugins\AFV\AfvEuroScopeBridge.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin1Display0	SMR radar display
+Plugins	Plugin2Display0	Standard ES radar screen
+TeamSpeakVccs	Ts3DialogLeft	0
+TeamSpeakVccs	Ts3DialogTop	0
+TeamSpeakVccs	Ts3DialogRight	750
+TeamSpeakVccs	Ts3DialogBottom	600 
+Plugins	Plugin1	\Data\Plugins\vSMR-1.5\vSMR.dll
+Settings	sector	\Data\Sector\Hong-Kong-Sector-File.sct
+Plugins	Plugin0Display1	SMR radar display
+Settings	SettingsfilePLUGINS	\Data\Settings\GeneralSettings.txt
+Plugins	Plugin2Display1	SMR radar display
+RecentFiles	Recent1	\Data\ASR\Hong Kong ACC.asr
+RecentFiles	Recent2	\Data\ASR\Macau GMC.asr
+RecentFiles	Recent3	\Data\ASR\Hong Kong TMA.asr
+RecentFiles	Recent4	\Data\ASR\Hong Kong GMC.asr
+RecentFiles	Recent5	\Data\ASR\Kai Tak GMC.asr
+RecentFiles	Recent6	\Data\ASR\Hong Kong Zone.asr
+LastSession	connecttype	0
+LastSession	tovatsim	1
+RecentFiles	Recent7	\Data\ASR\Welcome Screen.asr
+ASRFastKeys	7	\Data\ASR\Welcome Screen.asr
+LastSession	realname	Justin
+LastSession	certificate	1475858
+LastSession	password	3lp5thJI
+LastSession	facility	5
+LastSession	rating	4
+LastSession	server	SINGAPORE
+LastSession	scenario	C:\Users\Asus\Documents\EuroScope\Scenarios\S1_07_intermediate.txt
+LastSession	playback	C:\Users\Asus\Documents\EuroScope\Replays\Ian TWR1 040322.txt
+LastSession	range	150
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+LastSession	atis_letter	67
+LastSession	atis_airport	VMMC
+LastSession	callsign	VHHH_APP
+Plugins	Plugin5	\Data\Plugins\InitialClimbPlugin\InitialClimbPlugin.dll
+LastSession	atis2	"Hong Kong Approach" | VHHH / VMMC / VHHX | 
+LastSession	atis3	VHHH ATIS on 127.050 - Charts & Procedures at vatsim.hk
+LastSession	ScenarioTemplate	C:\Users\Asus\Documents\EuroScope\Scenarios\S1 All 3 Airports .txt
+RecentFiles	Recent8	\Data\ASR\Kai Tak GMC.asr
+LastSession	atis4	PDC Available. Report Callsign, Altitude and Position on initial contact.
