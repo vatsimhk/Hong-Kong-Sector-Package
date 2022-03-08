@@ -72,23 +72,11 @@ LastSession	connecttype	0
 LastSession	tovatsim	1
 RecentFiles	Recent7	\Data\ASR\Welcome Screen.asr
 ASRFastKeys	7	\Data\ASR\Welcome Screen.asr
-LastSession	realname	Justin
-LastSession	certificate	1475858
-LastSession	password	3lp5thJI
-LastSession	facility	5
-LastSession	rating	4
-LastSession	server	SINGAPORE
-LastSession	scenario	C:\Users\Asus\Documents\EuroScope\Scenarios\S1_07_intermediate.txt
-LastSession	playback	C:\Users\Asus\Documents\EuroScope\Replays\Ian TWR1 040322.txt
 LastSession	range	150
 LastSession	proxyserver	localhost
 LastSession	simdatapublish	0
-LastSession	atis_letter	67
-LastSession	atis_airport	VMMC
-LastSession	callsign	VHHH_APP
+LastSession	callsign	Click_The_Dropdown
 Plugins	Plugin5	\Data\Plugins\InitialClimbPlugin\InitialClimbPlugin.dll
-LastSession	atis2	"Hong Kong Approach" | VHHH / VMMC / VHHX | 
-LastSession	atis3	VHHH ATIS on 127.050 - Charts & Procedures at vatsim.hk
-LastSession	ScenarioTemplate	C:\Users\Asus\Documents\EuroScope\Scenarios\S1 All 3 Airports .txt
+LastSession	atis2	to select your position
 RecentFiles	Recent8	\Data\ASR\Kai Tak GMC.asr
 LastSession	atis4	PDC Available. Report Callsign, Altitude and Position on initial contact.
