@@ -1,2 +1,12 @@
-/Hong Kong TOPSKY.prf
-/Data/Settings/ScreenLayout.txt
+#Profiles contain last session data, including Vatsim Passwords
+/*.prf
+
+#Ignore personal customisations and preferences, except station frequencies
+/Data/Settings/*
+!/Data/Settings/VoiceChannels.txt
+
+#Hoppie logon Code
+/Data/Plugins/TopSky/TopSkyCPDLChoppieCode.txt
+
+#Active runways
+/Data/Sector/Hong-Kong-Sector-File.rwy
