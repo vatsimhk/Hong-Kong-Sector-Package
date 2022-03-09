@@ -1,7 +1,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\Asus\Documents\EuroScope\HK dev build\Data\Sector\Hong-Kong-Sector-File.sct
 SECTORTITLE:Hong-Kong-Sector-File.sct
 ARTCC boundary:VHHH ARTCC BOUNDARIES:
 ARTCC low boundary:5865472 - 5865580 8421493 - VHHH | Hong Kong:
@@ -141,7 +140,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Hong Kong Radar TOPSKY
-WINDOWAREA:18.117266:109.304922:24.092647:121.064518
+WINDOWAREA:18.198807:109.614729:22.979112:119.022406
 PLUGIN:CoFrance:RAD:1
 PLUGIN:CoFrance:VV:1
 PLUGIN:CoFrance:VVTIME:2

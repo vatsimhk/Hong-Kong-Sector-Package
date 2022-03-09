@@ -1,7 +1,6 @@
 DisplayTypeName:SMR radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\Asus\Documents\EuroScope\HK dev build\Data\Sector\Hong-Kong-Sector-File.sct
 SECTORTITLE:Hong-Kong-Sector-File.sct
 Airports:VHHH:symbol
 Airports:VHHX:name
@@ -367,7 +366,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:19.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:22.295260:113.891381:22.325354:113.950606
+WINDOWAREA:22.294842:113.890099:22.324936:113.949324
 PLUGIN:TopSky plugin:HideMapData:IFR,WS,VFR
 PLUGIN:vSMR:Afterglow:1
 PLUGIN:vSMR:Airport:VHHH

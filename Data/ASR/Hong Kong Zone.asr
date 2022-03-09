@@ -1,7 +1,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\Asus\Documents\EuroScope\HK dev build\Data\Sector\Hong-Kong-Sector-File.sct
 SECTORTITLE:Hong-Kong-Sector-File.sct
 Airports:VHHH:name
 Airports:VHHH:symbol
@@ -101,7 +100,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Hong Kong Radar TOPSKY
-WINDOWAREA:22.033842:113.545102:22.648512:114.754777
+WINDOWAREA:22.096592:113.637199:22.588328:114.604939
 PLUGIN:CoFrance:RAD:1
 PLUGIN:CoFrance:VV:1
 PLUGIN:CoFrance:VVTIME:1
