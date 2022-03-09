@@ -1,6 +1,0 @@
-PROFILE
-PROFILE:VHSK_TWR:50:4
-ATIS2:$radioname / Visual Identification Only
-ATIS3: [Callsign], [Exit/Entry Point] [Alt]
-ATIS4:All inbound enter at 1500ft/All outbound exit at 2000ft
-END
