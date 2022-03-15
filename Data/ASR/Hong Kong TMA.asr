@@ -44,6 +44,10 @@ High airways:V2:line
 High airways:V2:name
 High airways:V3:line
 High airways:V3:name
+High airways:V31:line
+High airways:V31:name
+High airways:V32:line
+High airways:V32:name
 High airways:V4:line
 High airways:V4:name
 High airways:V5:line
@@ -137,7 +141,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Hong Kong Radar TOPSKY
-WINDOWAREA:21.635103:113.342593:22.597458:115.236515
+WINDOWAREA:21.262734:112.704058:22.766414:115.663312
 PLUGIN:CoFrance:APP:1
 PLUGIN:CoFrance:FILT:0
 PLUGIN:CoFrance:FILTABOVE:99999
