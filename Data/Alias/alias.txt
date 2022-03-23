@@ -7,7 +7,7 @@
 .qnh QNH $altim($arr)
 .metar $metar($1)
 ;HANDOFF:
-.ho Contact $radioname($1) on $freq($1), good day.
+.ho Contact $radioname($1) ($atccallsign($1)) on $freq($1), good day.
 .req Contact $radioname($1) on $freq($1) with your requests, good day
 .ctr Contact Hong Kong Radar on 121.30, good day.
 .tme Contact Hong Kong Radar on 126.50, good day.
@@ -25,7 +25,7 @@
 ;HONGKONG Chek Lap Kok SID
 .depc Cleared to destination $arr, flight plan route, $sid departure, Runway $deprwy, Climb Via SID $temp, squawk $asquawk
 ;RADAR VECTORS
-.rdrdep Cleared to destination $arr, flight plan route, radar vectors dep, initial climb 5000 ft, squawk $asquawk
+.rdrdep Cleared to destination $arr, flight plan route, radar vectors departure, Runway $deprwy, initial climb 5000 ft, squawk $asquawk
 ;ATENA
 .atena2a Cleared to destination $arr, flight plan route, ATENA2A dep, RWY07R, climb via SID 5000ft, squawk $asquawk
 .atena3c Cleared to destination $arr, flight plan route, ATENA3C dep, RWY07C, climb via SID 5000ft, squawk $asquawk
@@ -178,6 +178,7 @@
 .taxi16 Taxi via TWYs $1 to holding point rwy 16 
 .taxi34 Taxi via TWYs $1 to holding point rwy 34 
 .taxist Taxi via TWYs $1 to stand $2
+.taxi Taxi via TWY $1 holding point runway $deprwy
 .sqb Squawk mode standby
 .own Taxi to the gate of your choice
 .stno say stand number
@@ -279,7 +280,7 @@
 .wrdes When ready, descned $alt by $1
 ;General
 .info Hong Kong VACC information "http://vatsim.hk/"
-.pdcinfo Information about Pre-departure Clearance at Hong Kong FIR "http://hkvacc.org/?page_id=714"
+.pdcinfo Information about Pre-departure Clearance at Hong Kong FIR "https://vatsim.hk/PDC"
 .psinfo Hong Kong FIR uses the colour coded pushback procedures: "https://vatsim.hk/pushback"
 .alcohol Did you consume any alcholic beverages in the past 12 hours?
 ;GATE ALLOCATIONS
