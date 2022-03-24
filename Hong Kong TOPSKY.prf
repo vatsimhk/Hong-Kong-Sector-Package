@@ -63,20 +63,19 @@ Plugins	Plugin0Display1	SMR radar display
 Settings	SettingsfilePLUGINS	\Data\Settings\GeneralSettings.txt
 Plugins	Plugin2Display1	SMR radar display
 RecentFiles	Recent1	\Data\ASR\Hong Kong ACC.asr
-RecentFiles	Recent2	\Data\ASR\Macau GMC.asr
-RecentFiles	Recent3	\Data\ASR\Hong Kong TMA.asr
-RecentFiles	Recent4	\Data\ASR\Hong Kong GMC.asr
-RecentFiles	Recent5	\Data\ASR\Kai Tak GMC.asr
+RecentFiles	Recent2	\Data\ASR\Hong Kong TMA.asr
+RecentFiles	Recent3	\Data\ASR\Hong Kong GMC.asr
+RecentFiles	Recent4	\Data\ASR\Kai Tak GMC.asr
+RecentFiles	Recent5	\Data\ASR\Macau GMC.asr
 RecentFiles	Recent6	\Data\ASR\Hong Kong Zone.asr
 LastSession	connecttype	0
 LastSession	tovatsim	1
-RecentFiles	Recent7	\Data\ASR\Welcome Screen.asr
-ASRFastKeys	7	\Data\ASR\Welcome Screen.asr
 LastSession	range	150
 LastSession	proxyserver	localhost
 LastSession	simdatapublish	0
 LastSession	callsign	Click_The_Dropdown
 Plugins	Plugin5	\Data\Plugins\InitialClimbPlugin\InitialClimbPlugin.dll
 LastSession	atis2	to select your position
-RecentFiles	Recent8	\Data\ASR\Kai Tak GMC.asr
-LastSession	atis4	PDC Available. Report Callsign, Altitude and Position on initial contact.
+LastSession	atis4	.
+LastSession	facility	0
+LastSession	rating	0

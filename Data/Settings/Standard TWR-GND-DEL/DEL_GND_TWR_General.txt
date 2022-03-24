@@ -44,7 +44,7 @@ SET_TransparentAcListBackground:0
 m_PutIncomingCoordinationToFirst:1
 m_AutoProxyMode:1
 m_TransparentAcListSelectedBackground:0
-m_TransparentDetailedTagBackground:1
+m_TransparentDetailedTagBackground:0
 m_TransparentDetailedTagSelectedItemBackground:0
 m_AllowDirectBeyondCOPX:0
 m_ShowAtisLetterInMETAR:1
@@ -131,9 +131,10 @@ m_StartupTime:10
 m_ConnectTime:15
 m_AutoAssumeOnGroundStateChangeButton:0
 m_ShowTrackMilesInRouteButton:1
+m_FilterOutSquawks:
 PILOTING
 m_Visible:1
-m_X:1370
+m_X:1296
 m_Y:859
 m_LineNumber:6
 m_Resizable:0
@@ -252,4 +253,8 @@ m_Column:CALLSIGN:9:0:9:8:0:1::::0:0.0
 m_Column:STN:4:1:19:29:0:1::::1:0.0
 m_Column:ATYP:4:1:16:0:0:1::::1:0.0
 m_Column:STS:4:1:59:46:46:1::::1:0.0
+END
+VCCS
+Ts3Server:localhost
+Ts3Port:9988
 END
