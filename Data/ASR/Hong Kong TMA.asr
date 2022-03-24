@@ -1,7 +1,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\Asus\Documents\EuroScope\HK dev build\Data\Sector\Hong-Kong-Sector-File.sct
 SECTORTITLE:Hong-Kong-Sector-File.sct
 Airports:VHHH:name
 Airports:VHHH:symbol
@@ -27,6 +26,8 @@ Geo:VHHH MRVA Min Vector Alts Number:
 Geo:VHHK Landmark Hong Kong Coastline:
 High airways:J101:line
 High airways:J101:name
+High airways:J103-:line
+High airways:J103-:name
 High airways:J104:line
 High airways:J104:name
 High airways:V1:line
@@ -43,6 +44,10 @@ High airways:V2:line
 High airways:V2:name
 High airways:V3:line
 High airways:V3:name
+High airways:V31:line
+High airways:V31:name
+High airways:V32:line
+High airways:V32:name
 High airways:V4:line
 High airways:V4:name
 High airways:V5:line
@@ -136,7 +141,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Hong Kong Radar TOPSKY
-WINDOWAREA:20.775435:112.083775:22.279115:115.043029
+WINDOWAREA:21.262734:112.704058:22.766414:115.663312
 PLUGIN:CoFrance:APP:1
 PLUGIN:CoFrance:FILT:0
 PLUGIN:CoFrance:FILTABOVE:99999

@@ -1,7 +1,7 @@
 SIL
 m_Visible:1
 m_X:5
-m_Y:44
+m_Y:49
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:7
@@ -25,7 +25,7 @@ END
 SEL
 m_Visible:1
 m_X:5
-m_Y:143
+m_Y:84
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:-7
@@ -50,9 +50,9 @@ m_Column::1:0:10057:0:0:1:TopSky plugin:::1:3.5
 END
 DEP
 m_Visible:1
-m_X:814
-m_Y:46
-m_LineNumber:0
+m_X:816
+m_Y:45
+m_LineNumber:10
 m_Resizable:1
 m_OrderingColumn:9
 m_HeaderOnly:0
@@ -65,7 +65,7 @@ m_Column:DEST:5:0:10008:99:45:1:TopSky plugin:TopSky plugin:TopSky plugin:4:3.5
 m_Column:SID:9:0:10011:0:17:1:TopSky plugin:::4:3.5
 m_Column:RWY:4:0:10050:0:19:1:TopSky plugin:::4:3.5
 m_Column:EXIT:6:0:10045:7:61:1:TopSky plugin::TopSky plugin:0:3.5
-m_Column:CFL:4:0:10049:100:12:1:TopSky plugin:Initial Climb:TopSky plugin:5:3.5
+m_Column:CFL:4:0:10049:100:109:1:TopSky plugin:Initial Climb:TopSky plugin:5:3.5
 m_Column:RFL:4:1:10062:99:59:1:TopSky plugin:TopSky plugin:TopSky plugin:4:3.5
 m_Column:ASQWK:6:0:10020:0:62:1:TopSky plugin::TopSky plugin:0:3.5
 m_Column:SQWK:6:0:139:0:62:1:TopSky plugin::TopSky plugin:0:3.5
@@ -77,8 +77,8 @@ m_Column::1:0:10057:0:0:1:TopSky plugin:::0:3.5
 END
 ARR
 m_Visible:0
-m_X:17
-m_Y:850
+m_X:41
+m_Y:839
 m_LineNumber:10
 m_Resizable:1
 m_OrderingColumn:7

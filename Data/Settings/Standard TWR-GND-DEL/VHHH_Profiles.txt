@@ -1,0 +1,34 @@
+PROFILE
+PROFILE:<Initials>_OBS:50:0
+ATIS2:Hong Kong vACC Observer
+ATIS3:Charts at vatsim.hk/Charts
+ATIS4:
+PROFILE:VHHH_DEL:20:2
+ATIS2:"Hong Kong Delivery"
+ATIS3:Charts at vatsim.hk/Charts
+ATIS4:PDC Available. Report Callsign & Stand on first contact.
+PROFILE:VHHH_T_GND:20:3
+ATIS2:"Hong Kong Tow Truck"
+ATIS3:Charts at vatsim.hk/Charts
+ATIS4:PDC Available. Report Callsign & Stand on first contact.
+PROFILE:VHHH_C_GND:20:3
+ATIS2:"Hong Kong Ground"
+ATIS3:Charts at vatsim.hk/Charts
+ATIS4:PDC Available. Report Callsign & Stand on first contact.
+PROFILE:VHHH_N_GND:20:3
+ATIS2:"Hong Kong Ground"
+ATIS3:Charts at vatsim.hk/Charts
+ATIS4:PDC Available. Report Callsign & Stand on first contact.
+PROFILE:VHHH_S_GND:20:3
+ATIS2:"Hong Kong Ground"
+ATIS3:Charts at vatsim.hk/Charts
+ATIS4:PDC Available. Report Callsign & Stand on first contact.
+PROFILE:VHHH_N_TWR:50:4
+ATIS2:"Hong Kong Tower"
+ATIS3:Charts at vatsim.hk/Charts
+ATIS4:PDC Available. Report Callsign & Aircraft Type on first contact.
+PROFILE:VHHH_S_TWR:50:4
+ATIS2:"Hong Kong Tower"
+ATIS3:Charts at vatsim.hk/Charts
+ATIS4:PDC Available. Report Callsign & Aircraft Type on first contact.
+END
