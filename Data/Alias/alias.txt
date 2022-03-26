@@ -57,8 +57,8 @@
 .rasse3a Cleared to destination $arr, flight plan route, RASSE3A dep, RWY07R, climb via SID 5000ft, squawk $asquawk
 .rasse4c Cleared to destination $arr, flight plan route, RASSE3C dep, RWY07C, climb via SID 5000ft, squawk $asquawk
 ;SKATE
-.skate1e Cleared to destination $arr, flight plan route, SKATE1X dep, RWY07R, climb via SID 5000ft, squawk $asquawk
-.skate1f Cleared to destination $arr, flight plan route, SKATE1Y dep, RWY07C, climb via SID 5000ft, squawk $asquawk
+.skate1x Cleared to destination $arr, flight plan route, SKATE1X dep, RWY07R, climb via SID 5000ft, squawk $asquawk
+.skate1y Cleared to destination $arr, flight plan route, SKATE1Y dep, RWY07C, climb via SID 5000ft, squawk $asquawk
 .skate3a Cleared to destination $arr, flight plan route, SKATE3A dep, RWY07R, climb via SID 5000ft, squawk $asquawk
 .skate4c Cleared to destination $arr, flight plan route, SKATE4C dep, RWY07C, climb via SID 5000ft, squawk $asquawk
 ;PECAN
