@@ -2,10 +2,19 @@ DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORTITLE:Hong-Kong-Sector-File.sct
-ARTCC boundary:RPHI - Manila 9002835:
-ARTCC boundary:TPE - Taipei 9002835:
+ARTCC boundary:TRE 8421493 421800 EAST:
+ARTCC boundary:TRS 8421493 421800 South:
+ARTCC boundary:TRW 8421493 421800 West:
 ARTCC boundary:VHHH ARTCC BOUNDARIES:
-ARTCC high boundary:VHHH ARTCC-H:
+ARTCC low boundary:5865472 - 5865580 8421493 - VHHH | Hong Kong:
+ARTCC low boundary:Terminal Control 8421493 - VHHH | Hong Kong:
+ARTCC low boundary:Terminal Control 8421493 - VMMC | Macau:
+ARTCC low boundary:Tower CTR - VHHX | Kai Tak:
+ARTCC low boundary:Tower CTR - VMMC | Macau:
+ARTCC low boundary:Tower CTR South - VHHH | Hong Kong:
+ARTCC low boundary:VHHH TME_(EAST_/_SFC-FL250):
+ARTCC low boundary:VHHH TMS_(SOUTH_/_SFC-FL250):
+ARTCC low boundary:VHHH TMW_(WEST_/_FL120-FL250):
 Fixes:ASOBA:name
 Fixes:ASOBA:symbol
 Fixes:BEKOL:name
@@ -227,4 +236,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Hong Kong Radar 
-WINDOWAREA:16.754942:107.333107:23.910244:121.414797
+WINDOWAREA:16.829618:107.428501:23.984920:121.510191
