@@ -37,10 +37,10 @@
 .bekol4c Cleared to destination $arr, flight plan route, BEKOL4C dep, RWY07C, climb via SID 5000ft, squawk $asquawk
 .bekol3d Cleared to destination $arr, flight plan route, BEKOL3D dep, RWY25C, climb via SID 5000ft, squawk $asquawk
 ;LAKES
-.lakes3a Cleared to destination $arr, flight plan route,  LAKES3A dep, RWY07R, climb via SID 5000ft, squawk $asquawk
-.lakes2b Cleared to destination $arr, flight plan route,  LAKES2B dep, RWY25L, climb via SID 5000ft, squawk $asquawk
-.lakes4c Cleared to destination $arr, flight plan route,  LAKES4C dep, RWY07C, climb via SID 5000ft, squawk $asquawk
-.lakes3d Cleared to destination $arr, flight plan route,  LAKES3D dep, RWY25C, climb via SID 5000ft, squawk $asquawk
+.lakes3a Cleared to destination $arr, flight plan route, LAKES3A dep, RWY07R, climb via SID 5000ft, squawk $asquawk
+.lakes2b Cleared to destination $arr, flight plan route, LAKES2B dep, RWY25L, climb via SID 5000ft, squawk $asquawk
+.lakes4c Cleared to destination $arr, flight plan route, LAKES4C dep, RWY07C, climb via SID 5000ft, squawk $asquawk
+.lakes3d Cleared to destination $arr, flight plan route, LAKES3D dep, RWY25C, climb via SID 5000ft, squawk $asquawk
 ;OCEAN
 .ocean2a Cleared to destination $arr, flight plan route, OCEAN2A dep, RWY07R, climb via SID 5000ft, squawk $asquawk
 .ocean2b Cleared to destination $arr, flight plan route, OCEAN2B dep, RWY25L, climb via SID 5000ft, squawk $asquawk
@@ -57,8 +57,8 @@
 .rasse3a Cleared to destination $arr, flight plan route, RASSE3A dep, RWY07R, climb via SID 5000ft, squawk $asquawk
 .rasse4c Cleared to destination $arr, flight plan route, RASSE3C dep, RWY07C, climb via SID 5000ft, squawk $asquawk
 ;SKATE
-.skate1e Cleared to destination $arr, flight plan route, SKATE1X dep, RWY07R, climb via SID 5000ft, squawk $asquawk
-.skate1f Cleared to destination $arr, flight plan route, SKATE1Y dep, RWY07C, climb via SID 5000ft, squawk $asquawk
+.skate1x Cleared to destination $arr, flight plan route, SKATE1X dep, RWY07R, climb via SID 5000ft, squawk $asquawk
+.skate1y Cleared to destination $arr, flight plan route, SKATE1Y dep, RWY07C, climb via SID 5000ft, squawk $asquawk
 .skate3a Cleared to destination $arr, flight plan route, SKATE3A dep, RWY07R, climb via SID 5000ft, squawk $asquawk
 .skate4c Cleared to destination $arr, flight plan route, SKATE4C dep, RWY07C, climb via SID 5000ft, squawk $asquawk
 ;PECAN
@@ -272,7 +272,7 @@
 .intds1 when ready, descend to reach $1 by $2.
 .intds2 when ready, descend to reach $1 by $2. Report leaving $3 .
 .dct Track direct $1
-.thx Thank you for flying in hong kong. Hope to see you again. Good bye
+.thx Thank you for flying in hong kong. Hope to see you again. Good bye!
 .dmusel When ready, descend FL130 by MUSEL
 .dmango When ready, descend FL130 by MANGO
 .dcanto When ready, descend FL130 by CANTO
