@@ -226,7 +226,7 @@
 .cm Climb $1 metres ($alt)
 .mn Maintain $1
 .ap You are $dist($arr) miles from the airport.
-.cruise Climb to $cruise. cruising altitude
+.cruise Climb to $cruise.
 .nospd Cancel all speed restrictions
 ;APPROACH
 .star Cleared $star arrival. 
@@ -255,7 +255,7 @@
 .igs13 From CH, descend altitude 4500ft, cleared IGS RWY13 approach, report established.
 .OM Report Outer Marker
 .GL Report Green Island insight
-.cb Report checkboard insight
+.cb Report checkerboard insight
 ;Macau
 .hazel From HAZEL, descend altitude 3000ft, QNH $altim(VMMC), cleared ILS Z approach runway 34. Report established
 .ils34 Cleared ILS RWY34 approach. Report established
@@ -272,7 +272,7 @@
 .intds1 when ready, descend to reach $1 by $2.
 .intds2 when ready, descend to reach $1 by $2. Report leaving $3 .
 .dct Track direct $1
-.thx Thank you for flying in hong kong. Hope to see you again. Good bye!
+.thx Thank you for flying in Hong Kong, hope to see you again. Good bye!
 .dmusel When ready, descend FL130 by MUSEL
 .dmango When ready, descend FL130 by MANGO
 .dcanto When ready, descend FL130 by CANTO
