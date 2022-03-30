@@ -3709,7 +3709,8 @@ N022.17.45.243:E113.54.34.212:VHHH Hong Kong Gates:GFS
 
 ;Hong Kong Taxiways;
 N022.18.38.526:E113.54.11.047:VHHH Hong Kong Taxiways:A
-N022.18.51.554:E113.54.51.170:VHHH Hong Kong Taxiways:A
+N022.18.49.100:E113.54.43.973:VHHH Hong Kong Taxiways:A
+N022.18.54.082:E113.54.59.216:VHHH Hong Kong Taxiways:A
 N022.19.04.496:E113.55.31.883:VHHH Hong Kong Taxiways:A
 N022.18.35.289:E113.53.48.042:VHHH Hong Kong Taxiways:A1
 N022.18.30.466:E113.53.49.902:VHHH Hong Kong Taxiways:A1
@@ -3732,7 +3733,8 @@ N022.19.14.008:E113.55.48.434:VHHH Hong Kong Taxiways:A11
 N022.19.08.944:E113.55.50.245:VHHH Hong Kong Taxiways:A11
 N022.19.15.134:E113.55.52.009:VHHH Hong Kong Taxiways:A12
 N022.18.35.521:E113.54.11.906:VHHH Hong Kong Taxiways:B
-N022.18.48.599:E113.54.52.072:VHHH Hong Kong Taxiways:B
+N022.18.46.194:E113.54.45.054:VHHH Hong Kong Taxiways:B
+N022.18.51.041:E113.55.00.317:VHHH Hong Kong Taxiways:B
 N022.19.01.623:E113.55.33.125:VHHH Hong Kong Taxiways:B
 N022.19.01.979:E113.55.54.392:VHHH Hong Kong Taxiways:B9
 N022.18.58.852:E113.55.44.625:VHHH Hong Kong Taxiways:B8
@@ -3817,6 +3819,66 @@ N022.18.30.002:E113.54.56.005:VHHH Hong Kong Taxiways:T2
 N022.18.40.463:E113.54.51.365:VHHH Hong Kong Taxiways:S
 N022.18.32.202:E113.54.39.880:VHHH Hong Kong Taxiways:R
 N022.18.20.777:E113.54.36.527:VHHH Hong Kong Taxiways:P1
+
+;VHHH Hong Kong Taxiways (3rd Runway Expansion);
+N022.19.12.968:E113.52.51.283:VHHH Hong Kong Taxiways (3rd Runway Expansion):C1
+N022.19.14.297:E113.52.55.313:VHHH Hong Kong Taxiways (3rd Runway Expansion):C2
+N022.19.16.898:E113.53.03.200:VHHH Hong Kong Taxiways (3rd Runway Expansion):C3
+N022.19.21.266:E113.53.16.351:VHHH Hong Kong Taxiways (3rd Runway Expansion):C4
+N022.19.25.741:E113.53.29.702:VHHH Hong Kong Taxiways (3rd Runway Expansion):C5
+N022.19.29.898:E113.53.42.819:VHHH Hong Kong Taxiways (3rd Runway Expansion):C6
+N022.19.36.850:E113.54.04.916:VHHH Hong Kong Taxiways (3rd Runway Expansion):C7
+N022.19.41.182:E113.54.18.164:VHHH Hong Kong Taxiways (3rd Runway Expansion):C8
+N022.19.45.431:E113.54.31.503:VHHH Hong Kong Taxiways (3rd Runway Expansion):C9
+N022.19.50.552:E113.54.47.406:VHHH Hong Kong Taxiways (3rd Runway Expansion):C10
+N022.19.53.381:E113.54.56.460:VHHH Hong Kong Taxiways (3rd Runway Expansion):C11
+N022.19.55.249:E113.55.02.323:VHHH Hong Kong Taxiways (3rd Runway Expansion):C12
+N022.19.08.168:E113.52.53.146:VHHH Hong Kong Taxiways (3rd Runway Expansion):C1
+N022.19.09.684:E113.52.56.812:VHHH Hong Kong Taxiways (3rd Runway Expansion):C2
+N022.19.12.332:E113.53.04.851:VHHH Hong Kong Taxiways (3rd Runway Expansion):C3
+N022.19.15.812:E113.53.15.776:VHHH Hong Kong Taxiways (3rd Runway Expansion):C4
+N022.19.20.066:E113.53.28.858:VHHH Hong Kong Taxiways (3rd Runway Expansion):C5
+N022.19.24.350:E113.53.42.304:VHHH Hong Kong Taxiways (3rd Runway Expansion):C6
+N022.19.50.765:E113.55.04.410:VHHH Hong Kong Taxiways (3rd Runway Expansion):C12
+N022.19.19.637:E113.53.21.716:VHHH Hong Kong Taxiways (3rd Runway Expansion):C
+N022.19.30.375:E113.53.55.086:VHHH Hong Kong Taxiways (3rd Runway Expansion):C
+N022.19.44.160:E113.54.38.098:VHHH Hong Kong Taxiways (3rd Runway Expansion):C
+N022.19.41.335:E113.54.38.362:VHHH Hong Kong Taxiways (3rd Runway Expansion):D
+N022.19.27.493:E113.53.56.276:VHHH Hong Kong Taxiways (3rd Runway Expansion):D
+N022.19.16.785:E113.53.22.659:VHHH Hong Kong Taxiways (3rd Runway Expansion):D
+N022.19.36.406:E113.54.19.927:VHHH Hong Kong Taxiways (3rd Runway Expansion):D1
+N022.19.39.623:E113.54.29.499:VHHH Hong Kong Taxiways (3rd Runway Expansion):D4
+N022.19.45.051:E113.54.46.190:VHHH Hong Kong Taxiways (3rd Runway Expansion):D5
+N022.19.33.334:E113.54.09.932:VHHH Hong Kong Taxiways (3rd Runway Expansion):Y
+N022.19.19.545:E113.54.14.914:VHHH Hong Kong Taxiways (3rd Runway Expansion):Y
+N022.19.03.437:E113.54.21.135:VHHH Hong Kong Taxiways (3rd Runway Expansion):Y
+N022.19.34.465:E113.54.13.046:VHHH Hong Kong Taxiways (3rd Runway Expansion):Z
+N022.19.20.843:E113.54.18.116:VHHH Hong Kong Taxiways (3rd Runway Expansion):Z
+N022.19.04.941:E113.54.24.110:VHHH Hong Kong Taxiways (3rd Runway Expansion):Z
+N022.18.57.571:E113.54.23.346:VHHH Hong Kong Taxiways (3rd Runway Expansion):Y
+N022.18.58.572:E113.54.26.577:VHHH Hong Kong Taxiways (3rd Runway Expansion):Z
+N022.19.24.039:E113.54.15.176:VHHH Hong Kong Taxiways (3rd Runway Expansion):Z1
+N022.19.16.028:E113.54.18.158:VHHH Hong Kong Taxiways (3rd Runway Expansion):Z2
+N022.19.07.601:E113.54.21.234:VHHH Hong Kong Taxiways (3rd Runway Expansion):Z3
+N022.18.59.457:E113.54.24.523:VHHH Hong Kong Taxiways (3rd Runway Expansion):E
+N022.19.03.446:E113.54.36.777:VHHH Hong Kong Taxiways (3rd Runway Expansion):E
+N022.19.06.190:E113.54.45.213:VHHH Hong Kong Taxiways (3rd Runway Expansion):E
+N022.18.56.449:E113.54.25.550:VHHH Hong Kong Taxiways (3rd Runway Expansion):F
+N022.19.00.570:E113.54.38.217:VHHH Hong Kong Taxiways (3rd Runway Expansion):F
+N022.19.00.705:E113.54.33.307:VHHH Hong Kong Taxiways (3rd Runway Expansion):D1
+N022.19.03.480:E113.54.42.020:VHHH Hong Kong Taxiways (3rd Runway Expansion):E3
+N022.19.00.866:E113.54.47.286:VHHH Hong Kong Taxiways (3rd Runway Expansion):T
+N022.18.53.774:E113.54.49.895:VHHH Hong Kong Taxiways (3rd Runway Expansion):T
+N022.18.54.809:E113.54.53.145:VHHH Hong Kong Taxiways (3rd Runway Expansion):B6
+N022.19.01.926:E113.54.50.434:VHHH Hong Kong Taxiways (3rd Runway Expansion):B6
+N022.19.05.951:E113.54.48.936:VHHH Hong Kong Taxiways (3rd Runway Expansion):B6
+N022.18.48.952:E113.54.48.080:VHHH Hong Kong Taxiways (3rd Runway Expansion):S
+N022.18.49.978:E113.54.51.443:VHHH Hong Kong Taxiways (3rd Runway Expansion):T
+N022.18.50.961:E113.54.54.601:VHHH Hong Kong Taxiways (3rd Runway Expansion):B6
+
+
+
+
 ;VFR routes;
 N022.19.54.724:E113.54.50.093:VHHH VFR routes:ATZ
 N022.12.45.124:E114.02.11.739:VHHH VFR routes:CCC
