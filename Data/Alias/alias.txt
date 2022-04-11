@@ -19,7 +19,7 @@
 .gnd Contact Hong Kong Ground on 122.55, good day.
 .pek Contact Beijing Control on 133.075, good day.
 ;Predeparture Clearance PDC: 
-.pdc $time $dep PDC $aircraft CLRD TO $dep OFF $deprwy VIA $sid SQUAWK $asquawk NEXT FREQ $com ATIS $atiscode. CLIMB VIA SID TO $temp. ACK PDC. CTC $uc($radioname) ON $com WHEN READY TO START
+.pdc $time $dep PDC $aircraft CLRD TO $arr OFF $deprwy VIA $sid SQUAWK $asquawk NEXT FREQ $com ATIS $atiscode. CLIMB VIA SID TO $temp. ACK PDC. CTC $uc($radioname) ON $com WHEN READY TO START
 .nopdc $aircraft PDC REJECTED � FLIGHT PLAN INVALID � REVERT TO VOICE PROCEDURES.
 ;Dep Clearence:
 ;HONGKONG Chek Lap Kok SID
