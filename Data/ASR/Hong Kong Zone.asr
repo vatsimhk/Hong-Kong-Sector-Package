@@ -72,8 +72,12 @@ Geo:Restricted Airspace:
 Geo:VFR Zones:
 Geo:VHHK Landmark Hong Kong Coastline:
 Geo:VHSK Groundlayout Shek Kong Base:
+Regions:VHHH Hong Kong:polygon
+Regions:VHHH Hong Kong (3rd Runway Expansion):polygon
+Regions:VHHX Kai Tak:polygon
 Regions:VHSK 16777215 markings:polygon
 Regions:VHSK 6910575:polygon
+Regions:VMMC Macau:polygon
 Runways:VHHH 07C-25C:centerline
 Runways:VHHH 07R-25L:centerline
 Runways:VHHX 13-31:centerline

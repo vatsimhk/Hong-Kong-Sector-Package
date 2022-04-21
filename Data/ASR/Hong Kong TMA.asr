@@ -20,7 +20,6 @@ ARTCC low boundary:Tower CTR South - VHHH | Hong Kong:
 ARTCC low boundary:VHHH TME_(EAST_/_SFC-FL250):
 ARTCC low boundary:VHHH TMS_(SOUTH_/_SFC-FL250):
 ARTCC low boundary:VHHH TMW_(WEST_/_FL120-FL250):
-Geo:GEO:
 Geo:VHHH MRVA Min Vector Alts:
 Geo:VHHH MRVA Min Vector Alts Number:
 Geo:VHHK Landmark Hong Kong Coastline:
@@ -68,6 +67,10 @@ High airways:V571:line
 High airways:V571:name
 High airways:V591:line
 High airways:V591:name
+Regions:VHHH Hong Kong:polygon
+Regions:VHHH Hong Kong (3rd Runway Expansion):polygon
+Regions:VHHX Kai Tak:polygon
+Regions:VMMC Macau:polygon
 Runways:VHHH 07C-25C:centerline
 Runways:VHHH 07C-25C:extended centerline 1
 Runways:VHHH 07C-25C:extended centerline 1 left base
