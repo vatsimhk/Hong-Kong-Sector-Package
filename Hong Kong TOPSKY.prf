@@ -11,7 +11,7 @@ Settings	SettingsfileARR	\Data\Settings\Lists.txt
 Settings	SettingsfileFP	\Data\Settings\Lists.txt
 Settings	Settingsfile	\Data\Settings\GeneralSettings.txt
 Settings	SettingsfileCONFLICT	\Data\Settings\Lists.txt
-Settings	SettingsfilePILOTING	\Data\Settings\GeneralSettings.txt
+Settings	SettingsfilePILOTING	\Data\Settings\Lists.txt
 Settings	alias	\Data\Alias\alias.txt
 Sounds	Sound0	\Data\Sounds\handoff_request.wav
 Sounds	Sound1	\Data\Sounds\handoff_accept.wav
