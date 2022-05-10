@@ -40,7 +40,7 @@ m_LockShowRouteWhenAccepting:0
 m_VoiceAtisBuilderUrl:http://vatsim.hk/atis/atis.php?arr=$arrrwy($atisairport)&dep=$deprwy($atisairport)&apptype=ILS&info=$atiscode&metar=$metar($atisairport)
 m_DoNotUseAcceptedColor:0
 m_DoNotUseRefusedColor:0
-SET_TransparentAcListBackground:1
+SET_TransparentAcListBackground:0
 m_PutIncomingCoordinationToFirst:1
 m_AutoProxyMode:1
 m_TransparentAcListSelectedBackground:0
