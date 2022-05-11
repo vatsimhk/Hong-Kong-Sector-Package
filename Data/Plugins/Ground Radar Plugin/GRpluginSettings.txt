@@ -2,7 +2,7 @@ Color_Departure=220,220,0
 Color_Arrival=33,194,248
 Color_SelectedLabelFill_Gnd=0,0,50
 Color_RawVideo=255,255,220
-Color_Unknown=120,120,120
+Color_Unknown=200,200,200
 Color_Warning=255,50,0
 Color_WBackground=135,135,135
 Color_New_Stand=255,255,0
@@ -12,6 +12,7 @@ TowerLabel_FontSize=11
 AppLabel_FontSize=10
 GroundLabel_Transparency_Bg=255
 GroundLabel_Field_Transparency_Bg=100
+GroundLabel_Filter_Stby=1
 
 
 
