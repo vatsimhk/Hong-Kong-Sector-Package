@@ -7,6 +7,9 @@ Navigate to the [releases](https://github.com/vatsimhk/Hong-Kong-Sector-Package/
 ## What are Legacy Profiles?
 **Controllers are recommended to use Hong Kong TOPSKY.prf to control** as it contains many useful plugins that will enhance the controller experience. **ALL NEW trainees should begin training with the plugins.** However, to cater to older controllers who may not prefer the plugins, legacy profiles without TopSky will continue to receive minimal updates. 
 
+## Some of the plugins failed to Load on startup!
+If you get an error on load, please install the [latest C++ redistributables](https://aka.ms/vs/17/release/vc_redist.x86.exe). The newly added plugins are compiled with newer C++ Libraries that you may or may not have already installed.
+
 ## Why is my font in EuroScope weird/Clearance box not filling?
 That is because the EuroScope font is not installed. Double click on the file EuroscopeFont.ttf in the extracted folder and press install. 
 
