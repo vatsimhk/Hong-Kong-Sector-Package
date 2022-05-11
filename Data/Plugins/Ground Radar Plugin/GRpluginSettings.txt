@@ -1,0 +1,13 @@
+Color_Departure=220,220,0
+Color_Arrival=33,194,248
+Color_SelectedLabelFill_Gnd=0,0,50
+Color_RawVideo=255,255,255
+Color_RawVideoHistory=255,255,255
+GroundLabel_Transparency_Bg=255
+GroundLabel_Field_Transparency_Bg=100
+
+List_Stand=1,1500,600
+List_Arrival=1,1500,800
+Window_APP=1,1500,300,250,250
+Window_APP_Scale=20
+RawVideo_Brightness=50

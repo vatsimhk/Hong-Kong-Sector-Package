@@ -1,7 +1,7 @@
 SIL
 m_Visible:1
-m_X:5
-m_Y:49
+m_X:0
+m_Y:47
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:7
@@ -24,11 +24,11 @@ m_Column::1:0:10057:0:0:1:TopSky plugin:::1:3.5
 END
 SEL
 m_Visible:1
-m_X:5
-m_Y:260
+m_X:0
+m_Y:82
 m_LineNumber:0
 m_Resizable:1
-m_OrderingColumn:-7
+m_OrderingColumn:2
 m_HeaderOnly:0
 m_Column:CS:8:0:10021:7:6:1:TopSky plugin::TopSky plugin:0:3.5
 m_Column:COM:4:0:58:0:32:1:TopSky plugin:::5:3.5
@@ -50,12 +50,13 @@ m_Column::1:0:10057:0:0:1:TopSky plugin:::1:3.5
 END
 DEP
 m_Visible:1
-m_X:816
-m_Y:45
-m_LineNumber:10
+m_X:818
+m_Y:46
+m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:9
 m_HeaderOnly:0
+m_Column:BAY:5:0:1:0:0:1:Ground Radar plugin:::0:3.5
 m_Column:CS:9:0:10021:7:6:1:TopSky plugin::TopSky plugin:0:3.5
 m_Column:COM:4:0:58:0:32:1:TopSky plugin:::4:3.5
 m_Column:TYPE:5:0:10028:0:41:1:TopSky plugin:::4:3.5
@@ -64,21 +65,20 @@ m_Column:DEP:5:0:10007:0:41:1:TopSky plugin:::4:3.5
 m_Column:DEST:5:0:10008:99:45:1:TopSky plugin:TopSky plugin:TopSky plugin:4:3.5
 m_Column:SID:9:0:10011:0:17:1:TopSky plugin:::4:3.5
 m_Column:RWY:4:0:10050:0:19:1:TopSky plugin:::4:3.5
-m_Column:EXIT:6:0:10045:7:61:1:TopSky plugin::TopSky plugin:0:3.5
 m_Column:CFL:4:0:10049:100:109:1:TopSky plugin:Initial Climb:TopSky plugin:5:3.5
 m_Column:RFL:4:1:10062:99:59:1:TopSky plugin:TopSky plugin:TopSky plugin:4:3.5
 m_Column:ASQWK:6:0:10020:0:62:1:TopSky plugin::TopSky plugin:0:3.5
 m_Column:SQWK:6:0:139:0:62:1:TopSky plugin::TopSky plugin:0:3.5
 m_Column:C:2:0:10046:27:78:1:TopSky plugin::TopSky plugin:4:3.5
-m_Column:STS:4:0:10048:0:28:1:TopSky plugin:::4:3.5
+m_Column:STS:4:0:3:0:13:1:Ground Radar plugin::Ground Radar plugin:4:3.5
 m_Column:SEQ:4:0:10056:91:89:1:TopSky plugin:TopSky plugin:TopSky plugin:0:3.5
 m_Column:TXT:7:0:19:29:29:1::::4:3.5
 m_Column::1:0:10057:0:0:1:TopSky plugin:::0:3.5
 END
 ARR
 m_Visible:0
-m_X:41
-m_Y:839
+m_X:0
+m_Y:693
 m_LineNumber:10
 m_Resizable:1
 m_OrderingColumn:7
@@ -87,7 +87,7 @@ m_Column:C/S:8:0:22:7:6:1:TopSky plugin::TopSky plugin:0:0.0
 m_Column:COM:4:0:58:32:0:1:TopSky plugin:::0:0.0
 m_Column:TYPE:5:0:10028:0:0:1:TopSky plugin:::0:0.0
 m_Column:ETA:7:1:10033:0:0:1:TopSky plugin:::0:0.0
-m_Column:STAND:9:1:19:29:0:1::::1:0.0
+m_Column:STAND:9:1:2:29:1:1:Ground Radar plugin::Ground Radar plugin:1:3.5
 m_Column:DEP:7:1:10007:0:0:1:TopSky plugin:::0:0.0
 m_Column:DEST:7:1:10008:99:0:1:TopSky plugin:TopSky plugin::0:0.0
 m_Column:STAR:7:1:10012:0:0:1:TopSky plugin:::0:0.0
