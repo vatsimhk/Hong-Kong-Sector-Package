@@ -1,23 +1,28 @@
+ASRFastKeys	1	\Data\ASR\Legacy ASR\Hong Kong Aerodrome.asr
+ASRFastKeys	2	\Data\ASR\Legacy ASR\Hong Kong GMC.asr
 LastSession	atis2	Click The Dropdown Box
 LastSession	atis3	To select your position
 LastSession	callsign	Click_The_Dropdown
 LastSession	tovatsim	1
 Plugins	Plugin0	\Data\Plugins\Discord Euroscope\DiscordEuroscope.dll
 Plugins	Plugin1	\Data\Plugins\AFV\AfvEuroScopeBridge.dll
-RecentFiles	Recent1	\Data\ASR\Standard ASR\Hong Kong Aerodrome.asr
-RecentFiles	Recent2	\Data\ASR\Standard ASR\Hong Kong Aerodrome.asr
-Settings	Settingsfile	\Data\Settings\Standard TWR-GND-DEL\DEL_GND_TWR_General.txt
-Settings	SettingsfileARR	\Data\Settings\Standard TWR-GND-DEL\DEL_GND_TWR_Lists.txt
-Settings	SettingsfileCONFLICT	\Data\Settings\Standard TWR-GND-DEL\DEL_GND_TWR_Lists.txt
-Settings	SettingsfileDEP	\Data\Settings\Standard TWR-GND-DEL\DEL_GND_TWR_Lists.txt
-Settings	SettingsfileFP	\Data\Settings\Standard TWR-GND-DEL\DEL_GND_TWR_Lists.txt
-Settings	SettingsfilePLUGINS	\Data\Settings\Standard TWR-GND-DEL\DEL_GND_TWR_Plugins.txt
-Settings	SettingsfilePROFILE	\Data\Settings\Standard TWR-GND-DEL\VHHH_Profiles.txt
-Settings	SettingsfileSCREEN	\Data\Settings\Standard TWR-GND-DEL\DEL_GND_TWR_Screen.txt
-Settings	SettingsfileSEL	\Data\Settings\Standard TWR-GND-DEL\DEL_GND_TWR_Lists.txt
-Settings	SettingsfileSIL	\Data\Settings\Standard TWR-GND-DEL\DEL_GND_TWR_Lists.txt
-Settings	SettingsfileSYMBOLOGY	\Data\Settings\Standard TWR-GND-DEL\DEL_GND_TWR_Symbology.txt
-Settings	SettingsfileTAGS	\Data\Settings\Standard TWR-GND-DEL\DEL_GND_TWR_Tags.txt
+RecentFiles	Recent1	\Data\ASR\Legacy ASR\Macau Aerodrome.asr
+RecentFiles	Recent2	Data\ASR\Macau Aerodrome.asr
+RecentFiles	Recent3	Data\ASR\Hong Kong GMC.asr
+RecentFiles	Recent4	\Data\ASR\Legacy ASR\VMMC.asr
+Settings	Settingsfile	\Data\Settings\Legacy TWR-GND-DEL\DEL_GND_TWR_General.txt
+Settings	SettingsfileARR	\Data\Settings\Legacy TWR-GND-DEL\DEL_GND_TWR_Lists.txt
+Settings	SettingsfileCONFLICT	\Data\Settings\Legacy TWR-GND-DEL\DEL_GND_TWR_Lists.txt
+Settings	SettingsfileDEP	\Data\Settings\Legacy TWR-GND-DEL\DEL_GND_TWR_Lists.txt
+Settings	SettingsfileFP	\Data\Settings\Legacy TWR-GND-DEL\DEL_GND_TWR_Lists.txt
+Settings	SettingsfilePLUGINS	\Data\Settings\Legacy TWR-GND-DEL\DEL_GND_TWR_Plugins.txt
+Settings	SettingsfilePROFILE	\Data\Settings\Legacy TWR-GND-DEL\VMMC_Profiles.txt
+Settings	SettingsfileSCREEN	\Data\Settings\Legacy TWR-GND-DEL\DEL_GND_TWR_Screen.txt
+Settings	SettingsfileSEL	\Data\Settings\Legacy TWR-GND-DEL\DEL_GND_TWR_Lists.txt
+Settings	SettingsfileSIL	\Data\Settings\Legacy TWR-GND-DEL\DEL_GND_TWR_Lists.txt
+Settings	SettingsfileSYMBOLOGY	\Data\Settings\Legacy TWR-GND-DEL\DEL_GND_TWR_Symbology.txt
+Settings	SettingsfileTAGS	\Data\Settings\Legacy TWR-GND-DEL\DEL_GND_TWR_Tags.txt
+Settings	SettingsfileVCCS	\Data\Settings\VCCS.txt
 Settings	SettingsfileVOICE	\Data\Settings\VoiceChannels.txt
 Settings	aircraft	\Data\ICAO\ICAO_Aircraft.txt
 Settings	airlines	\Data\ICAO\ICAO_Airlines.txt
@@ -45,9 +50,3 @@ Sounds	Sound6	\Data\Sounds\broadcast_message.wav
 Sounds	Sound7	\Data\Sounds\landline_request.wav
 Sounds	Sound8	\Data\Sounds\supervisor_message.wav
 Sounds	Sound9	\Data\Sounds\connected.wav
-LastSession	connecttype	0
-LastSession	facility	0
-LastSession	rating	0
-LastSession	range	100
-LastSession	proxyserver	localhost
-LastSession	simdatapublish	0

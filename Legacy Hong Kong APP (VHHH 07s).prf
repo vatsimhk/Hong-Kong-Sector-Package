@@ -2,26 +2,26 @@ LastSession	atis2	Click The Dropdown Box
 LastSession	atis3	To select your position
 LastSession	callsign	Click_The_Dropdown
 LastSession	tovatsim	1
-ASRFastKeys	1	\Data\ASR\Standard ASR\Hong Kong TMA(07).asr
-ASRFastKeys	2	\Data\ASR\Standard ASR\Hong Kong Aerodrome.asr
+ASRFastKeys	1	\Data\ASR\Legacy ASR\Hong Kong TMA(07).asr
+ASRFastKeys	2	\Data\ASR\Legacy ASR\Hong Kong Aerodrome.asr
 Plugins	Plugin0	\Data\Plugins\Discord Euroscope\DiscordEuroscope.dll
 Plugins	Plugin1	\Data\Plugins\AFV\AfvEuroScopeBridge.dll
-RecentFiles	Recent1	\Data\ASR\Standard ASR\Hong Kong TMA(07).asr
-RecentFiles	Recent2	\Data\ASR\Standard ASR\Hong Kong Aerodrome.asr
-Settings	Settingsfile	\Data\Settings\Standard APP\APP_CTR_General.txt
-Settings	SettingsfileARR	\Data\Settings\Standard APP\APP_CTR_Lists.txt
-Settings	SettingsfileCONFLICT	\Data\Settings\Standard APP\APP_CTR_Lists.txt
-Settings	SettingsfileDEP	\Data\Settings\Standard APP\APP_CTR_Lists.txt
-Settings	SettingsfileFP	\Data\Settings\Standard APP\APP_CTR_Lists.txt
-Settings	SettingsfilePLUGINS	\Data\Settings\Standard APP\APP_CTR_Plugins.txt
-Settings	SettingsfilePLUGINS	\Data\Settings\Standard APP\APP_CTR_Plugins.txt
-Settings	SettingsfilePROFILE	\Data\Settings\Standard APP\Approach_profiles.txt
-Settings	SettingsfileSCREEN	\Data\Settings\Standard APP\APP_CTR_Screen.txt
-Settings	SettingsfileSCREEN	\Data\Settings\Standard APP\APP_CTR_Screen.txt
-Settings	SettingsfileSEL	\Data\Settings\Standard APP\APP_CTR_Lists.txt
-Settings	SettingsfileSIL	\Data\Settings\Standard APP\APP_CTR_Lists.txt
-Settings	SettingsfileSYMBOLOGY	\Data\Settings\Standard APP\APP_CTR_Symbology.txt
-Settings	SettingsfileTAGS	\Data\Settings\Standard APP\APP_CTR_Tags.txt
+RecentFiles	Recent1	\Data\ASR\Legacy ASR\Hong Kong TMA(07).asr
+RecentFiles	Recent2	\Data\ASR\Legacy ASR\Hong Kong Aerodrome.asr
+Settings	Settingsfile	\Data\Settings\Legacy APP\APP_CTR_General.txt
+Settings	SettingsfileARR	\Data\Settings\Legacy APP\APP_CTR_Lists.txt
+Settings	SettingsfileCONFLICT	\Data\Settings\Legacy APP\APP_CTR_Lists.txt
+Settings	SettingsfileDEP	\Data\Settings\Legacy APP\APP_CTR_Lists.txt
+Settings	SettingsfileFP	\Data\Settings\Legacy APP\APP_CTR_Lists.txt
+Settings	SettingsfilePLUGINS	\Data\Settings\Legacy APP\APP_CTR_Plugins.txt
+Settings	SettingsfilePLUGINS	\Data\Settings\Legacy APP\APP_CTR_Plugins.txt
+Settings	SettingsfilePROFILE	\Data\Settings\Legacy APP\Approach_profiles.txt
+Settings	SettingsfileSCREEN	\Data\Settings\Legacy APP\APP_CTR_Screen.txt
+Settings	SettingsfileSCREEN	\Data\Settings\Legacy APP\APP_CTR_Screen.txt
+Settings	SettingsfileSEL	\Data\Settings\Legacy APP\APP_CTR_Lists.txt
+Settings	SettingsfileSIL	\Data\Settings\Legacy APP\APP_CTR_Lists.txt
+Settings	SettingsfileSYMBOLOGY	\Data\Settings\Legacy APP\APP_CTR_Symbology.txt
+Settings	SettingsfileTAGS	\Data\Settings\Legacy APP\APP_CTR_Tags.txt
 Settings	SettingsfileVCCS	\Data\Settings\VCCS.txt
 Settings	SettingsfileVOICE	\Data\Settings\VoiceChannels.txt
 Settings	aircraft	\Data\ICAO\ICAO_Aircraft.txt

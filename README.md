@@ -4,8 +4,8 @@ This package contains the official sector files exclusively for use by controlle
 ## How Do I Download the Package?
 Navigate to the [releases](https://github.com/vatsimhk/Hong-Kong-Sector-Package/releases) section, then scroll down below the changelog and click the first zip file to download (not source code). Extract and open Euroscope as normal. **sectors.vatsim.hk will soon be deprecated and will NOT receive further updates.**
 
-## What is the Difference Between Standard and TopSky Profiles?
-**All new controllers are recommended to use Hong Kong Topsky.prf to control,** as it contains many useful plugins that will enhance the controller experience. However, to cater to different controller preferences, both TopSky and non TopSky profiles will continue to receive updates. Before AIRAC 2203, the non TopSky profiles were stored in a separate "Standard Profiles" folder. However, this nested folder layout required lots of duplicate files since the profiles could not share data. So while they may require different ASRs, the same ATIS audio files had to be stored twice, for example. From AIRAC 2203, the structure is reorganised - all profiles are be stored in the root folder, and the relevant data files can be shared in the Data folder if applicable. Non TopSky profiles will have a 'Standard' prefix added to them.
+## What are Legacy Profiles?
+**Controllers are recommended to use Hong Kong TOPSKY.prf to control** as it contains many useful plugins that will enhance the controller experience. **ALL NEW trainees should begin training with the plugins.** However, to cater to older controllers who may not prefer the plugins, legacy profiles without TopSky will continue to receive minimal updates. 
 
 ## Why is my font in EuroScope weird/Clearance box not filling?
 That is because the EuroScope font is not installed. Double click on the file EuroscopeFont.ttf in the extracted folder and press install. 
