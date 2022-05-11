@@ -51,13 +51,13 @@ Plugins	Plugin2	\Data\Plugins\Radio Direction Finder\RDFPlugin.dll
 Plugins	Plugin3	\Data\Plugins\Discord Euroscope\DiscordEuroscope.dll
 Plugins	Plugin4	\Data\Plugins\AFV\AfvEuroScopeBridge.dll
 Plugins	Plugin0Display0	Standard ES radar screen
-Plugins	Plugin1Display0	SMR radar display
+Plugins	Plugin1Display0	Ground Radar display
 Plugins	Plugin2Display0	Standard ES radar screen
 TeamSpeakVccs	Ts3DialogLeft	0
 TeamSpeakVccs	Ts3DialogTop	0
 TeamSpeakVccs	Ts3DialogRight	750
 TeamSpeakVccs	Ts3DialogBottom	600 
-Plugins	Plugin1	\Data\Plugins\vSMR-1.5\vSMR.dll
+Plugins	Plugin1	\Data\Plugins\Ground Radar Plugin\GRplugin.dll
 Settings	sector	\Data\Sector\Hong-Kong-Sector-File.sct
 Plugins	Plugin0Display1	SMR radar display
 Settings	SettingsfilePLUGINS	\Data\Settings\GeneralSettings.txt
@@ -81,5 +81,3 @@ LastSession	facility	0
 LastSession	rating	0
 LastSession	atis3	Click "Open SCT" to select your view
 TeamSpeakVccs	Ts3NickName	<Your CID Here>
-Plugins	Plugin6	\Data\Plugins\Ground Radar Plugin\GRplugin.dll
-Plugins	Plugin6Display0	Ground Radar display
