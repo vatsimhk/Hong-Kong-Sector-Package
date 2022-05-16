@@ -12,8 +12,7 @@ TowerLabel_FontSize=11
 AppLabel_FontSize=10
 GroundLabel_Transparency_Bg=255
 GroundLabel_Field_Transparency_Bg=100
-GroundLabel_Filter_Stby=1
-
+Equip_ProMode=1
 
 
 Label_AFL+VS=1,0,1
