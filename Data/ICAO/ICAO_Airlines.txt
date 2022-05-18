@@ -31,7 +31,7 @@ ABF	Aerial Oy - Finland	SKYWINGS
 ABG	Abakan-Avia - Russia	ABAKAN-AVIA
 ABH	Hokuriki-Koukuu Company - Japan	UNKNOWN
 ABI	Alba-Air Aviacion - ES	AIRALBACETE
-ABJ	Abaet� Linhas A�reas - Brazil	UNKNOWN
+ABJ	Abaet  Linhas A reas - Brazil	UNKNOWN
 ABK	Alberta Citylink - Canada	ALBERTA CITYLINK
 ABL	Air BC - Canada	AIRCOACH
 ABM	Aero Albatros - Spain	ALBATROS ESPANA
@@ -292,7 +292,7 @@ AMC	Air Malta - Malta	AIR MALTA
 AMD	Aerolineas Medellin - Colombia	AEROLINEAS MEDELLIN
 AME	Spanish Air Force - Spain	AIRMIL
 AMF	Ameriflight - United States	AMFLIGHT
-AMG	Air Minas Linhas A�reas - Brazil	AIR MINAS
+AMG	Air Minas Linhas A reas - Brazil	AIR MINAS
 AMH	Alan Mann Helicopters Ltd. - United Kingdom	MANN
 AMI	Air Maldives - Maldives	AIR MALDIVES
 AMJ	Aviation Amos - Canada	AVIATION AMOS
@@ -309,7 +309,7 @@ AMT	ATA Airlines - United States	AMTRAN
 AMU	Air Macao - Macao	AIR MACAO
 AMV	AMC Airlines - Egypt	UNKNOWN
 AMW	Air Midwest - United States	AIR MIDWEST
-AMX	Aerom�xico - Mexico	AEROMEXICO
+AMX	Aerom xico - Mexico	AEROMEXICO
 AMY	Air Ambar, S.A. - Dominican Republic	AIR AMBAR
 AMZ	Amiya Airline - Nigeria	AMIYA AIR
 ANA	All Nippon Airways - Japan	ALL NIPPON
@@ -326,7 +326,7 @@ ANL	Nacoia Lda - Angola	AIR NACOIA
 ANM	Antares Airtransport, Maintenance & Service GmbH - Germany	ANTARES
 ANO	Airnorth - Australia	TOPEND
 ANP	Antonair International (Pty) Ltd. - Lesotho	ANTONAIR
-ANQ	Aerol�nea de Antioquia - Colombia	ANTIOQUIA
+ANQ	Aerol nea de Antioquia - Colombia	ANTIOQUIA
 ANR	Aeronorte, S.A. - Colombia	AERONORTE
 ANS	Andes Lineas Aereas - Argentina	AEROANDES
 ANT	Air North Charter - Canada - Canada	AIR NORTH
@@ -356,7 +356,7 @@ AOV	Aero Vision - France	AEROVISION
 AOW	Air Omega Luftverkehrsgesellschaft mbH - Germany	WARLOCK
 AOX	Aerotaxi Del Valle - Colombia	AEROVALLE
 APA	Air Pacifica Airlines - Virgin Islands (US)	PACIFICA
-APB	Air Atlantique / Air Publicit� - France	CHARENTE
+APB	Air Atlantique / Air Publicit  - France	CHARENTE
 APC	Airpac Airlines, Inc. - United States	AIRPAC
 APD	Sabre Pacific - Australia	UNKNOWN
 APE	Parcel Express - United States	AIR PARCEL
@@ -506,7 +506,7 @@ AVQ	AeroVirtuel Quebec - Canada	AVGO
 AVR	Active Aero Charter, Inc. - United States	ACTIVE AERO
 AVS	Avialsa T-35 - Spain	AVIALSA
 AVT	Asia Avia Airlines - Indonesia	ASIAVIA
-AVU	Avia Sud A�rotaxi - France	AVIASUD
+AVU	Avia Sud A rotaxi - France	AVIASUD
 AVV	Airvantage Incorporated - United States	AIRVANTAGE
 AVW	Aviator Airways - Greece	AVIATOR
 AVX	Aviapaslauga - Lithuania	PASLAUGA
@@ -688,7 +688,7 @@ BGE	Bridge Airlines - Liberia	BRIDGE AIR
 BGF	Aviodetachment-28 - Bulgaria	BULGARIAN
 BGG	Aero BG - Mexico	AERO BG
 BGH	BH Air - Bulgaria	BALKAN HOLIDAYS
-BGI	British Gulf International - S�o Tom� and Pr�ncipe	BRITISH GULF
+BGI	British Gulf International - S o Tom  and Pr ncipe	BRITISH GULF
 BGK	British Gulf International-Fez - Kyrgyzstan	GULF INTER
 BGL	Benin Golf Air - Benin	BENIN GOLF
 BGM	Bugulma Air Enterprise - Russia	BUGAVIA
@@ -1298,9 +1298,9 @@ CTV	Citilink - Indonesia	SUPERGREEN
 CTW	Cargo Three - Panama	THIRD CARGO
 CTX	Corporate Air Fleet, Inc. - United States of America	CATBIRD
 CTY	Cryderman Air Service - United States	CENTURY
-CTZ	CATA L�nea A�rea - Argentina	CATA
+CTZ	CATA L nea A rea - Argentina	CATA
 CUA	China United Airlines - China	LIANHANG
-CUB	Cubana de Aviaci�n - Cuba	CUBANA
+CUB	Cubana de Aviaci n - Cuba	CUBANA
 CUI	Cancun Air - Mexico	CAN-AIR
 CUK	Polo Aviation - United Kingdom	CHUKKA
 CUO	Aerocuahonte - Mexico	CUAHONTE
@@ -1369,7 +1369,7 @@ DAD	Dorado Air - Dominican Republic	DORADO AIR
 DAE	DHL Aero Expreso - Panama	YELLOW
 DAF	Danish Air Force - Denmark	DANISH AIRFORCE
 DAG	Daghestan Airlines - Russia	DAGAL
-DAH	Air Alg�rie - Algeria	AIR ALGERIE
+DAH	Air Alg rie - Algeria	AIR ALGERIE
 DAL	Delta Air Lines - United States	DELTA
 DAM	Kyrgyzstan Department of Aviation - Kyrgyzstan	FLIGHT RESCUE
 DAN	Maersk Air A/S - Denmark	MAERSKAIR
@@ -1487,7 +1487,7 @@ DNR	Dynamair Aviation - Canada	DYNAMAIR
 DNU	Danu Oro Transportas - Lithuania	DANU
 DNV	Aeroflot-Don - Russia	DONAVIA
 DNY	Danish Navy - Denmark	DANISH NAVY
-DOA	Dominicana de Aviaci�n - Dominican Republic	DOMINICANA
+DOA	Dominicana de Aviaci n - Dominican Republic	DOMINICANA
 DOB	Dobrolet Airlines - Russian Federation	DOBROLET
 DOC	Norsk Luftambulanse - Norway	HELIDOC
 DOD	USAF Air Mobility Operations Control Center - United States	UNKNOWN
@@ -1664,7 +1664,7 @@ EHM	EuroHarmony - Europe	EUROHARMONY
 EHR	Valfell-Verkflug - Iceland	ROTOR
 EHY	Ephesus VA - Turkey	EFES
 EIA	Evergreen International Airlines - United States	EVERGREEN
-EIC	Express International Cargo - S�o Tom� and Pr�ncipe	EXCARGO
+EIC	Express International Cargo - S o Tom  and Pr ncipe	EXCARGO
 EIJ	Efata Papua Airlines - Indonesia	EFATA
 EIN	Aer Lingus - Ireland	SHAMROCK
 EIR	Eirjet - Ireland	EIRJET
@@ -2090,7 +2090,7 @@ FVS	Falcon Aviation Services - United Arab Emirates	FALCON AVIATION
 FWA	Interstate Airline - Netherlands	FREEWAYAIR
 FWC	Freeway Air - Netherlands	FREEWAY
 FWD	Fair Wind Air Charter - United Arab Emirates	FAIR WIND
-FWI	Air Cara�bes - France	FRENCH WEST
+FWI	Air Cara bes - France	FRENCH WEST
 FWK	Flightworks - US	FLIGHTWORKS
 FWL	Florida West International Airways - United States	FLO WEST
 FWQ	Flight West Airlines - Australia	UNKNOWN
@@ -2152,7 +2152,7 @@ GBP	German Butterfly - Germany	BUTTERFLY
 GBR	Rader Aviation - United States	GREENBRIER AIR
 GBS	Global Air Services Nigeria - Nigeria	GLOBAL SERVE
 GBT	German Broeseltours - Germany	BROESELTOURS
-GBU	Transports A�riens de La Guinee-Bissau - Guinea Bissau	TRANSBISSAU
+GBU	Transports A riens de La Guinee-Bissau - Guinea Bissau	TRANSBISSAU
 GBX	GB Airlink - United States	ISLAND TIGER
 GCA	Grand Cargo Airlines - Poland	GRAND CARGO
 GCB	Lignes Nationales Aeriennes - Linacongo - Republic of the Congo	LINACONGO
@@ -2658,7 +2658,7 @@ ICN	Inter-Canadian - Canada	INTER-CANADIAN
 ICP	Intercopters - Spain	CHOPER
 ICR	Eagle Aero - United States	ICARUS FLIGHTS
 ICS	International Charter Services - Mexico	INTERSERVI
-ICT	Intercontinental de Aviaci�n - Colombia	CONTAVIA
+ICT	Intercontinental de Aviaci n - Colombia	CONTAVIA
 ICX	International Charter Xpress - United States	INTEX
 IDA	Indonesia Air Transport - Indonesia	INTRA
 IDC	Indice Air - Spain	INDICE
@@ -3170,7 +3170,7 @@ KYC	Av Atlantic - United States	DOLPHIN
 KYL	Kyrgyz International Airlines - Kyrgyzstan	KYRMAL
 KYM	Krym - Ukraine	CRIMEA AIR
 KYR	Sky Aeronautical Services - Mexico	SKY AERONAUTICAL
-KYV	Kibris T�rk Hava - Turkey	AIRKIBRIS
+KYV	Kibris T rk Hava - Turkey	AIRKIBRIS
 KZA	Kurzemes Avio - Russia	UNKNOWN
 KZE	Euro-Asia Air International - Kazakhstan	KAZEUR
 KZH	Zhez Air - Kazakhstan	UNKNOWN
@@ -3191,7 +3191,7 @@ LAH	L A Helicopter - United States	STAR SHIP
 LAJ	British Mediterranean Airways - United Kingdom	BEE MED
 LAK	Lennox Airways - Kenya	LENNOX
 LAL	Labrador Airways - Canada	LAB AIR
-LAM	Linhas A�reas de Mo�ambique - Mozambique	MOZAMBIQUE
+LAM	Linhas A reas de Mo ambique - Mozambique	MOZAMBIQUE
 LAN	LAN Airlines - Chile	LAN
 LAO	Lao Airlines - Lao Peoples Democratic Republic	LAO
 LAP	TAM Mercosur - Paraguay	PARAGUAYA
@@ -3199,7 +3199,7 @@ LAQ	Lebanese Air Transport - Lebanon	LAT
 LAR	Lawrence Aviation - United States	LAWRENCE
 LAS	Compania Aerea Lineas Ecuatoguineanas de Aviacion S.A. (LEAS	LEASA
 LAT	Lebanese Air Transport (Charter) - Lebanon	LEBANESE AIR
-LAU	L�neas A�reas Suramericanas - Colombia	SURAMERICANO
+LAU	L neas A reas Suramericanas - Colombia	SURAMERICANO
 LAV	Aeropostal Alas de Venezuela - VE	AEROPOSTAL
 LAW	Link Airways of Australia - Australia	UNKNOWN
 LAY	Layang-Layang Aerospace - Malaysia	LAYANG
@@ -3368,7 +3368,7 @@ LPD	UK Royal/HRH Duke of York - United Kingdom	LEOPARD
 LPE	LAN Peru - Peru	LANPERU
 LPL	Lease-a-Plane International - United States	LEASE-A-PLANE
 LPN	Laoag International Airlines - Philippines	LAOAG AIR
-LPR	L�neas A�reas Privadas Argentinas - Argentina	LAPA
+LPR	L neas A reas Privadas Argentinas - Argentina	LAPA
 LPS	Alpe Air - Slovenia	ALPS
 LPV	Air Alps Aviation - Austria	ALPAV
 LQS	Lequios Airlines Co. Ltd. - Japan	LEQUIOS
@@ -3459,7 +3459,7 @@ MAD	Maple Air Services - Canada	MAPLE AIR
 MAE	Mali Air - Austria	MALI AIREXPRESS
 MAF	Mission Aviation Fellowship - Indonesia	MISSI
 MAG	Air Margarita - Venezuela	AGATA
-MAH	Mal�v Hungarian Airlines - Hungary	MALEV
+MAH	Mal v Hungarian Airlines - Hungary	MALEV
 MAI	Max Avia - Kyrgyzstan	MAX AVIA
 MAJ	Majestic Airlines - United States	MAGIC AIR
 MAK	Macedonia	Macedonia
@@ -3723,9 +3723,9 @@ MSK	Air Sport - Bulgaria	AIR SPORT
 MSL	Marsland Aviation - Sudan	MARSLANDAIR
 MSM	Aeromas - Uruguay	AEROMAS EXPRESS
 MSN	Missionair - Spain	MISIONAIR
-MSO	Aerol�neas Mesoamericanas - Mexico	MESO AMERICANAS
+MSO	Aerol neas Mesoamericanas - Mexico	MESO AMERICANAS
 MSP	Servicio De Viglancia Aerea Del Ministerio De Seguridad Publica - Costa Rica	SEGURIDAD
-MSQ	Meta Linhas A�reas - Brazil	META
+MSQ	Meta Linhas A reas - Brazil	META
 MSR	Egyptair - Egypt	EGYPTAIR
 MSS	Morris Air Service - United States	WASATCH
 MST	Master Top Linhas Aereas - BR	MASTER
@@ -3775,7 +3775,7 @@ MWR	Raslan Air Service - Egypt	RASLAN
 MWS	Malta Wings - Malta	MALTA WINGS
 MWT	Midwest Aviation Division - United States	MIDWEST
 MWY	Mauritanienne Airways - Mauritania	MAURITANIENNE
-MXA	Mexicana de Aviaci�n - Mexico	MEXICANA
+MXA	Mexicana de Aviaci n - Mexico	MEXICANA
 MXB	Mex Blue - Mexico	MEX BLUE
 MXC	Compania Mexicargo - Mexico	MEXICARGO
 MXD	Malindo Air - Malaysia	MALINDO EXPRESS
@@ -3846,7 +3846,7 @@ NCH	Chanchangi Airlines - Nigeria	CHANCHANGI
 NCL	ACA-Ancargo Air Sociedade de Transporte de Carga Lda - Angola	ANCARGO AIR
 NCM	Nas Air - Angola	AIR BANE
 NCN	National Airlines - Chile	UNKNOWN
-NCO	Natalco Air Lines - S�o Tom� and Pr�ncipe	NATALCO
+NCO	Natalco Air Lines - S o Tom  and Pr ncipe	NATALCO
 NCP	Capital Airlines Limited - Nigeria	CAPITAL SHUTTLE
 NCS	Simpson Air Ltd - Canada	COMMUTER-CANADA
 NCT	NokScoot - Thailand	BIG BIRD
@@ -4134,7 +4134,7 @@ OOM	Zoom Airlines - Canada	ZOOM
 OOT	Out Of The Blue Air Safaris - South Africa	OOTBAS
 OPA	Opal Air - Australia	UNKNOWN
 OPC	Krystel Air Charter - United Kingdom	OPTIC
-OPE	Soci�t� 3 S Aviation (Aerope) - France	PONTOISAIR
+OPE	Soci t  3 S Aviation (Aerope) - France	PONTOISAIR
 OPS	Jet-Ops - United Arab Emirates	OPS-JET
 OPT	Flight Options - United States	OPTIONS
 OPV	Operadora de Veulos Ejectutivos - Mexico	OPERADORA DE VUELOS
@@ -4348,7 +4348,7 @@ PLB	Polynesian Blue - New Zealand	POLYBLUE
 PLC	Poland Cargo	Poland Cargo
 PLE	Pas Airlines - Venezuela	PASAIR
 PLF	Polish Air Force - Poland	POLISH AIRFORCE
-PLI	Aeroper� - Peru	Aeroperu
+PLI	Aeroper  - Peru	Aeroperu
 PLK	Pulkovo Aviation Enterprise - Russia	PULKOVO
 PLL	Air Pal - Spain	AIRPAL
 PLM	Palmair - Spain	PALMA
@@ -4491,7 +4491,7 @@ PUT	Aeroput - Serbia	UNKNOWN
 PUV	Publivoo - Portugal	PUBLIVOO
 PVA	Aerotransportes Privados - Mexico	TRANSPRIVADO
 PVE	Plan Aeronaves - MX	PLAN AERONAVES
-PVG	Privilege Style L�neas A�reas - Spain	PRIVILEGE
+PVG	Privilege Style L neas A reas - Spain	PRIVILEGE
 PVI	Panavia - Panama	UNKNOWN
 PVK	Association of Private Pilots of Kazakhstan - Kazakhstan	BORIS
 PVL	Professione VOlare - Italy	VOLARE
@@ -4552,7 +4552,7 @@ RAA	Rynes Aviation - United States	RYNES AVIATION
 RAB	Rila Airlines, Joint Stock Company - Bulgaria	RILA
 RAC	Icar Air - Bosnia and Herzegovina	TUZLA AIR
 RAD	Alada - Angola	AIR ALADA
-RAE	R�gional - France	REGIONAL EUROPE
+RAE	R gional - France	REGIONAL EUROPE
 RAF	Farnas Aviation Services - Sudan	FARNAS
 RAG	Regio Air - Germany	GERMAN LINK
 RAH	Regent Air - Canada	REGENT
@@ -4699,11 +4699,11 @@ RKH	Royal Khmer Airlines - Cambodia	KHMER AIR
 RKM	RAK Airways - United Arab Emirates	RAKAIR
 RKN	Shakh Air KZ - KZ	KANION
 RKP	Aeroclip - Kazakhstan	AEROCLIP
-RKR	Rockair, Soci�t� - Madagascar	ROCKAIR
+RKR	Rockair, Soci t  - Madagascar	ROCKAIR
 RKT	Rayani Air - Malaysia	BLUE GREEN
 RKW	Rockwell Collins Avionics - United States	ROCKWELL
 RLA	Rynko Air Line - Italy	RYNKO
-RLE	Rico Linhas A�reas - Brazil	RICO
+RLE	Rico Linhas A reas - Brazil	RICO
 RLI	Reliant Air Charter - US	RELIANT
 RLK	Air Nelson - New Zealand	UNKNOWN
 RLL	Air Leone - Sierra Leone	AEROLEONE
@@ -4769,7 +4769,7 @@ ROV	Rover Airways International - United States	ROVERAIR
 ROX	Roblex Aviation - United States	ROBLEX
 ROY	Conifair Aviation - Canada	UNKNOWN
 RPA	Republic Airlines - United States	BRICKYARD
-RPB	AeroRep�blica - Colombia	AEROREPUBLICA
+RPB	AeroRep blica - Colombia	AEROREPUBLICA
 RPC	Aerolineas Del Pacifico - Ecuador	AEROPACSA
 RPH	Republic Express Airlines - Indonesia	PUBLIC EXPRESS
 RPI	Paradise Air (Pvt) Ltd. - Sri Lanka	PARADISEAIR
@@ -4799,7 +4799,7 @@ RSG	Aero Services - Senegal	SERVO
 RSH	Air Sahara - India	SAHARA
 RSI	Air Sunshine - United States	AIR SUNSHINE
 RSK	DSWA - United States	REDSKIN
-RSL	Rio Sul Servi�os A�reos Regionais - Brazil	RIO SUL
+RSL	Rio Sul Servi os A reos Regionais - Brazil	RIO SUL
 RSM	Air Somalia - Somali Republic	AIR SOMALIA
 RSN	Royal Swazi National Airways - Swaziland	SWAZI NATIONAL
 RSO	Aero Asia International - Pakistan	AERO ASIA
@@ -5304,7 +5304,7 @@ STP	STP Airways - ST	SAOTOME AIRWAYS
 STQ	Star Air - Indonesia	STERA
 STR	Red Star - United Arab Emirates	STARLINE
 STT	Air St. Thomas - United States	PARADISE
-STU	Servicios de Transportes A�reos Fueguinos - Argentina	FUEGUINO
+STU	Servicios de Transportes A reos Fueguinos - Argentina	FUEGUINO
 STV	Stevens Virtual Airlines - Germany	STEVENS
 STW	South West Air Corporation - Philippines	SIERRA WHISKEY
 STX	Stars Away Aviation - South Africa	STARSAWAY
@@ -5555,7 +5555,7 @@ THU	Thunder Airlines - Canada	AIR THUNDER
 THY	Turkish Airlines - Turkey	THUKISH
 THZ	Trans Helicoptere Service - France	LYON HELIJET
 TIA	Trans International Airlines - United States	TRANS INTERNATIONAL
-TIB	TRIP Linhas A�reas - Brazil	TRIP
+TIB	TRIP Linhas A reas - Brazil	TRIP
 TIC	Travel International Air Charters - Zambia	TRAVEL INTERNATIONAL
 TIE	Time Air - Czech Republic	TIME AIR
 TIF	Tiffany Air Transport - Zimbabwe	TIFFANY
@@ -5664,7 +5664,7 @@ TOX	Neosiam Airways - Thailand	SKY KINGDOM
 TOY	Toyota Canada - Canada	TOYOTA
 TPA	TAMPA - Colombia	TAMPA
 TPB	Aero Tropical - Angola	AERO TROPICAL
-TPC	Air Cal�donie - France	AIRCAL
+TPC	Air Cal donie - France	AIRCAL
 TPD	Top Speed - Austria	TOP SPEED
 TPE	TAP - Transportes Aereos Presidente S/A	PRESIDENTE
 TPF	Taxis Aereos del Pacifico - Mexico	TAXIPACIFICO
@@ -5716,7 +5716,7 @@ TRX	Air Terrex - Czech Republic	TERREX
 TRY	Tristar Airlines - United States	TRISTAR AIR
 TRZ	TransMeridian Airlines - United States	TRANS-MERIDIAN
 TSA	Transair France - France	AIRTRAF
-TSB	Transports A�riens Du Benin (T.A.B.) - Benin	AIR BENIN
+TSB	Transports A riens Du Benin (T.A.B.) - Benin	AIR BENIN
 TSC	Air Transat - Canada	TRANSAT
 TSD	TAF-Linhas Aereas - Brazil	TAFI
 TSE	Transmile Air Services - Malaysia	TRANSMILE
@@ -6065,7 +6065,7 @@ VLK	Vladivostok Air - Russia	VLADAIR
 VLL	RAF Valley SAR Training Unit - United Kingdom	UNKNOWN
 VLM	VLM Airlines - Belgium	RUBENS
 VLN	Valan Limited - Moldova	VALAN
-VLO	Varig Log�stica - Brazil	VELOG
+VLO	Varig Log stica - Brazil	VELOG
 VLR	Aerolineas Villaverde - Mexico	VILLAVERDE
 VLS	Aero Virel - Mexico	VIREL
 VLT	Vertical-T Air Company - Russia	VERTICAL
@@ -6198,7 +6198,7 @@ WDR	Air Net Private Charter - United States	WIND RIDER
 WDS	Four Winds Aviation - United States	WINDS
 WDY	Chicago Express - United States	WINDY CITY
 WEA	White Eagle Aviation - Poland	WHITE EAGLE
-WEB	WebJet Linhas A�reas - Brazil	WEB-BRASIL
+WEB	WebJet Linhas A reas - Brazil	WEB-BRASIL
 WEC	Universal Airlines - United States	AIRGO
 WEL	Veles, Ukrainian Aviation Company - Ukraine	VELES
 WES	Western Express Air Lines - Canada	WEST EX
@@ -6211,7 +6211,7 @@ WFC	Swift Copters - Switzerland	SWIFTCOPTERS
 WFD	BAE Systems - United Kingdom	AVRO
 WFO	Wilbur's Flight Operations - United States	WILBURS
 WGA	Vega Air Company - Ukraine	WEGA FRANKO
-WGN Western Global Airlines - United States WESTERN GLOBAL
+WGN	Western Global Airlines - United States	WESTERN GLOBAL
 WGP	Williams Grand Prix Engineering - United Kingdom	GRAND PRIX
 WGS	Airwings oy - Finland	AIRWINGS
 WGT	Lion Air Services - United Kingdom	WORLDGATE
@@ -6221,7 +6221,7 @@ WHS	Wiking Helikopter Service - Germany	WEEKING
 WHT	White - Portugal	YOUNG SKY
 WHY	Air Sorel - Canada	AIR SOREL
 WIA	Windward Islands Airways International - Netherland	WINDWARD
-WIF	Wider�e - Norway	WIDEROE
+WIF	Wider e - Norway	WIDEROE
 WIG	Wiggins Airways - United States	WIGGINS AIRWAYS
 WIL	Aero Air - United States	WILLIAMETTE
 WIN	Winlink - Saint Lucia	WINLINK
