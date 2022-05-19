@@ -48,7 +48,7 @@ Datablock:detailed background:1447446:4.0:0:0:7
 Datablock:active item background:3223857:4.0:0:0:7
 Datablock:arrival background:1395241:4.0:0:0:7
 Datablock:departure background:4264977:4.0:0:0:7
-Datablock:AC list background:3684408:3.5:0:0:7
+Datablock:AC list background:2631720:3.5:0:0:7
 Datablock:AC list selected background:7929977:3.5:0:0:7
 Datablock:dimmed at conflict detection:5263440:3.5:0:0:7
 Datablock:SCTA warning rectangle:3289855:3.5:0:0:7
@@ -76,7 +76,7 @@ Other:free of conflict:65280:3.5:0:2:7
 Other:conflict warning:65535:3.5:0:2:7
 Other:conflict detected:255:3.5:0:2:7
 Other:route annotation:16777215:3.5:0:2:7
-Other:freetext:16777215:3.0:0:0:7
+Other:freetext:14540253:3.0:0:0:7
 Other:range rings:5395026:5.0:0:0:2
 Other:off antenna range rings:255:5.0:0:0:2
 Other:plane range rings:5921370:5.0:0:0:2
