@@ -1,6 +1,6 @@
-AIRAC cycle    : 2204
+AIRAC cycle    : 2205
 Version        : 1
-Valid (from/to): 21/APR/2022 - 19/MAY/2022
+Valid (from/to): 19/MAY/2022 - 16/JUN/2022
 
 Forum          : http://forum.navigraph.com
 
@@ -12,4 +12,4 @@ The contents of this database is dated and must not be used for real
 world navigation as it is unlawful and unsafe to do so.
 
 Parser-Version : DFD v1.0 22.0413 (c) Richard Stefan
-Files parsed on: 14/04/2022
+Files parsed on: 11/05/2022
