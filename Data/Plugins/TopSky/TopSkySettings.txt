@@ -10,6 +10,7 @@ Color_Field_Highlight=49,49,49
 Color_Foreground=255,255,255
 Color_Active_Sector=61,63,92
 Color_Inactive_Sector=37,39,67  
+System_TrueColorMode=1
 
 //Airspace
 Airspace_No_DUPE_Codes=2000,2200,1200,1000
