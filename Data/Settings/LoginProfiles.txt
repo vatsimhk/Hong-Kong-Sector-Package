@@ -1,130 +1,130 @@
 PROFILE
 PROFILE:<Initials>_OBS:300:0
 ATIS2:Hong Kong vACC Observer
-ATIS3:Charts at vatsim.hk/Charts
+ATIS3:Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:
 PROFILE:VHHH_DEL:20:2
 ATIS2:"Hong Kong Delivery"
-ATIS3:Charts at vatsim.hk/Charts
+ATIS3:Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:PDC Available. Report Callsign & Stand on first contact.
 PROFILE:VHHH_T_GND:20:3
 ATIS2:"Hong Kong Tow Truck"
-ATIS3:Charts at vatsim.hk/Charts
+ATIS3:Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:PDC Available. Report Callsign & Stand on first contact.
 PROFILE:VHHH_C_GND:20:3
 ATIS2:"Hong Kong Ground"
-ATIS3:Charts at vatsim.hk/Charts
+ATIS3:Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:PDC Available. Report Callsign & Stand on first contact.
 PROFILE:VHHH_N_GND:20:3
 ATIS2:"Hong Kong Ground"
-ATIS3:Charts at vatsim.hk/Charts
+ATIS3:Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:PDC Available. Report Callsign & Stand on first contact.
 PROFILE:VHHH_S_GND:20:3
 ATIS2:"Hong Kong Ground"
-ATIS3:Charts at vatsim.hk/Charts
+ATIS3:Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:PDC Available. Report Callsign & Stand on first contact.
 PROFILE:VHHH_N_TWR:50:4
 ATIS2:"Hong Kong Tower"
-ATIS3:Charts at vatsim.hk/Charts
+ATIS3:Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:PDC Available. Report Callsign & Aircraft Type on first contact.
 PROFILE:VHHH_S_TWR:50:4
 ATIS2:"Hong Kong Tower"
-ATIS3:Charts at vatsim.hk/Charts
+ATIS3:Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:PDC Available. Report Callsign & Aircraft Type on first contact.
 PROFILE:VHHX_DEL:20:2
 ATIS2:"Kai Tak Delivery"
-ATIS3:Charts at vatsim.hk/Charts
+ATIS3:Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:PDC Available. Report Callsign & Stand on first contact.
 PROFILE:VHHX_GND:20:3
 ATIS2:"Kai Tak Ground"
-ATIS3:Charts at vatsim.hk/Charts
+ATIS3:Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:PDC Available. Report Callsign & Stand on first contact.
 PROFILE:VHHX_TWR:50:4
 ATIS2:"Kai Tak Tower"
-ATIS3:Charts at vatsim.hk/Charts
+ATIS3:Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:PDC Available. Report Callsign & Aircraft Type on first contact.
 PROFILE:VMMC_DEL:20:2
 ATIS2:"Macau Delivery"
-ATIS3:Charts at vatsim.hk/Charts
+ATIS3:Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:PDC Available. Report Callsign & Stand on first contact.
 PROFILE:VMMC_GND:20:3
 ATIS2:"Macau Ground"
-ATIS3:Charts at vatsim.hk/Charts
+ATIS3:Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:PDC Available. Report Callsign & Stand on first contact.
 PROFILE:VMMC_TWR:50:4
 ATIS2:"Macau Tower"
-ATIS3:Charts at vatsim.hk/Charts
+ATIS3:Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:PDC Available. Report Callsign & Aircraft Type on first contact.
 PROFILE:VHHH_APP:150:5
 ATIS2:"Hong Kong Approach" | VHHH / VMMC / VHHX | 
-ATIS3:VHHH ATIS on 127.050 - Charts & Procedures at vatsim.hk
+ATIS3:VHHH ATIS on 127.050 | Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:PDC Available. Report Callsign, Altitude and Position on initial contact.
 PROFILE:VHHH_F_APP:150:5
 ATIS2:"Hong Kong Director"
-ATIS3:VHHH ATIS on 127.050 - Charts & Procedures at vatsim.hk
+ATIS3:VHHH ATIS on 127.050 | Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:PDC Available. Report Callsign ONLY on initial contact.
 PROFILE:VHHH_DEP:150:5
 ATIS2:"Hong Kong Departure"
-ATIS3:VHHH ATIS on 127.050 - Charts & Procedures at vatsim.hk
+ATIS3:VHHH ATIS on 127.050 | Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:PDC Available. Report Callsign, Altitude and Position on initial contact.
 PROFILE:VHHH_H_DEP:150:5
 ATIS2:"Hong Kong Departure"
-ATIS3:VHHH ATIS on 127.050 - Charts & Procedures at vatsim.hk
+ATIS3:VHHH ATIS on 127.050 | Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:PDC Available. Report Callsign, Altitude and Position on initial contact.
 PROFILE:VHHH_Z_APP:60:5
 ATIS2:"Hong Kong Zone" Covering VFR traffic only!
-ATIS3:Charts & Procedures at vatsim.hk
+ATIS3:Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:Report Callsign, Altitude and Position on initial contact.
 PROFILE:VHHH_P_APP:150:5
 ATIS2:"Hong Kong Precision" | VHHH & VMMC |
-ATIS3:VHHH ATIS on 127.050 - Charts & Procedures at vatsim.hk
+ATIS3:VHHH ATIS on 127.050 | Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:PDC Available. Report Callsign, Altitude and Position on initial contact.
 PROFILE:VHHH_E_APP:150:5
 ATIS2:"Hong Kong Radar" 
-ATIS3:VHHH ATIS on 127.050 - Charts & Procedures at vatsim.hk
+ATIS3:VHHH ATIS on 127.050 | Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:PDC Available. Report Callsign, Altitude and Position on initial contact.
 PROFILE:VHHH_S_APP:150:5
 ATIS2:"Hong Kong Radar" 
-ATIS3:VHHH ATIS on 127.050 - Charts & Procedures at vatsim.hk
+ATIS3:VHHH ATIS on 127.050 | Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:PDC Available. Report Callsign, Altitude and Position on initial contact.
 PROFILE:VHHH_W_APP:150:5
 ATIS2:"Hong Kong Radar" 
-ATIS3:VHHH ATIS on 127.050 - Charts & Procedures at vatsim.hk
+ATIS3:VHHH ATIS on 127.050 | Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:PDC Available. Report Callsign, Altitude and Position on initial contact.
 PROFILE:VMMC_APP:150:5
 ATIS2:"Hong Kong Radar" (Macau Sector)
-ATIS3:VMMC ATIS on 126.400 - Charts & Procedures at vatsim.hk
+ATIS3:VMMC ATIS on 126.400 | Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:Report Callsign, Altitude and Position on initial contact.
 PROFILE:HKG_E_CTR:600:6
 ATIS2:"Hong Kong Radar"
-ATIS3:Charts & Procedures at vatsim.hk
+ATIS3:Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:Report Callsign, Altitude and Position on initial contact.
 PROFILE:HKG_E1_CTR:600:6
 ATIS2:"Hong Kong Radar"
-ATIS3:Charts & Procedures at vatsim.hk
+ATIS3:Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:PDC Available. Report Callsign, Altitude and Position on initial contact.
 PROFILE:HKG_S_CTR:600:6
 ATIS2:"Hong Kong Radar"
-ATIS3:Charts & Procedures at vatsim.hk
+ATIS3:Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:PDC Available. Report Callsign, Altitude and Position on initial contact.
 PROFILE:HKG_S1_CTR:600:6
 ATIS2:"Hong Kong Radar"
-ATIS3:Charts & Procedures at vatsim.hk
+ATIS3:Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:PDC Available. Report Callsign, Altitude and Position on initial contact.
 PROFILE:HKG_W_CTR:600:6
 ATIS2:"Hong Kong Radar"
-ATIS3:Charts & Procedures at vatsim.hk
+ATIS3:Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:PDC Available. Report Callsign, Altitude and Position on initial contact.
 PROFILE:HKG_W1_CTR:600:6
 ATIS2:"Hong Kong Radar"
-ATIS3:Charts & Procedures at vatsim.hk
+ATIS3:Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:PDC Available. Report Callsign, Altitude and Position on initial contact.
 PROFILE:HKG_W2_CTR:600:6
 ATIS2:"Hong Kong Radar"
-ATIS3:Charts & Procedures at vatsim.hk
+ATIS3:Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:PDC Available. Report Callsign, Altitude and Position on initial contact.
 PROFILE:VHSK_TWR:50:4
 ATIS2:"Shek Kong Tower"
-ATIS3:Charts & Procedures at vatsim.hk
+ATIS3:Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:
 END
