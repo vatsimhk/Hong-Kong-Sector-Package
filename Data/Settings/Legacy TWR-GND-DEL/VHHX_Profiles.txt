@@ -6,13 +6,13 @@ ATIS4:
 PROFILE:VHHX_DEL:20:2
 ATIS2:"Kai Tak Delivery"
 ATIS3:Up to date Charts & Procedures - www.ais.gov.hk
-ATIS4:PDC Available. Report Callsign & Stand on first contact.
+ATIS4:Give feedback on my service - hq.vat-sea.com/atc/feedback
 PROFILE:VHHX_GND:20:3
 ATIS2:"Kai Tak Ground"
 ATIS3:Up to date Charts & Procedures - www.ais.gov.hk
-ATIS4:PDC Available. Report Callsign & Stand on first contact.
+ATIS4:Give feedback on my service - hq.vat-sea.com/atc/feedback
 PROFILE:VHHX_TWR:50:4
 ATIS2:"Kai Tak Tower"
 ATIS3:Up to date Charts & Procedures - www.ais.gov.hk
-ATIS4:PDC Available. Report Callsign & Aircraft Type on first contact.
+ATIS4:Give feedback on my service - hq.vat-sea.com/atc/feedback
 END

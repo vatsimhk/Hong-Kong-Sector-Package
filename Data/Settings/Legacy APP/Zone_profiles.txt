@@ -2,43 +2,43 @@ PROFILE
 PROFILE:VHHH_APP:150:5
 ATIS2:"Hong Kong Approach" | VHHH / VMMC / VHHX | 
 ATIS3:VHHH ATIS on 127.050 - Up to date Charts & Procedures - www.ais.gov.hk
-ATIS4:PDC Available. Report Callsign, Altitude and Position on initial contact.
+ATIS4:Give feedback on my service - hq.vat-sea.com/atc/feedback
 PROFILE:VHHH_F_APP:150:5
 ATIS2:"Hong Kong Director"
 ATIS3:VHHH ATIS on 127.050 - Up to date Charts & Procedures - www.ais.gov.hk
-ATIS4:PDC Available. Report Callsign ONLY on initial contact.
+ATIS4:Give feedback on my service - hq.vat-sea.com/atc/feedback
 PROFILE:VHHH_DEP:150:5
 ATIS2:"Hong Kong Departures"
 ATIS3:VHHH ATIS on 127.050 - Up to date Charts & Procedures - www.ais.gov.hk
-ATIS4:PDC Available. Report Callsign, Altitude and Position on initial contact.
+ATIS4:Give feedback on my service - hq.vat-sea.com/atc/feedback
 PROFILE:VHHH_H_DEP:150:5
 ATIS2:"Hong Kong Departures" | VHHH / VMMC / VHHX |
 ATIS3:VHHH ATIS on 127.050 - Up to date Charts & Procedures - www.ais.gov.hk
-ATIS4:PDC Available. Report Callsign, Altitude and Position on initial contact.
+ATIS4:Give feedback on my service - hq.vat-sea.com/atc/feedback
 PROFILE:VHHH_Z_APP:60:5
 ATIS2:"Hong Kong Zone" Covering VFR traffic only!
 ATIS3:Up to date Charts & Procedures - www.ais.gov.hk
-ATIS4:Report Callsign, Altitude and Position on initial contact.
+ATIS4:Give feedback on my service - hq.vat-sea.com/atc/feedback
 PROFILE:VHHH_P_APP:150:5
 ATIS2:"Hong Kong Precision" | VHHH & VMMC |
 ATIS3:VHHH ATIS on 127.050 - Up to date Charts & Procedures - www.ais.gov.hk
-ATIS4:PDC Available. Report Callsign, Altitude and Position on initial contact.
+ATIS4:Give feedback on my service - hq.vat-sea.com/atc/feedback
 PROFILE:VHHH_E_APP:150:5
 ATIS2:"Hong Kong Radar" 
 ATIS3:VHHH ATIS on 127.050 - Up to date Charts & Procedures - www.ais.gov.hk
-ATIS4:PDC Available. Report Callsign, Altitude and Position on initial contact.
+ATIS4:Give feedback on my service - hq.vat-sea.com/atc/feedback
 PROFILE:VHHH_S_APP:150:5
 ATIS2:"Hong Kong Radar" 
 ATIS3:VHHH ATIS on 127.050 - Up to date Charts & Procedures - www.ais.gov.hk
-ATIS4:PDC Available. Report Callsign, Altitude and Position on initial contact.
+ATIS4:Give feedback on my service - hq.vat-sea.com/atc/feedback
 PROFILE:VHHH_W_APP:150:5
 ATIS2:"Hong Kong Radar" 
 ATIS3:VHHH ATIS on 127.050 - Up to date Charts & Procedures - www.ais.gov.hk
-ATIS4:PDC Available. Report Callsign, Altitude and Position on initial contact.
+ATIS4:Give feedback on my service - hq.vat-sea.com/atc/feedback
 PROFILE:VMMC_APP:150:5
 ATIS2:"Hong Kong Radar" (Macau Sector)
 ATIS3:VMMC ATIS on 126.400 - Up to date Charts & Procedures - www.ais.gov.hk
-ATIS4:Report Callsign, Altitude and Position on initial contact.
+ATIS4:Give feedback on my service - hq.vat-sea.com/atc/feedback
 PROFILE:VHSK_TWR:50:4
 ATIS2:$radioname / Visual Identification Only
 ATIS3: [Callsign], [Exit/Entry Point] [Alt]
