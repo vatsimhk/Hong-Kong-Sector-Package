@@ -14,8 +14,13 @@ Airports:VMMC:name
 Airports:VMMC:symbol
 Airports:VMMH:name
 Airports:VMMH:symbol
+Airports:ZGSD:name
+Airports:ZGSD:symbol
+Airports:ZGSZ:name
+Airports:ZGSZ:symbol
 ARTCC low boundary:Tower CTR - VHHX | Kai Tak:
 ARTCC low boundary:Tower CTR - VMMC | Macau:
+ARTCC low boundary:Tower CTR South - VHHH | Hong Kong:
 Free Text:Restricted Airspace\VHD11 - SFC - 2000FT:freetext
 Free Text:Restricted Airspace\VHD5 - GND - 12000FT:freetext
 Free Text:Restricted Airspace\VHP8 - GND - 1000FT:freetext
@@ -72,6 +77,16 @@ Geo:Restricted Airspace:
 Geo:VFR Zones:
 Geo:VHHK Landmark Hong Kong Coastline:
 Geo:VHSK Groundlayout Shek Kong Base:
+Low airways:TRACK-D:line
+Low airways:TRACK-D:name
+Low airways:TRACK-H:line
+Low airways:TRACK-H:name
+Low airways:TRACK-VH:line
+Low airways:TRACK-VH:name
+Low airways:TRACK-VW:line
+Low airways:TRACK-VW:name
+Low airways:VHHH-ZGSZ:line
+Low airways:VMMC-ZGSZ:line
 Regions:VHHH Hong Kong:polygon
 Regions:VHHH Hong Kong (3rd Runway Expansion):polygon
 Regions:VHHX Kai Tak:polygon
@@ -82,6 +97,7 @@ Runways:VHHH 07C-25C:centerline
 Runways:VHHH 07R-25L:centerline
 Runways:VHHX 13-31:centerline
 Runways:VMMC 16-34:centerline
+Sids:VHHH/1000M LINE SOUTH RWY:
 Sids:VHHH/HELI DEP/ARR TRACK K:
 Sids:VHHH/HELI TRANSIT ROUTE A:
 Sids:VHHH/HELI TRANSIT ROUTE B:
@@ -104,7 +120,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Hong Kong Radar TOPSKY
-WINDOWAREA:22.096592:113.637199:22.588328:114.604939
+WINDOWAREA:21.933286:113.292216:22.751087:114.804310
 PLUGIN:CoFrance:RAD:1
 PLUGIN:CoFrance:VV:1
 PLUGIN:CoFrance:VVTIME:1
