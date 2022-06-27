@@ -2,7 +2,7 @@
 This package contains the official sector files exclusively for use by controllers at VATSIM HK. 
 
 ## How Do I Download the Package?
-Navigate to the [releases](https://github.com/vatsimhk/Hong-Kong-Sector-Package/releases) section, then scroll down below the changelog and click the first zip file to download (not source code). Extract and open Euroscope as normal. **sectors.vatsim.hk will soon be deprecated and will NOT receive further updates.**
+Navigate to the [releases](https://github.com/vatsimhk/Hong-Kong-Sector-Package/releases) section, then scroll down below the changelog and click the first zip file to download (not source code). Extract and open Euroscope as normal.
 
 ## What are Legacy Profiles?
 **Controllers are recommended to use Hong Kong TOPSKY.prf to control** as it contains many useful plugins that will enhance the controller experience. **ALL NEW trainees should begin training with the plugins.** However, to cater to older controllers who may not prefer the plugins, legacy profiles without TopSky will continue to receive minimal updates. 

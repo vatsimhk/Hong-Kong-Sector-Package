@@ -23,135 +23,127 @@
 .nopdc $aircraft PDC REJECTED � FLIGHT PLAN INVALID � REVERT TO VOICE PROCEDURES.
 ;Dep Clearence:
 ;HONGKONG Chek Lap Kok SID
-.depc Cleared to destination $arr, flight plan route, $sid departure, Runway $deprwy, Climb Via SID $temp, squawk $asquawk
+.depc Cleared to destination $arr, $sid departure, Runway $deprwy, flight plan route, climb via SID $temp, squawk $asquawk
 ;RADAR VECTORS
-.rdrdep Cleared to destination $arr, flight plan route, radar vectors departure, Runway $deprwy, initial climb 5000 ft, squawk $asquawk
+.rdrdep Cleared to destination $arr, radar vectors departure, Runway $deprwy, flight plan route, initial climb $temp, squawk $asquawk
 ;ATENA
-.atena2a Cleared to destination $arr, flight plan route, ATENA2A dep, RWY07R, climb via SID 5000ft, squawk $asquawk
-.atena3c Cleared to destination $arr, flight plan route, ATENA3C dep, RWY07C, climb via SID 5000ft, squawk $asquawk
-.atena1x Cleared to destination $arr, flight plan route, ATENA1X dep, RWY07R, climb via SID 5000ft, squawk $asquawk
-.atena1y Cleared to destination $arr, flight plan route, ATENA1Y dep, RWY07C, climb via SID 5000ft, squawk $asquawk
+.atena2a Cleared to destination $arr, ATENA2A dep, RWY07R, flight plan route, climb via SID 5000ft, squawk $asquawk
+.atena3c Cleared to destination $arr, ATENA3C dep, RWY07C, flight plan route, climb via SID 5000ft, squawk $asquawk
+.atena1x Cleared to destination $arr, ATENA1X dep, RWY07R, flight plan route, climb via SID 5000ft, squawk $asquawk
+.atena1y Cleared to destination $arr, ATENA1Y dep, RWY07C, flight plan route, climb via SID 5000ft, squawk $asquawk
 ;BEKOL
-.bekol3a Cleared to destination $arr, flight plan route, BEKOL3A dep, RWY07R, climb via SID 5000ft, squawk $asquawk
-.bekol2b Cleared to destination $arr, flight plan route, BEKOL2B dep, RWY25L, climb via SID 5000ft, squawk $asquawk
-.bekol4c Cleared to destination $arr, flight plan route, BEKOL4C dep, RWY07C, climb via SID 5000ft, squawk $asquawk
-.bekol3d Cleared to destination $arr, flight plan route, BEKOL3D dep, RWY25C, climb via SID 5000ft, squawk $asquawk
+.bekol3a Cleared to destination $arr, BEKOL3A dep, RWY07R, flight plan route, climb via SID 5000ft, squawk $asquawk
+.bekol2b Cleared to destination $arr, BEKOL2B dep, RWY25L, flight plan route, climb via SID 5000ft, squawk $asquawk
+.bekol4c Cleared to destination $arr, BEKOL4C dep, RWY07C, flight plan route, climb via SID 5000ft, squawk $asquawk
+.bekol3d Cleared to destination $arr, BEKOL3D dep, RWY25C, flight plan route, climb via SID 5000ft, squawk $asquawk
 ;LAKES
-.lakes3a Cleared to destination $arr, flight plan route, LAKES3A dep, RWY07R, climb via SID 5000ft, squawk $asquawk
-.lakes2b Cleared to destination $arr, flight plan route, LAKES2B dep, RWY25L, climb via SID 5000ft, squawk $asquawk
-.lakes4c Cleared to destination $arr, flight plan route, LAKES4C dep, RWY07C, climb via SID 5000ft, squawk $asquawk
-.lakes3d Cleared to destination $arr, flight plan route, LAKES3D dep, RWY25C, climb via SID 5000ft, squawk $asquawk
+.lakes3a Cleared to destination $arr, LAKES3A dep, RWY07R, flight plan route, climb via SID 5000ft, squawk $asquawk
+.lakes2b Cleared to destination $arr, LAKES2B dep, RWY25L, flight plan route, climb via SID 5000ft, squawk $asquawk
+.lakes4c Cleared to destination $arr, LAKES4C dep, RWY07C, flight plan route, climb via SID 5000ft, squawk $asquawk
+.lakes3d Cleared to destination $arr, LAKES3D dep, RWY25C, flight plan route, climb via SID 5000ft, squawk $asquawk
 ;OCEAN
-.ocean2a Cleared to destination $arr, flight plan route, OCEAN2A dep, RWY07R, climb via SID 5000ft, squawk $asquawk
-.ocean2b Cleared to destination $arr, flight plan route, OCEAN2B dep, RWY25L, climb via SID 5000ft, squawk $asquawk
-.ocean3c Cleared to destination $arr, flight plan route, OCEAN3C dep, RWY07C, climb via SID 5000ft, squawk $asquawk
-.ocean3d Cleared to destination $arr, flight plan route, OCEAN3D dep, RWY25C, climb via SID 5000ft, squawk $asquawk
+.ocean2a Cleared to destination $arr, OCEAN2A dep, RWY07R, flight plan route, climb via SID 5000ft, squawk $asquawk
+.ocean2b Cleared to destination $arr, OCEAN2B dep, RWY25L, flight plan route, climb via SID 5000ft, squawk $asquawk
+.ocean3c Cleared to destination $arr, OCEAN3C dep, RWY07C, flight plan route, climb via SID 5000ft, squawk $asquawk
+.ocean3d Cleared to destination $arr, OCEAN3D dep, RWY25C, flight plan route, climb via SID 5000ft, squawk $asquawk
 ;VENGO
-.VENGO1a Cleared to destination $arr, flight plan route, VENGO1A dep, RWY07R, climb via SID 5000ft, squawk $asquawk
-.VENGO2c Cleared to destination $arr, flight plan route, VENGO2C dep, RWY07C, climb via SID 5000ft, squawk $asquawk
-.VENGO1x Cleared to destination $arr, flight plan route, VENGO1Y dep, RWY07R, climb via SID 5000ft, squawk $asquawk
-.VENGO1y Cleared to destination $arr, flight plan route, VENGO1Y dep, RWY07C, climb via SID 5000ft, squawk $asquawk
+.vengo1a Cleared to destination $arr, VENGO1A dep, RWY07R, flight plan route, climb via SID 5000ft, squawk $asquawk
+.vengo2c Cleared to destination $arr, VENGO2C dep, RWY07C, flight plan route, climb via SID 5000ft, squawk $asquawk
+.vengo1x Cleared to destination $arr, VENGO1Y dep, RWY07R, flight plan route, climb via SID 5000ft, squawk $asquawk
+.vengo1y Cleared to destination $arr, VENGO1Y dep, RWY07C, flight plan route, climb via SID 5000ft, squawk $asquawk
 ;RASSE
-.rasse1x Cleared to destination $arr, flight plan route, RASSE1X dep, RWY07R, climb via SID 5000ft, squawk $asquawk
-.rasse1y Cleared to destination $arr, flight plan route, RASSE1Y dep, RWY07C, climb via SID 5000ft, squawk $asquawk
-.rasse3a Cleared to destination $arr, flight plan route, RASSE3A dep, RWY07R, climb via SID 5000ft, squawk $asquawk
-.rasse4c Cleared to destination $arr, flight plan route, RASSE3C dep, RWY07C, climb via SID 5000ft, squawk $asquawk
+.rasse1x Cleared to destination $arr, RASSE1X dep, RWY07R, flight plan route, climb via SID 5000ft, squawk $asquawk
+.rasse1y Cleared to destination $arr, RASSE1Y dep, RWY07C, flight plan route, climb via SID 5000ft, squawk $asquawk
+.rasse3a Cleared to destination $arr, RASSE3A dep, RWY07R, flight plan route, climb via SID 5000ft, squawk $asquawk
+.rasse4c Cleared to destination $arr, RASSE3C dep, RWY07C, flight plan route, climb via SID 5000ft, squawk $asquawk
 ;SKATE
-.skate1x Cleared to destination $arr, flight plan route, SKATE1X dep, RWY07R, climb via SID 5000ft, squawk $asquawk
-.skate1y Cleared to destination $arr, flight plan route, SKATE1Y dep, RWY07C, climb via SID 5000ft, squawk $asquawk
-.skate3a Cleared to destination $arr, flight plan route, SKATE3A dep, RWY07R, climb via SID 5000ft, squawk $asquawk
-.skate4c Cleared to destination $arr, flight plan route, SKATE4C dep, RWY07C, climb via SID 5000ft, squawk $asquawk
+.skate1x Cleared to destination $arr, SKATE1X dep, RWY07R, flight plan route, climb via SID 5000ft, squawk $asquawk
+.skate1y Cleared to destination $arr, SKATE1Y dep, RWY07C, flight plan route, climb via SID 5000ft, squawk $asquawk
+.skate3a Cleared to destination $arr, SKATE3A dep, RWY07R, flight plan route, climb via SID 5000ft, squawk $asquawk
+.skate4c Cleared to destination $arr, SKATE4C dep, RWY07C, flight plan route, climb via SID 5000ft, squawk $asquawk
 ;PECAN
-.pecan1a Cleared to destination $arr, flight plan route, PECAN1A dep, RWY07R, climb via SID 5000ft, squawk $asquawk
-.pecan2c Cleared to destination $arr, flight plan route, PECAN2C dep, RWY07C, climb via SID 5000ft, squawk $asquawk
-.pecan1b Cleared to destination $arr, flight plan route, PECAN1B dep, RWY25L, climb via SID 5000ft, squawk $asquawk
-.pecan2d Cleared to destination $arr, flight plan route, PECAN2D dep, RWY25C, climb via SID 5000ft, squawk $asquawk
-.pecan1x Cleared to destination $arr, flight plan route, PECAN1X dep, RWY07R, climb via SID 5000ft, squawk $asquawk
-.pecan1y Cleared to destination $arr, flight plan route, PECAN1Y dep, RWY07C, climb via SID 5000ft, squawk $asquawk
+.pecan1a Cleared to destination $arr, PECAN1A dep, RWY07R, flight plan route, climb via SID 5000ft, squawk $asquawk
+.pecan2c Cleared to destination $arr, PECAN2C dep, RWY07C, flight plan route, climb via SID 5000ft, squawk $asquawk
+.pecan1b Cleared to destination $arr, PECAN1B dep, RWY25L, flight plan route, climb via SID 5000ft, squawk $asquawk
+.pecan2d Cleared to destination $arr, PECAN2D dep, RWY25C, flight plan route, climb via SID 5000ft, squawk $asquawk
+.pecan1x Cleared to destination $arr, PECAN1X dep, RWY07R, flight plan route, climb via SID 5000ft, squawk $asquawk
+.pecan1y Cleared to destination $arr, PECAN1Y dep, RWY07C, flight plan route, climb via SID 5000ft, squawk $asquawk
 ;Hong Kong Kai Tak
 ;BEKOL
-.bekol1akt Cleared to $arr, BEKOL1A dep on RWY13 Kai Tak, climb via SID 7000ft, squawk $squawk
-.bekol2ckt Cleared to $arr, BEKOL2C dep on RWY31 Kai Tak, climb via SID 7000ft, squawk $squawk
+.bekol1akt Cleared to $arr, BEKOL1A dep on RWY13 Kai Tak, flight plan route, climb via SID 7000ft, squawk $squawk
+.bekol2ckt Cleared to $arr, BEKOL2C dep on RWY31 Kai Tak, flight plan route, climb via SID 7000ft, squawk $squawk
 ;DOTMI
-.dotmi1akt Cleared to $arr, DOTMI1A dep on RWY13 Kai Tak, climb via SID 7000ft, squawk $squawk
-.dotmi2ckt Cleared to $arr, DOTMI2C dep on RWY31 Kai Tak, climb via SID 7000ft, squawk $squawk
+.dotmi1akt Cleared to $arr, DOTMI1A dep on RWY13 Kai Tak, flight plan route, climb via SID 7000ft, squawk $squawk
+.dotmi2ckt Cleared to $arr, DOTMI2C dep on RWY31 Kai Tak, flight plan route, climb via SID 7000ft, squawk $squawk
 ;ELATO
-.elato1akt Cleared to $arr, ELATO1A dep on RWY13 Kai Tak, climb via SID 7000ft, squawk $squawk
-.elato2ckt Cleared to $arr, ELATO2C dep on RWY31 Kai Tak, climb via SID 7000ft, squawk $squawk
+.elato1akt Cleared to $arr, ELATO1A dep on RWY13 Kai Tak, flight plan route, climb via SID 7000ft, squawk $squawk
+.elato2ckt Cleared to $arr, ELATO2C dep on RWY31 Kai Tak, flight plan route, climb via SID 7000ft, squawk $squawk
 ;ENVAR
-.envar1akt Cleared to $arr, ENVAR1A dep on RWY13 Kai Tak, climb via SID 7000ft, squawk $squawk
-.envar2ckt Cleared to $arr, ENVAR2C dep on RWY31 Kai Tak, climb via SID 7000ft, squawk $squawk
+.envar1akt Cleared to $arr, ENVAR1A dep on RWY13 Kai Tak, flight plan route, climb via SID 7000ft, squawk $squawk
+.envar2ckt Cleared to $arr, ENVAR2C dep on RWY31 Kai Tak, flight plan route, climb via SID 7000ft, squawk $squawk
 ;NOMAN
-.noman1akt Cleared to $arr, NOMAN1A dep on RWY13 Kai Tak, climb via SID 7000ft, squawk $squawk
-.noman2ckt Cleared to $arr, NOMAN2C dep on RWY31 Kai Tak, climb via SID 7000ft, squawk $squawk
+.noman1akt Cleared to $arr, NOMAN1A dep on RWY13 Kai Tak, flight plan route, climb via SID 7000ft, squawk $squawk
+.noman2ckt Cleared to $arr, NOMAN2C dep on RWY31 Kai Tak, flight plan route, climb via SID 7000ft, squawk $squawk
 ;SABNO
-.sabno1akt Cleared to $arr, SABNO1A dep on RWY13 Kai Tak, climb via SID 7000ft, squawk $squawk
-.sabno2ckt Cleared to $arr, SABNO2C dep on RWY31 Kai Tak, climb via SID 7000ft, squawk $squawk
+.sabno1akt Cleared to $arr, SABNO1A dep on RWY13 Kai Tak, flight plan route, climb via SID 7000ft, squawk $squawk
+.sabno2ckt Cleared to $arr, SABNO2C dep on RWY31 Kai Tak, flight plan route, climb via SID 7000ft, squawk $squawk
 ;DUMOL
-.dumol1akt Cleared to $arr, DUMOL1A dep on RWY13 Kai Tak, climb via SID 7000ft, squawk $squawk
-.dumol2ckt Cleared to $arr, DUMOL2C dep on RWY31 Kai Tak, climb via SID 7000ft, squawk $squawk
+.dumol1akt Cleared to $arr, DUMOL1A dep on RWY13 Kai Tak, flight plan route, climb via SID 7000ft, squawk $squawk
+.dumol2ckt Cleared to $arr, DUMOL2C dep on RWY31 Kai Tak, flight plan route, climb via SID 7000ft, squawk $squawk
 ;IDOSI
-.idosi1akt Cleared to $arr, IDOSI1A dep on RWY13 Kai Tak, climb via SID 7000ft, squawk $squawk
-.idosi2ckt Cleared to $arr, IDOSI2C dep on RWY31 Kai Tak, climb via SID 7000ft, squawk $squawk
+.idosi1akt Cleared to $arr, IDOSI1A dep on RWY13 Kai Tak, flight plan route, climb via SID 7000ft, squawk $squawk
+.idosi2ckt Cleared to $arr, IDOSI2C dep on RWY31 Kai Tak, flight plan route, climb via SID 7000ft, squawk $squawk
 ;DAGON
-.dagon1akt Cleared to $arr, DAGON1A dep on RWY13 Kai Tak, climb via SID 7000ft, squawk $squawk
-.dagon2ckt Cleared to $arr, DAGON2C dep on RWY31 Kai Tak, climb via SID 7000ft, squawk $squawk
+.dagon1akt Cleared to $arr, DAGON1A dep on RWY13 Kai Tak, flight plan route, climb via SID 7000ft, squawk $squawk
+.dagon2ckt Cleared to $arr, DAGON2C dep on RWY31 Kai Tak, flight plan route, climb via SID 7000ft, squawk $squawk
 ;SIKOU
-.SIKOU1akt Cleared to $arr, SIKOU1A dep on RWY13 Kai Tak, climb via SID 7000ft, squawk $squawk
-.SIKOU2ckt Cleared to $arr, SIKOU2C dep on RWY31 Kai Tak, climb via SID 7000ft, squawk $squawk
+.SIKOU1akt Cleared to $arr, SIKOU1A dep on RWY13 Kai Tak, flight plan route, climb via SID 7000ft, squawk $squawk
+.SIKOU2ckt Cleared to $arr, SIKOU2C dep on RWY31 Kai Tak, flight plan route, climb via SID 7000ft, squawk $squawk
 ;MACAU SID
 ;ALLEY
-.alley2t Cleared to destination $arr, flight plan route, ALLEY2T dep, squawk $squawk
-.alley2u Cleared to destination $arr, flight plan route, ALLEY2U dep, squawk $squawk
-.alley1v Cleared to destination $arr, flight plan route, ALLEY1V dep, squawk $squawk
-.alley1w Cleared to destination $arr, flight plan route, ALLEY1W dep, squawk $squawk
-.alley2p Cleared to destination $arr, flight plan route, ALLEY2P dep, squawk $squawk
+.alley2t Cleared to destination $arr, ALLEY2T dep, runway 34, flight plan route, climb via SID 6000ft, squawk $squawk
+.alley2u Cleared to destination $arr, ALLEY2U dep, runway 34, flight plan route, climb via SID 6000ft, squawk $squawk
+.alley1v Cleared to destination $arr, ALLEY1V dep, runway 34, flight plan route, climb via SID 6000ft, squawk $squawk
+.alley1w Cleared to destination $arr, ALLEY1W dep, runway 34, flight plan route, climb via SID 6000ft, squawk $squawk
+.alley2p Cleared to destination $arr, ALLEY2P dep, runway 16, flight plan route, climb via SID 4000ft, squawk $squawk
 ;BIGRO
-.bigro5d Cleared to destination $arr, flight plan route, BIGRO5D dep, squawk $squawk
-.bigro6d Cleared to destination $arr, flight plan route, BIGRO6D dep, squawk $squawk
-.bigro7d Cleared to destination $arr, flight plan route, BIGRO7D dep, squawk $squawk
-.bigro9d Cleared to destination $arr, flight plan route, BIGRO9D dep, squawk $squawk
-.bigro1d Cleared to destination $arr, flight plan route, BIGRO1D dep, squawk $squawk
-.bigro2d Cleared to destination $arr, flight plan route, BIGRO2D dep, squawk $squawk
+.bigro5d Cleared to destination $arr, BIGRO5D dep, runway 34, flight plan route, climb via SID 6000ft, squawk $squawk
+.bigro7d Cleared to destination $arr, BIGRO7D dep, runway 34, flight plan route, climb via SID 6000ft, squawk $squawk
+.bigro9d Cleared to destination $arr, BIGRO9D dep, runway 16, flight plan route, climb via SID 4000ft, squawk $squawk
+.bigro2d Cleared to destination $arr, BIGRO2D dep, runway 16, flight plan route, climb via SID 4000ft, squawk $squawk
 ;CONGA
-.conga2t Cleared to destination $arr, flight plan route, CONGA2T dep, squawk $squawk
-.conga2u Cleared to destination $arr, flight plan route, CONGA2U dep, squawk $squawk
-.conga1v Cleared to destination $arr, flight plan route, CONGA1V dep, squawk $squawk
-.conga1w Cleared to destination $arr, flight plan route, CONGA1W dep, squawk $squawk
-.conga2p Cleared to destination $arr, flight plan route, CONGA2P dep, squawk $squawk
+.conga2t Cleared to destination $arr, CONGA2T dep, runway 34, flight plan route, climb via SID 6000ft, squawk $squawk
+.conga2u Cleared to destination $arr, CONGA2U dep, runway 34, flight plan route, climb via SID 6000ft, squawk $squawk
+.conga1v Cleared to destination $arr, CONGA1V dep, runway 34, flight plan route, climb via SID 6000ft, squawk $squawk
+.conga1w Cleared to destination $arr, CONGA1W dep, runway 34, flight plan route, climb via SID 6000ft, squawk $squawk
+.conga2p Cleared to destination $arr, CONGA2P dep, runway 16, flight plan route, climb via SID 4000ft, squawk $squawk
 ;GRUPA
-.grupa2t Cleared to destination $arr, flight plan route, GRUPA2T dep, squawk $squawk
-.grupa2u Cleared to destination $arr, flight plan route, GRUPA2U dep, squawk $squawk
-.grupa1v Cleared to destination $arr, flight plan route, GRUPA1V dep, squawk $squawk
-.grupa1w Cleared to destination $arr, flight plan route, GRUPA1W dep, squawk $squawk
-.grupa2p Cleared to destination $arr, flight plan route, GRUPA2P dep, squawk $squawk
+.grupa2t Cleared to destination $arr, GRUPA2T dep, runway 34, flight plan route, climb via SID 6000ft, squawk $squawk
+.grupa2u Cleared to destination $arr, GRUPA2U dep, runway 34, flight plan route, climb via SID 6000ft, squawk $squawk
+.grupa1v Cleared to destination $arr, GRUPA1V dep, runway 34, flight plan route, climb via SID 6000ft, squawk $squawk
+.grupa1w Cleared to destination $arr, GRUPA1W dep, runway 34, flight plan route, climb via SID 6000ft, squawk $squawk
+.grupa2p Cleared to destination $arr, GRUPA2P dep, runway 16, flight plan route, climb via SID 4000ft, squawk $squawk
 ;NLG
-.nlg5d Cleared to destination $arr, flight plan route, NLG5D dep, squawk $squawk
-.nlg6d Cleared to destination $arr, flight plan route, NLG6D dep, squawk $squawk
-.nlg7d Cleared to destination $arr, flight plan route, NLG7D dep, squawk $squawk
-.nlg9d Cleared to destination $arr, flight plan route, NLG9D dep, squawk $squawk
-.nlg1d Cleared to destination $arr, flight plan route, NLG1D dep, squawk $squawk
-.nlg2d Cleared to destination $arr, flight plan route, NLG2D dep, squawk $squawk
+.nlg5d Cleared to destination $arr, NLG5D dep, runway 34, flight plan route, climb via SID 6000ft, squawk $squawk
+.nlg7d Cleared to destination $arr, NLG7D dep, runway 34, flight plan route, climb via SID 6000ft, squawk $squawk
+.nlg9d Cleared to destination $arr, NLG9D dep, runway 16, flight plan route, climb via SID 4000ft, squawk $squawk
+.nlg2d Cleared to destination $arr, NLG2D dep, runway 16, flight plan route, climb via SID 4000ft, squawk $squawk
 ;SHL
-.shl5d Cleared to destination $arr, flight plan route, SHL5D dep, squawk $squawk
-.shl6d Cleared to destination $arr, flight plan route, SHL6D dep, squawk $squawk
-.shl7d Cleared to destination $arr, flight plan route, SHL7D dep, squawk $squawk
-.shl9d Cleared to destination $arr, flight plan route, SHL9D dep, squawk $squawk
-.shl1d Cleared to destination $arr, flight plan route, SHL1D dep, squawk $squawk
-.shl2d Cleared to destination $arr, flight plan route, SHL2D dep, squawk $squawk
+.shl5d Cleared to destination $arr, SHL5D dep, runway 34, flight plan route, climb via SID 6000ft, squawk $squawk
+.shl7d Cleared to destination $arr, SHL7D dep, runway 34, flight plan route, climb via SID 6000ft, squawk $squawk
+.shl9d Cleared to destination $arr, SHL9D dep, runway 16, flight plan route, climb via SID 4000ft, squawk $squawk
+.shl2d Cleared to destination $arr, SHL2D dep, runway 16, flight plan route, climb via SID 4000ft, squawk $squawk
 ;MIPAG
-.mipag5d Cleared to destination $arr, flight plan route, MIPAG5D dep, squawk $squawk
-.mipag6d Cleared to destination $arr, flight plan route, MIPAG6D dep, squawk $squawk
-.mipag7d Cleared to destination $arr, flight plan route, MIPAG7D dep, squawk $squawk
-.mipag9d Cleared to destination $arr, flight plan route, MIPAG9D dep, squawk $squawk
-.mipag1d Cleared to destination $arr, flight plan route, MIPAG1D dep, squawk $squawk
-.mipag2d Cleared to destination $arr, flight plan route, MIPAG2D dep, squawk $squawk
+.mipag5d Cleared to destination $arr, MIPAG5D dep, runway 34, flight plan route, climb via SID 6000ft, squawk $squawk
+.mipag7d Cleared to destination $arr, MIPAG7D dep, runway 34, flight plan route, climb via SID 6000ft, squawk $squawk
+.mipag9d Cleared to destination $arr, MIPAG9D dep, runway 16, flight plan route, climb via SID 4000ft,squawk $squawk
+.mipag2d Cleared to destination $arr, MIPAG2D dep, runway 16, flight plan route, climb via SID 4000ft, squawk $squawk
 ;SOUSA
-.sousa2t Cleared to destination $arr, flight plan route, SOUSA2T dep, squawk $squawk
-.sousa2u Cleared to destination $arr, flight plan route, SOUSA2U dep, squawk $squawk
-.sousa1v Cleared to destination $arr, flight plan route, SOUSA1V dep, squawk $squawk
-.sousa1w Cleared to destination $arr, flight plan route, SOUSA1W dep, squawk $squawk
-.sousa2p Cleared to destination $arr, flight plan route, SOUSA2P dep, squawk $squawk
+.sousa2t Cleared to destination $arr, SOUSA2T dep, runway 34, flight plan route, climb via SID 6000ft, squawk $squawk
+.sousa2u Cleared to destination $arr, SOUSA2U dep, runway 34, flight plan route, climb via SID 6000ft, squawk $squawk
+.sousa1v Cleared to destination $arr, SOUSA1V dep, runway 34, flight plan route, climb via SID 6000ft, squawk $squawk
+.sousa1w Cleared to destination $arr, SOUSA1W dep, runway 34, flight plan route, climb via SID 6000ft, squawk $squawk
+.sousa2p Cleared to destination $arr, SOUSA2P dep, runway 16, flight plan route, climb via SID 4000ft, squawk $squawk
 .rb Readback correct. Report ready for push and start.
 .correct Readback correct
 .report Report when ready
