@@ -271,9 +271,9 @@
 .dmurry When ready, descend FL150 by MURRY
 .wrdes When ready, descned $alt by $1
 ;General
-.info Hong Kong VACC information "http://vatsim.hk/"
-.pdcinfo Information about Pre-departure Clearance at Hong Kong FIR "https://vatsim.hk/PDC"
-.psinfo Hong Kong FIR uses the colour coded pushback procedures: "https://vatsim.hk/pushback"
+.info Hong Kong VACC information "http://vathk.com/"
+.pdcinfo Information about Pre-departure Clearance at Hong Kong FIR "https://vathk.com/pdc"
+.psinfo Hong Kong FIR uses the colour coded pushback procedures: "https://vathk.com/pushback"
 .alcohol Did you consume any alcholic beverages in the past 12 hours?
 ;GATE ALLOCATIONS
 .PAXS ACARS MSG to CREW of $aircraft: PAX arrival information, expect STAND $uc($1), BAGGAGE CLAIM No. $uc($2) END of MSG /Reply to confirm the Message
