@@ -1,9 +1,10 @@
 # Hong Kong Sector Package
 This package contains the official sector files exclusively for use by controllers and observers at VATSIM HK. 
 
-## How Do I Download the Package?
+## How Do I Install the Package?
 First, ensure that you have the **latest beta version of EuroScope installed**. You can install EuroScope [here](https://www.euroscope.hu/install/EuroScopeSetup32.msi) and install the beta patch [here](https://www.euroscope.hu/wp/category/beta-release/). Note that our package will NOT work with just the stable version due to compatability issues.
 Navigate to the [releases](https://github.com/vatsimhk/Hong-Kong-Sector-Package/releases) section, then scroll down below the changelog and click the first zip file to download (not source code). Extract and open EuroScope, then click on one of the profiles (.prf) to open it.
+There are three colour profiles provided, you can select a different one by double clicking one of the .vbs script files then restarting EuroScope. Rest assured that these scripts are safe to run; the source is code is always available openly if you have doubts.
 
 ## What is the Legacy Package?
 **Controllers are recommended to use the regular package to control,** as it contains many useful plugins that will enhance the controller experience. **ALL NEW trainees should begin training with the plugins.** However, to cater to older controllers who may not prefer the plugins, a legacy package without TopSky will continue to receive minimal updates. 
