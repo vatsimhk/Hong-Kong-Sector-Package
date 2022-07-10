@@ -1,9 +1,13 @@
 Setup_COOPANS=1
-//Color_Unconcerned=142,142,142 disabled, now using default
-//Color_Coordination=84,179,108
-//Color_Assumed=209,209,209
-//Color_Redundant=0,187,187
-Color_Selected=121,0,121
+//Color_Coordination
+//Color_Assumed
+//Color_Redundant
+//Color_Concerned
+//Color_Sid_Star_Allocation
+//Color_Sid_Star_No_Allocation
+//Color_Rwy_Locked
+
+Color_Selected=255,255,255
 Color_Warning=255,255,0
 Color_Flight_Highlight=22,22,22
 Color_Field_Highlight=49,49,49
