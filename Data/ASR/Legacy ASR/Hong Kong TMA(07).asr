@@ -74,6 +74,8 @@ Fixes:STELA:name
 Fixes:STELA:symbol
 Fixes:TONIC:name
 Fixes:TONIC:symbol
+Fixes:TUTBA:name
+Fixes:TUTBA:symbol
 Geo:GEO:
 Geo:VHHH Airspace C 07 Spacing Tool:
 Geo:VHHH MRVA Min Vector Alts:
@@ -128,6 +130,7 @@ Runways:VHHH 07C-25C:extended centerline 2 left vectoring
 Runways:VHHH 07C-25C:extended centerline 2 right base
 Runways:VHHH 07C-25C:extended centerline 2 right ticks
 Runways:VHHH 07C-25C:extended centerline 2 right vectoring
+Runways:VHHH 07L-25R:centerline
 Runways:VHHH 07R-25L:centerline
 Runways:VHHH 07R-25L:extended centerline 1
 Runways:VHHH 07R-25L:extended centerline 1 left base
@@ -173,11 +176,9 @@ Runways:VMMC 16-34:extended centerline 2 left vectoring
 Runways:VMMC 16-34:extended centerline 2 right base
 Runways:VMMC 16-34:extended centerline 2 right ticks
 Runways:VMMC 16-34:extended centerline 2 right vectoring
-Sids:SID/VHHH/BEKOL3A.C:
-Sids:SID/VHHH/LAKES3A.C:
-Sids:SID/VHHH/OCEAN2A.C:
-Sids:SID/VHHH/PECAN1A.C:
+Sids:SIDs/VHHH/ALL 07LCR:
 Stars:APCH/VHHH/ILS 07C:
+Stars:APCH/VHHH/ILS 07L:
 Stars:APCH/VHHH/ILS 07R:
 Stars:APCH/VHHX/IGS 13-CH:
 Stars:APCH/VMMC/ILS 34:
@@ -211,4 +212,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Hong Kong Radar 
-WINDOWAREA:21.436846:113.058503:22.639260:115.424863
+WINDOWAREA:21.440917:113.064976:22.720739:115.431336

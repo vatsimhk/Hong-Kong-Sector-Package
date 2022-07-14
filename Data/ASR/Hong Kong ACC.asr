@@ -1,6 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+SECTORFILE:
 SECTORTITLE:Hong-Kong-Sector-File.sct
 ARTCC boundary:TRE 8421493 421800 EAST:
 ARTCC boundary:TRS 8421493 421800 South:
@@ -79,6 +80,7 @@ High airways:W6:line
 High airways:W68:line
 High airways:W7:line
 Runways:VHHH 07C-25C:centerline
+Runways:VHHH 07L-25R:centerline
 Runways:VHHH 07R-25L:centerline
 Runways:VHHH 07R-25L:extended centerline 1
 Runways:VHHH 07R-25L:extended centerline 1 left base

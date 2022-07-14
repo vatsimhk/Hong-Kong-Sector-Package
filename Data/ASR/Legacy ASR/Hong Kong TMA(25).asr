@@ -1,6 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Justin Wai\Documents\EuroScope\Hong-Kong-Sector-Package\Data\Sector\Hong-Kong-Sector-File.sct
 SECTORTITLE:Hong-Kong-Sector-File.sct
 Airports:VHHH:name
 Airports:VHHH:symbol
@@ -58,8 +59,10 @@ Fixes:PECAN:name
 Fixes:PECAN:symbol
 Fixes:RIVER:name
 Fixes:RIVER:symbol
-Fixes:SIERA:name
-Fixes:SIERA:symbol
+Fixes:RUNSU:name
+Fixes:RUNSU:symbol
+Fixes:SAGNI:name
+Fixes:SAGNI:symbol
 Fixes:SONNY:name
 Fixes:SONNY:symbol
 Geo:VHHH Airspace C 25 Spacing Tool:
@@ -115,6 +118,21 @@ Runways:VHHH 07C-25C:extended centerline 2 left vectoring
 Runways:VHHH 07C-25C:extended centerline 2 right base
 Runways:VHHH 07C-25C:extended centerline 2 right ticks
 Runways:VHHH 07C-25C:extended centerline 2 right vectoring
+Runways:VHHH 07L-25R:centerline
+Runways:VHHH 07L-25R:extended centerline 1
+Runways:VHHH 07L-25R:extended centerline 1 left base
+Runways:VHHH 07L-25R:extended centerline 1 left ticks
+Runways:VHHH 07L-25R:extended centerline 1 left vectoring
+Runways:VHHH 07L-25R:extended centerline 1 right base
+Runways:VHHH 07L-25R:extended centerline 1 right ticks
+Runways:VHHH 07L-25R:extended centerline 1 right vectoring
+Runways:VHHH 07L-25R:extended centerline 2
+Runways:VHHH 07L-25R:extended centerline 2 left base
+Runways:VHHH 07L-25R:extended centerline 2 left ticks
+Runways:VHHH 07L-25R:extended centerline 2 left vectoring
+Runways:VHHH 07L-25R:extended centerline 2 right base
+Runways:VHHH 07L-25R:extended centerline 2 right ticks
+Runways:VHHH 07L-25R:extended centerline 2 right vectoring
 Runways:VHHH 07R-25L:centerline
 Runways:VHHH 07R-25L:extended centerline 1
 Runways:VHHH 07R-25L:extended centerline 1 left base
@@ -161,12 +179,10 @@ Runways:VMMC 16-34:extended centerline 2 left vectoring
 Runways:VMMC 16-34:extended centerline 2 right base
 Runways:VMMC 16-34:extended centerline 2 right ticks
 Runways:VMMC 16-34:extended centerline 2 right vectoring
-Sids:SID/VHHH/BEKOL2B.D:
-Sids:SID/VHHH/LAKES2B.D:
-Sids:SID/VHHH/OCEAN2B.D:
-Sids:SID/VHHH/PECAN1B.D:
+Sids:SIDs/VHHH/ALL 25LCR:
 Stars:APCH/VHHH/ILS 25C:
 Stars:APCH/VHHH/ILS 25L:
+Stars:APCH/VHHH/ILS 25R:
 Stars:APCH/VHHX/IGS 13-CH:
 Stars:HOLDING/VHHH/ABBEY:
 Stars:HOLDING/VHHH/BETTY:

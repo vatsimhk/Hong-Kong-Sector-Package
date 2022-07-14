@@ -1,6 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+SECTORFILE:
 SECTORTITLE:Hong-Kong-Sector-File.sct
 Airports:VHHH:name
 Airports:VHHX:name
@@ -238,6 +239,61 @@ Free Text:VHHH Hong Kong Gates\X7:freetext
 Free Text:VHHH Hong Kong Gates\X7R:freetext
 Free Text:VHHH Hong Kong Gates\X8:freetext
 Free Text:VHHH Hong Kong Gates\X9:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\B6:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\B6:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\B6:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\B6:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\C:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\C:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\C:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\C1:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\C1:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\C10:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\C11:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\C12:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\C12:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\C2:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\C2:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\C3:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\C3:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\C4:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\C4:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\C5:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\C5:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\C6:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\C6:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\C7:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\C8:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\C9:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\D:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\D:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\D:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\D1:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\D1:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\D4:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\D5:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\E:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\E:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\E:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\E3:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\F:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\F:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\S:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\T:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\T:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\T:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\Y:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\Y:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\Y:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\Y:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\Z:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\Z:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\Z:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\Z:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\Z1:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\Z2:freetext
+Free Text:VHHH Hong Kong Taxiways (3rd Runway Expansion)\Z3:freetext
+Free Text:VHHH Hong Kong Taxiways\A:freetext
 Free Text:VHHH Hong Kong Taxiways\A:freetext
 Free Text:VHHH Hong Kong Taxiways\A:freetext
 Free Text:VHHH Hong Kong Taxiways\A:freetext
@@ -262,6 +318,7 @@ Free Text:VHHH Hong Kong Taxiways\A7:freetext
 Free Text:VHHH Hong Kong Taxiways\A8:freetext
 Free Text:VHHH Hong Kong Taxiways\A8:freetext
 Free Text:VHHH Hong Kong Taxiways\A9:freetext
+Free Text:VHHH Hong Kong Taxiways\B:freetext
 Free Text:VHHH Hong Kong Taxiways\B:freetext
 Free Text:VHHH Hong Kong Taxiways\B:freetext
 Free Text:VHHH Hong Kong Taxiways\B:freetext
@@ -546,6 +603,7 @@ Geo:VFR Zones:
 Geo:VHHH Airspace C 07 Spacing Tool:
 Geo:VHHH Airspace C 25 Spacing Tool:
 Geo:VHHH Groundlayout Hong Kong:
+Geo:VHHH Groundlayout Hong Kong (3rd Runway Expansion):
 Geo:VHHH MRVA Min Vector Alts:
 Geo:VHHH MRVA Min Vector Alts Number:
 Geo:VHHK Landmark Hong Kong Coastline:
@@ -554,6 +612,7 @@ Geo:VHHX Groundlayout Kai Tak:
 Geo:VHSK Groundlayout Shek Kong Base:
 Geo:VMMC Groundlayout Macau:
 Regions:VHHH Hong Kong:polygon
+Regions:VHHH Hong Kong (3rd Runway Expansion):polygon
 Regions:VHHX Kai Tak:polygon
 Regions:VHHX Kai Tak | Checkerboa:polygon
 Regions:VHSK 16777215 markings:polygon
@@ -727,4 +786,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:18.70000
 TAGFAMILY:Hong Kong Aerodrome
-WINDOWAREA:22.294006:113.889257:22.321312:113.942996
+WINDOWAREA:22.291810:113.871185:22.337223:113.955152
