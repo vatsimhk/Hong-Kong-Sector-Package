@@ -6,7 +6,10 @@ Free Text:VMMC Gates\A1:freetext
 Free Text:VMMC Gates\A10:freetext
 Free Text:VMMC Gates\A11:freetext
 Free Text:VMMC Gates\A12:freetext
+Free Text:VMMC Gates\A13:freetext
 Free Text:VMMC Gates\A14:freetext
+Free Text:VMMC Gates\A15:freetext
+Free Text:VMMC Gates\A17:freetext
 Free Text:VMMC Gates\A2:freetext
 Free Text:VMMC Gates\A3:freetext
 Free Text:VMMC Gates\A4:freetext
@@ -66,5 +69,6 @@ HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
+DisplayRotation:0.00000
 TAGFAMILY:Hong Kong Aerodrome
 WINDOWAREA:22.127643:113.547367:22.169964:113.630342
