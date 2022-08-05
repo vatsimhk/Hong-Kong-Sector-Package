@@ -1,5 +1,5 @@
 VCCS
-Ts3Server:vccs.karutacity.xyz
+Ts3Server:vccs.vathk.com
 Ts3Port:9977
 Ts3G2GChannel:VHHH:S_GND:16777215:3:GMS
 Ts3G2GChannel:VHHH:S_TWR:16777215:5:AMS
