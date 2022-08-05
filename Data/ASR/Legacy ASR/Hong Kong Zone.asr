@@ -1,6 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+SECTORFILE:
 SECTORTITLE:Hong-Kong-Sector-File.sct
 Airports:VHHH:name
 Airports:VHHH:symbol
@@ -30,18 +31,22 @@ Fixes:DELTA:name
 Fixes:DELTA:symbol
 Fixes:HOTEL:name
 Fixes:HOTEL:symbol
+Fixes:HVC02:name
+Fixes:HVC02:symbol
+Fixes:HVW01:name
+Fixes:HVW01:symbol
 Fixes:KEVAR:name
 Fixes:KEVAR:symbol
 Fixes:PEXEL:name
 Fixes:PEXEL:symbol
 Fixes:PINGSHAN:name
 Fixes:PINGSHAN:symbol
+Fixes:QUBEC:name
+Fixes:QUBEC:symbol
 Fixes:SESAN:name
 Fixes:SESAN:symbol
 Fixes:SULUX:name
 Fixes:SULUX:symbol
-Fixes:UNIFORM:name
-Fixes:UNIFORM:symbol
 Fixes:URBOR:name
 Fixes:URBOR:symbol
 Fixes:VICTORWHISKEY:name
