@@ -49,7 +49,7 @@
 ;VENGO
 .vengo1a Cleared to destination $arr, VENGO1A dep, RWY07R, flight plan route, climb via SID 5000ft, squawk $asquawk
 .vengo2c Cleared to destination $arr, VENGO2C dep, RWY07C, flight plan route, climb via SID 5000ft, squawk $asquawk
-.vengo1x Cleared to destination $arr, VENGO1Y dep, RWY07R, flight plan route, climb via SID 5000ft, squawk $asquawk
+.vengo1x Cleared to destination $arr, VENGO1X dep, RWY07R, flight plan route, climb via SID 5000ft, squawk $asquawk
 .vengo1y Cleared to destination $arr, VENGO1Y dep, RWY07C, flight plan route, climb via SID 5000ft, squawk $asquawk
 ;RASSE
 .rasse1x Cleared to destination $arr, RASSE1X dep, RWY07R, flight plan route, climb via SID 5000ft, squawk $asquawk
@@ -240,8 +240,11 @@
 .ils Cleared ILS RWY $arrrwy approach, report established.
 .ils07C After LIMES, descend altitude 2000ft, From LIMES via TONIC, cleared ILS RWY 07C approach.
 .ils07r After LIMES, descend altitude 2000ft, From LIMES via STELA, cleared ILS RWY 07R approach.
+.ils07l After LIMES, descend altitude 2000ft, From LIMES via TUTBA, cleared ILS RWY 07L approach.
 .ils25l From TD, descend altitude 4500ft, cleared ILS RWY 25L approach. 
 .ils25C From TD, descend altitude 4500ft, cleared ILS RWY 25C approach. 
+.tra25R From TD, descend via RNAV transition 2700ft
+.ils25R From TOPUN, cleared ILS RWY 25R approach.
 .rptest Report established
 ;KaiTak
 .igs13 From CH, descend altitude 4500ft, cleared IGS RWY13 approach, report established.
