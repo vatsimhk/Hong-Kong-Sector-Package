@@ -1,4 +1,6 @@
 Setup_COOPANS=1
+
+//Color settings
 //Color_Coordination
 //Color_Assumed
 //Color_Redundant
@@ -6,6 +8,8 @@ Setup_COOPANS=1
 //Color_Sid_Star_Allocation
 //Color_Sid_Star_No_Allocation
 //Color_Rwy_Locked
+//Color_Weather_Map
+
 
 Color_Selected=255,255,255
 Color_Warning=255,255,0
@@ -38,6 +42,19 @@ CPDLC_Send_FSM_RCD=1
 
 //TOPSKY RDF disabled
 RDF_Mode=-1
+
+//WXR
+WXR_Latitude=22.3
+WXR_Longitude=114.2
+WXR_Brightness=20
+WXR_Zoom=4
+
+WXR_Longitude_Max=121
+WXR_Longitude_Min=108
+WXR_Latitude_Min=16
+WXR_Latitude_Max=24
+Window_AD_WxRefreshInterval=600
+
 
 [_CTR]
 Window_CPDLC_Current=1,1510,630
