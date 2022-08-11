@@ -1,4 +1,6 @@
 Setup_COOPANS=1
+
+//Color settings
 //Color_Coordination
 //Color_Assumed
 //Color_Redundant
@@ -6,6 +8,8 @@ Setup_COOPANS=1
 //Color_Sid_Star_Allocation
 //Color_Sid_Star_No_Allocation
 //Color_Rwy_Locked
+//Color_Weather_Map
+
 
 Color_Selected=255,255,255
 Color_Warning=255,255,0
