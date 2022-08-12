@@ -210,7 +210,7 @@
         },
         {
           "direction": "ANY",
-          "airways": [ "B330", "G586", "W90" ],
+          "airways": [ "A461 SHL W22 TEPID W24 OSNOV G586", "A461 MOLSO G586"],
           "noise": "N",
           "suffix":"3A",
           "allowed_fls": [ "301", "321", "341", "361", "381", "401" ],
@@ -218,7 +218,7 @@
         },
         {
           "direction": "ANY",
-          "airways": [ "A461" ],
+          "airways": [ "A461 ZHO", "A461 LKO", "A461 LIG", "A461 OBLIK", "A461 WXI", "A461 IDUMA W22 SHL G471", "A461 SHL G471"],
           "noise": "N",
           "suffix":"3A",
           "allowed_fls": [ "291", "311", "331", "351", "371", "391", "411" ],
@@ -242,7 +242,7 @@
         },
         {
           "direction": "ANY",
-          "airways": [ "B330", "G586", "W90" ],
+          "airways": [ "A461 SHL W22 TEPID W24 OSNOV G586", "A461 MOLSO G586"],
           "noise": "N",
           "suffix":"4C",
           "allowed_fls": [ "301", "321", "341", "361", "381", "401" ],
@@ -250,7 +250,7 @@
         },
         {
           "direction": "ANY",
-          "airways": [ "A461" ],
+          "airways": [ "A461 ZHO", "A461 LKO", "A461 LIG", "A461 OBLIK", "A461 WXI", "A461 IDUMA W22 SHL G471", "A461 SHL G471"],
           "noise": "N",
           "suffix":"4C",
           "allowed_fls": [ "291", "311", "331", "351", "371", "391", "411" ],
@@ -270,13 +270,13 @@
         },
         {
           "direction": "ANY",
-          "airways": [ "B330", "G586", "W90" ],
+          "airways": [ "A461 SHL W22 TEPID W24 OSNOV G586", "A461 MOLSO G586"],
           "allowed_fls": [ "301", "321", "341", "361", "381", "401" ],
           "FLAS": "Metric RVSM Westbound Levels"
         },
         {
           "direction": "ANY",
-          "airways": [ "A461" ],
+          "airways": [ "A461 ZHO", "A461 LKO", "A461 LIG", "A461 OBLIK", "A461 WXI", "A461 IDUMA W22 SHL G471", "A461 SHL G471"],
           "allowed_fls": [ "291", "311", "331", "351", "371", "391", "411" ],
           "FLAS": "Metric RVSM Eastbound Levels"
         }
@@ -298,14 +298,14 @@
         },
         {
           "direction": "ANY",
-          "airways": [ "B330", "G586", "W90" ],
+          "airways": [ "A461 SHL W22 TEPID W24 OSNOV G586", "A461 MOLSO G586"],
           "noise": "Y",
           "allowed_fls": [ "301", "321", "341", "361", "381", "401" ],
           "FLAS": "Metric RVSM Westbound Levels"
         },
         {
           "direction": "ANY",
-          "airways": [ "A461" ],
+          "airways": [ "A461 ZHO", "A461 LKO", "A461 LIG", "A461 OBLIK", "A461 WXI", "A461 IDUMA W22 SHL G471", "A461 SHL G471"],
           "noise": "Y",
           "allowed_fls": [ "291", "311", "331", "351", "371", "391", "411" ],
           "FLAS": "Metric RVSM Eastbound Levels"
@@ -836,13 +836,13 @@
         },
         {
           "direction": "ANY",
-          "airways": [ "B330", "G586", "W90" ],
+          "airways": [ "A461 SHL W22 TEPID W24 OSNOV G586", "A461 MOLSO G586"],
           "allowed_fls": [ "301", "321", "341", "361", "381", "401" ],
           "FLAS": "Metric RVSM Westbound Levels"
         },
         {
           "direction": "ANY",
-          "airways": [ "A461" ],
+          "airways": [ "A461 ZHO", "A461 LKO", "A461 LIG", "A461 OBLIK", "A461 WXI", "A461 IDUMA W22 SHL G471", "A461 SHL G471"],
           "allowed_fls": [ "291", "311", "331", "351", "371", "391", "411" ],
           "FLAS": "Metric RVSM Eastbound Levels"
         }
