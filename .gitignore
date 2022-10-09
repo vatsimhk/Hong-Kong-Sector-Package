@@ -2,5 +2,6 @@
 version.txt
 euroscope_sector_providers.txt
 SectorFileProviderDescriptor.txt
-Hong-Kong-Sector-File.rwy
 TopSkyCPDLChoppieCode.txt
+Data/Sector/Hong-Kong-Sector-File.rwy
+Data/Plugins/TopSky/TopSkyCPDLChoppieCode.txt

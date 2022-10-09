@@ -49,6 +49,7 @@ RSW	Air Switzerland	Air Switzerland
 SAB	Sabena Airlines	Sabena
 SAV	Severnair	Severnair
 SBZ	Skybound Airways	Skybound
+SNK Sputnik Aviation    Sputnik
 SPE	Speedair	Speedair
 SIM	Simulator Verein Rhein-Neckar	Sim-Line
 STK	Starsky	Starsky

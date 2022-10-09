@@ -1,29 +1,54 @@
-----------VHHH----------
+----------HKvACC----------
 HKG_E1_CTR Hong Kong Radar
 HKG_E_CTR Hong Kong Radar
-HKG_S1_CTR Hong Kong Radar
-HKG_S2_CTR Hong Kong Radar
 HKG_S_CTR Hong Kong Radar
+HKG_S1_CTR Hong Kong Radar
 HKG_W_CTR Hong Kong Radar
+HKG_W1_CTR Hong Kong Radar
+HKG_W2_CTR Hong Kong Radar
 VHHH_APP Hong Kong Approach
-VHHH_DEP Hong Kong Departures
+VHHH_DEP Hong Kong Departure
 VHHH_E_APP Hong Kong Radar
 VHHH_F_APP Hong Kong Director
-VHHH_H_DEP Hong Kong Departures
+VHHH_H_DEP Hong Kong Departure
 VHHH_P_APP Hong Kong Precision
-VHHH_S_APP Hong Kong Approach
-VHHH_W_APP Hong Kong Approach
+VHHH_S_APP Hong Kong Radar
+VHHH_W_APP Hong Kong Radar
 VHHH_Z_APP Hong Kong Zone
-VMMC_APP Hong KOng Radar
+VMMC_APP Hong Kong Radar
 VMMC_TWR Macau Tower
-VHSK_TWR Shek Kong Base
+VHSK_TWR Shek Kong Tower
 VHHX_TWR Kai Tak Tower
 VHHH_N_TWR Hong Kong Tower
 VHHH_S_TWR Hong Kong Tower
-VHHH_N_GND Hong Kong Ground
-VHHH_S_GND Hong Kong Ground
-VHHH_C_GND Hong Kong Ground
+VHHH_C_TWR Hong Kong Tower
+VHHH_N_GND Hong Kong Ground North
+VHHH_S_GND Hong Kong Ground South
+VHHH_C_GND Hong Kong Ground Midfield
+VHHH_W_GND Hong Kong Ground West
 VMMC_GND Hong Kong Ground
 VHHX_GND Hong Kong Ground
 VHHX_DEL Kai Tak Delivery
 VHHH_DEL Hong Kong Delivery
+
+VHHH_M_GND Hong Kong Ground (Mentor)
+VHHH_M_TWR Hong Kong Tower (Mentor)
+VHHH_M_APP Hong Kong Approach (Mentor)
+VMMC_M_GND Macau Ground (Mentor)
+VMMC_M_TWR Macau Tower (Mentor)
+VHHX_M_GND Kai Tak Ground (Mentor)
+VHHX_M_TWR Kai Tak Tower (Mentor)
+
+VHHH_I_GND Hong Kong Ground (Instructor)
+VHHH_I_TWR Hong Kong Tower (Instructor)
+VHHH_I_APP Hong Kong Approach (Instructor)
+HKG_I_CTR Hong Kong Radar (Instructor)
+VMMC_I_GND Macau Ground (Instructor)
+VMMC_I_TWR Macau Tower (Instructor)
+VHHX_I_GND Kai Tak Ground (Instructor)
+VHHX_I_TWR Kai Tak Tower (Instructor)
+
+VHHH_X_GND Hong Kong Ground (Examiner)
+VHHH_X_TWR Hong Kong Tower (Examiner)
+VHHH_X_APP Hong Kong Approach (Examiner)
+HKG_X_CTR Hong Kong Radar (Examiner)

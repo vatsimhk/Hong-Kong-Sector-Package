@@ -178,7 +178,7 @@
         },
         {
           "destinations": [ "ZGSZ" ],
-          "allowed_fls": [ "059" ],
+          "allowed_fls": [ "59" ],
           "noise": "N",
           "suffix": [ "3A", "4C", "1E" ],
           "FLAS": "5900ft (1800m)"
@@ -206,7 +206,7 @@
         {
           "destinations": [ "ZGSZ" ],
           "suffix": [ "2B", "3D", "1F" ],
-          "allowed_fls": [ "059" ],
+          "allowed_fls": [ "59" ],
           "FLAS": "5900ft (1800m)"
         },
         {
@@ -232,7 +232,7 @@
         },
         {
           "destinations": [ "ZGSZ" ],
-          "allowed_fls": [ "059" ],
+          "allowed_fls": [ "59" ],
           "noise": "Y",
           "suffix": [ "1X", "1Y", "1Z", "2A", "3C", "2E" ],
           "FLAS": "5900ft (1800m)"
@@ -572,7 +572,7 @@
         },
         {
           "destinations": [ "ZGSZ" ],
-          "allowed_fls": [ "059" ],
+          "allowed_fls": [ "59" ],
           "FLAS": "5900ft (1800m)"
         },
         {

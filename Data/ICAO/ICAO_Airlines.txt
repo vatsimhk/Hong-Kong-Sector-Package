@@ -361,7 +361,7 @@ APC	Airpac Airlines, Inc. - United States	AIRPAC
 APD	Sabre Pacific - Australia	UNKNOWN
 APE	Parcel Express - United States	AIR PARCEL
 APF	Amapola Flyg AB - Sweden	AMAPOLA
-APG	Air People International - Thailand	AIR PEOPLE
+APG	Philippines AirAsia - Philippines	COOL RED
 APH	Alpha Aviation, Inc. - United States	AIRFLIGHT
 API	ASA Pesada, Lda. - Angola	ASA PESADA
 APJ	Air Print, S.A. - Luxembourg	AIR PRINT
@@ -1268,7 +1268,7 @@ CSO	Casino Airline - United States	CASAIR
 CSP	Casper Air Service - United States	CASPER AIR
 CSQ	IBC Airways - United States	CHASQUI
 CSR	Cis-Air - Czech Republic	CISAIR
-CSS	Cess - Equatorial Guinea	CESSAVIA
+CSS	SF Airlines - China	SHUN FENG
 CST	Coast Air - Norway	COAST CENTER
 CSU	Chari Aviation Services - Chad	CHARI SERVICE
 CSV	Coastal Travels - Tanzania	COASTAL TRAVEL

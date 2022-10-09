@@ -59,6 +59,35 @@
 				<alt>050</alt>
 			</sid>
 		</runway>
+		<runway name="07L">
+			<sid name="PECAN">
+				<alt>050</alt>
+			</sid>
+			<sid name="BEKOL">
+				<alt>050</alt>
+			</sid>
+			<sid name="LAKES">
+				<alt>050</alt>
+			</sid>
+			<sid name="OCEAN">
+				<alt>050</alt>
+			</sid>
+			<sid name="RASSE">
+				<alt>050</alt>
+			</sid>
+			<sid name="SKATE">
+				<alt>050</alt>
+			</sid>
+			<sid name="VENGO">
+				<alt>050</alt>
+			</sid>
+			<sid name="ATENA">
+				<alt>050</alt>
+			</sid>
+			<sid name="RDVR">
+				<alt>050</alt>
+			</sid>
+		</runway>
 		<runway name="25L">
 			<sid name="PECAN">
 				<alt>050</alt>
@@ -77,6 +106,23 @@
 			</sid>
 		</runway>
 		<runway name="25C">
+			<sid name="PECAN">
+				<alt>050</alt>
+			</sid>
+			<sid name="BEKOL">
+				<alt>050</alt>
+			</sid>
+			<sid name="LAKES">
+				<alt>050</alt>
+			</sid>
+			<sid name="OCEAN">
+				<alt>050</alt>
+			</sid>
+			<sid name="RDVR">
+				<alt>050</alt>
+			</sid>
+		</runway>
+		<runway name="25R">
 			<sid name="PECAN">
 				<alt>050</alt>
 			</sid>
