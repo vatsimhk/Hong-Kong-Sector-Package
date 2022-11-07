@@ -143,16 +143,16 @@
 	<apt icao="VMMC">
 		<runway name="34">
 			<sid name="SHL">
-				<alt>039</alt>
+				<alt>060</alt>
 			</sid>
 			<sid name="MIPAG">
-				<alt>039</alt>
+				<alt>060</alt>
 			</sid>
 			<sid name="NLG">
-				<alt>039</alt>
+				<alt>060</alt>
 			</sid>
 			<sid name="BIGRO">
-				<alt>039</alt>
+				<alt>060</alt>
 			</sid>
 			<sid name="SOUSA">
 				<alt>060</alt>
@@ -172,13 +172,13 @@
 		</runway>
 		<runway name="16">
 			<sid name="SHL">
-				<alt>059</alt>
+				<alt>040</alt>
 			</sid>
 			<sid name="MIPAG">
-				<alt>059</alt>
+				<alt>040</alt>
 			</sid>
 			<sid name="NLG">
-				<alt>059</alt>
+				<alt>040</alt>
 			</sid>
 			<sid name="BIGRO">
 				<alt>049</alt>
