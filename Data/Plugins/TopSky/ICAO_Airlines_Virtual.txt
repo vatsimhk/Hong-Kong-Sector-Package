@@ -4,6 +4,7 @@ AEO	Aeolos Airlines	Aeolos
 AGJ	Air Greece	Air Greece
 AHN	Air Hungaria	Air Hungaria
 ANV	Aeronav Association	Aeronav
+APA Airway Philippines Virtual Airline - Philippines    AIRWAY
 ASE	Aegean Seagull	Seagull
 AWG	AirWeGo	Airwego
 AZT	Aztec Airways	Aztec

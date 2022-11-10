@@ -355,7 +355,6 @@ AOU	Air Tractor - Croatia	AIR TRACTOR
 AOV	Aero Vision - France	AEROVISION
 AOW	Air Omega Luftverkehrsgesellschaft mbH - Germany	WARLOCK
 AOX	Aerotaxi Del Valle - Colombia	AEROVALLE
-APA	Air Pacifica Airlines - Virgin Islands (US)	AIRWAYS
 APB	Air Atlantique / Air Publicit  - France	CHARENTE
 APC	Airpac Airlines, Inc. - United States	AIRPAC
 APD	Sabre Pacific - Australia	UNKNOWN
