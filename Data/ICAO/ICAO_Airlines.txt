@@ -355,7 +355,6 @@ AOU	Air Tractor - Croatia	AIR TRACTOR
 AOV	Aero Vision - France	AEROVISION
 AOW	Air Omega Luftverkehrsgesellschaft mbH - Germany	WARLOCK
 AOX	Aerotaxi Del Valle - Colombia	AEROVALLE
-APA	Air Pacifica Airlines - Virgin Islands (US)	PACIFICA
 APB	Air Atlantique / Air Publicit  - France	CHARENTE
 APC	Airpac Airlines, Inc. - United States	AIRPAC
 APD	Sabre Pacific - Australia	UNKNOWN
@@ -2456,6 +2455,7 @@ HEX	Honiara Cargo Express - Solomon Islands	HONIARA CARGO
 HFR	Heli France - France	HELIFRANCE
 HFY	Hi Fly - Portugal	SKY FLYER
 HGA	Hogan Air - United States	HOGAN AIR
+HGB Greater Bay Airlines - Hong Kong    GREATER BAY
 HGD	Hangard Aviation - Mongolia	HANGARD
 HGH	Atlantic Air Lift - France	HIGHER
 HGK	Fika Salaama Airlines - Uganda	SALAAMA

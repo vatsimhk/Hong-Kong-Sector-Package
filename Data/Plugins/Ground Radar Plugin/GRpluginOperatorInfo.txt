@@ -41,13 +41,15 @@ CEF	Mil
 CFC	Mil
 CFN	Mil
 CFT	C
-CGD	Mil
 CGF	C
+CHZ	C
 CJT	C
+CKJ	Mil
 CKK	C
 CLM	C
 CLU	C
 CLX	C
+CMA	C
 CNT	C
 CNV	Mil
 CRG	C
@@ -66,6 +68,7 @@ DAR	Mil
 DCC	C
 DCN	Mil
 DEC	C
+DHA	C
 DHK	C
 DHL	C
 DHV	C
@@ -80,6 +83,7 @@ EFE	C
 EGO	C
 EGY	Mil
 EIC	C
+ESU	C
 EXB	Mil
 FAC	Mil
 FAE	Mil
@@ -115,6 +119,7 @@ GNC	C
 GNY	Mil
 GOL	C
 GSC	C
+GSS	C
 GTI	C
 GXA	C
 HAF	Mil
@@ -256,6 +261,7 @@ SOB	C
 SOO	C
 SQF	Mil
 SRB	Mil
+SRR	C
 STN	Mil
 SUB	C
 SUI	Mil
