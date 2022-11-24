@@ -577,7 +577,7 @@ AZB	Azamat - Kazakhstan	TUMARA
 AZD	Aral - Kazakhstan	ARAL AIR
 AZE	Arcus-Air Logistic - Germany	ARCUS AIR
 AZF	Air Zermatt AG - Switzerland	AIR ZERMATT
-AZG	Sakaviaservice - Georgia	SAKSERVICE
+AZG	Silk Way West Airlines - Azerbaijan	SILK WEST
 AZH	Sky Wind - Azerbaijan	SKY WIND
 AZI	Azzurra Air - Italy	AZZURRA
 AZK	Azalhelikopter - Azerbaijan	AZALHELICOPTER
@@ -1455,7 +1455,7 @@ DJT	Denver Jet - United States	DENVER JET
 DJU	Air Djibouti - Djibouti	AIR DJIB
 DKA	Daka - Kazakhstan	UNKNOWN
 DKE	Jubilee Airways - United Kingdom	DUKE
-DKH	Juneyao Airlines - China	JUNEYAO AIRLINES
+DKH	Juneyao Airlines - China	AIR JUNEYAO
 DKN	Deccan Aviation - India	DECCAN
 DKT	Sioux Falls Aviation - United States	DAKOTA
 DKY	Servicios Aereos Elite - Spain	DAKOY
@@ -5785,6 +5785,7 @@ TVR	Tavrey Airlines - Ukraine	TAVREY
 TVS	Travel Service - Czech Republic	SKYTRAVEL
 TVT	Transaviation, S.A. - Spain	TRANSAVIATION
 TWA	Trans World Airlines - United States	TWA
+TWB	T'way Air - South Korea TEEWAY
 TWC	Taraz Wings - Kazakhstan	TARAZ
 TWE	Transwede Airways - Sweden	TRANSWEDE
 TWF	247 Jet Ltd - United Kingdom	CLOUD RUNNER

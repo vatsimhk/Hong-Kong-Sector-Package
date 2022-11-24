@@ -357,7 +357,7 @@ AOV	Aero Vision - France	AEROVISION
 AOW	Air Omega Luftverkehrsgesellschaft mbH - Germany	WARLOCK
 AOX	Aerotaxi Del Valle - Colombia	AEROVALLE
 APA	Air Pacifica Airlines - Virgin Islands (US)	PACIFICA
-APB	Air Atlantique / Air Publicit‚ - France	CHARENTE
+APB	Air Atlantique / Air Publicitï¿½ - France	CHARENTE
 APC	Airpac Airlines, Inc. - United States	AIRPAC
 APD	Sabre Pacific - Australia	UNKNOWN
 APE	Parcel Express - United States	AIR PARCEL
@@ -579,7 +579,7 @@ AZB	Azamat - Kazakhstan	TUMARA
 AZD	Aral - Kazakhstan	ARAL AIR
 AZE	Arcus-Air Logistic - Germany	ARCUS AIR
 AZF	Air Zermatt AG - Switzerland	AIR ZERMATT
-AZG	Sakaviaservice - Georgia	SAKSERVICE
+AZG	Silk Way West Airlines - Azerbaijan	SILK WEST
 AZH	Sky Wind - Azerbaijan	SKY WIND
 AZI	Azzurra Air - Italy	AZZURRA
 AZK	Azalhelikopter - Azerbaijan	AZALHELICOPTER
@@ -1460,7 +1460,7 @@ DJT	Denver Jet - United States	DENVER JET
 DJU	Air Djibouti - Djibouti	AIR DJIB
 DKA	Daka - Kazakhstan	UNKNOWN
 DKE	Jubilee Airways - United Kingdom	DUKE
-DKH	Juneyao Airlines - China	JUNEYAO AIRLINES
+DKH	Juneyao Airlines - China	AIR JUNEYAO
 DKN	Deccan Aviation - India	DECCAN
 DKT	Sioux Falls Aviation - United States	DAKOTA
 DKY	Servicios Aereos Elite - Spain	DAKOY
@@ -2089,7 +2089,7 @@ FVS	Falcon Aviation Services - United Arab Emirates	FALCON AVIATION
 FWA	Interstate Airline - Netherlands	FREEWAYAIR
 FWC	Freeway Air - Netherlands	FREEWAY
 FWD	Fair Wind Air Charter - United Arab Emirates	FAIR WIND
-FWI	Air Caraïbes - France	FRENCH WEST
+FWI	Air Caraï¿½bes - France	FRENCH WEST
 FWK	Flightworks - US	FLIGHTWORKS
 FWL	Florida West International Airways - United States	FLO WEST
 FWQ	Flight West Airlines - Australia	UNKNOWN
@@ -2151,7 +2151,7 @@ GBP	German Butterfly - Germany	BUTTERFLY
 GBR	Rader Aviation - United States	GREENBRIER AIR
 GBS	Global Air Services Nigeria - Nigeria	GLOBAL SERVE
 GBT	German Broeseltours - Germany	BROESELTOURS
-GBU	Transports A‚riens de La Guinee-Bissau - Guinea Bissau	TRANSBISSAU
+GBU	Transports Aï¿½riens de La Guinee-Bissau - Guinea Bissau	TRANSBISSAU
 GBX	GB Airlink - United States	ISLAND TIGER
 GCA	Grand Cargo Airlines - Poland	GRAND CARGO
 GCB	Lignes Nationales Aeriennes - Linacongo - Republic of the Congo	LINACONGO
@@ -4130,7 +4130,7 @@ OOM	Zoom Airlines - Canada	ZOOM
 OOT	Out Of The Blue Air Safaris - South Africa	OOTBAS
 OPA	Opal Air - Australia	UNKNOWN
 OPC	Krystel Air Charter - United Kingdom	OPTIC
-OPE	Soci‚t‚ 3 S Aviation (Aerope) - France	PONTOISAIR
+OPE	Sociï¿½tï¿½ 3 S Aviation (Aerope) - France	PONTOISAIR
 OPS	Jet-Ops - United Arab Emirates	OPS-JET
 OPT	Flight Options - United States	OPTIONS
 OPV	Operadora de Veulos Ejectutivos - Mexico	OPERADORA DE VUELOS
@@ -4695,7 +4695,7 @@ RKH	Royal Khmer Airlines - Cambodia	KHMER AIR
 RKM	RAK Airways - United Arab Emirates	RAKAIR
 RKN	Shakh Air KZ - KZ	KANION
 RKP	Aeroclip - Kazakhstan	AEROCLIP
-RKR	Rockair, Soci‚t‚ - Madagascar	ROCKAIR
+RKR	Rockair, Sociï¿½tï¿½ - Madagascar	ROCKAIR
 RKT	Rotormotion - United Kingdom	ROCKET
 RKW	Rockwell Collins Avionics - United States	ROCKWELL
 RL	Airlinair - France	AIRLINAIR
@@ -5713,7 +5713,7 @@ TRX	Air Terrex - Czech Republic	TERREX
 TRY	Tristar Airlines - United States	TRISTAR AIR
 TRZ	TransMeridian Airlines - United States	TRANS-MERIDIAN
 TSA	Transair France - France	AIRTRAF
-TSB	Transports A‚riens Du Benin (T.A.B.) - Benin	AIR BENIN
+TSB	Transports Aï¿½riens Du Benin (T.A.B.) - Benin	AIR BENIN
 TSC	Air Transat - Canada	TRANSAT
 TSD	TAF-Linhas Aereas - Brazil	TAFI
 TSE	Transmile Air Services - Malaysia	TRANSMILE
@@ -5782,6 +5782,7 @@ TVR	Tavrey Airlines - Ukraine	TAVREY
 TVS	Travel Service - Czech Republic	SKYTRAVEL
 TVT	Transaviation, S.A. - Spain	TRANSAVIATION
 TWA	Trans World Airlines - United States	TWA
+TWB	T'way Air - South Korea TEEWAY
 TWC	Taraz Wings - Kazakhstan	TARAZ
 TWE	Transwede Airways - Sweden	TRANSWEDE
 TWF	247 Jet Ltd - United Kingdom	CLOUD RUNNER
