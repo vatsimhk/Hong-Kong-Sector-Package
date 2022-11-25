@@ -2120,7 +2120,6 @@ GAE	German Air Express - Germany	EXPRESS
 GAF	German Air Force - Germany	GERMAN AIR FORCE
 GAG	Global Air Operations - Comoros	GLOBAL AIRGROUP
 GAH	Ga-Ma Helicoptere - France	GAMHELICO
-GAI	G-AIRWAYS - Germany	GAI
 GAK	Global Aviation and Services Group - Libya	AVIAGROUP
 GAL	German Airlines - Germany	GERMAN AIRLINES
 GAM	German Army - Germany	GERMAN ARMY
