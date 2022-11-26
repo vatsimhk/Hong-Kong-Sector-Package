@@ -23,6 +23,7 @@ FFR	Fisher	Fisher
 FGY	Fly GA	Skyway
 FSV	Flysweden	Flyswede
 GAE	German Air Express	Express
+GAI Green Airlines Inc  Green Air
 GAV	Go Air UK	Goair
 GEL	Germaneagle	German Eagle
 GEW	German Airways	Blueflight

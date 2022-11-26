@@ -749,8 +749,8 @@
         {
           "destinations": [ "ZSAM", "ZSQZ" ],
           "airways": "V1 DOTMI A470",
-          "allowed_fls": [ "227", "246" ],
-          "FLAS": "FL227 (6900m), FL246 (7500m)"
+          "allowed_fls": [ "226", "246" ],
+          "FLAS": "FL226 (6900m), FL246 (7500m)"
         },
         {
           "destinations": [ "ZSFZ", "ZSWY" ],
