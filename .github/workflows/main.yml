@@ -1,0 +1,21 @@
+name: Release Sector Package
+on:
+  push:
+    tags:
+      - '*'
+jobs:
+  build-release:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Zip Release
+    - uses: thedoctor0/zip-release@0.6.2
+      with:
+        type: 'zip'
+        filename: 'Hong-Kong-Sector-Package.zip'
+        exclusions: '*.git* Legacy* Legacy*/**'
+    - uses: ncipollo/release-action@v1.12.0
+    - name: Upload Release
+      with:
+        artifacts: "Hong-Kong-Sector-Package.zip"
+        token: ${{ secrets.GITHUB_TOKEN }}
