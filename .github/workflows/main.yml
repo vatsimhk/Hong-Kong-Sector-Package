@@ -13,13 +13,13 @@ jobs:
       with:
         type: 'zip'
         filename: 'Hong-Kong-Sector-Package.zip'
-        exclusions: '*.git* Legacy* Data/Settings/Legacy* Data/ASR/Legacy*'
+        exclusions: '*.git* Legacy* Data/Settings/Legacy* Data/ASR/Legacy* *.zip'
     - name: Zip Legacy Package
       uses: thedoctor0/zip-release@0.6.2
       with:
         type: 'zip'
         filename: 'Hong-Kong-Sector-Package-Legacy.zip'
-        exclusions: '*.git* *.vbs *TOPSKY.prf Data/Plugins/TopSky Data/Plugins/HKvACC* Data/Plugins/InitialClimbPlugin Data/Plugins/Ground* Data/Plugins/vSMR*'
+        exclusions: '*.git* *.vbs *TOPSKY.prf Data/Plugins/TopSky/** Data/Plugins/HKvACC VFPC/** Data/Plugins/InitialClimbPlugin/** Data/Plugins/Ground Radar Plugin/** Data/Plugins/vSMR-1.5/** *.zip'
     - name: Upload Packages
       uses: ncipollo/release-action@v1.12.0
       with:
