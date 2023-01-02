@@ -15,12 +15,12 @@ jobs:
         filename: 'Hong-Kong-Sector-Package.zip'
         exclusions: '*.md *.git* Legacy* Data/Settings/Legacy*/** Data/ASR/Legacy*/** *.zip'
     - name: Rename Legacy Sector Version
-        uses: jacobtomlinson/gha-find-replace@v2
-        with:
-          find: "Hong Kong Sector"
-          replace: "Hong Kong Sector (Legacy Mode)"
-          include: "**Hong-Kong-Sector-File.sct"
-          regex: true
+      uses: jacobtomlinson/gha-find-replace@v2
+      with:
+        find: "Hong Kong Sector"
+        replace: "Hong Kong Sector (Legacy Mode)"
+        include: "**Hong-Kong-Sector-File.sct"
+        regex: true
     - name: Zip Legacy Package
       uses: thedoctor0/zip-release@0.6.2
       with:
