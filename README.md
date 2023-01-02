@@ -1,19 +1,32 @@
 # Hong Kong Sector Package
 This package contains the official sector files exclusively for use by controllers and observers at VATSIM HK. 
 
-## How Do I Install the Package?
-First, ensure that you have the **latest beta version of EuroScope installed**. You can install EuroScope [here](https://www.euroscope.hu/install/EuroScopeSetup32.msi) and install the beta patch [here](https://www.euroscope.hu/wp/category/beta-release/). Note that our package will NOT work with just the stable version due to compatability issues.
-Navigate to the [releases](https://github.com/vatsimhk/Hong-Kong-Sector-Package/releases) section, then scroll down below the changelog and click the first zip file to download (not source code). Extract and open EuroScope, then click on one of the profiles (.prf) to open it.
-There are three colour profiles provided, you can select a different one by double clicking one of the .vbs script files then restarting EuroScope. Rest assured that these scripts are safe to run; the source is code is always available openly if you have doubts.
+## How Do I Install/Update the Package?
+First, ensure that you have the **latest beta version of EuroScope installed**. You can install EuroScope [here](https://www.euroscope.hu/install/EuroScopeSetup32.msi) and install the beta patch [here](https://www.euroscope.hu/wp/category/beta-release/). Note that our package will NOT work with just the stable version. You now have two options for installation:
+### Option 1: Via ZIP
+Navigate to the [releases](https://github.com/vatsimhk/Hong-Kong-Sector-Package/releases) section, then scroll down below the changelog and click the first zip file to download (not source code). Extract it to a convenient location. When updates are released, download the new package, extract the new ZIP file and overwrite the files in your existing install. Please note that you may need to reconfigure certain settings by updating this way.
+### Option 2: Via Git
+If you are technically inclined, you can install the sector package by cloning the github repository, allowing you to receive seamless updates. First, install [Git for Windows](https://git-scm.com/download/win) by downloading and running their installer. Navigate to your EuroScope folder, right click anywhere in the explorer menu and click "Open in Terminal," then run the following commands:  
+  
+`git clone https://github.com/vatsimhk/Hong-Kong-Sector-Package.git`  
+`cd Hong-Kong-Sector-Package`  
+  
+To update the package, simply open the Terminal again and run these commands:  
+  
+`git checkout main`  
+`git pull`  
+  
+This will automatically install updates without affecting your other personal settings.  
+  
+### Other Installation Notes
+- To ensure all lists and text display correctly, install the custom EuroScope font by double clicking the .ttf file provided.
+- Three different colour profiles are available, double click on a .vbs file to update the settings (requires EuroScope restart to take effect).
 
 ## What is the Legacy Package?
-**Controllers are recommended to use the regular package to control,** as it contains many useful plugins that will enhance the controller experience. **ALL NEW trainees should begin training with the plugins.** However, to cater to older controllers who may not prefer the plugins, a legacy package without TopSky will continue to receive minimal updates. 
+**Controllers are recommended to use the regular package to control,** as it contains many useful plugins that will enhance the controller experience. **ALL NEW trainees should begin training with the plugins.** However, to cater to older controllers who may not prefer the plugins, a legacy package will continue to be supported.
 
 ## Some of the plugins failed to Load on startup!
 If you get an error on load, please install the [latest C++ redistributables](https://aka.ms/vs/17/release/vc_redist.x86.exe). The newly added plugins are compiled with newer C++ Libraries that you may or may not have already installed.
-
-## Why is my font in EuroScope weird/Clearance box not filling?
-That is because the EuroScope font is not installed. Double click on the file EuroscopeFont.ttf in the extracted folder and press install. 
 
 ## How Do I Report a Bug?
 You can create an [issue](https://github.com/vatsimhk/Hong-Kong-Sector-Package/issues) with a brief description of the bug/problem and I will address it for the next release.
