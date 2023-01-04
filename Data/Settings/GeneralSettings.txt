@@ -19,11 +19,11 @@ m_CenterlineVectorLength:3.0
 m_CenterlineVectorAngle:30.0
 m_CenterlineVectorBase:2.0
 m_STCA_LowShow:1
-m_STCA_LowVertical:1000
+m_STCA_LowVertical:900
 m_STCA_LowHorizontal:3.0
 m_STCA_LowBottom:2500
 m_STCA_HighShow:1
-m_STCA_HighVertical:1000
+m_STCA_HighVertical:900
 m_STCA_HighHorizontal:5.0
 m_STCA_HighBottom:24500
 m_ExtendedCenterlinActiveArr:1
@@ -116,7 +116,7 @@ m_AutoCorrelateDisabledSQs:1200,2000,2200,7000,7700,7600,7500
 m_DontAutoCorrelateDuplicated:1
 m_AcceptPilotSquawkForCorrelation:1
 m_MTCA_Floor:10000
-m_MTCA_AltitudeDifference:1000
+m_MTCA_AltitudeDifference:900
 m_MTCA_Distance:20.0
 m_UseIsectForScratchPad:1
 m_RotateRadarTargetSymbol:0
