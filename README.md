@@ -2,7 +2,7 @@
 This package contains the official sector files exclusively for use by controllers and observers at VATSIM HK. 
 
 ## How Do I Install/Update the Package?
-First, ensure that you have the **latest beta version of EuroScope installed**. You can install EuroScope [here](https://www.euroscope.hu/install/EuroScopeSetup32.msi) and install the beta patch [here](https://www.euroscope.hu/wp/category/beta-release/). Note that our package will NOT work with just the stable version. You now have two options for installation:
+First, ensure that you have the **latest version of EuroScope installed**. You can install EuroScope [here](https://www.euroscope.hu/wp/installation/). Note that our package will NOT work with versions earlier than 3.2.2. You now have two options for installing the sector package:
 ### Option 1: Via ZIP
 Navigate to the [releases](https://github.com/vatsimhk/Hong-Kong-Sector-Package/releases) section, then scroll down below the changelog and click the first zip file to download (not source code). Extract it to a convenient location. When updates are released, download the new package, extract the new ZIP file and overwrite the files in your existing install. Please note that you may need to reconfigure certain settings by updating this way.
 ### Option 2: Via Git
