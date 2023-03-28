@@ -98,7 +98,7 @@ LastSession	atis_letter2	75
 LastSession	atis_freq3	122074
 LastSession	atis_callsign3	VHHX_ATIS
 LastSession	atis_url3	http://vathk.com/atis/atis.php?arr=$arrrwy($atisairportD)&dep=$deprwy($atisairportD)&apptype=ILS&info=$atiscodeD&metar=$metar(VHHH)
-LastSession	atis_letter2	75
+LastSession	atis_letter3	75
 Settings	SettingsfileORIGPLANE	\Data\Settings\GeneralSettings.txt
 Settings	SettingsfileSTUP	\Data\Settings\GeneralSettings.txt
 Settings	SettingsfileTAXIOUT	\Data\Settings\GeneralSettings.txt
