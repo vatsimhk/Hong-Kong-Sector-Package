@@ -57,7 +57,7 @@ LastSession	atis_url0	http://vathk.com/atis/atis.php?dep=$deprwy($atisairportB)&
 LastSession	atis_letter0	74
 LastSession	atis_freq1	128200
 LastSession	atis_callsign1	VHHH_A_ATIS
-LastSession	atis_url1	http://vathk.com/atis/atis.php?arr=$arrrwy($atisairportB)&dep=$deprwy($atisairportB)&apptype=ILS&info=$atiscodeB&metar=$metar($atisairportB)
+LastSession	atis_url1	http://vathk.com/atis/atis.php?arr=$arrrwy($atisairportB)&apptype=ILS&info=$atiscodeB&metar=$metar($atisairportB)
 LastSession	atis_letter1	75
 LastSession	atis_freq2	126400
 LastSession	atis_callsign2	VMMC_ATIS
