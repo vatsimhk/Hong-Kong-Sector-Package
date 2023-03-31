@@ -50,3 +50,7 @@ Sounds	Sound6	\Data\Sounds\broadcast_message.wav
 Sounds	Sound7	\Data\Sounds\landline_request.wav
 Sounds	Sound8	\Data\Sounds\supervisor_message.wav
 Sounds	Sound9	\Data\Sounds\connected.wav
+LastSession	atis_freq0	126400
+LastSession	atis_callsign0	VMMC_ATIS
+LastSession	atis_url0	http://vathk.com/atis/atis.php?arr=$arrrwy($atisairportA)&dep=$deprwy($atisairportA)&apptype=ILS&info=$atiscodeA&metar=$metar($atisairportA)
+LastSession	atis_letter2	75
