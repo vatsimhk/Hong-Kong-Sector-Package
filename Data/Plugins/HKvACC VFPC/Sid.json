@@ -266,31 +266,40 @@
           "airways": "V1 DOTMI A470",
           "noise": "N",
           "suffix": [ "3A", "4C", "1E" ],
-          "allowed_fls": [ "207", "226" ],
-          "FLAS": "FL207 (6300m), FL226 (6900m)"
+          "allowed_fls": [ "167", "207", "246" ],
+          "FLAS": "FL167 (5100m), FL207 (6300m), FL246 (7500m)"
         },
         {
-          "destinations": [ "ZSFZ", "ZSWY" ],
+          "destinations": [ "ZSFZ", "ZSWY", "ZSWZ" ],
           "airways": "V1 DOTMI A470",
           "noise": "N",
           "suffix": [ "3A", "4C", "1E" ],
-          "allowed_fls": [ "226", "246", "266", "290" ],
-          "FLAS": "FL226 (6900m), FL246 (7500m), Fl266 (8100m), FL290"
+          "allowed_fls": [ "207", "246" ],
+          "FLAS": "FL207 (6300m), FL246 (7500m)"
+        },
+        {
+          "destinations": [ "ZSHC", "ZSYW", "ZSNB" ],
+          "airways": "V1 DOTMI A470",
+          "noise": "N",
+          "suffix": [ "3A", "4C", "1E" ],
+          "allowed_fls": [ "266", "330" ],
+          "FLAS": "FL266 (8100m), FL330"
         },
         {
           "direction": "ODD",
           "airways": "V1 DOTMI A470",
           "noise": "N",
           "suffix": [ "3A", "4C", "1E" ],
-          "allowed_fls": [ "290", "330", "350", "390" ],
-          "FLAS": "FL290, FL330, FL350, FL390"
+          "allowed_fls": [ "266", "330", "350", "390" ],
+          "FLAS": "FL266 (8100m), FL330, FL350, FL390"
         },
         {
+          "destinations": [ "ZSPD", "ZSQD", "ZSYT", "ZYTL" ],
           "airways": "V13 LELIM M503",
           "noise": "N",
           "suffix": [ "3A", "4C", "1E" ],
-          "allowed_fls": [ "291", "311", "331", "351", "371", "391", "411" ],
-          "FLAS": "Metric RVSM Eastbound Levels"
+          "allowed_fls": [ "330", "350" ],
+          "FLAS": "FL330, FL350"
         },
         {
           "destinations": [ "ZGOW" ],
@@ -303,28 +312,36 @@
           "destinations": [ "ZSAM", "ZSQZ" ],
           "airways": "V1 DOTMI A470",
           "suffix": [ "2B", "3D", "1F" ],
-          "allowed_fls": [ "207", "226" ],
-          "FLAS": "FL207 (6300m), FL226 (6900m)"
+          "allowed_fls": [ "167", "207", "246" ],
+          "FLAS": "FL167 (5100m), FL207 (6300m), FL246 (7500m)"
         },
         {
-          "destinations": [ "ZSFZ", "ZSWY" ],
+          "destinations": [ "ZSFZ", "ZSWY", "ZSWZ" ],
           "airways": "V1 DOTMI A470",
           "suffix": [ "2B", "3D", "1F" ],
-          "allowed_fls": [ "226", "246", "266", "290" ],
-          "FLAS": "FL226 (6900m), FL246 (7500m), Fl266 (8100m), FL290"
+          "allowed_fls": [ "207", "246" ],
+          "FLAS": "FL207 (6300m), FL246 (7500m)"
+        },
+        {
+          "destinations": [ "ZSHC", "ZSYW", "ZSNB" ],
+          "airways": "V1 DOTMI A470",
+          "suffix": [ "2B", "3D", "1F" ],
+          "allowed_fls": [ "266", "330" ],
+          "FLAS": "FL266 (8100m), FL330"
         },
         {
           "direction": "ODD",
           "airways": "V1 DOTMI A470",
           "suffix": [ "2B", "3D", "1F" ],
-          "allowed_fls": [ "290", "330", "350", "390" ],
-          "FLAS": "FL290, FL330, FL350, FL390"
+          "allowed_fls": [ "266", "330", "350", "390" ],
+          "FLAS": "FL266 (8100m), FL330, FL350, FL390"
         },
         {
+          "destinations": [ "ZSPD", "ZSQD", "ZSYT", "ZYTL" ],
           "airways": "V13 LELIM M503",
           "suffix": [ "2B", "3D", "1F" ],
-          "allowed_fls": [ "291", "311", "331", "351", "371", "391", "411" ],
-          "FLAS": "Metric RVSM Eastbound Levels"
+          "allowed_fls": [ "330", "350" ],
+          "FLAS": "FL330, FL350"
         }
       ],
       "VENGO": [
@@ -341,36 +358,45 @@
           "airways": "V1 DOTMI A470",
           "noise": "Y",
           "suffix": [ "1X", "1Y", "1Z", "1A", "2C", "2E" ],
-          "allowed_fls": [ "207", "226" ],
-          "FLAS": "FL207 (6300m), FL226 (6900m)"
+          "allowed_fls": [ "167", "207", "246" ],
+          "FLAS": "FL167 (5100m), FL207 (6300m), FL246 (7500m)"
         },
         {
-          "destinations": [ "ZSFZ", "ZSWY" ],
+          "destinations": [ "ZSFZ", "ZSWY", "ZSWZ" ],
           "airways": "V1 DOTMI A470",
           "noise": "Y",
           "suffix": [ "1X", "1Y", "1Z", "1A", "2C", "2E" ],
-          "allowed_fls": [ "226", "246", "266", "290" ],
-          "FLAS": "FL226 (6900m), FL246 (7500m), Fl266 (8100m), FL290"
+          "allowed_fls": [ "207", "246" ],
+          "FLAS": "FL207 (6300m), FL246 (7500m)"
+        },
+        {
+          "destinations": [ "ZSHC", "ZSYW", "ZSNB" ],
+          "airways": "V1 DOTMI A470",
+          "noise": "Y",
+          "suffix": [ "1X", "1Y", "1Z", "1A", "2C", "2E" ],
+          "allowed_fls": [ "266", "330" ],
+          "FLAS": "FL266 (8100m), FL330"
         },
         {
           "direction": "ODD",
           "airways": "V1 DOTMI A470",
           "noise": "Y",
           "suffix": [ "1X", "1Y", "1Z", "1A", "2C", "2E" ],
-          "allowed_fls": [ "290", "330", "350", "390" ],
-          "FLAS": "FL290, FL330, FL350, FL390"
+          "allowed_fls": [ "266", "330", "350", "390" ],
+          "FLAS": "FL266 (8100m), FL330, FL350, FL390"
         },
         {
+          "destinations": [ "ZSPD", "ZSQD", "ZSYT", "ZYTL" ],
           "airways": "V13 LELIM M503",
           "noise": "Y",
           "suffix": [ "1X", "1Y", "1Z", "1A", "2C", "2E" ],
-          "allowed_fls": [ "291", "311", "331", "351", "371", "391", "411" ],
-          "FLAS": "Metric RVSM Eastbound Levels"
+          "allowed_fls": [ "330", "350" ],
+          "FLAS": "FL330, FL350"
         }
       ],
       "PECAN": [
         {
-          "destinations": [ "ZJHK" ],
+          "destinations": [ "ZJHK", "ZJQH" ],
           "airways": "V10 SIKOU A202",
           "suffix": [ "1X", "1Y", "1Z" ],
           "noise": "Y",
@@ -436,7 +462,7 @@
           "noise": "Y"
         },
         {
-          "destinations": [ "ZJHK" ],
+          "destinations": [ "ZJHK", "ZJQH" ],
           "airways": "V10 SIKOU A202",
           "noise": "N",
           "suffix": [ "1A", "2C", "1E" ],
@@ -502,7 +528,7 @@
           "min_fl": 50
         },
         {
-          "destinations": [ "ZJHK" ],
+          "destinations": [ "ZJHK", "ZJQH" ],
           "airways": "V10 SIKOU A202",
           "suffix": [ "1B", "2D", "1F" ],
           "allowed_fls": [ "217", "236" ],
@@ -595,20 +621,26 @@
         {
           "destinations": [ "ZSAM", "ZSQZ" ],
           "airways": "A470",
-          "allowed_fls": [ "207", "226" ],
-          "FLAS": "FL207 (6300m), FL226 (6900m)"
+          "allowed_fls": [ "167", "207", "246" ],
+          "FLAS": "FL167 (5100m), FL207 (6300m), FL246 (7500m)"
         },
         {
-          "destinations": [ "ZSFZ", "ZSWY" ],
+          "destinations": [ "ZSFZ", "ZSWY", "ZSWZ" ],
           "airways": "A470",
-          "allowed_fls": [ "226", "246", "266", "290" ],
-          "FLAS": "FL226 (6900m), FL246 (7500m), Fl266 (8100m), FL290"
+          "allowed_fls": [ "207", "246" ],
+          "FLAS": "FL207 (6300m), FL246 (7500m)"
+        },
+        {
+          "destinations": [ "ZSHC", "ZSYW", "ZSNB" ],
+          "airways": "A470",
+          "allowed_fls": [ "266", "330" ],
+          "FLAS": "FL266 (8100m), FL330"
         },
         {
           "direction": "ODD",
           "airways": "A470",
-          "allowed_fls": [ "290", "330", "350", "390" ],
-          "FLAS": "FL290, FL330, FL350, FL390"
+          "allowed_fls": [ "266", "330", "350", "390" ],
+          "FLAS": "FL266 (8100m), FL330, FL350, FL390"
         }
       ],
       "ELATO": [
@@ -648,7 +680,7 @@
       ],
       "SIKOU": [
         {
-          "destinations": [ "ZJHK" ],
+          "destinations": [ "ZJHK", "ZJQH" ],
           "airways": "A202",
           "allowed_fls": [ "217", "236" ],
           "FLAS": "FL217 (6600m), FL236 (7200m)"
@@ -749,29 +781,29 @@
         {
           "destinations": [ "ZSAM", "ZSQZ" ],
           "airways": "V1 DOTMI A470",
-          "allowed_fls": [ "226", "246" ],
-          "FLAS": "FL226 (6900m), FL246 (7500m)"
+          "allowed_fls": [ "167", "207", "246" ],
+          "FLAS": "FL167 (5100m), FL207 (6300m), FL246 (7500m)"
         },
         {
-          "destinations": [ "ZSFZ", "ZSWY" ],
+          "destinations": [ "ZSFZ", "ZSWY", "ZSWZ" ],
           "airways": "V1 DOTMI A470",
-          "allowed_fls": [ "226", "246", "266", "290" ],
-          "FLAS": "FL226 (6900m), FL246 (7500m), Fl266 (8100m), FL290"
+          "allowed_fls": [ "207", "246" ],
+          "FLAS": "FL207 (6300m), FL246 (7500m)"
+        },
+        {
+          "destinations": [ "ZSHC", "ZSYW", "ZSNB" ],
+          "airways": "V1 DOTMI A470",
+          "allowed_fls": [ "266", "330" ],
+          "FLAS": "FL266 (8100m), FL330"
         },
         {
           "direction": "ODD",
           "airways": "V1 DOTMI A470",
-          "allowed_fls": [ "290", "330", "350", "390" ],
-          "FLAS": "FL290, FL330, FL350, FL390"
+          "allowed_fls": [ "266", "330", "350", "390" ],
+          "FLAS": "FL266 (8100m), FL330, FL350, FL390"
         },
         {
-          "destinations": [ "ZSPD" ],
-          "airways": "V13 LELIM M503",
-          "allowed_fls": [ "330" ],
-          "FLAS": "FL330"
-        },
-        {
-          "destinations": [ "ZSQD", "ZSYT", "ZYTL" ],
+          "destinations": [ "ZSPD", "ZSQD", "ZSYT", "ZYTL" ],
           "airways": "V13 LELIM M503",
           "allowed_fls": [ "330", "350" ],
           "FLAS": "FL330, FL350"
@@ -822,7 +854,7 @@
       ],
       "ALLEY": [
         {
-          "destinations": [ "ZJHK" ],
+          "destinations": [ "ZJHK", "ZJQH" ],
           "airways": "V10 SIKOU A202",
           "allowed_fls": [ "217", "236" ],
           "FLAS": "FL217 (6600m), FL236 (7200m)"
