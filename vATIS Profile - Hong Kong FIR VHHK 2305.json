@@ -556,27 +556,27 @@
             "FEW": {
               "$type": "Vatsim.Vatis.Profiles.AtisFormat.Nodes.CloudType, vATIS",
               "text": "FEW {altitude}00FT",
-              "voice": "few {altitude}"
+              "voice": "few {altitude} feet"
             },
             "SCT": {
               "$type": "Vatsim.Vatis.Profiles.AtisFormat.Nodes.CloudType, vATIS",
               "text": "SCT {altitude}00FT{convective}",
-              "voice": "scattered {altitude} {convective}"
+              "voice": "scattered {altitude} feet {convective}"
             },
             "BKN": {
               "$type": "Vatsim.Vatis.Profiles.AtisFormat.Nodes.CloudType, vATIS",
               "text": "BKN {altitude}00FT{convective}",
-              "voice": "broken {altitude} {convective}"
+              "voice": "broken {altitude} feet {convective}"
             },
             "OVC": {
               "$type": "Vatsim.Vatis.Profiles.AtisFormat.Nodes.CloudType, vATIS",
               "text": "OVC {altitude}00FT{convective}",
-              "voice": "overcast {altitude} {convective}"
+              "voice": "overcast {altitude} feet {convective}"
             },
             "VV": {
               "$type": "Vatsim.Vatis.Profiles.AtisFormat.Nodes.CloudType, vATIS",
               "text": "VV{altitude}",
-              "voice": "indefinite ceiling {altitude}"
+              "voice": "indefinite ceiling {altitude} feet"
             },
             "NSC": {
               "$type": "Vatsim.Vatis.Profiles.AtisFormat.Nodes.CloudType, vATIS",
