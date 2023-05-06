@@ -11,7 +11,6 @@ Airports:VMMC:symbol
 ARTCC boundary:RPHI - Manila 9002835:
 ARTCC boundary:TPE - Taipei 9002835:
 ARTCC boundary:VHHH ARTCC BOUNDARIES:
-ARTCC low boundary:5865472 - 5865580 8421493 - VHHH | Hong Kong:
 ARTCC low boundary:Terminal Control 8421493 - VHHH | Hong Kong:
 ARTCC low boundary:Terminal Control 8421493 - VMMC | Macau:
 ARTCC low boundary:Tower CTR - VHHX | Kai Tak:
