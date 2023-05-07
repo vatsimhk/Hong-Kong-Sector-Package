@@ -19,7 +19,7 @@
       "idsEndpoint": "",
       "useNotamPrefix": false,
       "useDecimalTerminology": true,
-      "airportConditionsBeforeFreeText": false,
+      "airportConditionsBeforeFreeText": true,
       "notamsBeforeFreeText": false,
       "presets": [
         {
@@ -61,12 +61,20 @@
           "spoken": " "
         },
         {
-          "String": "MAINT",
-          "Spoken": "MAINTAINENCE"
+          "string": "MAINT",
+          "spoken": "MAINTAINENCE"
         },
         {
-          "String": "CLSD",
-          "Spoken": "CLOSED"
+          "string": "CLSD",
+          "spoken": "CLOSED"
+        },
+        {
+          "string": "TURB",
+          "spoken": "TURBULENCE"
+        },
+        {
+          "string": "MOD",
+          "spoken": "MODERATE"
         }
       ],
       "airportConditionDefinitions": [
@@ -98,6 +106,12 @@
           "description": "",
           "ordinal": 5,
           "text": "SIG WS FCST.",
+          "enabled": false
+        },
+        {
+          "description": "",
+          "ordinal": 6,
+          "text": "SIG WS AND MOD TURB FCST.",
           "enabled": false
         }
       ],
@@ -221,22 +235,22 @@
           "types": {
             "FEW": {
               "$type": "Vatsim.Vatis.Profiles.AtisFormat.Nodes.CloudType, vATIS",
-              "text": "FEW {altitude}00FT",
-              "voice": "few {altitude} feet"
+              "text": "FEW {convective} {altitude}00FT",
+              "voice": "few {altitude} feet {convective}"
             },
             "SCT": {
               "$type": "Vatsim.Vatis.Profiles.AtisFormat.Nodes.CloudType, vATIS",
-              "text": "SCT {altitude}00FT{convective}",
+              "text": "SCT {convective} {altitude}00FT",
               "voice": "scattered {altitude} feet {convective}"
             },
             "BKN": {
               "$type": "Vatsim.Vatis.Profiles.AtisFormat.Nodes.CloudType, vATIS",
-              "text": "BKN {altitude}00FT{convective}",
+              "text": "BKN {convective} {altitude}00FT",
               "voice": "broken {altitude} feet {convective}"
             },
             "OVC": {
               "$type": "Vatsim.Vatis.Profiles.AtisFormat.Nodes.CloudType, vATIS",
-              "text": "OVC {altitude}00FT{convective}",
+              "text": "OVC {convective} {altitude}00FT",
               "voice": "overcast {altitude} feet {convective}"
             },
             "VV": {
@@ -330,7 +344,7 @@
       "idsEndpoint": "",
       "useNotamPrefix": false,
       "useDecimalTerminology": true,
-      "airportConditionsBeforeFreeText": false,
+      "airportConditionsBeforeFreeText": true,
       "notamsBeforeFreeText": false,
       "presets": [
         {
@@ -376,12 +390,12 @@
           "spoken": " "
         },
         {
-          "String": "MAINT",
-          "Spoken": "MAINTAINENCE"
+          "string": "MAINT",
+          "spoken": "MAINTAINENCE"
         },
         {
-          "String": "CLSD",
-          "Spoken": "CLOSED"
+          "string": "CLSD",
+          "spoken": "CLOSED"
         }
       ],
       "airportConditionDefinitions": [
@@ -555,22 +569,22 @@
           "types": {
             "FEW": {
               "$type": "Vatsim.Vatis.Profiles.AtisFormat.Nodes.CloudType, vATIS",
-              "text": "FEW {altitude}00FT",
-              "voice": "few {altitude} feet"
+              "text": "FEW {convective} {altitude}00FT",
+              "voice": "few {altitude} feet {convective}"
             },
             "SCT": {
               "$type": "Vatsim.Vatis.Profiles.AtisFormat.Nodes.CloudType, vATIS",
-              "text": "SCT {altitude}00FT{convective}",
+              "text": "SCT {convective} {altitude}00FT",
               "voice": "scattered {altitude} feet {convective}"
             },
             "BKN": {
               "$type": "Vatsim.Vatis.Profiles.AtisFormat.Nodes.CloudType, vATIS",
-              "text": "BKN {altitude}00FT{convective}",
+              "text": "BKN {convective} {altitude}00FT",
               "voice": "broken {altitude} feet {convective}"
             },
             "OVC": {
               "$type": "Vatsim.Vatis.Profiles.AtisFormat.Nodes.CloudType, vATIS",
-              "text": "OVC {altitude}00FT{convective}",
+              "text": "OVC {convective} {altitude}00FT",
               "voice": "overcast {altitude} feet {convective}"
             },
             "VV": {
@@ -670,13 +684,13 @@
       "idsEndpoint": "",
       "useNotamPrefix": false,
       "useDecimalTerminology": true,
-      "airportConditionsBeforeFreeText": false,
+      "airportConditionsBeforeFreeText": true,
       "notamsBeforeFreeText": false,
       "presets": [
         {
           "id": "358bb41f-cd48-4abb-8f84-68d2e0accbce",
           "name": "DEFAULT (CLICK ARPT COND TO SELECT RWYS)",
-          "template": "[FACILITY] ARR ATIS [ATIS_CODE] [OBS_TIME]. [ARPT_COND] MET REPORT [FACILITY] [OBS_TIME] [FULL_WX_STRING] [TL]. [NOTAMS] ",
+          "template": "[FACILITY] ATIS [ATIS_CODE] [OBS_TIME]. [ARPT_COND] MET REPORT [FACILITY] [OBS_TIME] [FULL_WX_STRING] [TL]. [NOTAMS] ",
           "externalGenerator": {
             "enabled": false
           }
@@ -850,22 +864,22 @@
           "types": {
             "FEW": {
               "$type": "Vatsim.Vatis.Profiles.AtisFormat.Nodes.CloudType, vATIS",
-              "text": "FEW {altitude}00FT",
-              "voice": "few {altitude} feet"
+              "text": "FEW {convective} {altitude}00FT",
+              "voice": "few {altitude} feet {convective}"
             },
             "SCT": {
               "$type": "Vatsim.Vatis.Profiles.AtisFormat.Nodes.CloudType, vATIS",
-              "text": "SCT {altitude}00FT{convective}",
+              "text": "SCT {convective} {altitude}00FT",
               "voice": "scattered {altitude} feet {convective}"
             },
             "BKN": {
               "$type": "Vatsim.Vatis.Profiles.AtisFormat.Nodes.CloudType, vATIS",
-              "text": "BKN {altitude}00FT{convective}",
+              "text": "BKN {convective} {altitude}00FT",
               "voice": "broken {altitude} feet {convective}"
             },
             "OVC": {
               "$type": "Vatsim.Vatis.Profiles.AtisFormat.Nodes.CloudType, vATIS",
-              "text": "OVC {altitude}00FT{convective}",
+              "text": "OVC {convective} {altitude}00FT",
               "voice": "overcast {altitude} feet {convective}"
             },
             "VV": {
