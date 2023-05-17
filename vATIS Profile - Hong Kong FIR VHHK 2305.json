@@ -25,7 +25,7 @@
         {
           "id": "9d497203-fe37-456f-8af5-cfdb28a8ba9d",
           "name": "DEFAULT (CLICK ARPT COND TO SELECT RWYS)",
-          "template": "[FACILITY] DEP ATIS [ATIS_CODE] [OBS_TIME]. [ARPT_COND] MET REPORT [FACILITY] [OBS_TIME] [FULL_WX_STRING] [NOTAMS] ",
+          "template": "[FACILITY] DEP ATIS [ATIS_CODE] [OBS_TIME]. [ARPT_COND] MET REPORT [FACILITY] [OBS_TIME] [FULL_WX_STRING] TREND [TREND]. [NOTAMS] ",
           "externalGenerator": {
             "enabled": false
           }
@@ -75,6 +75,14 @@
         {
           "string": "MOD",
           "spoken": "MODERATE"
+        },
+        {
+          "string": "VCY",
+          "spoken": "VICINITY"
+        },
+        {
+          "string": "TS",
+          "spoken": "THUNDERSTORM"
         }
       ],
       "airportConditionDefinitions": [
@@ -113,9 +121,28 @@
           "ordinal": 6,
           "text": "SIG WS AND MOD TURB FCST.",
           "enabled": false
+        },
+        {
+          "description": "",
+          "ordinal": 7,
+          "text": "RWY SFC ALL PARTS WET.",
+          "enabled": false
         }
       ],
-      "notamDefinitions": [],
+      "notamDefinitions": [
+        {
+          "description": "",
+          "ordinal": 1,
+          "text": "TS IN VCY.",
+          "enabled": false
+        },
+        {
+          "description": "",
+          "ordinal": 2,
+          "text": "CB IN APCH AND DEP.",
+          "enabled": false
+        }
+      ],
       "atisFormat": {
         "observationTime": {
           "template": {
@@ -181,7 +208,7 @@
           "includeVisibilitySuffix": true,
           "metersCutoff": 5000,
           "template": {
-            "text": "{visibility}",
+            "text": "VIS {visibility}M",
             "voice": "VISIBILITY {visibility}"
           }
         },
@@ -350,7 +377,7 @@
         {
           "id": "54f37ff5-0442-478c-8f16-315f3b4ac56b",
           "name": "DEFAULT (CLICK ARPT COND TO SELECT RWYS)",
-          "template": "[FACILITY] ARR ATIS [ATIS_CODE] [OBS_TIME]. [ARPT_COND] MET REPORT [FACILITY] [OBS_TIME] [FULL_WX_STRING] [NOTAMS] ",
+          "template": "[FACILITY] ARR ATIS [ATIS_CODE] [OBS_TIME]. [ARPT_COND] MET REPORT [FACILITY] [OBS_TIME] [FULL_WX_STRING] TREND [TREND]. [NOTAMS] ",
           "externalGenerator": {
             "enabled": false
           }
@@ -396,6 +423,10 @@
         {
           "string": "CLSD",
           "spoken": "CLOSED"
+        },
+        {
+          "string": "VCY",
+          "spoken": "VICINITY"
         }
       ],
       "airportConditionDefinitions": [
@@ -440,6 +471,12 @@
           "ordinal": 7,
           "text": "SIG WS FCST.",
           "enabled": false
+        },
+        {
+          "description": "",
+          "ordinal": 8,
+          "text": "RWY SFC ALL PARTS WET.",
+          "enabled": false
         }
       ],
       "notamDefinitions": [
@@ -447,6 +484,12 @@
           "description": "",
           "ordinal": 1,
           "text": "EXP SIG TAILWIND ON BASELEG.",
+          "enabled": false
+        },
+        {
+          "description": "",
+          "ordinal": 2,
+          "text": "CB IN APCH.",
           "enabled": false
         }
       ],
@@ -515,7 +558,7 @@
           "includeVisibilitySuffix": true,
           "metersCutoff": 5000,
           "template": {
-            "text": "{visibility}",
+            "text": "VIS {visibility}M",
             "voice": "VISIBILITY {visibility}"
           }
         },
