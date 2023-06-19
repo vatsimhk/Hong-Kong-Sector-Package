@@ -19,7 +19,7 @@
 .gnd Contact Hong Kong Ground on 122.55, good day.
 .pek Contact Beijing Control on 133.075, good day.
 ;Predeparture Clearance PDC: 
-.pdc $time $dep PDC $aircraft CLRD TO $arr OFF $deprwy VIA $sid SQUAWK $asquawk NEXT FREQ $com ATIS $atiscode. CLIMB VIA SID TO $temp. ACK PDC. CTC $uc($radioname) ON $com WHEN READY TO START
+.pdc $time $dep PDC $aircraft CLRD TO $arr OFF $deprwy VIA $sid SQUAWK $asquawk NEXT FREQ $com ATIS $1. CLIMB VIA SID TO $temp. ACK PDC. CTC $uc($radioname) ON $com WHEN READY TO START
 .nopdc $aircraft PDC REJECTED � FLIGHT PLAN INVALID � REVERT TO VOICE PROCEDURES.
 ;Dep Clearence:
 ;HONGKONG Chek Lap Kok SID
@@ -155,22 +155,22 @@
 .psblue Pushback and engine startup approved, push back colour BLUE. Report ready for taxi
 .psgreen Pushback and engine startup approved, push back colour GREEN. Report ready for taxi
 .start Start engines only. standby for push
-.j1 Taxi via TWYs $1 to holding point J1 rwy 07R
-.k1 Taxi via TWYs $1 to holding point K1 rwy 07R
-.j2 Taxi via TWYs $1 to holding point J2 rwy 07R
-.a1 Taxi via TWYs $1 to holding point A1 rwy 07C
-.a2 Taxi via TWYs $1 to holding point A2 rwy 07C
-.j11 Taxi via TWYs $1 to holding point J11 rwy 25L
-.k7 Taxi via TWYs $1 to holding point K7 rwy 25L
-.j10 Taxi via TWYs $1 to holding point J10 rwy 25L
-.a10 Taxi via TWYs $1 to holding point A12 rwy 25C
-.a11 Taxi via TWYs $1 to holding point A12 rwy 25C
-.taxi13 Taxi via TWYs $1 to holding point rwy 13 
-.taxi31 Taxi via TWYs $1 to holding point rwy 31 
-.taxi16 Taxi via TWYs $1 to holding point rwy 16 
-.taxi34 Taxi via TWYs $1 to holding point rwy 34 
+.j1 Taxi via TWYs $1 to holding point J1 rwy 07R, QNH $altim(VHHH)
+.k1 Taxi via TWYs $1 to holding point K1 rwy 07R, QNH $altim(VHHH)
+.j2 Taxi via TWYs $1 to holding point J2 rwy 07R, QNH $altim(VHHH)
+.c1 Taxi via TWYs $1 to holding point C1 rwy 07L, QNH $altim(VHHH)
+.c2 Taxi via TWYs $1 to holding point C2 rwy 07L, QNH $altim(VHHH)
+.j11 Taxi via TWYs $1 to holding point J11 rwy 25L, QNH $altim(VHHH)
+.k7 Taxi via TWYs $1 to holding point K7 rwy 25L, QNH $altim(VHHH)
+.j10 Taxi via TWYs $1 to holding point J10 rwy 25L, QNH $altim(VHHH)
+.C11 Taxi via TWYs $1 to holding point C11 rwy 25R, QNH $altim(VHHH)
+.C12 Taxi via TWYs $1 to holding point C12 rwy 25R, QNH $altim(VHHH)
+.taxi13 Taxi via TWYs $1 to holding point rwy 13, QNH $altim(VHHH)
+.taxi31 Taxi via TWYs $1 to holding point rwy 31, QNH $altim(VHHH)
+.taxi16 Taxi via TWYs $1 to holding point rwy 16, QNH $altim(VMMC)
+.taxi34 Taxi via TWYs $1 to holding point rwy 34, QNH $altim(VMMC)
 .taxist Taxi via TWYs $1 to stand $2
-.taxi Taxi via TWY $1 holding point runway $deprwy
+.taxi Taxi via TWY $1 holding point runway $deprwy, QNH $altim($dep)
 .sqb Squawk mode standby
 .own Taxi to the gate of your choice
 .stno say stand number
@@ -278,6 +278,9 @@
 .pdcinfo Information about Pre-departure Clearance at Hong Kong FIR "https://vathk.com/pdc"
 .psinfo Hong Kong FIR uses the colour coded pushback procedures: "https://vathk.com/pushback"
 .alcohol Did you consume any alcholic beverages in the past 12 hours?
+.route Your filed route is invalid. Are you able to accept the following reroute: $1. Once accepted, call on frequency as normal for clearance.
+.invfl Your cruise altitude $cruise is unavailable, can you accept FL$1
+
 ;GATE ALLOCATIONS
 .PAXS ACARS MSG to CREW of $aircraft: PAX arrival information, expect STAND $uc($1), BAGGAGE CLAIM No. $uc($2) END of MSG /Reply to confirm the Message
 .PAXG ACARS MSG to CREW of $aircraft: PAX arrival information, expect GATE $uc($1), BAGGAGE CLAIM No. $uc($2) END of MSG /Reply to confirm the Message
