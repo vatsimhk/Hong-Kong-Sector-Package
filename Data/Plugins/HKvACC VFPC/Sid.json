@@ -757,7 +757,7 @@
       "NLG": [
         {
           "destinations": [ "ZGSZ" ],
-          "allowed_fls": [ "059" ],
+          "allowed_fls": [ "59" ],
           "FLAS": "5900ft (1800m)"
         }
       ],
