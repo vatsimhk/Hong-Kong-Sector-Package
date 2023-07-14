@@ -1,10 +1,23 @@
 # Hong Kong Sector Package
 This package contains the official sector files exclusively for use by controllers and observers at VATSIM HK. 
 
+### Stable Versions
+![tags](https://github.com/vatsimhk/Hong-Kong-Sector-Package/actions/workflows/main.yml/badge.svg?branch=)
+| Version | Support |
+| ------------- | ------------- |
+| [2305 v1](https://github.com/vatsimhk/Hong-Kong-Sector-Package/releases/tag/2305)| ![](https://placehold.co/15x15/00ff00/00ff00.png) Latest |
+| [2304 v1](https://github.com/vatsimhk/Hong-Kong-Sector-Package/releases/tag/2304)| ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) Supported  |
+| [2303 v1](https://github.com/vatsimhk/Hong-Kong-Sector-Package/releases/tag/2303)| ![f03c15](https://placehold.co/15x15/f03c15/f03c15.png) End of Life |
+
+### Development Versions
+| Version | Support |
+| ------------- | ------------- |
+| 2307dev | ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) In Review |
+
 ## How Do I Install/Update the Package?
 First, ensure that you have the **latest version of EuroScope installed**. You can install EuroScope [here](https://www.euroscope.hu/wp/installation/). Note that our package will NOT work with versions earlier than 3.2.2. You now have two options for installing the sector package:
 ### Option 1: Via ZIP
-Navigate to the [releases](https://github.com/vatsimhk/Hong-Kong-Sector-Package/releases) section, then scroll down below the changelog and click the first zip file to download (not source code). Extract it to a convenient location. When updates are released, download the new package, extract the new ZIP file and overwrite the files in your existing install. Please note that you may need to reconfigure certain settings by updating this way.
+Select the latest stable version in the table above, then scroll down below the changelog and click the first zip file to download (not source code). Extract it to a convenient location. When updates are released, download the new package, extract the new ZIP file and overwrite the files in your existing install. Please note that you may need to reconfigure certain settings by updating this way.
 ### Option 2: Via Git
 If you are technically inclined, you can install the sector package by cloning the github repository, allowing you to receive seamless updates. First, install [Git for Windows](https://git-scm.com/download/win) by downloading and running their installer. Navigate to your EuroScope folder, right click anywhere in the explorer menu and click "Open in Terminal," then run the following commands:  
   
