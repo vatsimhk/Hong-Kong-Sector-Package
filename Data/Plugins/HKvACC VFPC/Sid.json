@@ -286,7 +286,6 @@
           "FLAS": "FL266 (8100m), FL330"
         },
         {
-          "direction": "ODD",
           "airways": "V1 DOTMI A470",
           "noise": "N",
           "suffix": [ "3A", "4C", "1E" ],
@@ -330,7 +329,6 @@
           "FLAS": "FL266 (8100m), FL330"
         },
         {
-          "direction": "ODD",
           "airways": "V1 DOTMI A470",
           "suffix": [ "2B", "3D", "1F" ],
           "allowed_fls": [ "266", "330", "350", "390" ],
@@ -378,7 +376,6 @@
           "FLAS": "FL266 (8100m), FL330"
         },
         {
-          "direction": "ODD",
           "airways": "V1 DOTMI A470",
           "noise": "Y",
           "suffix": [ "1X", "1Y", "1Z", "1A", "2C", "2E" ],
@@ -760,7 +757,7 @@
       "NLG": [
         {
           "destinations": [ "ZGSZ" ],
-          "allowed_fls": [ "059" ],
+          "allowed_fls": [ "59" ],
           "FLAS": "5900ft (1800m)"
         }
       ],
@@ -797,7 +794,6 @@
           "FLAS": "FL266 (8100m), FL330"
         },
         {
-          "direction": "ODD",
           "airways": "V1 DOTMI A470",
           "allowed_fls": [ "266", "330", "350", "390" ],
           "FLAS": "FL266 (8100m), FL330, FL350, FL390"
