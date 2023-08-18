@@ -238,21 +238,21 @@
 .rais $arr airport is at your $oclock($arr), $dist($arr) nm, report it insight.
 ;ILS Clearence
 .ils Cleared ILS RWY $arrrwy approach, report established.
-.ils07C After LIMES, descend altitude 2000ft, From LIMES via TONIC, cleared ILS RWY 07C approach.
-.ils07r After LIMES, descend altitude 2000ft, From LIMES via STELA, cleared ILS RWY 07R approach.
-.ils07l After LIMES, descend altitude 2000ft, From LIMES via TUTBA, cleared ILS RWY 07L approach.
-.ils25l From TD, descend altitude 4500ft, cleared ILS RWY 25L approach. 
-.ils25C From TD, descend altitude 4500ft, cleared ILS RWY 25C approach. 
+.ils07C From LIMES via TONIC, cleared ILS RWY 07C approach.
+.ils07r From LIMES via STELA, cleared ILS RWY 07R approach.
+.ils07l From LIMES via TUTBA, cleared ILS RWY 07L approach.
+.ils25l From TD, cleared ILS RWY 25L approach. 
+.ils25C From TD, cleared ILS RWY 25C approach. 
 .tra25R From TD, descend via RNAV transition 2700ft
 .ils25R From TOPUN, cleared ILS RWY 25R approach.
 .rptest Report established
 ;KaiTak
-.igs13 From CH, descend altitude 4500ft, cleared IGS RWY13 approach, report established.
+.igs13 From CH, cleared IGS RWY13 approach, report established.
 .OM Report Outer Marker
 .GL Report Green Island insight
 .cb Report checkerboard insight
 ;Macau
-.hazel From HAZEL, descend altitude 3000ft, QNH $altim(VMMC), cleared ILS Z approach runway 34. Report established
+.hazel From HAZEL, cleared ILS Z approach runway 34. QNH $altim(VMMC). Report established
 .ils34 Cleared ILS RWY34 approach. Report established
 .llz16 Cleared LOC/DME RWY16 approach. Report established.
 ;VFR
