@@ -25,7 +25,7 @@ Airspace_No_DUPE_Codes=2000,2200,1200,1000
 
 //CPDLC
 CPDLC_Default=1
-CPDLC_MinLevel=195
+CPDLC_MinLevel=245
 CPDLC_Transfer=1
 CPDLC_VCI_UM_Type=1
 CPDLC_AHDG=1
