@@ -2,18 +2,18 @@
 This package contains the official sector files exclusively for use by controllers and observers at VATSIM HK. 
 
 ### Stable Versions
-![tags](https://github.com/vatsimhk/Hong-Kong-Sector-Package/actions/workflows/main.yml/badge.svg?tag=2307)
+![tags](https://github.com/vatsimhk/Hong-Kong-Sector-Package/actions/workflows/main.yml/badge.svg)
 | Version | Support |
 | ------------- | ------------- |
-| [2307 v1](https://github.com/vatsimhk/Hong-Kong-Sector-Package/releases/tag/2307)| ![00ff00](https://placehold.co/15x15/00ff00/00ff00.png) Latest |
-| [2305 v1](https://github.com/vatsimhk/Hong-Kong-Sector-Package/releases/tag/2305)| ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) Supported  |
-| [2304 v1](https://github.com/vatsimhk/Hong-Kong-Sector-Package/releases/tag/2304)| ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) Supported  |
-| [2303 v1](https://github.com/vatsimhk/Hong-Kong-Sector-Package/releases/tag/2303)| ![f03c15](https://placehold.co/15x15/f03c15/f03c15.png) End of Life |
+| [2309 v1](https://github.com/vatsimhk/Hong-Kong-Sector-Package/releases/tag/2309)| ![00ff00](https://placehold.co/15x15/00ff00/00ff00.png) Latest |
+| [2307 v1](https://github.com/vatsimhk/Hong-Kong-Sector-Package/releases/tag/2307)| ![f03c15](https://placehold.co/15x15/f03c15/f03c15.png) End of Life |
+| [2305 v1](https://github.com/vatsimhk/Hong-Kong-Sector-Package/releases/tag/2305)| ![f03c15](https://placehold.co/15x15/f03c15/f03c15.png) End of Life |
+| [2304 v1](https://github.com/vatsimhk/Hong-Kong-Sector-Package/releases/tag/2304)| ![f03c15](https://placehold.co/15x15/f03c15/f03c15.png) End of Life |
 
 ### Development Versions
 | Version | Support |
 | ------------- | ------------- |
-| 2308dev | ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) Upcoming/In Development |
+| 2310dev | ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) Upcoming/In Development |
 
 ## How Do I Install/Update the Package?
 First, ensure that you have the **latest version of EuroScope installed**. You can install EuroScope [here](https://www.euroscope.hu/wp/installation/). Note that our package will NOT work with versions earlier than 3.2.2. You now have two options for installing the sector package:
