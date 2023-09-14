@@ -8,7 +8,7 @@
       "identifier": "VHHH",
       "atisType": "Departure",
       "codeRange": {
-        "low": "A",
+        "low": "N",
         "high": "Z"
       },
       "frequency": 127050000,
@@ -361,7 +361,7 @@
       "atisType": "Arrival",
       "codeRange": {
         "low": "A",
-        "high": "Z"
+        "high": "M"
       },
       "frequency": 128200000,
       "atisVoice": {
