@@ -35,7 +35,7 @@
 ;EuroScope ATC Sector File (ESE)
 ;Copyright (C) 2023 by HKVACC
 ;All Rights Reserved
-;Hong Kong sector version 2310dev
+;Hong Kong sector version 2310 v1
 
 [POSITIONS]
 ASEA_FSS:South East Asia Control:135.350:SEA::ASEA:FSS:::0000:0000
