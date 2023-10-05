@@ -28,7 +28,7 @@ If you are technically inclined, you can install the sector package by cloning t
 To update the package, simply open the Terminal again and run these commands:  
   
 `git checkout main`  
-`git pull`  
+`git pull --rebase --autostash`  
   
 This will automatically install updates without affecting your other personal settings.  
   
