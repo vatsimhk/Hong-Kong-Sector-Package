@@ -5,10 +5,10 @@ This package contains the official sector files exclusively for use by controlle
 ![tags](https://github.com/vatsimhk/Hong-Kong-Sector-Package/actions/workflows/main.yml/badge.svg)
 | Version | Support |
 | ------------- | ------------- |
-| [2309 v1](https://github.com/vatsimhk/Hong-Kong-Sector-Package/releases/tag/2309)| ![00ff00](https://placehold.co/15x15/00ff00/00ff00.png) Latest |
+| [2310 v1](https://github.com/vatsimhk/Hong-Kong-Sector-Package/releases/tag/2310)| ![00ff00](https://placehold.co/15x15/00ff00/00ff00.png) Latest |
+| [2309 v1](https://github.com/vatsimhk/Hong-Kong-Sector-Package/releases/tag/2309)| ![f03c15](https://placehold.co/15x15/f03c15/f03c15.png) End of Life |
 | [2307 v1](https://github.com/vatsimhk/Hong-Kong-Sector-Package/releases/tag/2307)| ![f03c15](https://placehold.co/15x15/f03c15/f03c15.png) End of Life |
 | [2305 v1](https://github.com/vatsimhk/Hong-Kong-Sector-Package/releases/tag/2305)| ![f03c15](https://placehold.co/15x15/f03c15/f03c15.png) End of Life |
-| [2304 v1](https://github.com/vatsimhk/Hong-Kong-Sector-Package/releases/tag/2304)| ![f03c15](https://placehold.co/15x15/f03c15/f03c15.png) End of Life |
 
 ### Development Versions
 | Version | Support |
@@ -28,7 +28,7 @@ If you are technically inclined, you can install the sector package by cloning t
 To update the package, simply open the Terminal again and run these commands:  
   
 `git checkout main`  
-`git pull`  
+`git pull --rebase --autostash`  
   
 This will automatically install updates without affecting your other personal settings.  
   
