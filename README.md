@@ -13,7 +13,7 @@ This package contains the official sector files exclusively for use by controlle
 ### Development Versions
 | Version | Support |
 | ------------- | ------------- |
-| 2310dev | ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) Upcoming/In Development |
+| 2311dev | ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) Upcoming/In Development |
 
 ## How Do I Install/Update the Package?
 First, ensure that you have the **latest version of EuroScope installed**. You can install EuroScope [here](https://www.euroscope.hu/wp/installation/). Note that our package will NOT work with versions earlier than 3.2.2. You now have two options for installing the sector package:
