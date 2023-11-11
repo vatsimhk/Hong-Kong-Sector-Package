@@ -3,12 +3,6 @@ DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:Hong-Kong-Sector-File.sct
-Airports:VHHH:symbol
-Airports:VHHX:name
-Airports:VMMC:name
-Airports:ZGGG:name
-Airports:ZGSD:name
-Airports:ZGSZ:name
 Free Text:VHHX Kai Tak Gates\1:freetext
 Free Text:VHHX Kai Tak Gates\15:freetext
 Free Text:VHHX Kai Tak Gates\16:freetext
@@ -38,7 +32,6 @@ Free Text:VHHX Kai Tak Gates\37:freetext
 Free Text:VHHX Kai Tak Gates\38:freetext
 Free Text:VHHX Kai Tak Gates\4:freetext
 Free Text:VHHX Kai Tak Gates\41:freetext
-Free Text:VHHX Kai Tak Gates\42:freetext
 Free Text:VHHX Kai Tak Gates\43:freetext
 Free Text:VHHX Kai Tak Gates\44:freetext
 Free Text:VHHX Kai Tak Gates\45:freetext
@@ -50,6 +43,7 @@ Free Text:VHHX Kai Tak Gates\5:freetext
 Free Text:VHHX Kai Tak Gates\50:freetext
 Free Text:VHHX Kai Tak Gates\51:freetext
 Free Text:VHHX Kai Tak Gates\52:freetext
+Free Text:VHHX Kai Tak Gates\53:freetext
 Free Text:VHHX Kai Tak Gates\54:freetext
 Free Text:VHHX Kai Tak Gates\55:freetext
 Free Text:VHHX Kai Tak Gates\56:freetext
@@ -72,6 +66,7 @@ Free Text:VHHX Kai Tak Gates\79:freetext
 Free Text:VHHX Kai Tak Gates\8:freetext
 Free Text:VHHX Kai Tak Gates\80:freetext
 Free Text:VHHX Kai Tak Gates\81:freetext
+Free Text:VHHX Kai Tak Taxiways\A:freetext
 Free Text:VHHX Kai Tak Taxiways\A1:freetext
 Free Text:VHHX Kai Tak Taxiways\A10:freetext
 Free Text:VHHX Kai Tak Taxiways\A11:freetext
@@ -95,33 +90,41 @@ Free Text:VHHX Kai Tak Taxiways\B3:freetext
 Free Text:VHHX Kai Tak Taxiways\B4:freetext
 Free Text:VHHX Kai Tak Taxiways\B4:freetext
 Free Text:VHHX Kai Tak Taxiways\B5:freetext
+Free Text:VHHX Kai Tak Taxiways\C:freetext
 Free Text:VHHX Kai Tak Taxiways\C1:freetext
 Free Text:VHHX Kai Tak Taxiways\C1:freetext
 Free Text:VHHX Kai Tak Taxiways\C1:freetext
 Free Text:VHHX Kai Tak Taxiways\C1:freetext
 Free Text:VHHX Kai Tak Taxiways\C1:freetext
 Free Text:VHHX Kai Tak Taxiways\C2:freetext
+Free Text:VHHX Kai Tak Taxiways\D:freetext
 Free Text:VHHX Kai Tak Taxiways\D1:freetext
 Free Text:VHHX Kai Tak Taxiways\D2:freetext
 Free Text:VHHX Kai Tak Taxiways\D3:freetext
+Free Text:VHHX Kai Tak Taxiways\E:freetext
 Free Text:VHHX Kai Tak Taxiways\E1:freetext
+Free Text:VHHX Kai Tak Taxiways\F:freetext
+Free Text:VHHX Kai Tak Taxiways\G:freetext
+Free Text:VHHX Kai Tak Taxiways\H:freetext
 Free Text:VHHX Kai Tak Taxiways\H1:freetext
 Free Text:VHHX Kai Tak Taxiways\H1:freetext
+Free Text:VHHX Kai Tak Taxiways\J:freetext
+Free Text:VHHX Kai Tak Taxiways\K:freetext
+Free Text:VHHX Kai Tak Taxiways\L:freetext
+Free Text:VHHX Kai Tak Taxiways\M:freetext
+Free Text:VHHX Kai Tak Taxiways\N:freetext
+Free Text:VHHX Kai Tak Taxiways\P:freetext
+Free Text:VHHX Kai Tak Taxiways\Q:freetext
+Free Text:VHHX Kai Tak Taxiways\R:freetext
+Free Text:VHHX Kai Tak Taxiways\S:freetext
+Free Text:VHHX Kai Tak Taxiways\T:freetext
+Free Text:VHHX Kai Tak Taxiways\U:freetext
+Free Text:VHHX Kai Tak Taxiways\V:freetext
+Free Text:VHHX Kai Tak Taxiways\W:freetext
+Free Text:VHHX Kai Tak Taxiways\Y:freetext
 Geo:VHHX Centerlines Extended Centerline 13:
 Geo:VHHX Groundlayout Kai Tak:
 Regions:VHHX Kai Tak:polygon
-Regions:VHHX Kai Tak | Checkerboa:polygon
-VORs:CH:symbol
-VORs:DSA:symbol
-VORs:GLN:symbol
-VORs:LKC:symbol
-VORs:MCU:symbol
-VORs:NLG:symbol
-VORs:SHK:symbol
-VORs:SMT:symbol
-VORs:TD:symbol
-VORs:ZAO:symbol
-VORs:ZUH:symbol
 SHOWC:1
 SHOWSB:1
 BELOW:0
@@ -133,9 +136,9 @@ HISTORY_DOTS:0
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:318.00000
+DisplayRotation:316.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:22.305404:114.188404:22.329483:114.235792
+WINDOWAREA:22.311902:114.194528:22.325024:114.218792
 PLUGIN:Ground Radar plugin:AirportElevation:20
 PLUGIN:Ground Radar plugin:AirportRadius:3
 PLUGIN:Ground Radar plugin:GroundMode:VHHX
