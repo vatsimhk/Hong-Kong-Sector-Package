@@ -5,10 +5,10 @@ This package contains the official sector files exclusively for use by controlle
 ![tags](https://github.com/vatsimhk/Hong-Kong-Sector-Package/actions/workflows/main.yml/badge.svg)
 | Version | Support |
 | ------------- | ------------- |
-| [2311 v1](https://github.com/vatsimhk/Hong-Kong-Sector-Package/releases/tag/2311)| ![00ff00](https://placehold.co/15x15/00ff00/00ff00.png) Latest |
-| [2310 v1](https://github.com/vatsimhk/Hong-Kong-Sector-Package/releases/tag/2310)| ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) Supported |
+| [2312 v1](https://github.com/vatsimhk/Hong-Kong-Sector-Package/releases/tag/2312)| ![00ff00](https://placehold.co/15x15/00ff00/00ff00.png) Latest |
+| [2311 v1](https://github.com/vatsimhk/Hong-Kong-Sector-Package/releases/tag/2311)| ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) Limited Support (S1/S2 ONLY) |
+| [2310 v1](https://github.com/vatsimhk/Hong-Kong-Sector-Package/releases/tag/2310)| ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) Limited Support (S1/S2 ONLY) |
 | [2309 v1](https://github.com/vatsimhk/Hong-Kong-Sector-Package/releases/tag/2309)| ![f03c15](https://placehold.co/15x15/f03c15/f03c15.png) End of Life |
-| [2307 v1](https://github.com/vatsimhk/Hong-Kong-Sector-Package/releases/tag/2307)| ![f03c15](https://placehold.co/15x15/f03c15/f03c15.png) End of Life |
 
 ### Development Versions
 | Version | Support |
