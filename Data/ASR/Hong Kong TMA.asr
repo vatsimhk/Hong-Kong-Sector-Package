@@ -1,6 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+SECTORFILE:
 SECTORTITLE:Hong-Kong-Sector-File.sct
 Airports:VHHH:name
 Airports:VHHH:symbol
@@ -8,19 +9,27 @@ Airports:VHHX:name
 Airports:VHHX:symbol
 Airports:VMMC:name
 Airports:VMMC:symbol
-ARTCC boundary:RPHI - Manila 9002835:
-ARTCC boundary:TPE - Taipei 9002835:
-ARTCC boundary:VHHH ARTCC BOUNDARIES:
-ARTCC low boundary:Terminal Control 8421493 - VHHH | Hong Kong:
-ARTCC low boundary:Terminal Control 8421493 - VMMC | Macau:
-ARTCC low boundary:Tower CTR - VHHX | Kai Tak:
-ARTCC low boundary:Tower CTR - VMMC | Macau:
-ARTCC low boundary:Tower CTR South - VHHH | Hong Kong:
-ARTCC low boundary:VHHH TME_(EAST_/_SFC-FL250):
-ARTCC low boundary:VHHH TMS_(SOUTH_/_SFC-FL250):
-ARTCC low boundary:VHHH TMW_(WEST_/_FL120-FL250):
-Geo:VHHH MRVA Min Vector Alts:
+ARTCC boundary:VHHK_FIR:
+ARTCC high boundary:APPDEP_bdry:
+ARTCC high boundary:Area_bdry:
+ARTCC high boundary:TME:
+ARTCC high boundary:TMS1_East:
+ARTCC high boundary:TMS_East:
+ARTCC high boundary:TMS_TMW_arc:
+ARTCC high boundary:TMW_East:
+ARTCC high boundary:TRE1_North:
+ARTCC high boundary:TRE1_South:
+ARTCC high boundary:TRE_South:
+ARTCC high boundary:TRS1_East:
+ARTCC high boundary:TRW1_East:
+ARTCC high boundary:TRW2_North:
+ARTCC high boundary:TRW_East:
+ARTCC high boundary:TRW_West:
+ARTCC low boundary:VHHH_ATZ:
+ARTCC low boundary:VHHX_ATZ:
+ARTCC low boundary:VMMC_ATZ:
 Geo:VHHK Landmark Hong Kong Coastline:
+Geo:VHHK_MRVA:
 High airways:J101:line
 High airways:J101:name
 High airways:J103-:line
@@ -140,7 +149,7 @@ HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:0.00000
+DisplayRotation:2.00000
 TAGFAMILY:Hong Kong Radar TOPSKY
 WINDOWAREA:21.262734:112.704058:22.766414:115.663312
 PLUGIN:CoFrance:APP:1

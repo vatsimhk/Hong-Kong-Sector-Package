@@ -1,6 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+SECTORFILE:
 SECTORTITLE:Hong-Kong-Sector-File.sct
 Airports:VHHH:name
 Airports:VHHH:symbol
@@ -18,9 +19,8 @@ Airports:ZGSD:name
 Airports:ZGSD:symbol
 Airports:ZGSZ:name
 Airports:ZGSZ:symbol
-ARTCC low boundary:Tower CTR - VHHX | Kai Tak:
-ARTCC low boundary:Tower CTR - VMMC | Macau:
-ARTCC low boundary:Tower CTR South - VHHH | Hong Kong:
+ARTCC boundary:VHHK_FIR:
+ARTCC low boundary:VHHH_ATZ:
 Free Text:Restricted Airspace\VHD11 - SFC - 2000FT:freetext
 Free Text:Restricted Airspace\VHD5 - GND - 12000FT:freetext
 Free Text:Restricted Airspace\VHP8 - GND - 1000FT:freetext

@@ -3,23 +3,24 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:Hong-Kong-Sector-File.sct
-ARTCC boundary:RCAA - Taipei 9002835:
-ARTCC boundary:RPHI - Manila 9002835:
-ARTCC boundary:TRE 8421493 421800 EAST:
-ARTCC boundary:TRS 8421493 421800 South:
-ARTCC boundary:TRW 8421493 421800 West:
-ARTCC boundary:ZGGG - Guangzhou ACC:
-ARTCC boundary:ZGNN - Nanning ACC:
-ARTCC boundary:ZJSY - Sanya ACC:
-ARTCC boundary:ZSAM - Xiamen ACC:
-ARTCC boundary:ZSSS - Shanghai ACC:
-ARTCC low boundary:5865472 - 5865580 8421493 - VHHH | Hong Kong:
-ARTCC low boundary:Terminal Control 8421493 - VMMC | Macau:
-ARTCC low boundary:VHHH TME_(EAST_/_SFC-FL250):
-ARTCC low boundary:VHHH TMS_(SOUTH_/_SFC-FL250):
-ARTCC low boundary:VHHH TMW_(WEST_/_FL120-FL250):
+ARTCC boundary:VHHK_FIR:
+ARTCC high boundary:APPDEP_bdry:
+ARTCC high boundary:Area_bdry:
+ARTCC high boundary:TME:
+ARTCC high boundary:TMS1_East:
+ARTCC high boundary:TMS_East:
+ARTCC high boundary:TMS_TMW_arc:
+ARTCC high boundary:TMW_East:
+ARTCC high boundary:TRE1_North:
+ARTCC high boundary:TRE1_South:
+ARTCC high boundary:TRE_South:
+ARTCC high boundary:TRS1_East:
+ARTCC high boundary:TRW1_East:
+ARTCC high boundary:TRW2_North:
+ARTCC high boundary:TRW_East:
+ARTCC high boundary:TRW_North:
+ARTCC high boundary:TRW_West:
 Geo:Restricted Airspace:
-Geo:VHHH MRVA Min Vector Alts:
 Geo:VHHK Landmark Hong Kong Coastline:
 High airways:A1:line
 High airways:A202:line
@@ -148,7 +149,7 @@ HISTORY_DOTS:0
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:0.00000
+DisplayRotation:2.00000
 TAGFAMILY:Hong Kong Radar TOPSKY
 WINDOWAREA:17.343885:108.683889:23.319267:120.443485
 PLUGIN:CoFrance:RAD:1
