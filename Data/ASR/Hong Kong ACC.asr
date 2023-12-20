@@ -11,8 +11,8 @@ ARTCC high boundary:TMS1_East:
 ARTCC high boundary:TMS_East:
 ARTCC high boundary:TMS_TMW_arc:
 ARTCC high boundary:TMW_East:
-ARTCC high boundary:TRE1_North:
 ARTCC high boundary:TRE1_South:
+ARTCC high boundary:TRE_North:
 ARTCC high boundary:TRE_South:
 ARTCC high boundary:TRS1_East:
 ARTCC high boundary:TRW1_East:
