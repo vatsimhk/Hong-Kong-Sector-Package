@@ -20,7 +20,6 @@ ARTCC low boundary:VHHH TME_(EAST_/_SFC-FL250):
 ARTCC low boundary:VHHH TMS_(SOUTH_/_SFC-FL250):
 ARTCC low boundary:VHHH TMW_(WEST_/_FL120-FL250):
 Geo:VHHH MRVA Min Vector Alts:
-Geo:VHHH MRVA Min Vector Alts Number:
 Geo:VHHK Landmark Hong Kong Coastline:
 High airways:J101:line
 High airways:J101:name
