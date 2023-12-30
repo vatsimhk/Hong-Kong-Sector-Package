@@ -72,9 +72,10 @@ Free Text:VHHH VFR routes\TUM:freetext
 Free Text:VHHH VFR routes\VPK:freetext
 Free Text:VHHH VFR routes\WAG:freetext
 Free Text:VHHH VFR routes\WLC:freetext
+Geo:CTR_bdry:
 Geo:GEO:
 Geo:Restricted Airspace:
-Geo:VFR Zones:
+Geo:UCARA_bdry:
 Geo:VHHK Landmark Hong Kong Coastline:
 Geo:VHSK Groundlayout Shek Kong Base:
 Low airways:TRACK-D:line
