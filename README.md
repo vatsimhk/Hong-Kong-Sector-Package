@@ -39,9 +39,6 @@ If the above options do not work, you can manually install the files using a zip
 - To ensure all lists and text display correctly, install the custom EuroScope font by double clicking the .ttf file provided.
 - Three different colour profiles are available, double click on a .vbs file to update the settings (requires EuroScope restart to take effect).
 
-## What is the Legacy Package?
-The Legacy Package was developed to support older controllers who are not comfortable using the new plugins. **The Legacy Package will be deprecated from release 2401 v1**. All controllers should transition to using the TopSky profile as soon as possible. See the transition document pinned in the controller-chat channel in the discord for more details.
-
 ## Some of the plugins failed to Load on startup!
 If you get an error on load, please install the [latest C++ redistributables](https://aka.ms/vs/17/release/vc_redist.x86.exe). The newly added plugins are compiled with newer C++ Libraries that you may or may not have already installed.
 
