@@ -3,23 +3,23 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:Hong-Kong-Sector-File.sct
-ARTCC boundary:VHHK_FIR:
-ARTCC high boundary:APPDEP_bdry:
-ARTCC high boundary:Area_bdry:
-ARTCC high boundary:TME:
-ARTCC high boundary:TMS1_East:
-ARTCC high boundary:TMS_East:
-ARTCC high boundary:TMS_TMW_arc:
-ARTCC high boundary:TMW_East:
-ARTCC high boundary:TRE1_South:
-ARTCC high boundary:TRE_North:
-ARTCC high boundary:TRE_South:
-ARTCC high boundary:TRS1_East:
-ARTCC high boundary:TRW1_East:
-ARTCC high boundary:TRW2_North:
-ARTCC high boundary:TRW_East:
-ARTCC high boundary:TRW_North:
-ARTCC high boundary:TRW_West:
+ARTCC boundary:APPDEP_bdry:
+ARTCC boundary:Area_bdry:
+ARTCC boundary:TME:
+ARTCC boundary:TMS1_East:
+ARTCC boundary:TMS_East:
+ARTCC boundary:TMS_TMW_arc:
+ARTCC boundary:TMW_East:
+ARTCC boundary:TRE1_South:
+ARTCC boundary:TRE_North:
+ARTCC boundary:TRE_South:
+ARTCC boundary:TRS1_East:
+ARTCC boundary:TRW1_East:
+ARTCC boundary:TRW2_North:
+ARTCC boundary:TRW_East:
+ARTCC boundary:TRW_North:
+ARTCC boundary:TRW_West:
+ARTCC high boundary:VHHK_FIR:
 Geo:VHHK Landmark Hong Kong Coastline:
 High airways:A1:line
 High airways:A202:line
