@@ -10,6 +10,7 @@ FindAndReplace (CurrentDirectory & "\Data\Plugins\TopSky\TopSkySettings.txt"), "
 FindAndReplace (CurrentDirectory & "\Data\Plugins\TopSky\TopSkySettings.txt"), "Color_Sid_Star_No_Allocation", "//Color_Sid_Star_No_Allocation"
 FindAndReplace (CurrentDirectory & "\Data\Plugins\TopSky\TopSkySettings.txt"), "Color_Rwy_Locked", "//Color_Rwy_Locked"
 FindAndReplace (CurrentDirectory & "\Data\Plugins\TopSky\TopSkySettings.txt"), "Color_Weather_Map", "//Color_Weather_Map"
+FindAndReplace (CurrentDirectory & "\Data\Sectors\Hong-Kong-Sector-File.sct"), "#define PATTERN", "#define PATTERN 11237226"
 FindAndReplace (CurrentDirectory & "\Hong Kong TOPSKY.prf"), "SettingsfileSYMBOLOGY", "Settings	SettingsfileSYMBOLOGY	\Data\Settings\Symbology.txt"
 WScript.Echo "Settings updated to Default theme"
 

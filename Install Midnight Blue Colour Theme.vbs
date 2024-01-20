@@ -10,6 +10,7 @@ FindAndReplace (CurrentDirectory & "\Data\Plugins\TopSky\TopSkySettings.txt"), "
 FindAndReplace (CurrentDirectory & "\Data\Plugins\TopSky\TopSkySettings.txt"), "Color_Sid_Star_No_Allocation", "Color_Sid_Star_No_Allocation=0,150,150"
 FindAndReplace (CurrentDirectory & "\Data\Plugins\TopSky\TopSkySettings.txt"), "Color_Rwy_Locked", "Color_Rwy_Locked=0,200,200"
 FindAndReplace (CurrentDirectory & "\Data\Plugins\TopSky\TopSkySettings.txt"), "Color_Weather_Map", "Color_Weather_Map=0,86,86"
+FindAndReplace (CurrentDirectory & "\Data\Sectors\Hong-Kong-Sector-File.sct"), "#define PATTERN", "#define PATTERN 11992082"
 FindAndReplace (CurrentDirectory & "\Hong Kong TOPSKY.prf"), "SettingsfileSYMBOLOGY", "Settings	SettingsfileSYMBOLOGY	\Data\Settings\Symbology_blue.txt"
 WScript.Echo "Settings updated to Midnight Blue theme"
 
