@@ -15,6 +15,7 @@ ARTCC boundary:TRS1:
 ARTCC boundary:TRW:
 ARTCC boundary:TRW1:
 ARTCC boundary:TRW2:
+ARTCC boundary:TRW_North:
 ARTCC high boundary:VHHK_FIR_Partial:
 Geo:VHHK Landmark Hong Kong Coastline:
 High airways:J101:line
