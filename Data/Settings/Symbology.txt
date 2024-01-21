@@ -2,60 +2,60 @@ SYMBOLOGY
 SYMBOLSIZE
 Airports:symbol:6579300:1.0:0:0:7
 Airports:name:6579300:4.5:0:0:1
-Low airways:line:5135955:3.5:0:0:7
+Low airways:line:6314058:3.5:0:0:7
 Low airways:name:6579300:3.5:0:0:8
-High airways:line:5135955:3.5:0:0:7
+High airways:line:9656904:3.5:0:0:7
 High airways:name:2512998:3.5:0:0:8
 Fixes:symbol:5135955:1.0:0:0:7
 Fixes:name:6579300:3.5:0:0:1
-Sids:line:5135955:3.0:4:0:7
-Stars:line:5135955:3.0:4:0:7
+Sids:line:5135955:1.0:0:0:7
+Stars:line:5135955:1.0:0:0:7
 ARTCC high boundary:line:3552822:3.0:0:0:7
 ARTCC boundary:line:5855577:3.0:0:0:7
 ARTCC low boundary:line:5855577:3.0:0:0:7
-Geo:line:16777215:3.0:0:0:7
+Geo:line:16777215:3.0:0:1:7
 VORs:symbol:5135955:1.0:0:0:7
 VORs:name:6579300:3.5:0:0:14
 VORs:frequency:6579300:3.5:0:0:2
 NDBs:symbol:5135955:1.0:0:0:7
 NDBs:name:8421504:3.5:0:0:12
 NDBs:frequency:8421504:3.5:0:0:0
-Runways:centerline:0:3.5:0:0:7
+Runways:centerline:9995901:3.5:0:0:7
 Runways:extended centerline:5135955:3.5:0:0:7
 Runways:name:8421504:3.5:0:0:7
-Datablock:non concerned:9342606:3.2:0:0:7
-Datablock:notified:9885590:3.2:0:0:7
-Datablock:assumed:13750737:3.2:0:0:7
-Datablock:transfer to me initiated:8454143:3.2:0:0:7
-Datablock:redundant:5868729:3.2:0:0:7
+Datablock:non concerned:9340021:3.2:0:0:7
+Datablock:notified:9340021:3.2:0:0:7
+Datablock:assumed:16774897:3.2:0:0:7
+Datablock:transfer to me initiated:8574693:3.2:0:0:7
+Datablock:redundant:8574693:3.2:0:0:7
 Datablock:information:65535:3.2:0:0:7
 Datablock:even flight level:16777215:3.2:0:0:7
 Datablock:odd flight level:16777215:3.2:0:0:7
 Datablock:arrivals:16302625:3.2:0:0:7
 Datablock:departures:48830:3.2:0:0:7
-Datablock:user 1:16777215:4.0:0:0:7
-Datablock:user 2:16777215:3.5:0:0:7
-Datablock:user 3:16777215:3.5:0:0:7
-Datablock:user 4:16777215:3.5:0:0:7
-Datablock:user 5:16777215:3.5:0:0:7
-Datablock:user 6:1552127:4.0:0:0:7
-Datablock:emergency:3289855:3.5:0:0:7
+Datablock:user 1:16777215:3.2:0:0:7
+Datablock:user 2:16777215:3.2:0:0:7
+Datablock:user 3:16777215:3.2:0:0:7
+Datablock:user 4:16777215:3.2:0:0:7
+Datablock:user 5:16777215:3.2:0:0:7
+Datablock:user 6:1552127:3.3:0:0:7
+Datablock:emergency:3289855:3.2:0:0:7
 Datablock:ongoing requested by me:12615935:4.0:0:0:7
 Datablock:ongoing requested by other:8454016:4.0:0:0:7
 Datablock:ongoing accepted:65535:4.0:0:0:7
 Datablock:ongoing refused:65535:4.0:0:0:7
 Datablock:detailed background:1447446:4.0:0:0:7
 Datablock:active item background:3223857:4.0:0:0:7
-Datablock:arrival background:1395241:4.0:0:0:7
-Datablock:departure background:4264977:4.0:0:0:7
-Datablock:AC list background:2631720:3.5:0:0:7
-Datablock:AC list selected background:7929977:3.5:0:0:7
+Datablock:arrival background:1395241:3.2:0:0:7
+Datablock:departure background:4264977:3.2:0:0:7
+Datablock:AC list background:2364425:3.2:0:0:7
+Datablock:AC list selected background:7929977:3.2:0:0:7
 Datablock:dimmed at conflict detection:5263440:3.5:0:0:7
 Datablock:SCTA warning rectangle:3289855:3.5:0:0:7
 Datablock:SCTA CFL used warning rectangle:65535:3.5:0:0:7
 Datablock:SCTA warning leader:3289855:3.5:0:3:7
 Datablock:SCTA CFL used warning leader:65535:3.5:0:3:7
-Controller:normal:65535:3.5:0:0:7
+Controller:normal:16777088:3.5:0:0:7
 Controller:breaking:13408767:3.5:0:0:7
 Controller:timeout:16777215:3.5:0:0:7
 Metar:normal:16776960:3.5:0:0:7
@@ -76,7 +76,7 @@ Other:free of conflict:65280:3.5:0:2:7
 Other:conflict warning:65535:3.5:0:2:7
 Other:conflict detected:255:3.5:0:2:7
 Other:route annotation:16777215:3.5:0:2:7
-Other:freetext:12369084:3.0:0:0:7
+Other:freetext:14540253:3.0:0:0:7
 Other:range rings:5395026:5.0:0:0:2
 Other:off antenna range rings:255:5.0:0:0:2
 Other:plane range rings:5921370:5.0:0:0:2
@@ -95,10 +95,10 @@ Chat:name unread:16776960:3.5:0:0:7
 Ground Network:exit:16711680:3.5:0:3:7
 Ground Network:taxiway:65280:3.5:0:3:7
 Ground Network:terminal taxiway:255:3.5:0:3:7
-Sector:line:6593381:4.0:0:2:7
+Sector:line:13417143:4.0:0:2:7
 Sector:msaw:32768:2.0:0:2:7
-Sector:active sector background:5388342:3.5:0:0:7
-Sector:inactive sector background:4073769:3.5:0:0:7
+Sector:active sector background:3481108:3.5:0:0:7
+Sector:inactive sector background:3743766:3.5:0:0:7
 SYMBOL:0
 SYMBOLITEM:MOVETO -4 -4
 SYMBOLITEM:LINETO 4 -4
