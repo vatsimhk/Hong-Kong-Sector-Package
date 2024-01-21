@@ -75,9 +75,9 @@ E113.55.16.824
 #define MISSED 1323540
 #define TRANS 3092226
 #define ConstructionArea 4342338
-#define ControlledCTR 11705746
-#define UncontrolledUCARA 11705746
-#define SectorBoundaries 11705746
+#define ControlledCTR 9667450
+#define UncontrolledUCARA 9667450
+#define SectorBoundaries 9667450
 #define FIRBoundaries 6903631
 
 [VOR]
@@ -6533,7 +6533,8 @@ TRW                                      N022.09.34.169 E113.41.53.138 N022.21.2
                                          N022.09.34.169 E113.41.53.138 N022.07.06.546 E113.39.52.148 SectorBoundaries
                                          N022.07.06.546 E113.39.52.148 N021.51.48.000 E113.26.54.000 SectorBoundaries
                                          N021.51.48.000 E113.26.54.000 N021.40.57.528 E113.16.04.882 SectorBoundaries
-                                         N021.40.57.528 E113.16.04.882 N021.06.30.054 E111.30.00.000 SectorBoundaries
+                                         N021.40.57.528 E113.16.04.882 N021.34.46.721 E112.57.03.323 SectorBoundaries
+                                         N021.34.46.721 E112.57.03.323 N021.06.30.054 E111.30.00.000 SectorBoundaries
                                          N021.06.30.054 E111.30.00.000 N019.30.00.000 E111.30.00.000 SectorBoundaries
                                          N020.57.53.003 E113.39.39.660 N020.54.57.053 E113.46.28.115 SectorBoundaries
                                          N020.54.57.053 E113.46.28.115 N020.51.09.144 E114.01.47.715 SectorBoundaries
