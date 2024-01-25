@@ -1,0 +1,100 @@
+DEFAULT THEME BEGIN
+
+SymbologyFilePath
+Data/Settings/Symbology.txt
+
+Data/Plugins/TopSky/TopSkyMaps.txt BEGIN
+COLORDEF:SID:87:104:114
+COLORDEF:STAR:72:90:147
+COLORDEF:TMABORDER:122:131:147
+COLORDEF:EXTCENTERL:106:151:171
+Data/Plugins/TopSky/TopSkyMaps.txt END
+
+Data/Plugins/TopSky/TopSkySettings.txt BEGIN
+Color_Coordination=117,132,142
+Color_Assumed=241,246,255
+Color_Redundant=229,214,130
+Color_Concerned=117,132,142
+Color_Unconcerned=117,132,142
+Color_Sid_Star_Allocation=241,246,255
+Color_Sid_Star_No_Allocation=239,158,107
+Color_Rwy_Locked=241,246,255
+Color_Weather_Map=0,86,86
+Data/Plugins/TopSky/TopSkySettings.txt END
+
+Data/Sector/Hong-Kong-Sector-File.sct BEGIN
+#define Pattern 11237226
+#define SectorBoundaries 9667450
+#define FIRBoundaries 6903631
+#define Coast 6635833
+Data/Sector/Hong-Kong-Sector-File.sct END
+
+DEFAULT THEME END
+
+
+BLACK THEME BEGIN
+
+SymbologyFilePath
+Data/Settings/Symbology_black.txt
+
+Data/Plugins/TopSky/TopSkyMaps.txt BEGIN
+COLORDEF:SID:87:104:114
+COLORDEF:STAR:72:90:147
+COLORDEF:TMABORDER:122:131:147
+COLORDEF:EXTCENTERL:106:151:171
+Data/Plugins/TopSky/TopSkyMaps.txt END
+
+Data/Plugins/TopSky/TopSkySettings.txt BEGIN
+Color_Coordination=200,200,200
+Color_Assumed=255,255,128
+Color_Redundant=128,128,128
+Color_Concerned=160,160,160
+Color_Unconcerned=117,132,142
+Color_Sid_Star_Allocation=185,185,15
+Color_Sid_Star_No_Allocation=170,170,14
+Color_Rwy_Locked=210,210,41
+Color_Weather_Map=99,99,50
+Data/Plugins/TopSky/TopSkySettings.txt END
+
+Data/Sector/Hong-Kong-Sector-File.sct BEGIN
+#define Pattern 11992082
+#define SectorBoundaries 8424345
+#define FIRBoundaries 6903631
+#define Coast 6635833
+Data/Sector/Hong-Kong-Sector-File.sct END
+
+BLACK THEME END
+
+
+GREY THEME BEGIN
+
+SymbologyFilePath
+Data/Settings/Symbology_grey.txt
+
+Data/Plugins/TopSky/TopSkyMaps.txt BEGIN
+COLORDEF:SID:87:104:114
+COLORDEF:STAR:72:90:147
+COLORDEF:TMABORDER:98:98:102
+COLORDEF:EXTCENTERL:63:90:102
+Data/Plugins/TopSky/TopSkyMaps.txt END
+
+Data/Plugins/TopSky/TopSkySettings.txt BEGIN
+Color_Coordination=80,90,96
+Color_Assumed=241,246,255
+Color_Redundant=229,214,130
+Color_Concerned=80,90,96
+Color_Unconcerned=80,90,96
+Color_Sid_Star_Allocation=241,246,255
+Color_Sid_Star_No_Allocation=239,158,107
+Color_Rwy_Locked=241,246,255
+Color_Weather_Map=0,86,86
+Data/Plugins/TopSky/TopSkySettings.txt END
+
+Data/Sector/Hong-Kong-Sector-File.sct BEGIN
+#define Pattern 11237226
+#define SectorBoundaries 6709858
+#define FIRBoundaries 8354169
+#define Coast 8025718
+Data/Sector/Hong-Kong-Sector-File.sct END
+
+GREY THEME END

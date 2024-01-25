@@ -50,7 +50,6 @@ E113.55.16.824
 1
 
 #define Buildings 5329233
-#define Coast 6635833
 #define Grass 7819776
 #define Black 0
 #define White 16777215
@@ -65,7 +64,6 @@ E113.55.16.824
 #define Ground2 11184810
 #define Ground3 255
 #define Water 2364425
-#define Pattern 11237226
 #define Red 180
 #define MVA 9003897
 #define LightGrey 13421772
@@ -77,8 +75,13 @@ E113.55.16.824
 #define ConstructionArea 4342338
 #define ControlledCTR 9667450
 #define UncontrolledUCARA 9667450
+
+;COLOUR THEME BEGIN
+#define Pattern 11237226
 #define SectorBoundaries 9667450
 #define FIRBoundaries 6903631
+#define Coast 6635833
+;COLOUR THEME END
 
 [VOR]
 CH   112.300 N022.13.10.351 E114.01.48.201

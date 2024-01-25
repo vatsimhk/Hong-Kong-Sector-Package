@@ -8,6 +8,7 @@ Color_WM_Frame=76,76,76
 Color_Background=71,151,229
 Color_BottomShadow=32,38,67
 Color_TopShadow=110,118,168
+Color_Rwy_App_Line_Inuse=192,192,192
 
 //COLOUR THEME BEGIN
 Color_Coordination=117,132,142
@@ -17,11 +18,10 @@ Color_Concerned=117,132,142
 Color_Unconcerned=117,132,142
 Color_Sid_Star_Allocation=241,246,255
 Color_Sid_Star_No_Allocation=239,158,107
-Color_Rwy_App_Line_Inuse=192,192,192
 Color_Rwy_Locked=241,246,255
+Color_Weather_Map=0,86,86
 //COLOUR THEME END
 
-Color_Weather_Map=0,86,86
 Color_AIW_Intrusion=239,158,107
 Color_QDM=242,255,105
 Color_SEP_Tool_1=41,245,41
