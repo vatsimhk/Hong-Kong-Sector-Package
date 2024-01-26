@@ -1,7 +1,8 @@
 DEFAULT THEME BEGIN
 
-SymbologyFilePath
-Data/Settings/Symbology.txt
+Hong Kong TOPSKY.prf BEGIN
+Settings	SettingsfileSYMBOLOGY	\Data\Settings\Symbology.txt
+Hong Kong TOPSKY.prf END
 
 Data/Plugins/TopSky/TopSkyMaps.txt BEGIN
 COLORDEF:SID:87:104:114
@@ -34,13 +35,14 @@ DEFAULT THEME END
 
 BLACK THEME BEGIN
 
-SymbologyFilePath
-Data/Settings/Symbology_black.txt
+Hong Kong TOPSKY.prf BEGIN
+Settings	SettingsfileSYMBOLOGY	\Data\Settings\Symbology_black.txt
+Hong Kong TOPSKY.prf END
 
 Data/Plugins/TopSky/TopSkyMaps.txt BEGIN
-COLORDEF:SID:87:104:114
-COLORDEF:STAR:72:90:147
-COLORDEF:TMABORDER:122:131:147
+COLORDEF:SID:83:94:78
+COLORDEF:STAR:120:140:140
+COLORDEF:TMABORDER:153:139:128
 COLORDEF:EXTCENTERL:106:151:171
 Data/Plugins/TopSky/TopSkyMaps.txt END
 
@@ -68,8 +70,9 @@ BLACK THEME END
 
 GREY THEME BEGIN
 
-SymbologyFilePath
-Data/Settings/Symbology_grey.txt
+Hong Kong TOPSKY.prf BEGIN
+Settings	SettingsfileSYMBOLOGY	\Data\Settings\Symbology_grey.txt
+Hong Kong TOPSKY.prf END
 
 Data/Plugins/TopSky/TopSkyMaps.txt BEGIN
 COLORDEF:SID:87:104:114
