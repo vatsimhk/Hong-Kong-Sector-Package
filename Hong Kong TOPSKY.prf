@@ -1,5 +1,7 @@
 Settings	AtisFolder	\Data\ATIS\AtisFiles.txt
+;COLOUR THEME BEGIN
 Settings	SettingsfileSYMBOLOGY	\Data\Settings\Symbology.txt
+;COLOUR THEME END
 Settings	SettingsfileVOICE	\Data\Settings\VoiceChannels.txt
 Settings	SettingsfilePROFILE	\Data\Settings\LoginProfiles.txt
 Settings	SettingsfileTAGS	\Data\Settings\TagDefinitions.txt

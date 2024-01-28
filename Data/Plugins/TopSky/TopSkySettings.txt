@@ -1,15 +1,31 @@
 Setup_COOPANS=1
 
-//Color settings
-//Color_Coordination
-//Color_Assumed
-//Color_Redundant
-//Color_Concerned
-//Color_Sid_Star_Allocation
-//Color_Sid_Star_No_Allocation
-//Color_Rwy_Locked
-//Color_Weather_Map
+//GUI color settings
+Color_Border=76,76,76
+Color_WM_Border=76,76,76
+Color_WM_Bg=76,76,76
+Color_WM_Frame=76,76,76
+Color_Background=71,151,229
+Color_BottomShadow=32,38,67
+Color_TopShadow=110,118,168
+Color_Rwy_App_Line_Inuse=192,192,192
 
+//COLOUR THEME BEGIN
+Color_Coordination=117,132,142
+Color_Assumed=241,246,255
+Color_Redundant=229,214,130
+Color_Concerned=117,132,142
+Color_Unconcerned=117,132,142
+Color_Sid_Star_Allocation=241,246,255
+Color_Sid_Star_No_Allocation=239,158,107
+Color_Rwy_Locked=241,246,255
+Color_Weather_Map=0,86,86
+//COLOUR THEME END
+
+Color_AIW_Intrusion=239,158,107
+Color_QDM=242,255,105
+Color_SEP_Tool_1=41,245,41
+Color_Information_FL=40,255,255
 
 Color_Selected=255,255,255
 Color_Warning=255,255,0
@@ -18,7 +34,10 @@ Color_Field_Highlight=49,49,49
 Color_Foreground=255,255,255
 Color_Active_Sector=61,63,92
 Color_Inactive_Sector=37,39,67  
+Color_Active_Map_Type_1=127,0,0 //Danger areas
 System_TrueColorMode=1
+
+RwyAppLines_Auto=0
 
 //Airspace
 Airspace_No_DUPE_Codes=2000,2200,1200,1000

@@ -11,7 +11,9 @@ This package contains the official sector files exclusively for use by controlle
 To install the package:
 1. Download the latest version of the [Hong Kong Sector Installer](https://github.com/vatsimhk/Hong-Kong-Sector-Installer/releases/latest/download/Hong-Kong-Sector-Installer.zip).
 2. Run the .exe and select "Install Sector Package". Select the folder you wish to store the data files in and click OK. The installer will auomatically download the latest version of the Sector Package from this github repository.
-3. Open EuroScope, navigate to where you installed the files and select "Hong Kong TOPSKY.prf" to open the default profile. You are now ready to start observing / controlling!
+3. Optionally, select "Change Colour Theme" to select your desired colour scheme.
+4. To ensure all lists and text display correctly, navigate to where you installed the files and install the custom EuroScope font by double clicking the .ttf file provided.
+5. Open EuroScope, navigate to where you installed the files and select "Hong Kong TOPSKY.prf" to open the default profile. You are now ready to start observing / controlling!
 
 To update the package:
 1. Run the installer.exe
@@ -34,13 +36,6 @@ This will automatically install updates without affecting your other personal se
 
 ### Option 3: Source Code ZIP (Not Recommended)
 If the above options do not work, you can manually install the files using a zip install. Select the latest stable version in the table above, then scroll down below the changelog and click source code .zip file to download it. Extract it to a convenient location. When updates are released, download the new package, extract the new ZIP file and overwrite the files in your existing install. Please note that you may need to reconfigure certain settings by updating this way.
-  
-### Other Installation Notes
-- To ensure all lists and text display correctly, install the custom EuroScope font by double clicking the .ttf file provided.
-- Three different colour profiles are available, double click on a .vbs file to update the settings (requires EuroScope restart to take effect).
-
-## What is the Legacy Package?
-The Legacy Package was developed to support older controllers who are not comfortable using the new plugins. **The Legacy Package will be deprecated from release 2401 v1**. All controllers should transition to using the TopSky profile as soon as possible. See the transition document pinned in the controller-chat channel in the discord for more details.
 
 ## Some of the plugins failed to Load on startup!
 If you get an error on load, please install the [latest C++ redistributables](https://aka.ms/vs/17/release/vc_redist.x86.exe). The newly added plugins are compiled with newer C++ Libraries that you may or may not have already installed.
