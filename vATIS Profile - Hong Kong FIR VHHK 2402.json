@@ -45,16 +45,16 @@
           "spoken": "SIGNIFICANT"
         },
         {
-          "string": "MET",
-          "spoken": "METAR"
-        },
-        {
           "string": "WS",
           "spoken": "WINDSHEAR"
         },
         {
           "string": "FCST",
           "spoken": "FORECAST"
+        },
+        {
+          "string": "BASELEG",
+          "spoken": "BASE LEG"
         },
         {
           "string": "MET REPORT",
@@ -69,20 +69,32 @@
           "spoken": "CLOSED"
         },
         {
-          "string": "TURB",
-          "spoken": "TURBULENCE"
-        },
-        {
-          "string": "MOD",
-          "spoken": "MODERATE"
-        },
-        {
           "string": "VCY",
           "spoken": "VICINITY"
         },
         {
-          "string": "TS",
-          "spoken": "THUNDERSTORM"
+          "string": "RNP",
+          "spoken": "R ENN P"
+        },
+        {
+          "string": "ILS",
+          "spoken": "I L ESS"
+        },
+        {
+          "string": "RNAV",
+          "spoken": "R NAV"
+        },
+        {
+          "string": "APCH",
+          "spoken": "APPROACH"
+        },
+        {
+          "string": "REQ",
+          "spoken": "REQUEST"
+        },
+        {
+          "string": "AVBL",
+          "spoken": "AVAILABLE"
         }
       ],
       "airportConditionDefinitions": [
@@ -397,10 +409,6 @@
           "spoken": "SIGNIFICANT"
         },
         {
-          "string": "MET",
-          "spoken": "METAR"
-        },
-        {
           "string": "WS",
           "spoken": "WINDSHEAR"
         },
@@ -430,11 +438,11 @@
         },
         {
           "string": "RNP",
-          "spoken": "R N P"
+          "spoken": "R ENN P"
         },
         {
           "string": "ILS",
-          "spoken": "I L S"
+          "spoken": "I L ESS"
         },
         {
           "string": "RNAV",
