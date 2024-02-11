@@ -1,5 +1,5 @@
 {
-  "name": "Hong Kong FIR VHHK 2305",
+  "name": "Hong Kong FIR VHHK 2402",
   "id": "f01a4b2c-3caf-43ca-8d8e-e574a5792ec9",
   "composites": [
     {
@@ -62,7 +62,7 @@
         },
         {
           "string": "MAINT",
-          "spoken": "MAINTAINENCE"
+          "spoken": "MAINTENANCE"
         },
         {
           "string": "CLSD",
@@ -418,7 +418,7 @@
         },
         {
           "string": "MAINT",
-          "spoken": "MAINTAINENCE"
+          "spoken": "MAINTENANCE"
         },
         {
           "string": "CLSD",
@@ -427,6 +427,30 @@
         {
           "string": "VCY",
           "spoken": "VICINITY"
+        },
+        {
+          "string": "RNP",
+          "spoken": "R N P"
+        },
+        {
+          "string": "ILS",
+          "spoken": "I L S"
+        },
+        {
+          "string": "RNAV",
+          "spoken": "R NAV"
+        },
+        {
+          "string": "APCH",
+          "spoken": "APPROACH"
+        },
+        {
+          "string": "REQ",
+          "spoken": "REQUEST"
+        },
+        {
+          "string": "AVBL",
+          "spoken": "AVAILABLE"
         }
       ],
       "airportConditionDefinitions": [
@@ -469,12 +493,36 @@
         {
           "description": "",
           "ordinal": 7,
-          "text": "SIG WS FCST.",
+          "text": "EXP ILS APCH.",
           "enabled": false
         },
         {
           "description": "",
           "ordinal": 8,
+          "text": "EXP RNAV TRANSITION TO ILS APCH.",
+          "enabled": false
+        },
+        {
+          "description": "",
+          "ordinal": 9,
+          "text": "RNP APCH IS AVBL ON REQ.",
+          "enabled": false
+        },
+        {
+          "description": "",
+          "ordinal": 10,
+          "text": "SIG WS FCST.",
+          "enabled": false
+        },
+        {
+          "description": "",
+          "ordinal": 11,
+          "text": "SIG WS AND MOD TURB FCST.",
+          "enabled": false
+        },
+        {
+          "description": "",
+          "ordinal": 10,
           "text": "RWY SFC ALL PARTS WET.",
           "enabled": false
         }
