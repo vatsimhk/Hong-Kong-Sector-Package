@@ -1,5 +1,5 @@
 {
-  "name": "Hong Kong FIR VHHK 2305",
+  "name": "Hong Kong FIR VHHK",
   "id": "f01a4b2c-3caf-43ca-8d8e-e574a5792ec9",
   "composites": [
     {
@@ -45,10 +45,6 @@
           "spoken": "SIGNIFICANT"
         },
         {
-          "string": "MET",
-          "spoken": "METAR"
-        },
-        {
           "string": "WS",
           "spoken": "WINDSHEAR"
         },
@@ -57,32 +53,48 @@
           "spoken": "FORECAST"
         },
         {
+          "string": "BASELEG",
+          "spoken": "BASE LEG"
+        },
+        {
           "string": "MET REPORT",
           "spoken": " "
         },
         {
           "string": "MAINT",
-          "spoken": "MAINTAINENCE"
+          "spoken": "MAINTENANCE"
         },
         {
           "string": "CLSD",
           "spoken": "CLOSED"
         },
         {
-          "string": "TURB",
-          "spoken": "TURBULENCE"
-        },
-        {
-          "string": "MOD",
-          "spoken": "MODERATE"
-        },
-        {
           "string": "VCY",
           "spoken": "VICINITY"
         },
         {
-          "string": "TS",
-          "spoken": "THUNDERSTORM"
+          "string": "RNP",
+          "spoken": "R ENN P"
+        },
+        {
+          "string": "ILS",
+          "spoken": "I L ESS"
+        },
+        {
+          "string": "RNAV",
+          "spoken": "R NAV"
+        },
+        {
+          "string": "APCH",
+          "spoken": "APPROACH"
+        },
+        {
+          "string": "REQ",
+          "spoken": "REQUEST"
+        },
+        {
+          "string": "AVBL",
+          "spoken": "AVAILABLE"
         }
       ],
       "airportConditionDefinitions": [
@@ -397,10 +409,6 @@
           "spoken": "SIGNIFICANT"
         },
         {
-          "string": "MET",
-          "spoken": "METAR"
-        },
-        {
           "string": "WS",
           "spoken": "WINDSHEAR"
         },
@@ -418,7 +426,7 @@
         },
         {
           "string": "MAINT",
-          "spoken": "MAINTAINENCE"
+          "spoken": "MAINTENANCE"
         },
         {
           "string": "CLSD",
@@ -427,6 +435,30 @@
         {
           "string": "VCY",
           "spoken": "VICINITY"
+        },
+        {
+          "string": "RNP",
+          "spoken": "R ENN P"
+        },
+        {
+          "string": "ILS",
+          "spoken": "I L ESS"
+        },
+        {
+          "string": "RNAV",
+          "spoken": "R NAV"
+        },
+        {
+          "string": "APCH",
+          "spoken": "APPROACH"
+        },
+        {
+          "string": "REQ",
+          "spoken": "REQUEST"
+        },
+        {
+          "string": "AVBL",
+          "spoken": "AVAILABLE"
         }
       ],
       "airportConditionDefinitions": [
@@ -469,12 +501,36 @@
         {
           "description": "",
           "ordinal": 7,
-          "text": "SIG WS FCST.",
+          "text": "EXP ILS APCH.",
           "enabled": false
         },
         {
           "description": "",
           "ordinal": 8,
+          "text": "EXP RNAV TRANSITION TO ILS APCH.",
+          "enabled": false
+        },
+        {
+          "description": "",
+          "ordinal": 9,
+          "text": "RNP APCH IS AVBL ON REQ.",
+          "enabled": false
+        },
+        {
+          "description": "",
+          "ordinal": 10,
+          "text": "SIG WS FCST.",
+          "enabled": false
+        },
+        {
+          "description": "",
+          "ordinal": 11,
+          "text": "SIG WS AND MOD TURB FCST.",
+          "enabled": false
+        },
+        {
+          "description": "",
+          "ordinal": 12,
           "text": "RWY SFC ALL PARTS WET.",
           "enabled": false
         }
