@@ -16,7 +16,7 @@ To install the package:
 5. Open EuroScope, navigate to where you installed the files and select "Hong Kong TOPSKY.prf" to open the default profile. You are now ready to start observing / controlling!
 
 To update the package:
-1. Run the installer.exe
+1. Run the installer.exe.
 2. Select "Update Sector Package," then select the folder containing your sector package.
 3. The installer will check for updates from this GitHub repository. If updates are found, it will download them and automatically merge them with your personal settings.
 4. If conflicts are detected, the installer will prompt you and resolve them automatically, or you can choose to resolve the conflicts manually (recommended for experienced controllers only).
