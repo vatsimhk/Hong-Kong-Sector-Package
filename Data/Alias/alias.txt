@@ -20,7 +20,7 @@
 .pek Contact Beijing Control on 133.075, good day.
 ;Predeparture Clearance PDC: 
 .pdc $time $dep PDC $aircraft CLRD TO $arr OFF $deprwy VIA $sid SQUAWK $asquawk NEXT FREQ $com ATIS $1. CLIMB VIA SID TO $temp. ACK PDC. CTC $uc($radioname) ON $com WHEN READY TO START
-.nopdc $aircraft PDC REJECTED � FLIGHT PLAN INVALID � REVERT TO VOICE PROCEDURES.
+.nopdc $aircraft PDC REJECTED - FLIGHT PLAN INVALID - REVERT TO VOICE PROCEDURES.
 ;Dep Clearence:
 ;HONGKONG Chek Lap Kok SID
 .depc Cleared to destination $arr, $sid departure, Runway $deprwy, flight plan route, climb via SID $temp, squawk $asquawk
