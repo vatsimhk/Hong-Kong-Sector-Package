@@ -36,10 +36,10 @@
 ; Copyright (C) 2024 by HKVACC
 ; Coastline data from OpenStreetMap "openstreetmap.org/copyright"
 ; All Rights Reserved
-; Hong Kong sector VERSION 2401 v2
+; Hong Kong sector VERSION 2402 v1
 
 [INFO] ;Fong Ga
-Hong Kong Sector 2401 v2
+Hong Kong Sector 2402 v1
 HKG_E_CTR
 VHHH
 N022.18.37.757
@@ -87,7 +87,6 @@ E113.55.16.824
 CH   112.300 N022.13.10.351 E114.01.48.201
 DSA  112.900 N016.50.06.000 E112.20.30.001
 GLN  112.000 N022.42.29.998 E114.01.59.998
-LKC  113.200 N022.22.44.119 E113.53.01.500
 MCU  116.400 N022.08.08.001 E113.35.52.000
 NLG  117.700 N022.31.54.001 E113.33.42.001
 SHL  115.700 N023.05.30.000	E113.50.60.000
@@ -475,6 +474,7 @@ LKC35 N021.51.42.451 E113.35.21.610
 LKC44 N021.39.36.000 E113.46.30.000
 LOC27 N023.48.47.110 E113.25.25.838
 LOC28 N023.49.01.762 E113.25.44.630
+LUKBU N022.22.44.120 E113.53.01.500
 LUSVI N022.12.46.470 E114.04.17.100
 LOTUS N022.23.18.262 E114.11.05.600
 LOVTA N021.44.53.002 E112.34.13.001
@@ -1589,8 +1589,8 @@ SID/VMMC/RWY34/ALLEY2T    N000.00.00.000 E000.00.00.000 N000.00.00.000 E000.00.0
                           N022.11.41.784 E113.35.01.601 LATOP          LATOP
                           LATOP          LATOP          MC420          MC420
                           MC420          MC420          MC411          MC411
-                          MC411          MC411          LKC            LKC
-                          LKC            LKC            CAMRI          CAMRI
+                          MC411          MC411          LUKBU          LUKBU
+                          LUKBU          LUKBU          CAMRI          CAMRI
                           CAMRI          CAMRI          BREAM          BREAM
                           BREAM          BREAM          TITAN          TITAN
                           TITAN          TITAN          PECAN          PECAN
@@ -1601,8 +1601,8 @@ SID/VMMC/RWY34/ALLEY2U    N000.00.00.000 E000.00.00.000 N000.00.00.000 E000.00.0
                           N022.11.41.784 E113.35.01.601 LATOP          LATOP
                           LATOP          LATOP          MC420          MC420
                           MC420          MC420          MC411          MC411
-                          MC411          MC411          LKC            LKC
-                          LKC            LKC            DOCTA          DOCTA
+                          MC411          MC411          LUKBU          LUKBU
+                          LUKBU          LUKBU          DOCTA          DOCTA
                           DOCTA          DOCTA          BREAM          BREAM
                           BREAM          BREAM          TITAN          TITAN
                           TITAN          TITAN          PECAN          PECAN
@@ -1654,8 +1654,8 @@ SID/VMMC/RWY34/CONGA2T    N000.00.00.000 E000.00.00.000 N000.00.00.000 E000.00.0
                           N022.11.41.784 E113.35.01.601 LATOP          LATOP
                           LATOP          LATOP          MC420          MC420
                           MC420          MC420          MC411          MC411
-                          MC411          MC411          LKC            LKC
-                          LKC            LKC            TD             TD
+                          MC411          MC411          LUKBU          LUKBU
+                          LUKBU          LUKBU          TD             TD
                           TD             TD             OCEAN          OCEAN
                           OCEAN          OCEAN          RASSE          RASSE
                           RASSE          RASSE          CONGA          CONGA
@@ -1676,8 +1676,8 @@ SID/VMMC/RWY34/CONGA3U    N000.00.00.000 E000.00.00.000 N000.00.00.000 E000.00.0
                           N022.11.41.784 E113.35.01.601 LATOP          LATOP
                           LATOP          LATOP          MC420          MC420
                           MC420          MC420          MC411          MC411
-                          MC411          MC411          LKC            LKC
-                          LKC            LKC            DOCTA          DOCTA
+                          MC411          MC411          LUKBU          LUKBU
+                          LUKBU          LUKBU          DOCTA          DOCTA
                           DOCTA          DOCTA          OCEAN          OCEAN
                           OCEAN          OCEAN          RASSE          RASSE
                           RASSE          RASSE          CONGA          CONGA
@@ -1698,8 +1698,8 @@ SID/VMMC/RWY34/GRUPA2T    N000.00.00.000 E000.00.00.000 N000.00.00.000 E000.00.0
                           N022.11.41.784 E113.35.01.601 LATOP          LATOP
                           LATOP          LATOP          MC420          MC420
                           MC420          MC420          MC411          MC411
-                          MC411          MC411          LKC            LKC
-                          LKC            LKC            TD             TD
+                          MC411          MC411          LUKBU          LUKBU
+                          LUKBU          LUKBU          TD             TD
                           TD             TD             OCEAN          OCEAN
                           OCEAN          OCEAN          GRUPA          GRUPA
 
@@ -1718,8 +1718,8 @@ SID/VMMC/RWY34/GRUPA3U    N000.00.00.000 E000.00.00.000 N000.00.00.000 E000.00.0
                           N022.11.41.784 E113.35.01.601 LATOP          LATOP
                           LATOP          LATOP          MC420          MC420
                           MC420          MC420          MC411          MC411
-                          MC411          MC411          LKC            LKC
-                          LKC            LKC            DOCTA          DOCTA
+                          MC411          MC411          LUKBU          LUKBU
+                          LUKBU          LUKBU          DOCTA          DOCTA
                           DOCTA          DOCTA          OCEAN          OCEAN
                           OCEAN          OCEAN          GRUPA          GRUPA
 
@@ -1778,8 +1778,8 @@ SID/VMMC/RWY34/SOUSA3T    N000.00.00.000 E000.00.00.000 N000.00.00.000 E000.00.0
                           N022.11.41.784 E113.35.01.601 LATOP          LATOP
                           LATOP          LATOP          MC420          MC420
                           MC420          MC420          MC411          MC411
-                          MC411          MC411          LKC            LKC
-                          LKC            LKC            TD             TD
+                          MC411          MC411          LUKBU          LUKBU
+                          LUKBU          LUKBU          TD             TD
                           TD             TD             SHELY          SHELY
                           SHELY          SHELY          LAKES          LAKES
                           LAKES          LAKES          SOUSA          SOUSA
@@ -1789,8 +1789,8 @@ SID/VMMC/RWY34/SOUSA3U    N000.00.00.000 E000.00.00.000 N000.00.00.000 E000.00.0
                           N022.11.41.784 E113.35.01.601 LATOP          LATOP
                           LATOP          LATOP          MC420          MC420
                           MC420          MC420          MC411          MC411
-                          MC411          MC411          LKC            LKC
-                          LKC            LKC            DOCTA          DOCTA
+                          MC411          MC411          LUKBU          LUKBU
+                          LUKBU          LUKBU          DOCTA          DOCTA
                           DOCTA          DOCTA          LAKES          LAKES
                           LAKES          LAKES          SOUSA          SOUSA
 
@@ -1850,9 +1850,9 @@ SID/ZGSZ/RWY15-16/BIGRO   N000.00.00.000 E000.00.00.000 N000.00.00.000 E000.00.0
                           KIBAS          KIBAS          BOKAT          BOKAT
                           BOKAT          BOKAT          BIGRO          BIGRO
 
-SID/ZGSZ/RWY15-16/LKC     N000.00.00.000 E000.00.00.000 N000.00.00.000 E000.00.00.000
+SID/ZGSZ/RWY15-16/LUKBU   N000.00.00.000 E000.00.00.000 N000.00.00.000 E000.00.00.000
 			  ZGSZ33 ZGSZ33             N022.35.20.489 E113.50.23.691
-                          N022.35.20.489 E113.50.23.691 LKC            LKC
+                          N022.35.20.489 E113.50.23.691 LUKBU          LUKBU
 
 SID/ZGSZ/RWY15-16/SIERA   N000.00.00.000 E000.00.00.000 N000.00.00.000 E000.00.00.000
                           ZGSZ33 ZGSZ33             N022.29.23.370 E113.53.29.566
@@ -1931,10 +1931,10 @@ SID/ZGSZ/RWY33-34/BIGRO   N000.00.00.000 E000.00.00.000 N000.00.00.000 E000.00.0
                           KIBAS          KIBAS          BOKAT          BOKAT
                           BOKAT          BOKAT          BIGRO          BIGRO
 
-SID/ZGSZ/RWY33-34/LKC     N000.00.00.000 E000.00.00.000 N000.00.00.000 E000.00.00.000
+SID/ZGSZ/RWY33-34/LUKBU   N000.00.00.000 E000.00.00.000 N000.00.00.000 E000.00.00.000
 			  ZGSZ15 ZGSZ15             N022.46.19.409 E113.44.30.471
 			  N022.46.19.409 E113.44.30.471 N022.48.26.191 E113.52.52.138
-			  N022.48.26.191 E113.52.52.138	LKC            LKC
+			  N022.48.26.191 E113.52.52.138	LUKBU          LUKBU
 			  ZGSZ15 ZGSZ15             N022.41.06.792 E113.46.56.999
                           N022.41.06.792 E113.46.56.999 N022.42.03.815 E113.46.06.239
                           N022.42.03.815 E113.46.06.239 N022.42.27.107 E113.45.32.039
@@ -1948,7 +1948,7 @@ SID/ZGSZ/RWY33-34/LKC     N000.00.00.000 E000.00.00.000 N000.00.00.000 E000.00.0
                           N022.40.52.212 E113.41.35.520 N022.40.13.295 E113.41.30.840
                           N022.40.13.295 E113.41.30.840 N022.39.34.596 E113.41.36.960
                           N022.39.34.596 E113.41.36.960 N022.38.58.667 E113.41.53.880
-                          N022.38.58.667 E113.41.53.880 LKC            LKC
+                          N022.38.58.667 E113.41.53.880 LUKBU          LUKBU
 
 SID/ZGSZ/RWY33-34/SIERA   N000.00.00.000 E000.00.00.000 N000.00.00.000 E000.00.00.000
 			  ZGSZ15 ZGSZ15             N022.47.59.544 E113.43.26.570
@@ -1967,27 +1967,27 @@ SID/ZGSZ/RWY33-34/SIERA   N000.00.00.000 E000.00.00.000 N000.00.00.000 E000.00.0
                           NLG            NLG            ZUH            ZUH
                           ZUH            ZUH            SIERA          SIERA
 
-SID/ZGSZ/LKC->NOMAN       N000.00.00.000 E000.00.00.000 N000.00.00.000 E000.00.00.000
-			  LKC            LKC            TD             TD
+SID/ZGSZ/LUKBU->NOMAN       N000.00.00.000 E000.00.00.000 N000.00.00.000 E000.00.00.000
+			  LUKBU          LUKBU          TD             TD
                           TD             TD             OCEAN          OCEAN
                           OCEAN          OCEAN          GRUPA          GRUPA
                           GRUPA          GRUPA          NOMAN          NOMAN
 
-SID/ZGSZ/LKC->SABNO       N000.00.00.000 E000.00.00.000 N000.00.00.000 E000.00.00.000
-			  LKC            LKC            TD             TD
+SID/ZGSZ/LUKBU->SABNO       N000.00.00.000 E000.00.00.000 N000.00.00.000 E000.00.00.000
+			  LUKBU          LUKBU          TD             TD
                           TD             TD             OCEAN          OCEAN
                           OCEAN          OCEAN          GRUPA          GRUPA
                           GRUPA          GRUPA          SABNO          SABNO
 
-SID/ZGSZ/LKC->EPDOS       N000.00.00.000 E000.00.00.000 N000.00.00.000 E000.00.00.000
-			  LKC            LKC            BREAM          BREAM
+SID/ZGSZ/LUKBU->EPDOS       N000.00.00.000 E000.00.00.000 N000.00.00.000 E000.00.00.000
+			  LUKBU          LUKBU          BREAM          BREAM
                           BREAM          BREAM          TITAN          TITAN
                           TITAN          TITAN          PECAN          PECAN
                           PECAN          PECAN          ALLEY          ALLEY
                           ALLEY          ALLEY          EPDOS          EPDOS
 
-SID/ZGSZ/LKC->IDOSI        N000.00.00.000 E000.00.00.000 N000.00.00.000 E000.00.00.000
-			  LKC            LKC            BREAM          BREAM
+SID/ZGSZ/LUKBU->IDOSI        N000.00.00.000 E000.00.00.000 N000.00.00.000 E000.00.00.000
+			  LUKBU          LUKBU          BREAM          BREAM
                           BREAM          BREAM           TITAN          TITAN
                           TITAN          TITAN          PECAN          PECAN
                           PECAN          PECAN          ALLEY          ALLEY
@@ -2988,8 +2988,8 @@ APCH/VHHH/ILS 25C         N000.00.00.000 E000.00.00.000 N000.00.00.000 E000.00.0
                           N022.18.13.679 E113.52.33.351 N022.18.18.583 E113.50.51.729 MISSED
                           N022.18.18.583 E113.50.51.729 N022.19.21.125 E113.50.01.886 MISSED
                           N022.19.21.125 E113.50.01.886 N022.20.23.627 E113.50.07.444 MISSED
-                          N022.20.23.627 E113.50.07.444 LKC            LKC            MISSED
-                          LKC            LKC            N022.24.02.419 E113.57.06.591 MISSED
+                          N022.20.23.627 E113.50.07.444 LUKBU          LUKBU          MISSED
+                          LUKBU          LUKBU          N022.24.02.419 E113.57.06.591 MISSED
                           N022.24.02.419 E113.57.06.591 N022.23.20.601 E114.00.25.599 MISSED
                           N022.23.20.601 E114.00.25.599 TD             TD             MISSED
 
@@ -43894,8 +43894,8 @@ TRACK-D    ROMEO          ROMEO          ZUH            ZUH
 VHHH-ZGSZ  ZGSZ           ZGSZ           KEVAR          KEVAR
 VHHH-ZGSZ  KEVAR          KEVAR          URBOR          URBOR
 VHHH-ZGSZ  URBOR          URBOR          LAXUS          LAXUS
-VHHH-ZGSZ  LAXUS          LAXUS          LKC            LKC
-VHHH-ZGSZ  LKC            LKC            VHHH           VHHH
+VHHH-ZGSZ  LAXUS          LAXUS          LUKBU          LUKBU
+VHHH-ZGSZ  LUKBU          LUKBU          VHHH           VHHH
 VMMC-ZGSZ  ZGSZ           ZGSZ           KEVAR          KEVAR
 VMMC-ZGSZ  KEVAR          KEVAR          PEXEL          PEXEL
 VMMC-ZGSZ  PEXEL          PEXEL          ZAO            ZAO
