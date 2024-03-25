@@ -8,13 +8,13 @@ ARTCC boundary:TME:
 ARTCC boundary:TMS:
 ARTCC boundary:TMS1:
 ARTCC boundary:TMW:
+ARTCC boundary:TRC:
+ARTCC boundary:TRD:
 ARTCC boundary:TRE:
-ARTCC boundary:TRE1:
+ARTCC boundary:TRK:
 ARTCC boundary:TRS:
-ARTCC boundary:TRS1:
+ARTCC boundary:TRV:
 ARTCC boundary:TRW:
-ARTCC boundary:TRW1:
-ARTCC boundary:TRW2:
 ARTCC high boundary:VHHK_FIR_Partial:
 Geo:VHHK Landmark Hong Kong Coastline:
 Geo:VHHK_MRVA:
