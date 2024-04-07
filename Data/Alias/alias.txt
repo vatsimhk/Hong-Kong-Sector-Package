@@ -179,7 +179,7 @@
 .hs holdshort $1
 ;TOWER
 ;TAKeOFF VHHH
-.cft surface wind $wind($dep) knots, RWY $deprwy, cleared for takeoff. 
+.cft surface wind $wind($dep), RWY $deprwy, cleared for takeoff. 
 .cft07C surface wind $wind(VHHH) knots, RWY 07C, cleared for takeoff. 
 .cft07r surface wind $wind(VHHH) knots, RWY 07R, cleared for takeoff. 
 .cft25l surface wind $wind(VHHH) knots, RWY 25L, cleared for takeoff. 
