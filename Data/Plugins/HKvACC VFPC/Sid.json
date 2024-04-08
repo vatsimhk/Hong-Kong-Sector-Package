@@ -5,10 +5,11 @@
       "OCEAN": [
         {
           "direction": "ODD",
-          "min_fl": 270,
+          "allowed_fls": [ "270", "290", "310", "330", "350", "370", "390", "410", "450", "490" ],
           "airways": "V3 ENVAR M750",
           "noise": "N",
-          "suffix": [ "3A", "3C", "1E" ]
+          "suffix": [ "3A", "3C", "1E" ],
+          "FLAS": "FL270, FL290, FL310, FL330, FL350, FL370, FL390, FL410, FL450, FL490"
         },
         {
           "direction": "ODD",
@@ -58,8 +59,9 @@
         },
         {
           "direction": "ODD",
-          "min_fl": 270,
+          "allowed_fls": [ "270", "290", "310", "330", "350", "370", "390", "410", "450", "490" ],
           "airways": "V3 ENVAR M750",
+          "FLAS": "FL270, FL290, FL310, FL330, FL350, FL370, FL390, FL410, FL450, FL490",
           "suffix": [ "2B", "3D", "1F" ]
         },
         {
@@ -113,10 +115,11 @@
       "RASSE": [
         {
           "direction": "ODD",
-          "min_fl": 270,
+          "allowed_fls": [ "270", "290", "310", "330", "350", "370", "390", "410", "450", "490" ],
           "airways": "V3 ENVAR M750",
           "noise": "Y",
-          "suffix": [ "2X", "1Y", "1Z", "4A", "4C", "2E" ]
+          "suffix": [ "2X", "1Y", "1Z", "4A", "4C", "2E" ],
+          "FLAS": "FL270, FL290, FL310, FL330, FL350, FL370, FL390, FL410, FL450, FL490"
         },
         {
           "direction": "ODD",
@@ -654,8 +657,9 @@
       "ENVAR": [
         {
           "direction": "ODD",
-          "min_fl": 270,
-          "airways": "ENVAR M750"
+          "allowed_fls": [ "270", "290", "310", "330", "350", "370", "390", "410", "450", "490" ],
+          "airways": "ENVAR M750",
+          "FLAS": "FL270, FL290, FL310, FL330, FL350, FL370, FL390, FL410, FL450, FL490"
         }
       ],
       "NOMAN": [
@@ -807,8 +811,9 @@
       "CONGA": [
         {
           "direction": "ODD",
-          "min_fl": 270,
-          "airways": "V3 ENVAR M750"
+          "allowed_fls": [ "270", "290", "310", "330", "350", "370", "390", "410", "450", "490" ],
+          "airways": "V3 ENVAR M750",
+          "FLAS": "FL270, FL290, FL310, FL330, FL350, FL370, FL390, FL410, FL450, FL490"
         },
         {
           "direction": "ODD",
