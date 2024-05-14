@@ -388,11 +388,18 @@
           "FLAS": "Metric Westbound RVSM Levels at or above S0980 (FL321)"
         },
         {
-          "airways": [ "V11 IDOSI P901", "V11 IDOSI A1"],
+          "airways": [ "V11 IDOSI P901"],
           "suffix": [ "2X", "1Y", "1Z" ],
           "noise": "Y",
-          "allowed_fls": [ "280", "300", "320", "340", "360", "380", "400", "430" ],
+          "allowed_fls": [ "300", "320", "340", "360", "380", "400", "430" ],
           "FLAS": "Westbound RVSM Levels"
+        },
+        {
+          "airways": [ "V11 IDOSI A1"],
+          "suffix": [ "2X", "1Y", "1Z" ],
+          "noise": "Y",
+          "max_fl": 280,
+          "direction": "EVEN"
         },
         {
           "airways": "V12 EPDOS L642",
@@ -447,10 +454,17 @@
           "FLAS": "Metric RVSM Westbound Levels at or above S0980 (FL321)"
         },
         {
-          "airways": [ "V11 IDOSI P901", "V11 IDOSI A1"],
+          "airways": ["V11 IDOSI P901"],
+          "noise": "N",
+          "suffix": [ "2A", "2C", "1E" ],
+          "allowed_fls": [ "300", "320", "340", "360", "380", "400", "430" ],
+          "FLAS": "Westbound RVSM Levels"
+        },
+        {
+          "airways": ["V11 IDOSI A1"],
           "noise": "N",
           "direction": "EVEN",
-          "max_fl": 430,
+          "max_fl": 280,
           "suffix": [ "2A", "2C", "1E" ]
         },
         {
@@ -507,10 +521,16 @@
           "FLAS": "Metric RVSM Westbound Levels"
         },
         {
-          "airways": [ "V11 IDOSI P901", "V11 IDOSI A1"],
+          "airways": ["V11 IDOSI A1"],
           "suffix": [ "1B", "2D", "1F" ],
           "direction": "EVEN",
-          "max_fl": 430
+          "max_fl": 280
+        },
+        {
+          "airways": "V11 IDOSI P901",
+          "suffix": [ "1B", "2D", "1F" ],
+          "allowed_fls": [ "300", "320", "340", "360", "380", "400", "430" ],
+          "FLAS": "Westbound RVSM Levels"
         },
         {
           "airways": "V12 EPDOS L642",
@@ -639,9 +659,14 @@
       ],
       "IDOSI": [
         {
-          "airways": ["P901", "A1"],
+          "airways": ["A1"],
           "direction": "EVEN",
-          "max_fl": 430
+          "max_fl": 280
+        },
+        {
+          "airways": ["P901"],
+          "allowed_fls": [ "300", "320", "340", "360", "380", "400", "430" ],
+          "FLAS": "Westbound RVSM Levels"
         }
       ],
       "EPDOS": [
@@ -799,9 +824,14 @@
           "FLAS": "Metric Westbound RVSM Levels at or above S0980 (FL321)"
         },
         {
-          "airways": ["V31 IDOSI P901", "V31 IDOSI A1"],
-          "max_fl": 430,
+          "airways": ["V31 IDOSI A1"],
+          "max_fl": 280,
           "direction": "EVEN"
+        },
+        {
+          "airways": ["V31 IDOSI P901"],
+          "allowed_fls": ["300", "320", "340", "360", "380", "400", "430"],
+          "FLAS": "Westbound RVSM Levels"
         },
         {
           "airways": "V32 EPDOS L642",
