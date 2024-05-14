@@ -9,7 +9,7 @@
           "airways": "V3 ENVAR M750",
           "noise": "N",
           "suffix": [ "3A", "3C", "1E" ],
-          "FLAS": "FL270, FL290, FL310, FL330, FL350, FL370, FL390, FL410, FL450, FL490"
+          "FLAS": "FL270, Eastbound RVSM Levels, FL450, FL490"
         },
         {
           "direction": "ODD",
@@ -61,7 +61,7 @@
           "direction": "ODD",
           "allowed_fls": [ "270", "290", "310", "330", "350", "370", "390", "410", "450", "490" ],
           "airways": "V3 ENVAR M750",
-          "FLAS": "FL270, FL290, FL310, FL330, FL350, FL370, FL390, FL410, FL450, FL490",
+          "FLAS": "FL270, Eastbound RVSM Levels, FL450, FL490",
           "suffix": [ "2B", "3D", "1F" ]
         },
         {
@@ -119,7 +119,7 @@
           "airways": "V3 ENVAR M750",
           "noise": "Y",
           "suffix": [ "2X", "1Y", "1Z", "4A", "4C", "2E" ],
-          "FLAS": "FL270, FL290, FL310, FL330, FL350, FL370, FL390, FL410, FL450, FL490"
+          "FLAS": "FL270, Eastbound RVSM Levels, FL450, FL490"
         },
         {
           "direction": "ODD",
@@ -193,7 +193,7 @@
           "FLAS": "Metric RVSM Westbound Levels"
         },
         {
-          "airways": [ "A461 ZHO", "A461 LKO", "A461 LIG", "A461 OBLIK", "A461 WXI", "A461 IDUMA W22 SHL G471", "A461 SHL G471", "A461 BUBDA W56"],
+          "airways": [ "A461 ZHO", "A461 LKO", "A461 LIG", "A461 OBLIK", "A461 WXI", "A461 IDUMA W22 SHL G471 PLT", "A461 SHL G471 PLT", "A461 BUBDA W56"],
           "noise": "N",
           "suffix": [ "4A", "4C", "1E" ],
           "allowed_fls": [ "291", "311", "331", "351", "371", "391", "411" ],
@@ -218,7 +218,7 @@
           "FLAS": "Metric RVSM Westbound Levels"
         },
         {
-          "airways": [ "A461 ZHO", "A461 LKO", "A461 LIG", "A461 OBLIK", "A461 WXI", "A461 IDUMA W22 SHL G471", "A461 SHL G471", "A461 BUBDA W56"],
+          "airways": [ "A461 ZHO", "A461 LKO", "A461 LIG", "A461 OBLIK", "A461 WXI", "A461 IDUMA W22 SHL G471 PLT", "A461 SHL G471 PLT", "A461 BUBDA W56"],
           "suffix": [ "2B", "3D", "1F" ],
           "allowed_fls": [ "291", "311", "331", "351", "371", "391", "411" ],
           "FLAS": "Metric RVSM Eastbound Levels"
@@ -247,7 +247,7 @@
           "FLAS": "Metric RVSM Westbound Levels"
         },
         {
-          "airways": [ "A461 ZHO", "A461 LKO", "A461 LIG", "A461 OBLIK", "A461 WXI", "A461 IDUMA W22 SHL G471", "A461 SHL G471", "A461 BUBDA W56"],
+          "airways": [ "A461 ZHO", "A461 LKO", "A461 LIG", "A461 OBLIK", "A461 WXI", "A461 IDUMA W22 SHL G471 PLT", "A461 SHL G471 PLT", "A461 BUBDA W56"],
           "noise": "Y",
           "suffix": [ "2X", "1Y", "1Z", "3A", "3C", "2E" ],
           "allowed_fls": [ "291", "311", "331", "351", "371", "391", "411" ],
@@ -264,28 +264,12 @@
           "FLAS": "FL148 (4500m)"
         },
         {
-          "destinations": [ "ZSAM", "ZSQZ" ],
-          "airways": "V1 DOTMI A470",
-          "noise": "N",
-          "suffix": [ "4A", "4C", "1E" ],
-          "allowed_fls": [ "167", "207", "246" ],
-          "FLAS": "FL167 (5100m), FL207 (6300m), FL246 (7500m)"
-        },
-        {
-          "destinations": [ "ZSFZ", "ZSWY", "ZSWZ" ],
+          "destinations": [ "ZSAM", "ZSQZ", "ZSFZ", "ZSWY", "ZSWZ" ],
           "airways": "V1 DOTMI A470",
           "noise": "N",
           "suffix": [ "4A", "4C", "1E" ],
           "allowed_fls": [ "207", "246" ],
           "FLAS": "FL207 (6300m), FL246 (7500m)"
-        },
-        {
-          "destinations": [ "ZSHC", "ZSYW", "ZSNB" ],
-          "airways": "V1 DOTMI A470",
-          "noise": "N",
-          "suffix": [ "4A", "4C", "1E" ],
-          "allowed_fls": [ "266", "330" ],
-          "FLAS": "FL266 (8100m), FL330"
         },
         {
           "airways": "V1 DOTMI A470",
@@ -310,25 +294,11 @@
           "FLAS": "FL148 (4500m)"
         },
         {
-          "destinations": [ "ZSAM", "ZSQZ" ],
-          "airways": "V1 DOTMI A470",
-          "suffix": [ "2B", "3D", "1F" ],
-          "allowed_fls": [ "167", "207", "246" ],
-          "FLAS": "FL167 (5100m), FL207 (6300m), FL246 (7500m)"
-        },
-        {
-          "destinations": [ "ZSFZ", "ZSWY", "ZSWZ" ],
+          "destinations": [ "ZSAM", "ZSQZ", "ZSFZ", "ZSWY", "ZSWZ" ],
           "airways": "V1 DOTMI A470",
           "suffix": [ "2B", "3D", "1F" ],
           "allowed_fls": [ "207", "246" ],
           "FLAS": "FL207 (6300m), FL246 (7500m)"
-        },
-        {
-          "destinations": [ "ZSHC", "ZSYW", "ZSNB" ],
-          "airways": "V1 DOTMI A470",
-          "suffix": [ "2B", "3D", "1F" ],
-          "allowed_fls": [ "266", "330" ],
-          "FLAS": "FL266 (8100m), FL330"
         },
         {
           "airways": "V1 DOTMI A470",
@@ -354,28 +324,12 @@
           "FLAS": "FL148 (4500m)"
         },
         {
-          "destinations": [ "ZSAM", "ZSQZ" ],
-          "airways": "V1 DOTMI A470",
-          "noise": "Y",
-          "suffix": [ "2X", "1Y", "1Z", "2A", "2C", "2E" ],
-          "allowed_fls": [ "167", "207", "246" ],
-          "FLAS": "FL167 (5100m), FL207 (6300m), FL246 (7500m)"
-        },
-        {
-          "destinations": [ "ZSFZ", "ZSWY", "ZSWZ" ],
+          "destinations": [ "ZSAM", "ZSQZ", "ZSFZ", "ZSWY", "ZSWZ" ],
           "airways": "V1 DOTMI A470",
           "noise": "Y",
           "suffix": [ "2X", "1Y", "1Z", "2A", "2C", "2E" ],
           "allowed_fls": [ "207", "246" ],
           "FLAS": "FL207 (6300m), FL246 (7500m)"
-        },
-        {
-          "destinations": [ "ZSHC", "ZSYW", "ZSNB" ],
-          "airways": "V1 DOTMI A470",
-          "noise": "Y",
-          "suffix": [ "2X", "1Y", "1Z", "2A", "2C", "2E" ],
-          "allowed_fls": [ "266", "330" ],
-          "FLAS": "FL266 (8100m), FL330"
         },
         {
           "airways": "V1 DOTMI A470",
@@ -427,25 +381,18 @@
           "FLAS": "FL236 (7200m), FL256 (7800m)"
         },
         {
-          "airways": "V10 SIKOU A202",
+          "airways": ["V10 SIKOU A202", "V10 SIKOU R339"],
           "suffix": [ "2X", "1Y", "1Z" ],
           "noise": "Y",
-          "allowed_fls": [ "341", "381", "401" ],
-          "FLAS": "FL341 (10400m), FL381 (11600m), FL401 (12200m)"
-        },
-        {
-          "airways": "V10 SIKOU R339",
-          "suffix": [ "2X", "1Y", "1Z" ],
-          "noise": "Y",
-          "allowed_fls": [ "281", "301", "321", "341", "361", "381", "401" ],
-          "FLAS": "Metric RVSM Westbound Levels"
+          "allowed_fls": [ "321", "341", "361", "381", "401" ],
+          "FLAS": "Metric Westbound RVSM Levels at or above S0980 (FL321)"
         },
         {
           "airways": [ "V11 IDOSI P901", "V11 IDOSI A1"],
           "suffix": [ "2X", "1Y", "1Z" ],
           "noise": "Y",
-          "allowed_fls": [ "280", "300", "340", "380", "400", "430" ],
-          "FLAS": "FL280, FL300, FL340, FL380, FL400, FL430"
+          "allowed_fls": [ "280", "300", "320", "340", "360", "380", "400", "430" ],
+          "FLAS": "Westbound RVSM Levels"
         },
         {
           "airways": "V12 EPDOS L642",
@@ -493,25 +440,18 @@
           "FLAS": "FL236 (7200m), FL256 (7800m)"
         },
         {
-          "airways": "V10 SIKOU A202",
+          "airways": ["V10 SIKOU A202", "V10 SIKOU R339"],
           "noise": "N",
           "suffix": [ "2A", "2C", "1E" ],
-          "allowed_fls": [ "341", "381", "401" ],
-          "FLAS": "FL341 (10400m), FL381 (11600m), FL401 (12200m)"
-        },
-        {
-          "airways": "V10 SIKOU R339",
-          "noise": "N",
-          "suffix": [ "2A", "2C", "1E" ],
-          "allowed_fls": [ "281", "301", "321", "341", "361", "381", "401" ],
-          "FLAS": "Metric RVSM Westbound Levels"
+          "allowed_fls": [ "321", "341", "361", "381", "401" ],
+          "FLAS": "Metric RVSM Westbound Levels at or above S0980 (FL321)"
         },
         {
           "airways": [ "V11 IDOSI P901", "V11 IDOSI A1"],
           "noise": "N",
-          "suffix": [ "2A", "2C", "1E" ],
-          "allowed_fls": [ "280", "300", "340", "380", "400", "430" ],
-          "FLAS": "FL280, FL300, FL340, FL380, FL400, FL430"
+          "direction": "EVEN",
+          "max_fl": 430,
+          "suffix": [ "2A", "2C", "1E" ]
         },
         {
           "airways": "V12 EPDOS L642",
@@ -569,8 +509,8 @@
         {
           "airways": [ "V11 IDOSI P901", "V11 IDOSI A1"],
           "suffix": [ "1B", "2D", "1F" ],
-          "allowed_fls": [ "280", "300", "340", "380", "400", "430" ],
-          "FLAS": "FL280, FL300, FL340, FL380, FL400, FL430"
+          "direction": "EVEN",
+          "max_fl": 430
         },
         {
           "airways": "V12 EPDOS L642",
@@ -606,7 +546,7 @@
           "FLAS": "Metric RVSM Westbound Levels"
         },
         {
-          "airways": [ "A461 ZHO", "A461 LKO", "A461 LIG", "A461 OBLIK", "A461 WXI", "A461 IDUMA W22 SHL G471", "A461 SHL G471", "A461 BUBDA W56"],
+          "airways": [ "A461 ZHO", "A461 LKO", "A461 LIG", "A461 OBLIK", "A461 WXI", "A461 IDUMA W22 SHL G471 PLT", "A461 SHL G471 PLT", "A461 BUBDA W56"],
           "allowed_fls": [ "291", "311", "331", "351", "371", "391", "411" ],
           "FLAS": "Metric RVSM Eastbound Levels"
         }
@@ -618,22 +558,10 @@
           "FLAS": "FL148 (4500m)"
         },
         {
-          "destinations": [ "ZSAM", "ZSQZ" ],
-          "airways": "A470",
-          "allowed_fls": [ "167", "207", "246" ],
-          "FLAS": "FL167 (5100m), FL207 (6300m), FL246 (7500m)"
-        },
-        {
-          "destinations": [ "ZSFZ", "ZSWY", "ZSWZ" ],
+          "destinations": [ "ZSAM", "ZSQZ", "ZSFZ", "ZSWY", "ZSWZ" ],
           "airways": "A470",
           "allowed_fls": [ "207", "246" ],
           "FLAS": "FL207 (6300m), FL246 (7500m)"
-        },
-        {
-          "destinations": [ "ZSHC", "ZSYW", "ZSNB" ],
-          "airways": "A470",
-          "allowed_fls": [ "266", "330" ],
-          "FLAS": "FL266 (8100m), FL330"
         },
         {
           "direction": "ODD",
@@ -704,21 +632,16 @@
           "FLAS": "FL236 (7200m), FL256 (7800m)"
         },
         {
-          "airways": "A202",
-          "allowed_fls": [ "341", "381", "401" ],
-          "FLAS": "FL341 (10400m), FL381 (11600m), FL401 (12200m)"
-        },
-        {
-          "airways": "R339",
-          "allowed_fls": [ "281", "301", "321", "341", "361", "381", "401" ],
-          "FLAS": "Metric RVSM Westbound Levels"
+          "airways": ["A202", "R339"],
+          "allowed_fls": [ "321", "341", "361", "381", "401" ],
+          "FLAS": "Metric Westbound RVSM Levels at or above S0980 (FL321)"
         }
       ],
       "IDOSI": [
         {
-          "airways": "P901",
-          "allowed_fls": [ "280", "300", "340", "380", "400", "430" ],
-          "FLAS": "FL280, FL300, FL340, FL380, FL400, FL430"
+          "airways": ["P901", "A1"],
+          "direction": "EVEN",
+          "max_fl": 430
         }
       ],
       "EPDOS": [
@@ -743,6 +666,11 @@
           "airways": [ "A461", "G471", "W22" ],
           "allowed_fls": [ "291", "311", "331", "351", "371", "391", "411" ],
           "FLAS": "Metric RVSM Eastbound Levels"
+        },
+        {
+          "destinations": [ "ZGGG" ],
+          "allowed_fls": [ "148" ],
+          "FLAS": "FL148 (4500m)"
         }
       ],
       "MIPAG": [
@@ -760,8 +688,8 @@
       "NLG": [
         {
           "destinations": [ "ZGSZ" ],
-          "allowed_fls": [ "59" ],
-          "FLAS": "5900ft (1800m)"
+          "allowed_fls": [ "49" ],
+          "FLAS": "4900ft (1500m)"
         }
       ],
       "BIGRO": [
@@ -779,22 +707,10 @@
           "FLAS": "FL148 (4500m)"
         },
         {
-          "destinations": [ "ZSAM", "ZSQZ" ],
-          "airways": "V1 DOTMI A470",
-          "allowed_fls": [ "167", "207", "246" ],
-          "FLAS": "FL167 (5100m), FL207 (6300m), FL246 (7500m)"
-        },
-        {
-          "destinations": [ "ZSFZ", "ZSWY", "ZSWZ" ],
+          "destinations": [ "ZSAM", "ZSQZ", "ZSFZ", "ZSWY", "ZSWZ" ],
           "airways": "V1 DOTMI A470",
           "allowed_fls": [ "207", "246" ],
           "FLAS": "FL207 (6300m), FL246 (7500m)"
-        },
-        {
-          "destinations": [ "ZSHC", "ZSYW", "ZSNB" ],
-          "airways": "V1 DOTMI A470",
-          "allowed_fls": [ "266", "330" ],
-          "FLAS": "FL266 (8100m), FL330"
         },
         {
           "airways": "V1 DOTMI A470",
@@ -878,19 +794,14 @@
           "FLAS": "FL236 (7200m), FL256 (7800m)"
         },
         {
-          "airways": "V10 SIKOU A202",
-          "allowed_fls": [ "341", "381", "401" ],
-          "FLAS": "FL341 (10400m), FL381 (11600m), FL401 (12200m)"
+          "airways": ["V10 SIKOU A202", "V10 SIKOU R339"],
+          "allowed_fls": [ "321", "341", "361", "381", "401" ],
+          "FLAS": "Metric Westbound RVSM Levels at or above S0980 (FL321)"
         },
         {
-          "airways": "V10 SIKOU R339",
-          "allowed_fls": [ "281", "301", "321", "341", "361", "381", "401" ],
-          "FLAS": "Metric RVSM Westbound Levels"
-        },
-        {
-          "airways": "V31 IDOSI P901",
-          "allowed_fls": [ "280", "300", "340", "380", "400", "430" ],
-          "FLAS": "FL280, FL300, FL340, FL380, FL400, FL430"
+          "airways": ["V31 IDOSI P901", "V31 IDOSI A1"],
+          "max_fl": 430,
+          "direction": "EVEN"
         },
         {
           "airways": "V32 EPDOS L642",
