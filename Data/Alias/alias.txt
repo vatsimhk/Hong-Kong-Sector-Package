@@ -1,5 +1,5 @@
 ;*** VHHK ***
-;(c) VATSIM Hong Kong VACC
+;(c) VATSIM Hong Kong vACC
 ;QNH SETTINGS:
 .hkg Hong Kong QNH is $altim(VHHH)
 .kt Kai Tak QNH is $altim(VHHH)
@@ -8,14 +8,14 @@
 .metar $metar($1)
 ;HANDOFF:
 .ho Contact $radioname($1) ($atccallsign($1)) on $freq($1), good day.
-.req Contact $radioname($1) on $freq($1) with your requests, good day
-.ctr Contact Hong Kong Radar on 121.30, good day.
-.tme Contact Hong Kong Radar on 126.50, good day.
-.dep Contact Hong Kong Departure on 123.80, good day.
-.app Contact Hong Kong Approach on 119.10, good day.
-.fad Contact Hong Kong Director on 119.50, callsign only, good day.
-.twr Contact Hong Kong Tower on 118.40, good day.
-.twrn Contact Hong Kong Tower on 118.20, good day.
+.req Contact $radioname($1) on $freq($1) with your requests, good day.
+.ctr Contact Hong Kong Radar on 127.1, good day.
+.tme Contact Hong Kong Radar on 126.5, good day.
+.dep Contact Hong Kong Departure on 123.8, good day.
+.app Contact Hong Kong Approach on 119.1, good day.
+.fad Contact Hong Kong Director on 119.5, callsign only, good day.
+.twr Contact Hong Kong Tower on 118.4, good day.
+.twrn Contact Hong Kong Tower on 118.7, good day.
 .gnd Contact Hong Kong Ground on 122.55, good day.
 .pek Contact Beijing Control on 133.075, good day.
 ;Predeparture Clearance PDC: 
@@ -24,9 +24,9 @@
 ;Dep Clearence:
 ;HONGKONG Chek Lap Kok SID
 .depc Cleared to destination $arr, $sid departure, squawk $asquawk
-.depcfull Cleared to destination $arr, $sid departure, Runway $deprwy, flight plan route, climb via SID $temp, squawk $asquawk
+.depcfull Cleared to destination $arr, $sid departure, Runway $deprwy, climb via SID $temp, squawk $asquawk
 ;RADAR VECTORS
-.rdrdep Cleared to destination $arr, radar vectors departure, Runway $deprwy, flight plan route, initial climb $temp, squawk $asquawk
+.rdrdep Cleared to destination $arr, radar vectors departure, Runway $deprwy, initial climb $temp, squawk $asquawk
 .rb Readback correct. Report ready for push and start.
 .correct Readback correct
 .report Report when ready
@@ -118,7 +118,7 @@
 .spd Speed $1 knots.
 .rspd Reduce Speed to $1 knots.
 .ispd Increase Speed to $1 knots.
-.pd On pilot's own Discretion,
+.pd On pilot's own discretion,
 .rais $arr airport is at your $oclock($arr), $dist($arr) nm, report it insight.
 ;ILS Clearence
 .ils Cleared ILS RWY $arrrwy approach, report established.
@@ -143,7 +143,7 @@
 .left Left closed traffic, maintain VFR not above $1 ft, squawk $squawk, report downwind
 .right Right closed traffic, maintain VFR not above $1 ft, squawk $squawk, report downwind
 ;CENTER
-.unicom No further ATC avaliable, monitor unicom 122.80, good day.
+.unicom No further ATC available, monitor unicom 122.80, good day.
 .out You are outside of my airspace, monitor unicom 122.80, resume on own navigation. Good day.
 .idt Radar Identified.
 .clrstar cleared $1 arrival. expect Rwy $2 for arrival in $arr
@@ -158,8 +158,8 @@
 .dmurry When ready, descend FL150 by MURRY
 .wrdes When ready, descend $alt by $1
 ;General
-.info Hong Kong VACC information "http://vathk.com/"
-.pdcinfo Information about Pre-departure Clearance at Hong Kong FIR "https://vathk.com/pdc"
+.info Hong Kong vACC information "http://vathk.com/"
+.pdcinfo Information about Pre-departure Clearances within Hong Kong FIR "https://vathk.com/pdc"
 .psinfo Hong Kong FIR uses the colour coded pushback procedures: "https://vathk.com/pushback"
 .alcohol Did you consume any alcholic beverages in the past 12 hours?
 .route Your filed route is invalid. Are you able to accept the following reroute: $1. Once accepted, call on frequency as normal for clearance.
