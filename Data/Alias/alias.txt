@@ -127,7 +127,7 @@
 .ils07l From LIMES via TUTBA, cleared ILS RWY 07L approach.
 .ils25l From TD, cleared ILS RWY 25L approach. 
 .ils25C From TD, cleared ILS RWY 25C approach. 
-.tra25R From TD, descend via RNAV transition 2700ft.
+.tra25R From TD, descend via RNAV transition.
 .ils25R From TOPUN, cleared ILS RWY 25R approach.
 .rptest Report established
 ;KaiTak
