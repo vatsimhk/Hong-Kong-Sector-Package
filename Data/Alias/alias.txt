@@ -64,16 +64,20 @@
 ;TOWER
 ;TAKeOFF VHHH
 .cft surface wind $wind($dep), RWY $deprwy, cleared for takeoff. 
+.cft07l surface wind $wind(VHHH) knots, RWY 07L, cleared for takeoff.
 .cft07C surface wind $wind(VHHH) knots, RWY 07C, cleared for takeoff. 
 .cft07r surface wind $wind(VHHH) knots, RWY 07R, cleared for takeoff. 
 .cft25l surface wind $wind(VHHH) knots, RWY 25L, cleared for takeoff. 
 .cft25C surface wind $wind(VHHH) knots, RWY 25C, cleared for takeoff. 
+.cft25r surface wind $wind(VHHH) knots, RWY 25R, cleared for takeoff.
 ;LAND VHHH
 .ctl surface wind $wind($arr), RWY $arrrwy, cleared to land. 
+.ctl07l surface wind $wind(VHHH), RWY 07L, cleared to land.
 .ctl07C surface wind $wind(VHHH), RWY 07C, cleared to land. 
 .ctl07r surface wind $wind(VHHH), RWY 07R, cleared to land. 
 .ctl25l surface wind $wind(VHHH), RWY 25L, cleared to land. 
 .ctl25C surface wind $wind(VHHH), RWY 25C, cleared to land. 
+.ctl25R surface wind $wind(VHHH), RWY 25R, cleared to land.
 ;OTHERS
 .cft13 surface wind $wind(VHHH), RWY 13 Kai Tak, cleared for takeoff. 
 .cft31 surface wind $wind(VHHH), RWY 31 Kai Tak, cleared for takeoff. 
