@@ -509,7 +509,7 @@
           "FLAS": "FL236 (7200m), FL256 (7800m)"
         },
         {
-          "airways": "V10 SIKOU R339",
+          "airways": ["V10 SIKOU A202", "V10 SIKOU R339"],
           "suffix": [ "1B", "2D", "1F" ],
           "allowed_fls": [ "281", "301", "321", "341", "361", "381", "401" ],
           "FLAS": "Metric RVSM Westbound Levels"
