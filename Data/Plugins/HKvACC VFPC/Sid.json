@@ -106,7 +106,7 @@
         },
         {
           "direction": "ODD",
-          "airways": "SKATE KAPLI G86",
+          "airways": [ "SKATE KAPLI G86", "SKATE DCT KAPLI G86" ],
           "suffix": [ "2B", "3D", "1F" ],
           "allowed_fls": [ "290", "330", "370", "390", "410" ],
           "FLAS": "FL290, FL330, FL370, FL390, FL410"
@@ -163,7 +163,7 @@
         },
         {
           "direction": "ODD",
-          "airways": "SKATE KAPLI G86",
+          "airways": [ "SKATE KAPLI G86", "SKATE DCT KAPLI G86" ],
           "noise": "Y",
           "suffix": [ "2X", "1Y", "1Z", "4A", "4C", "2E" ],
           "allowed_fls": [ "290", "330", "370", "390", "410" ],
