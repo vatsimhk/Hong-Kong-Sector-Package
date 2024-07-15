@@ -1,6 +1,7 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
+SECTORFILE:
 SECTORTITLE:Hong-Kong-Sector-File.sct
 Free Text:VMMC Gates\A1:freetext
 Free Text:VMMC Gates\A10:freetext
@@ -57,6 +58,7 @@ Free Text:VMMC Taxiways\H:freetext
 Free Text:VMMC Taxiways\H:freetext
 Geo:VMMC Groundlayout Macau:
 Regions:VMMC Macau:polygon
+Regions:VMMC Macau (ASMGCS Background):polygon
 SHOWC:1
 SHOWSB:1
 BELOW:0
