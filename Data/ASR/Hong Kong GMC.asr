@@ -3,8 +3,7 @@ DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 SECTORFILE:D:\Documents\GitHub\Hong-Kong-Sector-Package\Data\Sector\Hong-Kong-Sector-File.sct
 SECTORTITLE:Hong-Kong-Sector-File.sct
-Geo:VHHH Groundlayout Hong Kong:
-Regions:VHHH Hong Kong:polygon
+Geo:VHHH Hong Kong Borders:
 Regions:VHHH Hong Kong:polygon
 Regions:VHHH Hong Kong (ASMGCS Background):polygon
 SHOWC:1
@@ -20,7 +19,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:19.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:22.271095:113.820997:22.362950:114.009643
+WINDOWAREA:22.294140:113.871201:22.335425:113.952143
 PLUGIN:Ground Radar plugin:AirportElevation:20
 PLUGIN:Ground Radar plugin:AirportRadius:3.5
 PLUGIN:Ground Radar plugin:GroundMode:VHHH
