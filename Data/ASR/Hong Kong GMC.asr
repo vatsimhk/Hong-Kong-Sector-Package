@@ -1,7 +1,7 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:D:\Documents\GitHub\Hong-Kong-Sector-Package\Data\Sector\Hong-Kong-Sector-File.sct
+SECTORFILE:
 SECTORTITLE:Hong-Kong-Sector-File.sct
 Geo:VHHH Hong Kong Borders:
 Regions:VHHH Hong Kong:polygon
