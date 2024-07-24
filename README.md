@@ -12,8 +12,7 @@ To install the package:
 1. Download the latest version of the [Hong Kong Sector Installer](https://github.com/vatsimhk/Hong-Kong-Sector-Installer/releases/latest/download/Hong-Kong-Sector-Installer.zip).
 2. Run the .exe and select "Install Sector Package". Select the folder you wish to store the data files in and click OK. The installer will auomatically download the latest version of the Sector Package from this GitHub repository.
 3. Optionally, select "Change Colour Theme" to select your desired colour scheme.
-4. To ensure all lists and text display correctly, navigate to where you installed the files and install the custom EuroScope font by double clicking the .ttf file provided.
-5. Open EuroScope, navigate to where you installed the files and select "Hong Kong TOPSKY.prf" to open the default profile. You are now ready to start observing / controlling!
+4. Open EuroScope, navigate to where you installed the files and select "Hong Kong TOPSKY.prf" to open the default profile. You are now ready to start observing / controlling!
 
 To update the package:
 1. Run the installer.exe.
