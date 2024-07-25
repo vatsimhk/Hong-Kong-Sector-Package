@@ -1,0 +1,45 @@
+System_Version 0
+System_TrueColorMode 1
+System_RateTime 60
+System_DisplayWinds 0
+System_RateDisplayType 1
+Label_DelayItem_ColorType 1
+Label_DelayItem_ShowGain 0
+Label_DelayItem_Uncon 0
+Label_Highlight_Type 1
+System_Remove_Time 600
+system_Delay_Time_0 0
+system_Delay_Time_1 1
+System_Time_Stable 12
+
+Color_COOPANS=1
+Color_Delay_Negative=255,255,255
+Color_Delay_0=255,255,255
+Color_Delay_1=255,255,255
+Color_Delay_2=240,225,41
+Color_Delay_3=225,25,25
+Color_Unstable=210,207,106
+Color_Stable=195,195,195
+Color_SuperStable=195,195,195
+Color_Frozen=255,255,255
+Color_Landed=0,78,55
+Color_Background=32,32,32
+Color_WindowBackground=32,32,32
+Color_Delay_0 210,207,106
+Color_Delay_1 210,207,106
+Color_Delay_2 210,207,106
+Color_Delay_3 210,207,106
+Color_Delay_4 195,195,195
+
+Label_Rwy_Feeder 7
+Label_Rwy_FeederTime 7
+
+[VHHH]
+AIRPORT:VHHH
+FEEDER:MUSEL:ABB:VHHH:MUSEL:255,255,255
+FEEDER:MANGO:BET:VHHH:MANGO:255,255,255
+FEEDER:MURRY:CAN:VHHH:MURRY:255,255,255
+RUNWAY:VHHH:07L:100:*
+RUNWAY:VHHH:07R:100:*
+RUNWAY:VHHH:25L:100:*
+RUNWAY:VHHH:25R:100:*
