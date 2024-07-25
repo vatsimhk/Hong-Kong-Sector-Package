@@ -1,5 +1,2 @@
-Filename: Hong Kong TMA.asr
-Keep: BOTH
-
-Filename: Hong Kong ACC.asr
+Filename: TagDefinitions.txt
 Keep: BOTH

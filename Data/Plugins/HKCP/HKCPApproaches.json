@@ -1,0 +1,57 @@
+{
+  "VHHH": {
+    "07R": [
+      ["ILS_07R        ", "LIMES"],
+      ["LOC_07R        ", "LIMES"],
+      ["RNPZ_07R        ", "LIMES"],
+      ["RNPY_07R        ", "TD"]
+    ],
+    "07L": [
+      ["ILS_07L        ", "LIMES"],
+      ["LOC_07L        ", "LIMES"],
+      ["RNP_07L        ", "LIMES"]
+    ],
+    "25L": [
+      ["ILS_25L        ", "TD"],
+      ["LOC_25L        ", "TD"],
+      ["RNPZ_25L        ", "TD"],
+      ["RNPY_25L        ", "GUAVA"]
+    ],
+    "25R": [
+      ["ILS_25R        ", "TOPUN"],
+      ["LOC_25R       ", "TD"],
+      ["RNPZ_25R        ", "TD"],
+      ["RNPY_25R        ", "GUAVA"]
+    ]
+  },
+  "VMMC": {
+    "16": [
+      ["LOCZ_16        ", "ZUH"],
+      ["LOCY_16        ", "ZUH"],
+      ["LOCX_16        ", "ZUH"],
+      ["RNPY_16        ", "ZUH"],
+      ["RNPX_16        ", "ZUH"]
+    ],
+    "34": [
+      ["ILSZ_34        ", "PAPA"],
+      ["ILSY_34        ", "PAPA"],
+      ["ILSX_34        ", "PAPA"],
+      ["RNP_34        ", "PAPA"],
+      ["VOR_34        ", "PAPA"]
+    ]
+  },
+  "VHHX": {
+    "13": [
+      ["IGS_13        ", "CH"],
+      ["VOR_13        ", "CH"],
+      ["NDB_13        ", "CH"],
+      ["VSD_13        ", "CH"]
+    ],
+    "31": [
+      ["ILS_31        ", "WHISKEY"],
+      ["VOR_31        ", "WHISKEY"],
+      ["NDB_31        ", "WHISKEY"],
+      ["VIS_31        ", "WHISKEY"]
+    ]
+  }
+}

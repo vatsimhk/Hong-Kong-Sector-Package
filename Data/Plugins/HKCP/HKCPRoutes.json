@@ -1,0 +1,574 @@
+{
+  "VHHH": {
+    "07": {
+      "routes": {
+        "SRA": {
+          "string": "SRA_SIERA7A",
+          "star": "SIERA7A",
+          "route": "SIERA",
+          "gate": "CANTO"
+        },
+        "SRC": {
+          "string": "SRC_SIERA7C",
+          "star": "SIERA7C",
+          "route": "SIERA",
+          "gate": "CANTO"
+        },
+        "ELA": {
+          "string": "ELA_V522-ABBEY3A",
+          "star": "ABBEY3A",
+          "route": "ELATO V522 ABBEY",
+          "gate": "ABBEY"
+        },
+        "DOT": {
+          "string": "DOT_V512-ABBEY3A",
+          "star": "ABBEY3A",
+          "route": "DOTMI V512 ABBEY",
+          "gate": "ABBEY"
+        },
+        "LEL": {
+          "string": "LEL_V591-ABBEY3A",
+          "star": "ABBEY3A",
+          "route": "LELIM V591 ABBEY",
+          "gate": "ABBEY"
+        },
+        "NOM": {
+          "string": "NOM_V532-BETTY2A",
+          "star": "BETTY2A",
+          "route": "NOMAN V532 BETTY",
+          "gate": "BETTY"
+        },
+        "SAB": {
+          "string": "SAB_V542-BETTY2A",
+          "star": "BETTY2A",
+          "route": "SABNO V542 BETTY",
+          "gate": "BETTY"
+        },
+        "CAR": {
+          "string": "CAR_V551-BETTY2A",
+          "star": "BETTY2A",
+          "route": "CARSO V551 BETTY",
+          "gate": "BETTY"
+        },
+        "IDO": {
+          "string": "IDO_V561-CANTO3A",
+          "star": "CANTO3A",
+          "route": "IDOSI V561 CANTO",
+          "gate": "CANTO"
+        },
+        "SIK": {
+          "string": "SIK_V571-CANTO3A",
+          "star": "CANTO3A",
+          "route": "SIKOU V571 CANTO",
+          "gate": "CANTO"
+        },
+        "LIM": {
+          "string": "LIM_DCT-LIMES",
+          "star": "LIMESxILS",
+          "route": "LIMES",
+          "gate": "R"
+        },
+        "ABB": {
+          "string": "ABB_ABBEY3A",
+          "star": "ABBEY3A",
+          "route": "ABBEY",
+          "gate": "ABBEY"
+        },
+        "BET": {
+          "string": "BET_BETTY2A",
+          "star": "BETTY2A",
+          "route": "BETTY",
+          "gate": "BETTY"
+        },
+        "CAN": {
+          "string": "CAN_CANTO3A",
+          "star": "CANTO3A",
+          "route": "CANTO",
+          "gate": "CANTO"
+        }
+      },
+      "points": {
+        "SIERA": ["SRA", "SRC"],
+        "ELATO": ["ELA"],
+        "DOTMI": ["DOT"],
+        "LELIM": ["LEL"],
+        "NOMAN": ["NOM"],
+        "SABNO": ["SAB"],
+        "CARSO": ["CAR"],
+        "IDOSI": ["IDO"],
+        "SIKOU": ["SIK"]
+      },
+      "defaults": ["ABB", "BET", "CAN", "LIM"]
+    },
+    "25": {
+      "routes": {
+        "SRB": {
+          "string": "SRB_SIERA6B",
+          "star": "SIERA6B",
+          "route": "SIERA",
+          "gate": "CANTO"
+        },
+        "SRD": {
+          "string": "SRD_SIERA6D",
+          "star": "SIERA6D",
+          "route": "SIERA",
+          "gate": "CANTO"
+        },
+        "ELA": {
+          "string": "ELA_V522-ABBEY2B",
+          "star": "ABBEY2B",
+          "route": "ELATO V522 ABBEY",
+          "gate": "ABBEY"
+        },
+        "DOT": {
+          "string": "DOT_V512-ABBEY2B",
+          "star": "ABBEY2B",
+          "route": "DOTMI V512 ABBEY",
+          "gate": "ABBEY"
+        },
+        "LEL": {
+          "string": "LEL_V591-ABBEY2B",
+          "star": "ABBEY2B",
+          "route": "LELIM V591 ABBEY",
+          "gate": "ABBEY"
+        },
+        "NOM": {
+          "string": "NOM_V532-BETTY2B",
+          "star": "BETTY2B",
+          "route": "NOMAN V532 BETTY",
+          "gate": "BETTY"
+        },
+        "SAB": {
+          "string": "SAB_V542-BETTY2B",
+          "star": "BETTY2B",
+          "route": "SABNO V542 BETTY",
+          "gate": "BETTY"
+        },
+        "CAR": {
+          "string": "CAR_V551-BETTY2B",
+          "star": "BETTY2B",
+          "route": "CARSO V551 BETTY",
+          "gate": "BETTY"
+        },
+        "IDO": {
+          "string": "IDO_V561-CANTO2B",
+          "star": "CANTO2B",
+          "route": "IDOSI V561 CANTO",
+          "gate": "CANTO"
+        },
+        "SIK": {
+          "string": "SIK_V571-CANTO2B",
+          "star": "CANTO2B",
+          "route": "SIKOU V571 CANTO",
+          "gate": "CANTO"
+        },
+        "TD": {
+          "string": "TD_DCT-TD",
+          "star": "TDxILS",
+          "route": "TD",
+          "gate": "R"
+        },
+        "ABB": {
+          "string": "ABB_ABBEY2B",
+          "star": "ABBEY2B",
+          "route": "ABBEY",
+          "gate": "ABBEY"
+        },
+        "BET": {
+          "string": "BET_BETTY2B",
+          "star": "BETTY2B",
+          "route": "BETTY",
+          "gate": "BETTY"
+        },
+        "CAN": {
+          "string": "CAN_CANTO2B",
+          "star": "CANTO2B",
+          "route": "CANTO",
+          "gate": "CANTO"
+        },
+        "GUA": {
+          "string": "GUA_DCT-GUAVA",
+          "star": "GUAVAxRNPY",
+          "route": "GUAVA",
+          "gate": "R"
+        }
+      },
+      "points": {
+        "SIERA": ["SRB", "SRD"],
+        "ELATO": ["ELA"],
+        "DOTMI": ["DOT"],
+        "LELIM": ["LEL"],
+        "NOMAN": ["NOM"],
+        "SABNO": ["SAB"],
+        "CARSO": ["CAR"],
+        "IDOSI": ["IDO"],
+        "SIKOU": ["SIK"]
+      },
+      "defaults": ["ABB", "BET", "CAN", "TD", "GUA"]
+    }
+  },
+  "VMMC": {
+    "16": {
+      "routes": {
+        "ELM": {
+          "string": "ELM_J101-SMT5B",
+          "star": "SMT5B",
+          "route": "ELATO J101 SMT",
+          "gate": "SMT"
+        },
+        "DTM": {
+          "string": "DTM_SAMMI-J101-SMT5B",
+          "star": "SMT5B",
+          "route": "DOTMI DCT SAMMI J101 SMT",
+          "gate": "SMT"
+        },
+        "SNM": {
+          "string": "SNM_ALDOM-J103-CHALI5B",
+          "star": "CHALI5B",
+          "route": "SABNO DCT TOFEE DCT SUKER DCT ALDOM J103 ROBIN DCT CHALI",
+          "gate": "CHALI"
+        },
+        "DMM": {
+          "string": "DMM_J103-CHALI5B",
+          "star": "CHALI5B",
+          "route": "DUMOL J103 ROBIN DCT CHALI",
+          "gate": "CHALI"
+        },
+        "SIM": {
+          "string": "SIM_J104-CHALI5B",
+          "star": "CHALI5B",
+          "route": "SIKOU J104 CHALI",
+          "gate": "CHALI"
+        },
+        "IDM": {
+          "string": "IDM_DASON-J104-CHALI5B",
+          "star": "CHALI5B",
+          "route": "IDOSI DCT DASON J104 CHALI",
+          "gate": "CHALI"
+        },
+        "NLG": {
+          "string": "NLG_NLG",
+          "star": "VMMC",
+          "route": "NLG",
+          "gate": ""
+        },
+        "POU": {
+          "string": "POU_POU",
+          "star": "",
+          "route": "POU",
+          "gate": ""
+        },
+        "BIG": {
+          "string": "BIG_BIGRO",
+          "star": "",
+          "route": "BIGRO",
+          "gate": ""
+        },
+        "CON": {
+          "string": "CON_CON",
+          "star": "",
+          "route": "CON",
+          "gate": ""
+        },
+        "CHA": {
+          "string": "CHA_CHALI5B",
+          "star": "CHALI5B",
+          "route": "CHALI",
+          "gate": "CHALI"
+        },
+        "SMT": {
+          "string": "SMT_SMT5B",
+          "star": "SMT5B",
+          "route": "SMT",
+          "gate": "SMT"
+        },
+        "ZUH": {
+          "string": "ZUH_DCT-ZUH",
+          "star": "",
+          "route": "ZUH",
+          "gate": ""
+        }
+      },
+      "points": {
+        "ELATO": ["ELM"],
+        "DOTMI": ["DTM"],
+        "SABNO": ["SNM"],
+        "DUMOL": ["DMM"],
+        "SIKOU": ["SIM"],
+        "IKELA": ["IDM"],
+        "NLG": ["NLG"],
+        "POU": ["POU"],
+        "BIGRO": ["BIG"],
+        "CON": ["CON"]
+      },
+      "defaults": ["CHA", "SMT", "ZUH"]
+    },
+    "34": {
+      "routes": {
+        "ELM": {
+          "string": "ELM_J101-SMT4A",
+          "star": "SMT4A",
+          "route": "ELATO J101 SMT",
+          "gate": "SMT"
+        },
+        "DTM": {
+          "string": "DTM_SAMMI-J101-SMT4A",
+          "star": "SMT4A",
+          "route": "DOTMI DCT SAMMI J101 SMT",
+          "gate": "SMT"
+        },
+        "SNM": {
+          "string": "SNM_ALDOM-J103-CHALI4A",
+          "star": "CHALI4A",
+          "route": "SABNO DCT TOFEE DCT SUKER DCT ALDOM J103 ROBIN DCT CHALI",
+          "gate": "CHALI"
+        },
+        "DMM": {
+          "string": "DMM_J103-CHALI4A",
+          "star": "CHALI4A",
+          "route": "DUMOL J103 ROBIN DCT CHALI",
+          "gate": "CHALI"
+        },
+        "SIM": {
+          "string": "SIM_J104-CHALI4A",
+          "star": "CHALI4A",
+          "route": "SIKOU J104 CHALI",
+          "gate": "CHALI"
+        },
+        "IDM": {
+          "string": "IDM_DASON-J104-CHALI4A",
+          "star": "CHALI4A",
+          "route": "IDOSI DCT DASON J104 CHALI",
+          "gate": "CHALI"
+        },
+        "NLG": {
+          "string": "NLG_NLG",
+          "star": "VMMC",
+          "route": "NLG",
+          "gate": "R"
+        },
+        "POU": {
+          "string": "POU_POU",
+          "star": "",
+          "route": "POU",
+          "gate": "R"
+        },
+        "BIG": {
+          "string": "BIG_BIGRO",
+          "star": "",
+          "route": "BIGRO",
+          "gate": "R"
+        },
+        "CON": {
+          "string": "CON_CON",
+          "star": "",
+          "route": "CON",
+          "gate": "R"
+        },
+        "CHA": {
+          "string": "CHA_CHALI4A",
+          "star": "CHALI4A",
+          "route": "CHALI",
+          "gate": "CHALI"
+        },
+        "SMT": {
+          "string": "SMT_SMT4A",
+          "star": "SMT4A",
+          "route": "SMT",
+          "gate": "SMT"
+        },
+        "ROM": {
+          "string": "ROM_DCT-ROMEO",
+          "star": "PAPAxILS",
+          "route": "ROMEO",
+          "gate": "R"
+        },
+        "PAP": {
+          "string": "PAP_DCT-PAPA",
+          "star": "PAPAxILS",
+          "route": "PAPA",
+          "gate": "R"
+        }
+      },
+      "points": {
+        "ELATO": ["ELM"],
+        "DOTMI": ["DTM"],
+        "SABNO": ["SNM"],
+        "DUMOL": ["DMM"],
+        "SIKOU": ["SIM"],
+        "IKELA": ["IDM"],
+        "NLG": ["NLG"],
+        "POU": ["POU"],
+        "BIGRO": ["BIG"],
+        "CON": ["CON"]
+      },
+      "defaults": ["CHA", "SMT", "ROM", "PAP"]
+    }
+  },
+  "VHHX": {
+    "13": {
+      "routes": {
+        "ELK": {
+          "string": "ELK_ELATO-MAGOG13",
+          "star": "MAGOG13",
+          "route": "ELATO",
+          "gate": "ALPHA"
+        },
+        "DTK": {
+          "string": "DTK_DOTMI-MAGOG13",
+          "star": "MAGOG13",
+          "route": "DOTMI",
+          "gate": "ALPHA"
+        },
+        "LEK": {
+          "string": "LEK_LELIM-MAGOG13",
+          "star": "MAGOG13",
+          "route": "LELIM",
+          "gate": "ALPHA"
+        },
+        "NOK": {
+          "string": "NOK_NOMAN13",
+          "star": "NOMAN13",
+          "route": "NOMAN",
+          "gate": "R"
+        },
+        "SNK": {
+          "string": "SNK_SABNO13",
+          "star": "SABNO13",
+          "route": "SABNO",
+          "gate": "DELTA"
+        },
+        "DMK": {
+          "string": "DMK_DUMOL13",
+          "star": "DUMOL13",
+          "route": "DUMOL",
+          "gate": "R"
+        },
+        "IDK": {
+          "string": "IDK_IDOSI13",
+          "star": "IDOSI13",
+          "route": "IDOSI",
+          "gate": "CHALI"
+        },
+        "SKK": {
+          "string": "SKK_SIKOU13",
+          "star": "SIKOU13",
+          "route": "SIKOU",
+          "gate": "CHALI"
+        },
+        "TMK": {
+          "string": "TMK_TAMOT13",
+          "star": "TAMOT13",
+          "route": "TAMOT",
+          "gate": "CHALI"
+        },
+        "MGK": {
+          "string": "MGK_MAGOG13",
+          "star": "MAGOG13",
+          "route": "MAGOG",
+          "gate": "ALPHA"
+        },
+        "CH": {
+          "string": "CH_DCT-CH",
+          "star": "CHxIGS",
+          "route": "CH",
+          "gate": "R"
+        }
+      },
+      "points": {
+        "ELATO": ["ELK"],
+        "DOTMI": ["DTK"],
+        "LELIM": ["LEK"],
+        "NOMAN": ["NOK"],
+        "SABNO": ["SNK"],
+        "DUMOL": ["DMK"],
+        "IDOSI": ["IDK"],
+        "SIKOU": ["SKK"],
+        "TAMOT": ["TMK"]
+      },
+      "defaults": ["MGK", "CH"]
+    },
+    "31": {
+      "routes": {
+        "ELK": {
+          "string": "ELK_ELATO-MAGOG31",
+          "star": "MAGOG31",
+          "route": "ELATO",
+          "gate": "ALPHA"
+        },
+        "DTK": {
+          "string": "DTK_DOTMI-MAGOG31",
+          "star": "MAGOG31",
+          "route": "DOTMI",
+          "gate": "ALPHA"
+        },
+        "LEK": {
+          "string": "LEK_LELIM-MAGOG31",
+          "star": "MAGOG31",
+          "route": "LELIM",
+          "gate": "ALPHA"
+        },
+        "NOK": {
+          "string": "NOK_NOMAN31",
+          "star": "NOMAN31",
+          "route": "NOMAN",
+          "gate": "R"
+        },
+        "SNK": {
+          "string": "SNK_SABNO31",
+          "star": "SABNO13",
+          "route": "SABNO",
+          "gate": "DELTA"
+        },
+        "DMK": {
+          "string": "DMK_DUMOL31",
+          "star": "DUMOL31",
+          "route": "DUMOL",
+          "gate": "R"
+        },
+        "IDK": {
+          "string": "IDK_IDOSI31",
+          "star": "IDOSI31",
+          "route": "IDOSI",
+          "gate": "CHALI"
+        },
+        "SKK": {
+          "string": "SKK_SIKOU31",
+          "star": "SIKOU31",
+          "route": "SIKOU",
+          "gate": "CHALI"
+        },
+        "TMK": {
+          "string": "TMK_TAMOT31",
+          "star": "TAMOT31",
+          "route": "TAMOT",
+          "gate": "CHALI"
+        },
+        "MGK": {
+          "string": "MGK_MAGOG31",
+          "star": "MAGOG31",
+          "route": "MAGOG",
+          "gate": "ALPHA"
+        },
+        "WSK": {
+          "string": "WSK_DCT-WHISKEY",
+          "star": "",
+          "route": "WHISKEY",
+          "gate": "R"
+        }
+      },
+      "points": {
+        "ELATO": ["ELK"],
+        "DOTMI": ["DTK"],
+        "LELIM": ["LEK"],
+        "NOMAN": ["NOK"],
+        "SABNO": ["SNK"],
+        "DUMOL": ["DMK"],
+        "IDOSI": ["IDK"],
+        "SIKOU": ["SKK"],
+        "TAMOT": ["TMK"]
+      },
+      "defaults": ["MGK", "WSK"]
+    }
+  }
+}

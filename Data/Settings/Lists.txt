@@ -70,7 +70,7 @@ m_Column:RFL:4:1:10062:99:106:1:TopSky plugin:TopSky plugin:HKvACC VFPC:4:3.5
 m_Column:ASQWK:6:0:10020:0:62:1:TopSky plugin::TopSky plugin:0:3.5
 m_Column:SQWK:6:0:139:0:62:1:TopSky plugin::TopSky plugin:0:3.5
 m_Column:C:2:0:10046:27:78:1:TopSky plugin::TopSky plugin:4:3.5
-m_Column:VFPC:5:0:1:0:100:1:HKvACC VFPC::HKvACC VFPC:0:3.5
+m_Column:VFPC:5:0:1:0:100:1:HKCP::HKCP:0:3.5
 m_Column:STS:5:0:3:0:13:1:Ground Radar plugin::Ground Radar plugin:4:3.5
 m_Column:SEQ:4:0:10056:91:89:1:TopSky plugin:TopSky plugin:TopSky plugin:0:3.5
 m_Column:TXT:7:0:19:29:29:1::::4:3.5

@@ -1,7 +1,5 @@
 Settings	AtisFolder	\Data\ATIS\AtisFiles.txt
-;COLOUR THEME BEGIN
 Settings	SettingsfileSYMBOLOGY	\Data\Settings\Symbology.txt
-;COLOUR THEME END
 Settings	SettingsfileVOICE	\Data\Settings\VoiceChannels.txt
 Settings	SettingsfilePROFILE	\Data\Settings\LoginProfiles.txt
 Settings	SettingsfileTAGS	\Data\Settings\TagDefinitions.txt
@@ -82,7 +80,7 @@ LastSession	facility	0
 LastSession	rating	0
 LastSession	atis3	Click "Open SCT" to select your view
 TeamSpeakVccs	Ts3NickName	<Your CID Here>
-Plugins	Plugin6	\Data\Plugins\HKvACC VFPC\VFPC.dll
+Plugins	Plugin6	\Data\Plugins\Mplugin_1.0\MAESTRO.dll
 Plugins	Plugin2Display2	Ground Radar display
 Plugins	Plugin0Display2	Ground Radar display
 LastSession	atis_freq0	127050
@@ -110,3 +108,8 @@ Settings	SettingsfileTAXIIN	\Data\Settings\GeneralSettings.txt
 LastSession	rating	0
 LastSession	range	100
 LastSession	atis_freq4	118000
+Plugins	Plugin6Display0	Standard ES radar screen
+Plugins	Plugin6Display1	Ground Radar display
+Plugins	Plugin7	\Data\Plugins\HKCP\HKCP.dll
+Plugins	Plugin7Display0	Standard ES radar screen
+Plugins	Plugin7Display1	Ground Radar display

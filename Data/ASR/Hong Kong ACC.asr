@@ -16,7 +16,6 @@ ARTCC boundary:TRS:
 ARTCC boundary:TRV:
 ARTCC boundary:TRW:
 ARTCC boundary:TRW_North:
-ARTCC high boundary:VHHK_FIR_Partial:
 Geo:VHHK Landmark Hong Kong Coastline:
 High airways:J101:line
 High airways:J103-:line
@@ -44,24 +43,20 @@ Low airways:V2:line
 Low airways:V3:line
 Low airways:V31:line
 Low airways:V32:line
-Low airways:V35:line
 Low airways:V4:line
 Low airways:V5:line
 SHOWC:1
 SHOWSB:0
-BELOW:25000
+BELOW:11000
 ABOVE:0
 LEADER:-2
-SHOWLEADER:1
+SHOWLEADER:0
 TURNLEADER:0
 HISTORY_DOTS:0
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:2.00000
-TAGFAMILY:Hong Kong Radar TOPSKY
+TAGFAMILY:AT3 (TR)
 WINDOWAREA:17.343885:108.683889:23.319267:120.443485
-PLUGIN:CoFrance:RAD:1
-PLUGIN:CoFrance:VV:1
-PLUGIN:CoFrance:VVTIME:2
 PLUGIN:TopSky plugin:HideMapData:WS,VFR,BUFFER,MRVA,FIXLBL,EXTCL,CSTR
