@@ -55,7 +55,7 @@ List_Arrival=1,1500,800
 Window_APP=1,1500,300,250,250
 Window_APP_Scale=20
 Window_APP_Extensions=0
-Window_APW_MaxDist=50
+Window_APW_MaxDist=8
 RawVideo_Brightness=50
 
 List_Departure_RWY=1
