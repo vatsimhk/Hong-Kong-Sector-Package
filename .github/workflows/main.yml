@@ -33,12 +33,8 @@ jobs:
           draft: true
           prerelease: false
       - name: Discord Notification
-        uses: LeGitHubDeTai/github-to-discord@main
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
-          DISCORD_USERNAME: HKvACC Helper
-          # DISCORD_AVATAR: https://raw.githubusercontent.com/LeGitHubDeTai/github-to-discord/main/icon.png
-          MESSAGE_TITLE: Sector File Update ${{ steps.read_sector_version.outputs.SECTOR_ID }} Now Available!
-          MESSAGE_DESCRIPTION: <@&1117123659027464193> All controllers should update using the Hong Kong Sector Installer.
-          MESSAGE_URL: ${{ steps.publish_release.outputs.upload_url }}
-          MESSAGE_COLOR: 5814783
+        uses: Ilshidur/action-discord@master
+        with:
+          args: 'A Sector File Update for {{ steps.read_sector_version.outputs.SECTOR_ID }} has been released.'
