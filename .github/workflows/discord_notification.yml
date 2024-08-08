@@ -26,6 +26,6 @@ jobs:
           embed-title: Hong Kong Sector Package ${{ steps.get_current_release.outputs.tag_name}}
           embed-url: ${{ steps.get_current_release.outputs.html_url }}
           embed-description: |
-            An update to the Hong Kong Sector Package has been released. All controllers should update using the installer.
+            <@&1117123659027464193> An update to the Hong Kong Sector Package has been released. All controllers should update using the installer.
             ${{ steps.get_release_description.outputs.description }}
           embed-color: 2393011
