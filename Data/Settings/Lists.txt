@@ -25,7 +25,7 @@ END
 SEL
 m_Visible:1
 m_X:0
-m_Y:88
+m_Y:82
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:16
