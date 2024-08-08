@@ -43,20 +43,8 @@ jobs:
           latest: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Compose Discord Embed Message
-        id: get_message
-        run: |
-          EMBED_MESSAGE =
-          "{
-            "embeds": [{
-              "title": "Hong Kong Sector ${{ steps.get_current_release.outputs.tag_name }} Released",
-              "url": ${{ steps.get_current_release.outputs.url }},
-              "description": "An update to the Hong Kong Sector Package has been released. All controllers should update using the Hong Kong Sector Installer."
-            }]
-          }"
-          echo "::set-output name=EMBED_MESSAGE::$EMBED_MESSAGE"
       - name: Send Discord Update Ping
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
-          DISCORD_EMBEDS: ${{ steps.get_message.outputs.EMBED_MESSAGE }}
+          DISCORD_EMBEDS: '{"embeds":[{"title":"Sector Package ${{ steps.get_current_release.outputs.tag_name }} Released ","url":"${{ steps.get_current_release.outputs.url }}","color":"2393011","description":"An update to the Hong Kong Sector Package is now available. All controllers should update using the installer."}]}'
         uses: Ilshidur/action-discord@master
