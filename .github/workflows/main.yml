@@ -1,34 +1,25 @@
-name: Release Sector Package
+name: Create Release
 on:
   push:
-    tags:
+    branches:
       - '*'
 jobs:
-  build-release:
+  create-release:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
-    - name: Zip Package
-      uses: thedoctor0/zip-release@0.6.2
-      with:
-        type: 'zip'
-        filename: 'Hong-Kong-Sector-Package.zip'
-        exclusions: '*.md *.git* Legacy* Data/Settings/Legacy*/** Data/ASR/Legacy*/** *.zip'
-    - name: Rename Legacy Sector Version
-      uses: jacobtomlinson/gha-find-replace@v2
-      with:
-        find: "Hong Kong Sector"
-        replace: "Hong Kong Sector (Legacy Mode)"
-        include: "**Hong-Kong-Sector-File.sct"
-        regex: true
-    - name: Zip Legacy Package
-      uses: thedoctor0/zip-release@0.6.2
-      with:
-        type: 'zip'
-        filename: 'Hong-Kong-Sector-Package-Legacy.zip'
-        exclusions: '*.md *.git* *.vbs *.pdf *.ttf *TOPSKY.prf Data/Plugins/TopSky/* Data/Plugins/HKvACC*VFPC/* Data/Plugins/InitialClimbPlugin/* Data/Plugins/Ground*Radar*Plugin/* Data/Plugins/vSMR-1.5/* *.zip'
-    - name: Upload Packages
-      uses: ncipollo/release-action@v1.12.0
-      with:
-        artifacts: "Hong-Kong-Sector-Package.zip, Hong-Kong-Sector-Package-Legacy.zip"
-        token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/checkout@v4
+      - name: Read Sector File Version
+        id: read_sector_version
+        run: |
+          SECTOR_FILE="Data/Sector/Hong-Kong-Sector-File.sct"
+          SECTOR_INFO=$(grep "Hong Kong Sector" "$SECTOR_FILE")
+          SECTOR_ID=$(echo $SECTOR_INFO | awk -F' ' '{print $3}')
+          echo "::set-output name=SECTOR_ID::$SECTOR_ID"
+      - name: Create Release
+        uses: softprops/action-gh-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ steps.read_sector_version.outputs.SECTOR_ID }}
+          draft: true
+          prerelease: false
