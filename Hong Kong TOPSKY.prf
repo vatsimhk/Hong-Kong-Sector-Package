@@ -49,7 +49,6 @@ ASRFastKeys	6	\Data\ASR\Hong Kong Zone.asr
 Plugins	Plugin0	\Data\Plugins\TopSky\TopSky.dll
 Plugins	Plugin2	\Data\Plugins\Radio Direction Finder\RDFPlugin.dll
 Plugins	Plugin3	\Data\Plugins\Discord Euroscope\DiscordEuroscope.dll
-Plugins	Plugin4	\Data\Plugins\AFV\AfvEuroScopeBridge.dll
 Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin1Display0	Ground Radar display
 Plugins	Plugin2Display0	Standard ES radar screen
