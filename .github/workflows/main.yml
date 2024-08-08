@@ -37,4 +37,4 @@ jobs:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
         uses: Ilshidur/action-discord@master
         with:
-          args: 'A Sector File Update for {{ steps.read_sector_version.outputs.SECTOR_ID }} has been released.'
+          args: 'A Sector File Update for ${{ steps.read_sector_version.outputs.SECTOR_ID }} has been released.'
