@@ -72,14 +72,14 @@ LastSession	tovatsim	1
 LastSession	proxyserver	localhost
 LastSession	simdatapublish	0
 LastSession	callsign	Click_The_Dropdown
-Plugins	Plugin5	\Data\Plugins\InitialClimbPlugin\InitialClimbPlugin.dll
+Plugins	Plugin4	\Data\Plugins\InitialClimbPlugin\InitialClimbPlugin.dll
 LastSession	atis2	to select your position
 LastSession	atis4	Or use ASR Fast Keybinds (F1+number) --> Check general settings page 2
 LastSession	facility	0
 LastSession	rating	0
 LastSession	atis3	Click "Open SCT" to select your view
 TeamSpeakVccs	Ts3NickName	<Your CID Here>
-Plugins	Plugin6	\Data\Plugins\Mplugin_1.0\MAESTRO.dll
+Plugins	Plugin5	\Data\Plugins\Mplugin_1.0\MAESTRO.dll
 Plugins	Plugin2Display2	Ground Radar display
 Plugins	Plugin0Display2	Ground Radar display
 LastSession	atis_freq0	127050
@@ -107,7 +107,7 @@ Settings	SettingsfileTAXIIN	\Data\Settings\GeneralSettings.txt
 LastSession	rating	0
 LastSession	range	100
 LastSession	atis_freq4	118000
+Plugins	Plugin5Display0	Standard ES radar screen
+Plugins	Plugin6	\Data\Plugins\HKCP\HKCP.dll
 Plugins	Plugin6Display0	Standard ES radar screen
-Plugins	Plugin7	\Data\Plugins\HKCP\HKCP.dll
-Plugins	Plugin7Display0	Standard ES radar screen
-Plugins	Plugin7Display1	Ground Radar display
+Plugins	Plugin6Display1	Ground Radar display
