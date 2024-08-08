@@ -10,7 +10,7 @@ Label_Highlight_Type 1
 System_Remove_Time 600
 system_Delay_Time_0 0
 system_Delay_Time_1 1
-System_Time_Stable 12
+System_Time_Stable 8
 
 Color_COOPANS=1
 Color_Delay_Negative=255,255,255
@@ -33,6 +33,9 @@ Color_Delay_4 195,195,195
 
 Label_Rwy_Feeder 7
 Label_Rwy_FeederTime 7
+
+System_Web_Path_DL ftp://162.0.217.86
+System_Web_Path_UL ftp://162.0.217.86
 
 [VHHH]
 AIRPORT:VHHH
