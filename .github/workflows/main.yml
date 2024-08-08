@@ -43,8 +43,19 @@ jobs:
           latest: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Get Release Description
+        id: get_release_description
+        uses: pozetroninc/github-action-get-latest-release@master
+        with:
+          repository: ${{ github.repository }}
+          excludes: prerelease, draft
       - name: Send Discord Update Ping
-        env:
-          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
-          DISCORD_EMBEDS: '{"embeds":[{"title":"Sector Package ${{ steps.get_current_release.outputs.tag_name }} Released ","url":"${{ steps.get_current_release.outputs.url }}","color":"2393011","description":"An update to the Hong Kong Sector Package is now available. All controllers should update using the installer."}]}'
-        uses: Ilshidur/action-discord@master
+        uses: tsickert/discord-webhook@v6.0.0
+        with:
+          webhook-url: ${{ secrets.DISCORD_WEBHOOK }}
+          embed-title: Hong Kong Sector Package ${{ steps.get_current_release.outputs.tag_name}}
+          embed-url: ${{ steps.get_current_release.outputs.html_url }}
+          embed-description: |
+            An update to the Hong Kong Sector Package has been released. All controllers should update using the installer.
+            ${{ steps.get_release_description.outputs.description }}
+          embed-color: 2393011
