@@ -11,7 +11,7 @@ jobs:
       - name: Read Sector File Version
         id: read_sector_version
         run: |
-          SECTOR_FILE="Data/Sector/Hong-Kong-Sector-File.sct"
+          SECTOR_FILE="Data/Sector/Hong-Kong-Sector-File.sct" 
           SECTOR_INFO=$(grep "Hong Kong Sector" "$SECTOR_FILE")
           SECTOR_ID=$(echo $SECTOR_INFO | awk -F' ' '{print $4}')
           echo "::set-output name=SECTOR_ID::$SECTOR_ID"
@@ -22,7 +22,7 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           custom_tag: ${{ steps.read_sector_version.outputs.SECTOR_ID }}
           tag_prefix: ""
-      - name: Publish Release
+      - name: Publish Release Draft
         id: publish_release
         uses: softprops/action-gh-release@v1
         env:
@@ -32,9 +32,31 @@ jobs:
           generate_release_notes: true
           draft: true
           prerelease: false
-      - name: Discord Notification
+  
+  discord-notification:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get Current Release
+        id: get_current_release
+        uses: joutvhu/get-release@v1
+        with:
+          latest: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Compose Discord Embed Message
+        id: get_message
+        run: |
+          EMBED_MESSAGE =
+          "{
+            "embeds": [{
+              "title": "Hong Kong Sector ${{ steps.get_current_release.outputs.tag_name }} Released",
+              "url": ${{ steps.get_current_release.outputs.url }},
+              "description": "An update to the Hong Kong Sector Package has been released. All controllers should update using the Hong Kong Sector Installer."
+            }]
+          }"
+          echo "::set-output name=EMBED_MESSAGE::$EMBED_MESSAGE"
+      - name: Send Discord Update Ping
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          DISCORD_EMBEDS: ${{ steps.get_message.outputs.EMBED_MESSAGE }}
         uses: Ilshidur/action-discord@master
-        with:
-          args: 'A Sector File Update for ${{ steps.read_sector_version.outputs.SECTOR_ID }} has been released.'
