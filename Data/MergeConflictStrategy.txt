@@ -1,2 +1,4 @@
 Filename: TagDefinitions.txt
 Keep: BOTH
+
+ForceKeep: LastSession 
