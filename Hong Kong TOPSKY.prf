@@ -111,3 +111,6 @@ Plugins	Plugin5Display0	Standard ES radar screen
 Plugins	Plugin6	\Data\Plugins\HKCP\HKCP.dll
 Plugins	Plugin6Display0	Standard ES radar screen
 Plugins	Plugin6Display1	Ground Radar display
+Plugins	Plugin7	\Data\Plugins\Event Slots Plugin\VATCANBookings.dll
+Plugins	Plugin7Display0	Standard ES radar screen
+Plugins	Plugin7Display1	Ground Radar display
