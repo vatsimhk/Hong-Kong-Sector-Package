@@ -34,8 +34,7 @@ Color_Delay_4 195,195,195
 Label_Rwy_Feeder 7
 Label_Rwy_FeederTime 7
 
-System_Web_Path_DL ftp://162.0.217.86
-System_Web_Path_UL ftp://162.0.217.86
+System_Web_Path_DL https://vathk.com/maestro
 
 [VHHH]
 AIRPORT:VHHH
