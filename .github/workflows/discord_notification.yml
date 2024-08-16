@@ -23,9 +23,10 @@ jobs:
         uses: tsickert/discord-webhook@v6.0.0
         with:
           webhook-url: ${{ secrets.DISCORD_WEBHOOK }}
+          content: <@&1117123659027464193>
           embed-title: Hong Kong Sector Package ${{ steps.get_current_release.outputs.tag_name}}
           embed-url: ${{ steps.get_current_release.outputs.html_url }}
           embed-description: |
-            <@&1117123659027464193> An update to the Hong Kong Sector Package has been released. All controllers should update using the installer.
+            An update to the Hong Kong Sector Package has been released. All controllers should update using the installer.
             ${{ steps.get_release_description.outputs.description }}
           embed-color: 2393011
