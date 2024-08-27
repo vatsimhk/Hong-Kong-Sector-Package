@@ -34,17 +34,17 @@ High airways:V591:line
 Low airways:GRUPA-KAPLI:line
 Low airways:L642:line
 Low airways:P901:line
-Low airways:V1:line
 Low airways:V10:line
 Low airways:V11:line
 Low airways:V12:line
-Low airways:V13:line
-Low airways:V2:line
-Low airways:V3:line
 Low airways:V31:line
 Low airways:V32:line
-Low airways:V4:line
-Low airways:V5:line
+Low airways:V601:line
+Low airways:V611:line
+Low airways:V621:line
+Low airways:V631:line
+Low airways:V641:line
+Low airways:V651:line
 SHOWC:1
 SHOWSB:0
 BELOW:500
