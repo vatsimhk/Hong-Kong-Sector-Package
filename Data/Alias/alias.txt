@@ -166,6 +166,7 @@
 .invfl Your cruise altitude $cruise is unavailable, can you accept FL$1
 .b3a .wallop $aircraft not responding to contact me.
 .b8 .wallop $aircraft unable to follow basic instructions.
+.csonly .msg $aircraft Hello! When you are instructed to contact a frequency with callsign only, please only say your callsign in your initial contact. This is to save precious radio capacity. Thanks for your cooperation!
 
 ;GATE ALLOCATIONS
 .PAXS ACARS MSG to CREW of $aircraft: PAX arrival information, expect STAND $uc($1), BAGGAGE CLAIM No. $uc($2) END of MSG /Reply to confirm the Message
