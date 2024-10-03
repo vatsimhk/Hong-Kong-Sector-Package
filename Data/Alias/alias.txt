@@ -23,8 +23,8 @@
 .nopdc $aircraft PDC REJECTED - FLIGHT PLAN INVALID - REVERT TO VOICE PROCEDURES.
 ;Dep Clearence:
 .depc Cleared to destination $arr, flight planned route. Climb via $sid departure to $temp, squawk $asquawk.
-.depcmc34 Cleared to destination $arr, flight planned route, $sid departure. Initial altitude $temp, QNH $altim(ZGSZ), squawk $asquawk.
-.depcmc16 Cleared to destination $arr, flight planned route, $sid departure. Initial altitude $temp, QNH $altim(VMMC), squawk $asquawk.
+.depc34 Cleared to destination $arr, flight planned route, $sid departure. Initial altitude $temp, QNH $altim(ZGSZ), squawk $asquawk.
+.depc16 Cleared to destination $arr, flight planned route, $sid departure. Initial altitude $temp, QNH $altim(VMMC), squawk $asquawk.
 .rdrdep Cleared to destination $arr, radar vectors departure, Runway $deprwy, initial climb $temp, squawk $asquawk
 .rb Readback correct. Report ready for push and start.
 .correct Readback correct
