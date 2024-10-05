@@ -95,7 +95,7 @@ PROFILE:VHHH_S_APP:150:5
 ATIS2:"Hong Kong Radar" 
 ATIS3:VHHH ATIS on 127.050 | Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:Give feedback on my service - hq.vat-sea.com/atc/feedback
-PROFILE:VHHH_S1_APP:150:5
+PROFILE:VHHH_C_APP:150:5
 ATIS2:"Hong Kong Radar" 
 ATIS3:VHHH ATIS on 127.050 | Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:Give feedback on my service - hq.vat-sea.com/atc/feedback
