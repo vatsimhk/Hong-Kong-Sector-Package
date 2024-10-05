@@ -22,10 +22,9 @@
 .pdc $time $dep PDC $aircraft CLRD TO $arr OFF $deprwy VIA $sid SQUAWK $asquawk NEXT FREQ $com ATIS $1. CLIMB VIA SID TO $temp. ACK PDC. CTC $uc($radioname) ON $com WHEN READY TO START
 .nopdc $aircraft PDC REJECTED - FLIGHT PLAN INVALID - REVERT TO VOICE PROCEDURES.
 ;Dep Clearence:
-;HONGKONG Chek Lap Kok SID
-.depc Cleared to destination $arr, $sid departure, squawk $asquawk
-.depcfull Cleared to destination $arr, $sid departure, Runway $deprwy, climb via SID $temp, squawk $asquawk
-;RADAR VECTORS
+.depc Cleared to destination $arr, flight planned route. Climb via $sid departure to $temp, squawk $asquawk.
+.depc34 Cleared to destination $arr, flight planned route, $sid departure. Initial altitude $temp, QNH $altim(ZGSZ), squawk $asquawk.
+.depc16 Cleared to destination $arr, flight planned route, $sid departure. Initial altitude $temp, QNH $altim(VMMC), squawk $asquawk.
 .rdrdep Cleared to destination $arr, radar vectors departure, Runway $deprwy, initial climb $temp, squawk $asquawk
 .rb Readback correct. Report ready for push and start.
 .correct Readback correct
@@ -164,6 +163,9 @@
 .alcohol Did you consume any alcholic beverages in the past 12 hours?
 .route Your filed route is invalid. Are you able to accept the following reroute: $1. Once accepted, call on frequency as normal for clearance.
 .invfl Your cruise altitude $cruise is unavailable, can you accept FL$1
+.b3a .wallop $aircraft not responding to contact me.
+.b8 .wallop $aircraft unable to follow basic instructions.
+.csonly .msg $aircraft Hello! When you are instructed to contact a frequency with callsign only, please only say your callsign in your initial contact. This is to save precious radio capacity. Thanks for your cooperation!
 
 ;GATE ALLOCATIONS
 .PAXS ACARS MSG to CREW of $aircraft: PAX arrival information, expect STAND $uc($1), BAGGAGE CLAIM No. $uc($2) END of MSG /Reply to confirm the Message
