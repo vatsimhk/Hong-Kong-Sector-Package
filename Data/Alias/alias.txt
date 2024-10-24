@@ -142,7 +142,7 @@
 .left Left closed traffic, maintain VFR not above $1 ft, squawk $squawk, report downwind
 .right Right closed traffic, maintain VFR not above $1 ft, squawk $squawk, report downwind
 ;CENTER
-.unicom No further ATC available, monitor unicom 122.80, good day.
+.advisory No further ATC available, monitor advisory, good day.
 .out You are outside of my airspace, monitor unicom 122.80, resume on own navigation. Good day.
 .idt Radar Identified.
 .clrstar cleared $1 arrival. expect Rwy $2 for arrival in $arr
