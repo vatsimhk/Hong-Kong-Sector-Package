@@ -36,10 +36,10 @@
 ; Copyright (C) 2024 by HKVACC
 ; Coastline data from OpenStreetMap "openstreetmap.org/copyright"
 ; All Rights Reserved
-; Hong Kong sector VERSION 2410
+; Hong Kong sector VERSION 2410.1
 
 [INFO] ;Fong Ga
-Hong Kong Sector 2410
+Hong Kong Sector 2410.1
 HKG_E_CTR
 VHHH
 N022.18.37.757
@@ -74,7 +74,7 @@ E113.55.16.824
 #define ConstructionArea 4342338
 #define ControlledCTR 9667450
 #define UncontrolledUCARA 9667450
-#define ATMSbackground 1973790
+#define ATMSbackground 3223857
 #define VMMCgrass 1591848
 #define VMMCrunwaymarkings 6985115
 #define VMMCtaxiway 4863796
