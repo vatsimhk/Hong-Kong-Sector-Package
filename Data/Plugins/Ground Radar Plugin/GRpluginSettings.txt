@@ -46,6 +46,8 @@ Label=GND:DEP:0:ALRT,0,0:ASSR_E,0,1:COMM,0,1
 Label=GND:DEP:1:CALLSIGN,0,0:DRWY,0,2:SID,0,2
 Label=GND:DEP:2:GS,0,0:AFL,0,2,13:ATYP,0,2:RMK,0,2
 
+Track_Heading_Line=1
+RawVideo=0
 RawVideo_Brightness=70
 RawVideo_Afterglow=70
 RawVideo_MaxHistory=0
