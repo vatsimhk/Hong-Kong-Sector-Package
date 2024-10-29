@@ -25,7 +25,7 @@ END
 SEL
 m_Visible:1
 m_X:0
-m_Y:82
+m_Y:81
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:16
@@ -145,4 +145,24 @@ m_Column:TX:6:0:102:39:39:1::::1:3.5
 m_Column:TXB:6:0:103:40:40:1::::1:3.5
 m_Column:HOLD:5:0:104:43:43:1::::1:3.5
 m_Column:WITH:4:0:10069:0:8:1:TopSky plugin:::0:3.5
+END
+STUP
+m_Visible:1
+m_X:0
+m_Y:431
+m_LineNumber:0
+m_Resizable:1
+m_OrderingColumn:2
+m_HeaderOnly:0
+m_Column:BAY:5:0:1:0:0:1:Ground Radar plugin:::0:3.5
+m_Column:C/S:9:0:10021:7:19:1:TopSky plugin::vACDM:0:3.5
+m_Column:C:2:1:10046:0:0:1:TopSky plugin:::0:0.0
+m_Column:TOBT:5:0:1:0:6:1:vACDM::vACDM:0:3.5
+m_Column:TSAT:5:0:2:0:0:1:vACDM:::0:3.5
+m_Column:ASAT:5:0:5:7:0:1:vACDM:vACDM::0:3.5
+m_Column:TTOT:5:0:3:0:0:1:vACDM:::0:3.5
+m_Column:CTOT:5:0:10:0:0:1:vACDM:::0:3.5
+m_Column:STS:5:0:3:0:13:1:Ground Radar plugin::Ground Radar plugin:4:3.5
+m_Column:TXT:7:0:19:29:29:1::::0:0.0
+m_Column::1:0:10057:0:0:1:TopSky plugin:::0:0.0
 END
