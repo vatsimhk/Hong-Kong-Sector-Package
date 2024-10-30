@@ -27,11 +27,13 @@
 .depc16 Cleared to destination $arr, flight planned route, $sid departure. Initial altitude $temp, QNH $altim(VMMC), squawk $asquawk.
 .rdrdep Cleared to destination $arr, radar vectors departure, Runway $deprwy, initial climb $temp, squawk $asquawk
 .rb Readback correct. Report ready for push and start.
+.rbcdm Readback correct. Report ready for push and start. TSAT $1
 .correct Readback correct
 .report Report when ready
 .sq Squawk $squawk
 .atis Information $atiscode current
 ;GROUND
+.tsat TSAT $1, report ready.
 .ps Push and start approved, face $1. Report ready for taxi
 .psmcu Push and start approved, runway $deprwy. Report ready for taxi
 .psred Startup approved, push back colour RED. Report ready for taxi
