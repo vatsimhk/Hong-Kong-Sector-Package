@@ -4,7 +4,7 @@ ATIS2:Hong Kong vACC Observer
 ATIS3:Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:
 PROFILE:VHHH_DEL:20:2
-ATIS2:"Hong Kong Delivery"
+ATIS2:"Hong Kong Delivery" A-CDM https://vacdm.vathk.com/
 ATIS3:Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:Give feedback on my service - hq.vat-sea.com/atc/feedback
 PROFILE:VHHH_T_GND:20:3
@@ -12,19 +12,19 @@ ATIS2:"Hong Kong Tow Truck"
 ATIS3:Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:Give feedback on my service - hq.vat-sea.com/atc/feedback
 PROFILE:VHHH_W_GND:20:3
-ATIS2:"Hong Kong Ground (West)"
+ATIS2:"Hong Kong Ground (West)" A-CDM https://vacdm.vathk.com/
 ATIS3:Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:Give feedback on my service - hq.vat-sea.com/atc/feedback
 PROFILE:VHHH_C_GND:20:3
-ATIS2:"Hong Kong Ground (Midfield)"
+ATIS2:"Hong Kong Ground (Midfield)" A-CDM https://vacdm.vathk.com/
 ATIS3:Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:Give feedback on my service - hq.vat-sea.com/atc/feedback
 PROFILE:VHHH_N_GND:20:3
-ATIS2:"Hong Kong Ground (North)"
+ATIS2:"Hong Kong Ground (North)" A-CDM https://vacdm.vathk.com/
 ATIS3:Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:Give feedback on my service - hq.vat-sea.com/atc/feedback
 PROFILE:VHHH_S_GND:20:3
-ATIS2:"Hong Kong Ground (South)"
+ATIS2:"Hong Kong Ground (South)" A-CDM https://vacdm.vathk.com/
 ATIS3:Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:Give feedback on my service - hq.vat-sea.com/atc/feedback
 PROFILE:VHHH_N_TWR:50:4
