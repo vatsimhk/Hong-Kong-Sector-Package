@@ -423,7 +423,7 @@
         "closingStatement": {
           "autoIncludeClosingStatement": true,
           "template": {
-            "text": "ACKNOWLEDGE INFO {letter}, ON FIRST CTC.",
+            "text": "ACKNOWLEDGE INFO {letter} ON FIRST CTC.",
             "voice": "ACKNOWLEDGE INFORMATION {letter|word}, ON FIRST CONTACT."
           }
         }
@@ -841,7 +841,7 @@
           "autoIncludeClosingStatement": true,
           "template": {
             "text": "ACKNOWLEDGE INFO {letter} ON FIRST CTC.",
-            "voice": "ACKNOWLEDGE INFORMATION {letter|word} ON FIRST CONTACT."
+            "voice": "ACKNOWLEDGE INFORMATION {letter|word}, ON FIRST CONTACT."
           }
         }
       }
