@@ -11,6 +11,10 @@ PROFILE:VHHH_T_GND:20:3
 ATIS2:"Hong Kong Tow Truck"
 ATIS3:Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:Give feedback on my service - hq.vat-sea.com/atc/feedback
+PROFILE:VHHH_W2_GND:20:3
+ATIS2:"Hong Kong Ground" A-CDM https://vacdm.vathk.com/
+ATIS3:Up to date Charts & Procedures - www.ais.gov.hk
+ATIS4:Give feedback on my service - hq.vat-sea.com/atc/feedback
 PROFILE:VHHH_W_GND:20:3
 ATIS2:"Hong Kong Ground (West)" A-CDM https://vacdm.vathk.com/
 ATIS3:Up to date Charts & Procedures - www.ais.gov.hk
