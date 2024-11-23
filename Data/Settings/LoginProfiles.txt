@@ -71,7 +71,10 @@ PROFILE:VHHH_F_APP:150:5
 ATIS2:"Hong Kong Director"
 ATIS3:VHHH ATIS on 127.050 | Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:Give feedback on my service - hq.vat-sea.com/atc/feedback
-PROFILE:VHHH_DEP:150:5
+PROFILE:VHHH_N_DEP:150:5
+ATIS2:"Hong Kong Departure"
+ATIS3:VHHH ATIS on 127.050 | Up to date Charts & Procedures - www.ais.gov.hk
+PROFILE:VHHH_S_DEP:150:5
 ATIS2:"Hong Kong Departure"
 ATIS3:VHHH ATIS on 127.050 | Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:Give feedback on my service - hq.vat-sea.com/atc/feedback
@@ -95,11 +98,15 @@ PROFILE:VHHH_S_APP:150:5
 ATIS2:"Hong Kong Radar" 
 ATIS3:VHHH ATIS on 127.050 | Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:Give feedback on my service - hq.vat-sea.com/atc/feedback
-PROFILE:VHHH_C_APP:150:5
+PROFILE:VHHH_C_DEP:150:5
 ATIS2:"Hong Kong Radar" 
 ATIS3:VHHH ATIS on 127.050 | Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:Give feedback on my service - hq.vat-sea.com/atc/feedback
 PROFILE:VHHH_W_APP:150:5
+ATIS2:"Hong Kong Radar" 
+ATIS3:VHHH ATIS on 127.050 | Up to date Charts & Procedures - www.ais.gov.hk
+ATIS4:Give feedback on my service - hq.vat-sea.com/atc/feedback
+PROFILE:VHHH_E_DEP:150:5
 ATIS2:"Hong Kong Radar" 
 ATIS3:VHHH ATIS on 127.050 | Up to date Charts & Procedures - www.ais.gov.hk
 ATIS4:Give feedback on my service - hq.vat-sea.com/atc/feedback
