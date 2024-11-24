@@ -66,7 +66,7 @@ m_Column:TYPE:5:0:10028:0:41:1:TopSky plugin:::4:3.5
 m_Column:FR:3:0:10031:0:0:1:TopSky plugin:::4:3.5
 m_Column:DEP:5:0:10007:0:41:1:TopSky plugin:::4:3.5
 m_Column:DEST:5:0:10008:99:45:1:TopSky plugin:TopSky plugin:TopSky plugin:4:3.5
-m_Column:SID:8:0:10011:108:17:1:TopSky plugin:HKCP::4:3.5
+m_Column:SID:8:0:10011:0:17:1:TopSky plugin:::4:3.5
 m_Column:RWY:4:0:10050:0:19:1:TopSky plugin:::4:3.5
 m_Column:CFL:4:0:10049:100:109:1:TopSky plugin:Initial Climb:TopSky plugin:5:3.5
 m_Column:RFL:4:1:10062:99:106:1:TopSky plugin:TopSky plugin:HKCP:4:3.5
