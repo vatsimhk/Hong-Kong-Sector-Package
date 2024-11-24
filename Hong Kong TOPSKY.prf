@@ -82,7 +82,7 @@ TeamSpeakVccs	Ts3NickName	<Your CID Here>
 Plugins	Plugin5	\Data\Plugins\Mplugin_1.0\MAESTRO.dll
 Plugins	Plugin2Display2	Ground Radar display
 Plugins	Plugin0Display2	Ground Radar display
-LastSession	atis_freq0	122074
+LastSession	atis_freq0	122075
 LastSession	atis_callsign0	VHHX_ATIS
 LastSession	atis_url0	http://vathk.com/atis/atis.php?dep=$deprwy(VHHX)&info=$atiscodeA&metar=$metar(VHHH)
 LastSession	atis_letter0	75
