@@ -15,38 +15,38 @@
           "gate": "CANTO"
         },
         "ELA": {
-          "string": "ELA_V522-ABBEY3A",
-          "star": "ABBEY3A",
+          "string": "ELA_V522-ABBEY4A",
+          "star": "ABBEY4A",
           "route": "ELATO V522 ABBEY",
           "gate": "ABBEY"
         },
         "DOT": {
-          "string": "DOT_V512-ABBEY3A",
-          "star": "ABBEY3A",
+          "string": "DOT_V512-ABBEY4A",
+          "star": "ABBEY4A",
           "route": "DOTMI V512 ABBEY",
           "gate": "ABBEY"
         },
         "LEL": {
-          "string": "LEL_V591-ABBEY3A",
-          "star": "ABBEY3A",
+          "string": "LEL_V591-ABBEY4A",
+          "star": "ABBEY4A",
           "route": "LELIM V591 ABBEY",
           "gate": "ABBEY"
         },
         "NOM": {
-          "string": "NOM_V532-BETTY2A",
-          "star": "BETTY2A",
+          "string": "NOM_V532-BETTY3A",
+          "star": "BETTY3A",
           "route": "NOMAN V532 BETTY",
           "gate": "BETTY"
         },
         "SAB": {
-          "string": "SAB_V542-BETTY2A",
-          "star": "BETTY2A",
+          "string": "SAB_V542-BETTY3A",
+          "star": "BETTY3A",
           "route": "SABNO V542 BETTY",
           "gate": "BETTY"
         },
         "CAR": {
-          "string": "CAR_V551-BETTY2A",
-          "star": "BETTY2A",
+          "string": "CAR_V551-BETTY3A",
+          "star": "BETTY3A",
           "route": "CARSO V551 BETTY",
           "gate": "BETTY"
         },
@@ -69,14 +69,14 @@
           "gate": "R"
         },
         "ABB": {
-          "string": "ABB_ABBEY3A",
-          "star": "ABBEY3A",
+          "string": "ABB_ABBEY4A",
+          "star": "ABBEY4A",
           "route": "ABBEY",
           "gate": "ABBEY"
         },
         "BET": {
-          "string": "BET_BETTY2A",
-          "star": "BETTY2A",
+          "string": "BET_BETTY3A",
+          "star": "BETTY3A",
           "route": "BETTY",
           "gate": "BETTY"
         },
@@ -103,93 +103,93 @@
     "25": {
       "routes": {
         "SRB": {
-          "string": "SRB_SIERA6B",
-          "star": "SIERA6B",
+          "string": "SRB_SIERA7B",
+          "star": "SIERA7B",
           "route": "SIERA",
           "gate": "CANTO"
         },
         "SRD": {
-          "string": "SRD_SIERA6D",
-          "star": "SIERA6D",
+          "string": "SRD_SIERA7D",
+          "star": "SIERA7D",
           "route": "SIERA",
           "gate": "CANTO"
         },
         "ELA": {
-          "string": "ELA_V522-ABBEY2B",
-          "star": "ABBEY2B",
+          "string": "ELA_V522-ABBEY3B",
+          "star": "ABBEY3B",
           "route": "ELATO V522 ABBEY",
           "gate": "ABBEY"
         },
         "DOT": {
-          "string": "DOT_V512-ABBEY2B",
-          "star": "ABBEY2B",
+          "string": "DOT_V512-ABBEY3B",
+          "star": "ABBEY3B",
           "route": "DOTMI V512 ABBEY",
           "gate": "ABBEY"
         },
         "LEL": {
-          "string": "LEL_V591-ABBEY2B",
-          "star": "ABBEY2B",
+          "string": "LEL_V591-ABBEY3B",
+          "star": "ABBEY3B",
           "route": "LELIM V591 ABBEY",
           "gate": "ABBEY"
         },
         "NOM": {
-          "string": "NOM_V532-BETTY2B",
-          "star": "BETTY2B",
+          "string": "NOM_V532-BETTY3B",
+          "star": "BETTY3B",
           "route": "NOMAN V532 BETTY",
           "gate": "BETTY"
         },
         "SAB": {
-          "string": "SAB_V542-BETTY2B",
-          "star": "BETTY2B",
+          "string": "SAB_V542-BETTY3B",
+          "star": "BETTY3B",
           "route": "SABNO V542 BETTY",
           "gate": "BETTY"
         },
         "CAR": {
-          "string": "CAR_V551-BETTY2B",
-          "star": "BETTY2B",
+          "string": "CAR_V551-BETTY3B",
+          "star": "BETTY3B",
           "route": "CARSO V551 BETTY",
           "gate": "BETTY"
         },
         "IDO": {
-          "string": "IDO_V561-CANTO2B",
-          "star": "CANTO2B",
+          "string": "IDO_V561-CANTO3B",
+          "star": "CANTO3B",
           "route": "IDOSI V561 CANTO",
           "gate": "CANTO"
         },
         "SIK": {
-          "string": "SIK_V571-CANTO2B",
-          "star": "CANTO2B",
+          "string": "SIK_V571-CANTO3B",
+          "star": "CANTO3B",
           "route": "SIKOU V571 CANTO",
           "gate": "CANTO"
         },
-        "TD": {
-          "string": "TD_DCT-TD",
-          "star": "TDxILS",
-          "route": "TD",
+        "RIV": {
+          "string": "RIV_DCT-RIVMI",
+          "star": "RIVMIxILS",
+          "route": "RIVMI",
           "gate": "R"
         },
         "ABB": {
-          "string": "ABB_ABBEY2B",
-          "star": "ABBEY2B",
+          "string": "ABB_ABBEY3B",
+          "star": "ABBEY3B",
           "route": "ABBEY",
           "gate": "ABBEY"
         },
         "BET": {
-          "string": "BET_BETTY2B",
-          "star": "BETTY2B",
+          "string": "BET_BETTY3B",
+          "star": "BETTY3B",
           "route": "BETTY",
           "gate": "BETTY"
         },
         "CAN": {
-          "string": "CAN_CANTO2B",
-          "star": "CANTO2B",
+          "string": "CAN_CANTO3B",
+          "star": "CANTO3B",
           "route": "CANTO",
           "gate": "CANTO"
         },
-        "GUA": {
-          "string": "GUA_DCT-GUAVA",
-          "star": "GUAVAxRNPY",
-          "route": "GUAVA",
+        "LUD": {
+          "string": "LUD_DCT-LUDLA",
+          "star": "LUDLAxRNPY",
+          "route": "LUDLA",
           "gate": "R"
         }
       },
@@ -204,7 +204,7 @@
         "IDOSI": ["IDO"],
         "SIKOU": ["SIK"]
       },
-      "defaults": ["ABB", "BET", "CAN", "TD", "GUA"]
+      "defaults": ["ABB", "BET", "CAN", "RIV", "LUD"]
     }
   },
   "VMMC": {
