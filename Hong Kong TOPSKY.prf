@@ -106,7 +106,6 @@ Settings	SettingsfileADCS	\Data\Settings\GeneralSettings.txt
 Settings	SettingsfileTAXIIN	\Data\Settings\GeneralSettings.txt
 LastSession	rating	0
 LastSession	range	100
-LastSession	atis_freq4	118000
 Plugins	Plugin5Display0	Standard ES radar screen
 Plugins	Plugin6	\Data\Plugins\HKCP\HKCP.dll
 Plugins	Plugin6Display0	Standard ES radar screen
@@ -117,3 +116,4 @@ Plugins	Plugin7Display1	Ground Radar display
 Plugins	Plugin8	\Data\Plugins\vACDM\vACDM.dll
 Plugins	Plugin8Display0	Ground Radar display
 Plugins	Plugin8Display1	Standard ES radar screen
+Plugins	Plugin9	\Data\Plugins\VCH\VCH.dll
