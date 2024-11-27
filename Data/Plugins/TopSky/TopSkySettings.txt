@@ -1,4 +1,6 @@
 Setup_COOPANS=1
+System_UseSidAllocationColor=1
+System_UseStarAllocationColor=1
 
 //GUI color settings
 Color_Border=76,76,76
@@ -16,8 +18,7 @@ Color_Assumed=241,246,255
 Color_Redundant=229,214,130
 Color_Concerned=117,132,142
 Color_Unconcerned=117,132,142
-Color_Sid_Star_Allocation=241,246,255
-Color_Sid_Star_No_Allocation=239,158,107
+Color_Sid_Star_Allocation=239,158,107
 Color_Rwy_Locked=241,246,255
 Color_Weather_Map=0,86,86
 //COLOUR THEME END
@@ -55,8 +56,7 @@ CPDLC_PlaySound=1
 CPDLC_PDC_PlaySound=1
 CPDLC_PDC_Timeout_Controller=120
 CPDLC_PDC_Timeout_Pilot=600
-CPDLC_Timeout_Controller=120
-CPDLC_Timeout_Pilot=120
+CPDLC_Controller_Timeout=120
 CPDLC_Send_FSM_RCD=1
 
 //TOPSKY RDF disabled
