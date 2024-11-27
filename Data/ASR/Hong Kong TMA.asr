@@ -4,9 +4,10 @@ DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:Hong-Kong-Sector-File.sct
 ARTCC boundary:APPDEP:
+ARTCC boundary:TDC:
+ARTCC boundary:TDE:
 ARTCC boundary:TME:
 ARTCC boundary:TMS:
-ARTCC boundary:TMS1:
 ARTCC boundary:TMW:
 ARTCC boundary:TRC:
 ARTCC boundary:TRD:
