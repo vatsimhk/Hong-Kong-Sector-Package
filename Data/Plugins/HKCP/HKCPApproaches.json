@@ -6,22 +6,33 @@
       ["RNPZ_07R        ", "LIMES"],
       ["RNPY_07R        ", "TD"]
     ],
+    "07C": [
+      ["ILS_07C        ", "LIMES"],
+      ["LOC_07C        ", "LIMES"],
+      ["RNP_07C        ", "LIMES"]
+    ],
     "07L": [
       ["ILS_07L        ", "LIMES"],
       ["LOC_07L        ", "LIMES"],
       ["RNP_07L        ", "LIMES"]
     ],
     "25L": [
-      ["ILS_25L        ", "TD"],
-      ["LOC_25L        ", "TD"],
-      ["RNPZ_25L        ", "TD"],
+      ["ILS_25L        ", "RIVMI"],
+      ["LOC_25L        ", "RIVMI"],
+      ["RNPZ_25L        ", "RIVMI"],
       ["RNPY_25L        ", "GUAVA"]
+    ],
+    "25C": [
+      ["ILS_25C        ", "RIVMI"],
+      ["LOC_25C       ", "RIVMI"],
+      ["RNPZ_25C        ", "RIVMI"],
+      ["RNPY_25C        ", "LUDLA"]
     ],
     "25R": [
       ["ILS_25R        ", "TOPUN"],
-      ["LOC_25R       ", "TD"],
-      ["RNPZ_25R        ", "TD"],
-      ["RNPY_25R        ", "GUAVA"]
+      ["LOC_25R       ", "RIVMI"],
+      ["RNPZ_25R        ", "RIVMI"],
+      ["RNPY_25R        ", "LUDLA"]
     ]
   },
   "VMMC": {

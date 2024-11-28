@@ -8,7 +8,7 @@
       "identifier": "VHHH",
       "atisType": "Departure",
       "codeRange": {
-        "low": "A",
+        "low": "N",
         "high": "Z"
       },
       "frequency": 127050000,
@@ -25,7 +25,8 @@
         {
           "id": "9d497203-fe37-456f-8af5-cfdb28a8ba9d",
           "name": "DEFAULT (CLICK ARPT COND TO SELECT RWYS)",
-          "template": "[FACILITY] DEP ATIS [ATIS_CODE] [OBS_TIME]. [ARPT_COND] MET REPORT [FACILITY] [OBS_TIME] [FULL_WX_STRING] TREND [TREND]. [NOTAMS] ",
+          "notams": "",
+          "template": "[FACILITY] DEP ATIS [ATIS_CODE] [OBS_TIME]. [ARPT_COND] [FULL_WX_STRING] [TREND]. [NOTAMS] ",
           "externalGenerator": {
             "enabled": false
           }
@@ -45,6 +46,10 @@
           "spoken": "SIGNIFICANT"
         },
         {
+          "string": "MET",
+          "spoken": "METAR"
+        },
+        {
           "string": "WS",
           "spoken": "WINDSHEAR"
         },
@@ -53,91 +58,135 @@
           "spoken": "FORECAST"
         },
         {
-          "string": "BASELEG",
-          "spoken": "BASE LEG"
-        },
-        {
           "string": "MET REPORT",
           "spoken": " "
         },
         {
           "string": "MAINT",
-          "spoken": "MAINTENANCE"
+          "spoken": "MAINTAINENCE"
         },
         {
           "string": "CLSD",
           "spoken": "CLOSED"
         },
         {
+          "string": "TURB",
+          "spoken": "TURBULENCE"
+        },
+        {
+          "string": "MOD",
+          "spoken": "MODERATE"
+        },
+        {
           "string": "VCY",
           "spoken": "VICINITY"
         },
         {
-          "string": "RNP",
-          "spoken": "R ENN P"
+          "string": "TS",
+          "spoken": "THUNDERSTORM"
         },
         {
-          "string": "ILS",
-          "spoken": "I L ESS"
+          "string": "MOV",
+          "spoken": "MOVING"
         },
         {
-          "string": "RNAV",
-          "spoken": "R NAV"
+          "string": "REP",
+          "spoken": "REPORTED"
         },
         {
-          "string": "APCH",
-          "spoken": "APPROACH"
+          "string": "ATIS",
+          "spoken": "INFORMATION"
         },
         {
-          "string": "REQ",
-          "spoken": "REQUEST"
+          "string": "MINS",
+          "spoken": "MINUTE"
         },
         {
-          "string": "AVBL",
-          "spoken": "AVAILABLE"
+          "string": "WX",
+          "spoken": "WEATHER"
+        },
+        {
+          "string": "BKLOG",
+          "spoken": "BACK LOG"
         }
       ],
       "airportConditionDefinitions": [
         {
           "description": "",
           "ordinal": 1,
-          "text": "DEPARTURES, RWY 07R.",
-          "enabled": true
-        },
-        {
-          "description": "",
-          "ordinal": 2,
-          "text": "DEPARTURES, RWY 25L.",
-          "enabled": false
-        },
-        {
-          "description": "",
-          "ordinal": 3,
           "text": "DEPARTURES, RWY 07L.",
           "enabled": false
         },
         {
           "description": "",
+          "ordinal": 2,
+          "text": "DEPARTURES, RWY 07C.",
+          "enabled": false
+        },
+        {
+          "description": "",
+          "ordinal": 3,
+          "text": "DEPARTURES, RWY 07R.",
+          "enabled": false
+        },
+        {
+          "description": "DEPARTURES, RWY 07C AND RWY 07R.(INDEP)",
           "ordinal": 4,
-          "text": "DEPARTURES, RWY 25R.",
+          "text": "DEPARTURES, RWY 07C AND RWY 07R. INDEPENDENT PARALLEL DEPARTURE IN PROGRESS.",
           "enabled": false
         },
         {
           "description": "",
           "ordinal": 5,
-          "text": "SIG WS FCST.",
+          "text": "DEPARTURES, RWY 25L.",
           "enabled": false
         },
         {
           "description": "",
           "ordinal": 6,
-          "text": "SIG WS AND MOD TURB FCST.",
+          "text": "DEPARTURES, RWY 25C.",
           "enabled": false
         },
         {
           "description": "",
           "ordinal": 7,
+          "text": "DEPARTURES, RWY 25R.",
+          "enabled": false
+        },
+        {
+          "description": "DEPARTURES, RWY 25L AND RWY 25C.(INDEP)",
+          "ordinal": 8,
+          "text": "DEPARTURES, RWY 25L AND RWY 25C. INDEPENDENT PARALLEL DEPARTURE IN PROGRESS.",
+          "enabled": false
+        },
+        {
+          "description": "",
+          "ordinal": 9,
           "text": "RWY SFC ALL PARTS WET.",
+          "enabled": false
+        },
+        {
+          "description": "",
+          "ordinal": 10,
+          "text": "SIG WS FCST.",
+          "enabled": false
+        },
+        {
+          "description": "SIG WS FCST AND REP.",
+          "ordinal": 11,
+          "text": "SIG WS FCST AND REP.",
+          "enabled": false
+        },
+        {
+          "description": "",
+          "ordinal": 12,
+          "text": "SIG WS AND MOD TURB FCST.",
+          "enabled": false
+        },
+        {
+          "description": "MOD TURB FCST.",
+          "ordinal": 13,
+          "text": "MOD TURB FCST.",
           "enabled": false
         }
       ],
@@ -153,13 +202,25 @@
           "ordinal": 2,
           "text": "CB IN APCH AND DEP.",
           "enabled": false
+        },
+        {
+          "description": "EXP DELAY UP TO XX MINS DUE WX.",
+          "ordinal": 3,
+          "text": "EXP DELAY UP TO XX MINS DUE WX.",
+          "enabled": false
+        },
+        {
+          "description": "EXP DELAY UP TO XX MINS DUE BKLOG.",
+          "ordinal": 4,
+          "text": "EXP DELAY UP TO XX MINS DUE BKLOG.",
+          "enabled": false
         }
       ],
       "atisFormat": {
         "observationTime": {
           "template": {
             "text": "{time}Z",
-            "voice": "{time} {special}"
+            "voice": ",ISSUED AT {time} {special}"
           }
         },
         "surfaceWind": {
@@ -171,7 +232,7 @@
           "standard": {
             "template": {
               "text": "WIND {wind_dir}/{wind_spd}KT",
-              "voice": "WIND {wind_dir} DEGREES {wind_spd} {WIND_UNIT}"
+              "voice": "WIND {wind_dir} DEGREES, {wind_spd} {WIND_UNIT}"
             }
           },
           "standardGust": {
@@ -225,43 +286,41 @@
           }
         },
         "presentWeather": {
-          "lightIntensity": "with light",
-          "moderateIntensity": "with moderate",
-          "heavyIntensity": "with heavy",
+          "lightIntensity": "light",
+          "moderateIntensity": "moderate",
+          "heavyIntensity": "heavy",
           "vicinity": "in vicinity",
-          "weatherTypes": {
-            "DZ": "drizzle",
-            "RA": "rain",
-            "SN": "snow",
-            "SG": "snow grains",
-            "IC": "ice crystals",
-            "PL": "ice pellets",
-            "GR": "hail",
-            "GS": "small hail",
-            "UP": "unknown precipitation",
-            "BR": "mist",
-            "FG": "fog",
-            "FU": "smoke",
-            "VA": "volcanic ash",
-            "DU": "widespread dust",
-            "SA": "sand",
-            "HZ": "haze",
-            "PY": "spray",
-            "PO": "well developed dust, sand whirls",
-            "SQ": "squalls",
-            "FC": "funnel cloud tornado waterspout",
-            "SS": "sandstorm",
-            "DS": "dust storm"
-          },
           "weatherDescriptors": {
-            "PR": "partial",
             "BC": "patches",
-            "MI": "shallow",
-            "DR": "low drifting",
             "BL": "blowing",
+            "BR": "mist",
+            "DZ": "drizzle",
+            "DS": "dust storm",
+            "DR": "low drifting",
+            "DU": "widespread dust",
+            "FC": "funnel cloud tornado waterspout",
+            "FG": "fog",
+            "FZ": "freezing",
+            "FU": "smoke",
+            "GR": "hail",
+            "GS": "small hail, snow pellets",
+            "HZ": "haze",
+            "IC": "ice crystals",
+            "MI": "shallow",
+            "PL": "ice pellets",
+            "PO": "well developed dust, sand whirls",
+            "PR": "partial",
+            "PY": "spray",
+            "RA": "rain",
+            "SA": "sand",
+            "SG": "snow grains",
             "SH": "showers",
+            "SN": "snow",
+            "SQ": "squalls",
+            "SS": "sandstorm",
             "TS": "thunderstorm",
-            "FZ": "freezing"
+            "UP": "unknown precipitation",
+            "VA": "volcanic ash"
           },
           "template": {
             "text": "{weather}",
@@ -271,6 +330,10 @@
         "clouds": {
           "identifyCeilingLayer": true,
           "convertToMetric": false,
+          "undeterminedLayerAltitude": {
+            "text": "undetermined",
+            "voice": "undetermined"
+          },
           "types": {
             "FEW": {
               "$type": "Vatsim.Vatis.Profiles.AtisFormat.Nodes.CloudType, vATIS",
@@ -328,7 +391,7 @@
           }
         },
         "temperature": {
-          "usePlusPrefix": true,
+          "usePlusPrefix": false,
           "pronounceLeadingZero": true,
           "template": {
             "text": "T{temp}",
@@ -336,7 +399,7 @@
           }
         },
         "dewpoint": {
-          "usePlusPrefix": true,
+          "usePlusPrefix": false,
           "pronounceLeadingZero": true,
           "template": {
             "text": "DP{dewpoint}",
@@ -361,7 +424,7 @@
           "autoIncludeClosingStatement": true,
           "template": {
             "text": "ACKNOWLEDGE INFO {letter} ON FIRST CTC.",
-            "voice": "ACKNOWLEDGE INFORMATION {letter|word} ON FIRST CONTACT."
+            "voice": "ACKNOWLEDGE INFORMATION {letter|word}, ON FIRST CONTACT."
           }
         }
       }
@@ -373,12 +436,12 @@
       "atisType": "Arrival",
       "codeRange": {
         "low": "A",
-        "high": "Z"
+        "high": "M"
       },
       "frequency": 128200000,
       "atisVoice": {
         "useTextToSpeech": true,
-        "voice": "UK Female"
+        "voice": "UK Male"
       },
       "idsEndpoint": "",
       "useNotamPrefix": false,
@@ -389,7 +452,8 @@
         {
           "id": "54f37ff5-0442-478c-8f16-315f3b4ac56b",
           "name": "DEFAULT (CLICK ARPT COND TO SELECT RWYS)",
-          "template": "[FACILITY] ARR ATIS [ATIS_CODE] [OBS_TIME]. [ARPT_COND] MET REPORT [FACILITY] [OBS_TIME] [FULL_WX_STRING] TREND [TREND]. [NOTAMS] ",
+          "notams": "",
+          "template": "[FACILITY] ARR ATIS [ATIS_CODE] [OBS_TIME]. [ARPT_COND] [FULL_WX_STRING] [TREND]. [NOTAMS] ",
           "externalGenerator": {
             "enabled": false
           }
@@ -409,6 +473,10 @@
           "spoken": "SIGNIFICANT"
         },
         {
+          "string": "MET",
+          "spoken": "METAR"
+        },
+        {
           "string": "WS",
           "spoken": "WINDSHEAR"
         },
@@ -426,7 +494,7 @@
         },
         {
           "string": "MAINT",
-          "spoken": "MAINTENANCE"
+          "spoken": "MAINTAINENCE"
         },
         {
           "string": "CLSD",
@@ -437,28 +505,20 @@
           "spoken": "VICINITY"
         },
         {
-          "string": "RNP",
-          "spoken": "R ENN P"
-        },
-        {
-          "string": "ILS",
-          "spoken": "I L ESS"
-        },
-        {
           "string": "RNAV",
-          "spoken": "R NAV"
+          "spoken": "R-NAV"
         },
         {
-          "string": "APCH",
-          "spoken": "APPROACH"
+          "string": "RNP",
+          "spoken": "R-AN-PEE"
         },
         {
           "string": "REQ",
           "spoken": "REQUEST"
         },
         {
-          "string": "AVBL",
-          "spoken": "AVAILABLE"
+          "string": "ATIS",
+          "spoken": "INFORMATION"
         }
       ],
       "airportConditionDefinitions": [
@@ -466,24 +526,24 @@
           "description": "",
           "ordinal": 1,
           "text": "ARRIVALS, RWY 07L.",
-          "enabled": true
+          "enabled": false
         },
         {
           "description": "",
           "ordinal": 2,
-          "text": "ARRIVALS, RWY 25R.",
+          "text": "ARRIVALS, RWY 07C.",
           "enabled": false
         },
         {
           "description": "",
           "ordinal": 3,
-          "text": "ARRIVALS, RWY 07R, 07L.",
+          "text": "ARRIVALS, RWY 07R.",
           "enabled": false
         },
         {
           "description": "",
           "ordinal": 4,
-          "text": "ARRIVALS, RWY 25L, 25R.",
+          "text": "ARRIVALS, RWY 07R, 07L.",
           "enabled": false
         },
         {
@@ -495,43 +555,61 @@
         {
           "description": "",
           "ordinal": 6,
-          "text": "ARRIVALS, RWY 07R.",
+          "text": "ARRIVALS, RWY 25C.",
           "enabled": false
         },
         {
           "description": "",
           "ordinal": 7,
-          "text": "EXP ILS APCH.",
+          "text": "ARRIVALS, RWY 25R.",
           "enabled": false
         },
         {
           "description": "",
           "ordinal": 8,
-          "text": "EXP RNAV TRANSITION TO ILS APCH.",
+          "text": "ARRIVALS, RWY 25L, 25R.",
           "enabled": false
         },
         {
-          "description": "",
+          "description": "EXP ILS APP.",
           "ordinal": 9,
-          "text": "RNP APCH IS AVBL ON REQ.",
+          "text": "EXP ILS APP.",
           "enabled": false
         },
         {
-          "description": "",
+          "description": "EXP RNP APCH.",
           "ordinal": 10,
-          "text": "SIG WS FCST.",
+          "text": "EXP RNP APCH.",
           "enabled": false
         },
         {
-          "description": "",
+          "description": "EXPECT RNAV TRANSITION TO ILS APCH.",
           "ordinal": 11,
-          "text": "SIG WS AND MOD TURB FCST.",
+          "text": "EXPECT RNAV TRANSITION TO ILS APCH.",
           "enabled": false
         },
         {
           "description": "",
           "ordinal": 12,
           "text": "RWY SFC ALL PARTS WET.",
+          "enabled": false
+        },
+        {
+          "description": "RNP APCH IS AVBL ON REQ.",
+          "ordinal": 13,
+          "text": "RNP APCH IS AVBL ON REQ.",
+          "enabled": false
+        },
+        {
+          "description": "",
+          "ordinal": 14,
+          "text": "SIG WS FCST.",
+          "enabled": false
+        },
+        {
+          "description": "SIG WS FCST AND REP.",
+          "ordinal": 15,
+          "text": "SIG WS FCST AND REP.",
           "enabled": false
         }
       ],
@@ -553,7 +631,7 @@
         "observationTime": {
           "template": {
             "text": "{time}Z",
-            "voice": "{time} {special}"
+            "voice": "issued at {time} {special}"
           }
         },
         "surfaceWind": {
@@ -565,7 +643,7 @@
           "standard": {
             "template": {
               "text": "WIND {wind_dir}/{wind_spd}KT",
-              "voice": "WIND {wind_dir} DEGREES {wind_spd} {WIND_UNIT}"
+              "voice": "WIND {wind_dir} DEGREES, {wind_spd} {WIND_UNIT}"
             }
           },
           "standardGust": {
@@ -619,43 +697,41 @@
           }
         },
         "presentWeather": {
-          "lightIntensity": "with light",
-          "moderateIntensity": "with moderate",
-          "heavyIntensity": "with heavy",
-          "vicinity": "in vicinity",
-          "weatherTypes": {
-            "DZ": "drizzle",
-            "RA": "rain",
-            "SN": "snow",
-            "SG": "snow grains",
-            "IC": "ice crystals",
-            "PL": "ice pellets",
-            "GR": "hail",
-            "GS": "small hail",
-            "UP": "unknown precipitation",
-            "BR": "mist",
-            "FG": "fog",
-            "FU": "smoke",
-            "VA": "volcanic ash",
-            "DU": "widespread dust",
-            "SA": "sand",
-            "HZ": "haze",
-            "PY": "spray",
-            "PO": "well developed dust, sand whirls",
-            "SQ": "squalls",
-            "FC": "funnel cloud tornado waterspout",
-            "SS": "sandstorm",
-            "DS": "dust storm"
-          },
+          "lightIntensity": "light",
+          "moderateIntensity": "moderate",
+          "heavyIntensity": "heavy",
+          "vicinity": "vicinity",
           "weatherDescriptors": {
-            "PR": "partial",
             "BC": "patches",
-            "MI": "shallow",
-            "DR": "low drifting",
             "BL": "blowing",
+            "BR": "mist",
+            "DZ": "drizzle",
+            "DS": "dust storm",
+            "DR": "low drifting",
+            "DU": "widespread dust",
+            "FC": "funnel cloud tornado waterspout",
+            "FG": "fog",
+            "FZ": "freezing",
+            "FU": "smoke",
+            "GR": "hail",
+            "GS": "small hail, snow pellets",
+            "HZ": "haze",
+            "IC": "ice crystals",
+            "MI": "shallow",
+            "PL": "ice pellets",
+            "PO": "well developed dust, sand whirls",
+            "PR": "partial",
+            "PY": "spray",
+            "RA": "rain",
+            "SA": "sand",
+            "SG": "snow grains",
             "SH": "showers",
+            "SN": "snow",
+            "SQ": "squalls",
+            "SS": "sandstorm",
             "TS": "thunderstorm",
-            "FZ": "freezing"
+            "UP": "unknown precipitation",
+            "VA": "volcanic ash"
           },
           "template": {
             "text": "{weather}",
@@ -665,6 +741,10 @@
         "clouds": {
           "identifyCeilingLayer": true,
           "convertToMetric": false,
+          "undeterminedLayerAltitude": {
+            "text": "undetermined",
+            "voice": "undetermined"
+          },
           "types": {
             "FEW": {
               "$type": "Vatsim.Vatis.Profiles.AtisFormat.Nodes.CloudType, vATIS",
@@ -722,7 +802,7 @@
           }
         },
         "temperature": {
-          "usePlusPrefix": true,
+          "usePlusPrefix": false,
           "pronounceLeadingZero": true,
           "template": {
             "text": "T{temp}",
@@ -730,7 +810,7 @@
           }
         },
         "dewpoint": {
-          "usePlusPrefix": true,
+          "usePlusPrefix": false,
           "pronounceLeadingZero": true,
           "template": {
             "text": "DP{dewpoint}",
@@ -761,7 +841,7 @@
           "autoIncludeClosingStatement": true,
           "template": {
             "text": "ACKNOWLEDGE INFO {letter} ON FIRST CTC.",
-            "voice": "ACKNOWLEDGE INFORMATION {letter|word} ON FIRST CONTACT."
+            "voice": "ACKNOWLEDGE INFORMATION {letter|word}, ON FIRST CONTACT."
           }
         }
       }
@@ -778,7 +858,7 @@
       "frequency": 126400000,
       "atisVoice": {
         "useTextToSpeech": true,
-        "voice": "UK Female"
+        "voice": "US Male"
       },
       "idsEndpoint": "",
       "useNotamPrefix": false,
@@ -787,9 +867,17 @@
       "notamsBeforeFreeText": false,
       "presets": [
         {
-          "id": "358bb41f-cd48-4abb-8f84-68d2e0accbce",
-          "name": "DEFAULT (CLICK ARPT COND TO SELECT RWYS)",
-          "template": "[FACILITY] ATIS [ATIS_CODE] [OBS_TIME]. [ARPT_COND] MET REPORT [FACILITY] [OBS_TIME] [FULL_WX_STRING] [TL]. [NOTAMS] ",
+          "id": "de1cd12f-60d5-4286-a35d-84bce5b9b459",
+          "name": "16",
+          "template": "THIS IS [FACILITY] ATIS [ATIS_CODE] [OBS_TIME]. RWY 16 IN USE. WIND RWY 16 TOUCHDOWN ZONE [WIND], STOP END [WIND]. VIS RWY 16 TOUCHDOWN ZONE [VIS], MID POINT [VIS], STOP END [VIS]. [CLOUDS] [TEMP] [DEW] [PRESSURE]. [TREND]. [NOTAMS] ",
+          "externalGenerator": {
+            "enabled": false
+          }
+        },
+        {
+          "id": "519e3d50-d14d-48ab-99f8-79326f826e70",
+          "name": "34",
+          "template": "THIS IS [FACILITY] ATIS [ATIS_CODE] [OBS_TIME]. RWY 34 IN USE. WIND RWY 34 TOUCHDOWN ZONE [WIND], STOP END [WIND]. VIS RWY 34 TOUCHDOWN ZONE [VIS], MID POINT [VIS], STOP END [VIS]. [CLOUDS] [TEMP] [DEW] [PRESSURE]. [TREND]. [NOTAMS] ",
           "externalGenerator": {
             "enabled": false
           }
@@ -827,27 +915,22 @@
         {
           "string": "MET REPORT",
           "spoken": " "
-        }
-      ],
-      "airportConditionDefinitions": [
-        {
-          "description": "",
-          "ordinal": 1,
-          "text": "DEP AND ARR RWY 34.",
-          "enabled": true
         },
         {
-          "description": "",
-          "ordinal": 2,
-          "text": "DEP AND ARR RWY 16.",
-          "enabled": false
+          "string": "ATIS",
+          "spoken": "INFORMATION"
+        },
+        {
+          "string": "VIS",
+          "spoken": "VISIBILITY"
         }
       ],
+      "airportConditionDefinitions": [],
       "notamDefinitions": [],
       "atisFormat": {
         "observationTime": {
           "template": {
-            "text": "{time}Z",
+            "text": "{time}",
             "voice": "{time} {special}"
           }
         },
@@ -860,25 +943,25 @@
           "standard": {
             "template": {
               "text": "{wind_dir}/{wind_spd}KT",
-              "voice": "WIND {wind_dir} DEGREES {wind_spd} {WIND_UNIT}"
+              "voice": "{wind_dir} DEGREES {wind_spd} {WIND_UNIT}"
             }
           },
           "standardGust": {
             "template": {
               "text": "{wind_dir}/{wind_spd}G{wind_gust}KT",
-              "voice": "WIND {wind_dir} DEGREES {wind_spd} {wind_unit} GUSTS {wind_gust}"
+              "voice": "{wind_dir} DEGREES {wind_spd} {wind_unit} GUSTS {wind_gust}"
             }
           },
           "variable": {
             "template": {
               "text": "VRB/{wind_spd}KT",
-              "voice": "WIND VARIABLE AT {wind_spd}"
+              "voice": "VARIABLE BETWEEN"
             }
           },
           "variableGust": {
             "template": {
               "text": "VRB/{wind_spd}G{wind_gust}KT",
-              "voice": "WIND VARIABLE AT {wind_spd} GUSTS {wind_gust}"
+              "voice": "VARIABLE AT {wind_spd} GUSTS {wind_gust}"
             }
           },
           "variableDirection": {
@@ -904,13 +987,13 @@
           "southWest": "to the south-west",
           "west": "to the west",
           "northWest": "to the north-west",
-          "unlimitedVisibilityVoice": "visibility 10 kilometers or more",
-          "unlimitedVisibilityText": "VIS 10KM",
+          "unlimitedVisibilityVoice": "10 kilometers or more",
+          "unlimitedVisibilityText": "10KM",
           "includeVisibilitySuffix": true,
           "metersCutoff": 5000,
           "template": {
             "text": "{visibility}",
-            "voice": "VISIBILITY {visibility}"
+            "voice": "{visibility}"
           }
         },
         "presentWeather": {
@@ -918,39 +1001,37 @@
           "moderateIntensity": "with moderate",
           "heavyIntensity": "with heavy",
           "vicinity": "in vicinity",
-          "weatherTypes": {
-            "DZ": "drizzle",
-            "RA": "rain",
-            "SN": "snow",
-            "SG": "snow grains",
-            "IC": "ice crystals",
-            "PL": "ice pellets",
-            "GR": "hail",
-            "GS": "small hail",
-            "UP": "unknown precipitation",
-            "BR": "mist",
-            "FG": "fog",
-            "FU": "smoke",
-            "VA": "volcanic ash",
-            "DU": "widespread dust",
-            "SA": "sand",
-            "HZ": "haze",
-            "PY": "spray",
-            "PO": "well developed dust, sand whirls",
-            "SQ": "squalls",
-            "FC": "funnel cloud tornado waterspout",
-            "SS": "sandstorm",
-            "DS": "dust storm"
-          },
           "weatherDescriptors": {
-            "PR": "partial",
             "BC": "patches",
-            "MI": "shallow",
-            "DR": "low drifting",
             "BL": "blowing",
+            "BR": "mist",
+            "DZ": "drizzle",
+            "DS": "dust storm",
+            "DR": "low drifting",
+            "DU": "widespread dust",
+            "FC": "funnel cloud tornado waterspout",
+            "FG": "fog",
+            "FZ": "freezing",
+            "FU": "smoke",
+            "GR": "hail",
+            "GS": "small hail, snow pellets",
+            "HZ": "haze",
+            "IC": "ice crystals",
+            "MI": "shallow",
+            "PL": "ice pellets",
+            "PO": "well developed dust, sand whirls",
+            "PR": "partial",
+            "PY": "spray",
+            "RA": "rain",
+            "SA": "sand",
+            "SG": "snow grains",
             "SH": "showers",
+            "SN": "snow",
+            "SQ": "squalls",
+            "SS": "sandstorm",
             "TS": "thunderstorm",
-            "FZ": "freezing"
+            "UP": "unknown precipitation",
+            "VA": "volcanic ash"
           },
           "template": {
             "text": "{weather}",
@@ -960,6 +1041,10 @@
         "clouds": {
           "identifyCeilingLayer": true,
           "convertToMetric": false,
+          "undeterminedLayerAltitude": {
+            "text": "undetermined",
+            "voice": "undetermined"
+          },
           "types": {
             "FEW": {
               "$type": "Vatsim.Vatis.Profiles.AtisFormat.Nodes.CloudType, vATIS",
@@ -1055,8 +1140,8 @@
         "closingStatement": {
           "autoIncludeClosingStatement": true,
           "template": {
-            "text": "ACKNOWLEDGE INFO {letter} ON FIRST CTC.",
-            "voice": "ACKNOWLEDGE INFORMATION {letter|word} ON FIRST CONTACT."
+            "text": "AIRPORT INFORMATION {letter} OUT.",
+            "voice": "AIRPORT INFORMATION {letter|word} OUT."
           }
         }
       }
