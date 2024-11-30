@@ -8,22 +8,10 @@
 			<sid name="BEKOL">
 				<alt>050</alt>
 			</sid>
-			<sid name="LAKES">
+			<sid name="LEKEN">
 				<alt>050</alt>
 			</sid>
-			<sid name="OCEAN">
-				<alt>050</alt>
-			</sid>
-			<sid name="RASSE">
-				<alt>050</alt>
-			</sid>
-			<sid name="SKATE">
-				<alt>050</alt>
-			</sid>
-			<sid name="VENGO">
-				<alt>050</alt>
-			</sid>
-			<sid name="ATENA">
+			<sid name="DALOL">
 				<alt>050</alt>
 			</sid>
 			<sid name="RDVR">
@@ -34,25 +22,28 @@
 			<sid name="PECAN">
 				<alt>050</alt>
 			</sid>
+			<sid name="SOSLU">
+				<alt>050</alt>
+			</sid>
 			<sid name="BEKOL">
 				<alt>050</alt>
 			</sid>
-			<sid name="LAKES">
+			<sid name="ALDAD">
 				<alt>050</alt>
 			</sid>
-			<sid name="OCEAN">
+			<sid name="LEKEN">
 				<alt>050</alt>
 			</sid>
-			<sid name="RASSE">
+			<sid name="LARIT">
 				<alt>050</alt>
 			</sid>
-			<sid name="SKATE">
+			<sid name="DALOL">
 				<alt>050</alt>
 			</sid>
-			<sid name="VENGO">
+			<sid name="DUMEP">
 				<alt>050</alt>
 			</sid>
-			<sid name="ATENA">
+			<sid name="XEMEK">
 				<alt>050</alt>
 			</sid>
 			<sid name="RDVR">
@@ -66,22 +57,10 @@
 			<sid name="BEKOL">
 				<alt>050</alt>
 			</sid>
-			<sid name="LAKES">
+			<sid name="LEKEN">
 				<alt>050</alt>
 			</sid>
-			<sid name="OCEAN">
-				<alt>050</alt>
-			</sid>
-			<sid name="RASSE">
-				<alt>050</alt>
-			</sid>
-			<sid name="SKATE">
-				<alt>050</alt>
-			</sid>
-			<sid name="VENGO">
-				<alt>050</alt>
-			</sid>
-			<sid name="ATENA">
+			<sid name="DALOL">
 				<alt>050</alt>
 			</sid>
 			<sid name="RDVR">
@@ -95,10 +74,10 @@
 			<sid name="BEKOL">
 				<alt>050</alt>
 			</sid>
-			<sid name="LAKES">
+			<sid name="LEKEN">
 				<alt>050</alt>
 			</sid>
-			<sid name="OCEAN">
+			<sid name="DALOL">
 				<alt>050</alt>
 			</sid>
 			<sid name="RDVR">
@@ -112,10 +91,10 @@
 			<sid name="BEKOL">
 				<alt>050</alt>
 			</sid>
-			<sid name="LAKES">
+			<sid name="LEKEN">
 				<alt>050</alt>
 			</sid>
-			<sid name="OCEAN">
+			<sid name="DALOL">
 				<alt>050</alt>
 			</sid>
 			<sid name="RDVR">
@@ -129,10 +108,10 @@
 			<sid name="BEKOL">
 				<alt>050</alt>
 			</sid>
-			<sid name="LAKES">
+			<sid name="LEKEN">
 				<alt>050</alt>
 			</sid>
-			<sid name="OCEAN">
+			<sid name="DALOL">
 				<alt>050</alt>
 			</sid>
 			<sid name="RDVR">
