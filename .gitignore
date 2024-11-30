@@ -2,4 +2,5 @@
 version.txt
 euroscope_sector_providers.txt
 SectorFileProviderDescriptor.txt
-
+.sentry-native/
+/Data/Sector/*.rwy
