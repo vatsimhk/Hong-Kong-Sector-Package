@@ -161,7 +161,7 @@
           "description": "",
           "ordinal": 3,
           "text": "DEPARTURES, RWY 07R.",
-          "enabled": false
+          "enabled": true
         },
         {
           "description": "DEPARTURES, RWY 07C/R. INDEPENDENT PARALLEL DEPARTURE",
@@ -188,10 +188,10 @@
           "enabled": false
         },
         {
-          "description": "DEPARTURES, RWY 25L/C. INDEPENDENT PARALLEL DEPARTURE",
+          "description": "DEPARTURES, RWY 25C. AND RWY 25L. INDEPENDENT PARALLEL",
           "ordinal": 8,
-          "text": "DEPARTURES, RWY 25L. AND RWY 25C. INDEPENDENT PARALLEL DEPARTURE IN PROGRESS.",
-          "enabled": true
+          "text": "DEPARTURES, RWY 25C. AND RWY 25L. INDEPENDENT PARALLEL DEPARTURE IN PROGRESS.",
+          "enabled": false
         },
         {
           "description": "",
@@ -577,6 +577,10 @@
         {
           "string": "25L/R",
           "spoken": "TWO FIVE LEFT, AND TWO FIVE RIGHT"
+        },
+        {
+          "string": "GP",
+          "spoken": "GLIDE PATH"
         }
       ],
       "airportConditionDefinitions": [
@@ -625,48 +629,60 @@
         {
           "description": "",
           "ordinal": 8,
-          "text": "ARRIVALS, RWY 25L. AND RWY 25R.",
-          "enabled": true
+          "text": "ARRIVALS, RWY 25R. AND RWY 25L.",
+          "enabled": false
         },
         {
-          "description": "EXP ILS APP.",
+          "description": "",
           "ordinal": 9,
-          "text": "EXP ILS APP.",
+          "text": "EXP ILS APCH.",
+          "enabled": false
+        },
+        {
+          "description": "EXP ILS APCH RWY 07L.",
+          "ordinal": 10,
+          "text": "EXP ILS APCH RWY 07L.",
           "enabled": false
         },
         {
           "description": "EXP RNP APCH.",
-          "ordinal": 10,
-          "text": "EXP RNP APCH.",
-          "enabled": false
-        },
-        {
-          "description": "EXPECT RNAV TRANSITION TO ILS APCH RWY 25R.",
           "ordinal": 11,
-          "text": "EXPECT RNAV TRANSITION TO ILS APCH RWY 25R.",
+          "text": "EXP RNP APCH.",
           "enabled": false
         },
         {
           "description": "",
           "ordinal": 12,
-          "text": "RWY SFC ALL PARTS WET.",
+          "text": "CAUTION POSSIBLE GP FLUCTUATION.",
           "enabled": false
         },
         {
-          "description": "RNP APCH IS AVBL ON REQ.",
+          "description": "EXPECT RNAV TRANSITION TO ILS APCH RWY 25R.",
           "ordinal": 13,
-          "text": "RNP APCH IS AVBL ON REQ.",
+          "text": "EXPECT RNAV TRANSITION TO ILS APCH RWY 25R. EXP ILS APCH RWY 25L.",
           "enabled": false
         },
         {
           "description": "",
           "ordinal": 14,
+          "text": "RWY SFC ALL PARTS WET.",
+          "enabled": false
+        },
+        {
+          "description": "RNP APCH IS AVBL ON REQ.",
+          "ordinal": 15,
+          "text": "RNP APCH IS AVBL ON REQ.",
+          "enabled": false
+        },
+        {
+          "description": "",
+          "ordinal": 16,
           "text": "SIG WS FCST.",
           "enabled": false
         },
         {
           "description": "SIG WS FCST AND REP.",
-          "ordinal": 15,
+          "ordinal": 17,
           "text": "SIG WS FCST AND REP.",
           "enabled": false
         }
