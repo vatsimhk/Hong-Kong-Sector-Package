@@ -31,7 +31,7 @@ VHHH_2_GND Hong Kong Ground
 VHHH_3_GND Hong Kong Ground
 VHHH_4_GND Hong Kong Ground
 VHHH_5_GND Hong Kong Ground
-VMMC_GND Ground
+VMMC_DEL Macau Ground
 VMMC_GND Macau Ground
 VHHX_GND Kai Tak Ground
 VHHX_DEL Kai Tak Delivery
