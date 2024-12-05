@@ -1944,6 +1944,7 @@ FOLDER:COAST
 COLOR:COAST
 ACTIVE:1
 STYLE:SOLID:1
+LAYER:-4
 SCTFILEPATH:.\..\..\Sector\Hong-Kong-Sector-File.sct
 SCTFILEDATA/MONO:GEO\VHHK Landmark Hong Kong Coastline
 
