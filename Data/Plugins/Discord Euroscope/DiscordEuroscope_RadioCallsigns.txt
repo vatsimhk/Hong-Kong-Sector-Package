@@ -26,14 +26,14 @@ VHHX_TWR Kai Tak Tower
 VHHH_N_TWR Hong Kong Tower
 VHHH_S_TWR Hong Kong Tower
 VHHH_C_TWR Hong Kong Tower
-VHHH_N_GND Hong Kong Ground
-VHHH_S_GND Hong Kong Ground
-VHHH_C_GND Hong Kong Ground
-VHHH_W_GND Hong Kong Ground
-VHHH_W2_GND Hong Kong Ground
-VMMC_GND Hong Kong Ground
-VMMC_GND Hong Kong Ground
-VHHX_GND Hong Kong Ground
+VHHH_1_GND Hong Kong Ground
+VHHH_2_GND Hong Kong Ground
+VHHH_3_GND Hong Kong Ground
+VHHH_4_GND Hong Kong Ground
+VHHH_5_GND Hong Kong Ground
+VMMC_DEL Macau Ground
+VMMC_GND Macau Ground
+VHHX_GND Kai Tak Ground
 VHHX_DEL Kai Tak Delivery
 VHHH_DEL Hong Kong Delivery
 

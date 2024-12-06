@@ -24,9 +24,27 @@
       "presets": [
         {
           "id": "9d497203-fe37-456f-8af5-cfdb28a8ba9d",
-          "name": "DEFAULT (CLICK ARPT COND TO SELECT RWYS)",
+          "name": "NON-3RS",
           "notams": "",
-          "template": "[FACILITY] DEP ATIS [ATIS_CODE] [OBS_TIME]. [ARPT_COND] [FULL_WX_STRING] [TREND]. [NOTAMS] ",
+          "template": "[FACILITY] DEP ATIS [ATIS_CODE] [OBS_TIME]. [ARPT_COND] WIND [FULL_WX_STRING] [TREND]. [NOTAMS] ",
+          "externalGenerator": {
+            "enabled": false
+          }
+        },
+        {
+          "id": "f8841903-7770-45dc-b7a7-e642909b5943",
+          "name": "07 3RS",
+          "notams": "",
+          "template": "[FACILITY] DEP ATIS [ATIS_CODE] [OBS_TIME]. [ARPT_COND] WIND RWY 07C [WIND] RWY 07R [WIND] [VIS] [CLOUDS] [TEMP] [DEW] [PRESSURE] [TREND]. [NOTAMS] ",
+          "externalGenerator": {
+            "enabled": false
+          }
+        },
+        {
+          "id": "40284b27-f9f8-4bb9-bd63-350f3e7749e3",
+          "name": "25 3RS",
+          "notams": "",
+          "template": "[FACILITY] DEP ATIS [ATIS_CODE] [OBS_TIME]. [ARPT_COND] WIND RWY 25R [WIND] RWY 25C [WIND] [VIS] [CLOUDS] [TEMP] [DEW] [PRESSURE] [TREND]. [NOTAMS] ",
           "externalGenerator": {
             "enabled": false
           }
@@ -63,7 +81,7 @@
         },
         {
           "string": "MAINT",
-          "spoken": "MAINTAINENCE"
+          "spoken": "MAINTENANCE"
         },
         {
           "string": "CLSD",
@@ -108,114 +126,74 @@
         {
           "string": "BKLOG",
           "spoken": "BACK LOG"
+        },
+        {
+          "string": "07C/R",
+          "spoken": "ZERO SEVEN CENTRE, AND ZERO SEVEN RIGHT"
+        },
+        {
+          "string": "25L/C",
+          "spoken": "TWO FIVE LEFT, AND TWO FIVE CENTRE"
+        },
+        {
+          "string": "ARR",
+          "spoken": "ARRIVAL"
+        },
+        {
+          "string": "DEP",
+          "spoken": "DEPARTURE"
+        },
+        {
+          "string": "07R/C",
+          "spoken": "ZERO SEVEN RIGHT, AND ZERO SEVEN CENTRE"
+        },
+        {
+          "string": "25C/L",
+          "spoken": "TWO FIVE CENTRE, AND TWO FIVE RIGHT"
+        },
+        {
+          "string": "E",
+          "spoken": "EAST"
+        },
+        {
+          "string": "N",
+          "spoken": "NORTH"
+        },
+        {
+          "string": "NM",
+          "spoken": "NAUTICAL MILES"
+        },
+        {
+          "string": "S",
+          "spoken": "SOUTH"
+        },
+        {
+          "string": "W",
+          "spoken": "WEST"
+        },
+        {
+          "string": "NE",
+          "spoken": "NORTH EAST"
+        },
+        {
+          "string": "NW",
+          "spoken": "NORTH WEST"
+        },
+        {
+          "string": "SE",
+          "spoken": "SOUTH EAST"
+        },
+        {
+          "string": "SW",
+          "spoken": "SOUTH WEST"
+        },
+        {
+          "string": "TFC",
+          "spoken": "TRAFFIC"
         }
       ],
-      "airportConditionDefinitions": [
-        {
-          "description": "",
-          "ordinal": 1,
-          "text": "DEPARTURES, RWY 07L.",
-          "enabled": false
-        },
-        {
-          "description": "",
-          "ordinal": 2,
-          "text": "DEPARTURES, RWY 07C.",
-          "enabled": false
-        },
-        {
-          "description": "",
-          "ordinal": 3,
-          "text": "DEPARTURES, RWY 07R.",
-          "enabled": false
-        },
-        {
-          "description": "DEPARTURES, RWY 07C AND RWY 07R.(INDEP)",
-          "ordinal": 4,
-          "text": "DEPARTURES, RWY 07C AND RWY 07R. INDEPENDENT PARALLEL DEPARTURE IN PROGRESS.",
-          "enabled": false
-        },
-        {
-          "description": "",
-          "ordinal": 5,
-          "text": "DEPARTURES, RWY 25L.",
-          "enabled": false
-        },
-        {
-          "description": "",
-          "ordinal": 6,
-          "text": "DEPARTURES, RWY 25C.",
-          "enabled": false
-        },
-        {
-          "description": "",
-          "ordinal": 7,
-          "text": "DEPARTURES, RWY 25R.",
-          "enabled": false
-        },
-        {
-          "description": "DEPARTURES, RWY 25L AND RWY 25C.(INDEP)",
-          "ordinal": 8,
-          "text": "DEPARTURES, RWY 25L AND RWY 25C. INDEPENDENT PARALLEL DEPARTURE IN PROGRESS.",
-          "enabled": false
-        },
-        {
-          "description": "",
-          "ordinal": 9,
-          "text": "RWY SFC ALL PARTS WET.",
-          "enabled": false
-        },
-        {
-          "description": "",
-          "ordinal": 10,
-          "text": "SIG WS FCST.",
-          "enabled": false
-        },
-        {
-          "description": "SIG WS FCST AND REP.",
-          "ordinal": 11,
-          "text": "SIG WS FCST AND REP.",
-          "enabled": false
-        },
-        {
-          "description": "",
-          "ordinal": 12,
-          "text": "SIG WS AND MOD TURB FCST.",
-          "enabled": false
-        },
-        {
-          "description": "MOD TURB FCST.",
-          "ordinal": 13,
-          "text": "MOD TURB FCST.",
-          "enabled": false
-        }
-      ],
-      "notamDefinitions": [
-        {
-          "description": "",
-          "ordinal": 1,
-          "text": "TS IN VCY.",
-          "enabled": false
-        },
-        {
-          "description": "",
-          "ordinal": 2,
-          "text": "CB IN APCH AND DEP.",
-          "enabled": false
-        },
-        {
-          "description": "EXP DELAY UP TO XX MINS DUE WX.",
-          "ordinal": 3,
-          "text": "EXP DELAY UP TO XX MINS DUE WX.",
-          "enabled": false
-        },
-        {
-          "description": "EXP DELAY UP TO XX MINS DUE BKLOG.",
-          "ordinal": 4,
-          "text": "EXP DELAY UP TO XX MINS DUE BKLOG.",
-          "enabled": false
-        }
-      ],
+      "airportConditionDefinitions": [],
+      "notamDefinitions": [],
       "atisFormat": {
         "observationTime": {
           "template": {
@@ -231,8 +209,8 @@
           },
           "standard": {
             "template": {
-              "text": "WIND {wind_dir}/{wind_spd}KT",
-              "voice": "WIND {wind_dir} DEGREES, {wind_spd} {WIND_UNIT}"
+              "text": "{wind_dir}/{wind_spd}KT",
+              "voice": "{wind_dir} DEGREES, {wind_spd} {WIND_UNIT}"
             }
           },
           "standardGust": {
@@ -281,7 +259,7 @@
           "includeVisibilitySuffix": true,
           "metersCutoff": 5000,
           "template": {
-            "text": "VIS {visibility}M",
+            "text": "VIS {visibility}",
             "voice": "VISIBILITY {visibility}"
           }
         },
@@ -451,9 +429,25 @@
       "presets": [
         {
           "id": "54f37ff5-0442-478c-8f16-315f3b4ac56b",
-          "name": "DEFAULT (CLICK ARPT COND TO SELECT RWYS)",
+          "name": "NON-3RS",
           "notams": "",
-          "template": "[FACILITY] ARR ATIS [ATIS_CODE] [OBS_TIME]. [ARPT_COND] [FULL_WX_STRING] [TREND]. [NOTAMS] ",
+          "template": "[FACILITY] ARR ATIS [ATIS_CODE] [OBS_TIME]. [ARPT_COND] WIND [FULL_WX_STRING] [TREND]. [NOTAMS] ",
+          "externalGenerator": {
+            "enabled": false
+          }
+        },
+        {
+          "id": "819720e5-9235-4a6c-9da4-c9957a8f05cc",
+          "name": "3RS 07",
+          "template": "[FACILITY] ARR ATIS [ATIS_CODE] [OBS_TIME]. [ARPT_COND] WIND RWY 07L [WIND] RWY 07R [WIND] [VIS] [CLOUDS] [TEMP] [DEW] [PRESSURE] [TREND]. [NOTAMS] ",
+          "externalGenerator": {
+            "enabled": false
+          }
+        },
+        {
+          "id": "cce2801b-cf49-4fb1-af56-6cd751ba0f01",
+          "name": "3RS 25",
+          "template": "[FACILITY] ARR ATIS [ATIS_CODE] [OBS_TIME]. [ARPT_COND] WIND RWY 25R [WIND] RWY 25L [WIND] [VIS] [CLOUDS] [TEMP] [DEW] [PRESSURE] [TREND]. [NOTAMS] ",
           "externalGenerator": {
             "enabled": false
           }
@@ -519,100 +513,57 @@
         {
           "string": "ATIS",
           "spoken": "INFORMATION"
+        },
+        {
+          "string": "07L/R",
+          "spoken": "ZERO SEVEN LEFT, AND ZERO SEVEN RIGHT"
+        },
+        {
+          "string": "25L/R",
+          "spoken": "TWO FIVE LEFT, AND TWO FIVE RIGHT"
+        },
+        {
+          "string": "GP",
+          "spoken": "GLIDE PATH"
+        },
+        {
+          "string": "N",
+          "spoken": "NORTH"
+        },
+        {
+          "string": "E",
+          "spoken": "EAST"
+        },
+        {
+          "string": "S",
+          "spoken": "SOUTH"
+        },
+        {
+          "string": "W",
+          "spoken": "WEST"
+        },
+        {
+          "string": "NE",
+          "spoken": "NORTH EAST"
+        },
+        {
+          "string": "NW",
+          "spoken": "NORTH WEST"
+        },
+        {
+          "string": "SE",
+          "spoken": "SOUTH EAST"
+        },
+        {
+          "string": "SW",
+          "spoken": "SOUTH WEST"
+        },
+        {
+          "string": "TFC",
+          "spoken": "TRAFFIC"
         }
       ],
-      "airportConditionDefinitions": [
-        {
-          "description": "",
-          "ordinal": 1,
-          "text": "ARRIVALS, RWY 07L.",
-          "enabled": false
-        },
-        {
-          "description": "",
-          "ordinal": 2,
-          "text": "ARRIVALS, RWY 07C.",
-          "enabled": false
-        },
-        {
-          "description": "",
-          "ordinal": 3,
-          "text": "ARRIVALS, RWY 07R.",
-          "enabled": false
-        },
-        {
-          "description": "",
-          "ordinal": 4,
-          "text": "ARRIVALS, RWY 07R, 07L.",
-          "enabled": false
-        },
-        {
-          "description": "",
-          "ordinal": 5,
-          "text": "ARRIVALS, RWY 25L.",
-          "enabled": false
-        },
-        {
-          "description": "",
-          "ordinal": 6,
-          "text": "ARRIVALS, RWY 25C.",
-          "enabled": false
-        },
-        {
-          "description": "",
-          "ordinal": 7,
-          "text": "ARRIVALS, RWY 25R.",
-          "enabled": false
-        },
-        {
-          "description": "",
-          "ordinal": 8,
-          "text": "ARRIVALS, RWY 25L, 25R.",
-          "enabled": false
-        },
-        {
-          "description": "EXP ILS APP.",
-          "ordinal": 9,
-          "text": "EXP ILS APP.",
-          "enabled": false
-        },
-        {
-          "description": "EXP RNP APCH.",
-          "ordinal": 10,
-          "text": "EXP RNP APCH.",
-          "enabled": false
-        },
-        {
-          "description": "EXPECT RNAV TRANSITION TO ILS APCH.",
-          "ordinal": 11,
-          "text": "EXPECT RNAV TRANSITION TO ILS APCH.",
-          "enabled": false
-        },
-        {
-          "description": "",
-          "ordinal": 12,
-          "text": "RWY SFC ALL PARTS WET.",
-          "enabled": false
-        },
-        {
-          "description": "RNP APCH IS AVBL ON REQ.",
-          "ordinal": 13,
-          "text": "RNP APCH IS AVBL ON REQ.",
-          "enabled": false
-        },
-        {
-          "description": "",
-          "ordinal": 14,
-          "text": "SIG WS FCST.",
-          "enabled": false
-        },
-        {
-          "description": "SIG WS FCST AND REP.",
-          "ordinal": 15,
-          "text": "SIG WS FCST AND REP.",
-          "enabled": false
-        }
-      ],
+      "airportConditionDefinitions": [],
       "notamDefinitions": [
         {
           "description": "",
@@ -631,7 +582,7 @@
         "observationTime": {
           "template": {
             "text": "{time}Z",
-            "voice": "issued at {time} {special}"
+            "voice": ", issued at {time} {special}"
           }
         },
         "surfaceWind": {
@@ -642,8 +593,8 @@
           },
           "standard": {
             "template": {
-              "text": "WIND {wind_dir}/{wind_spd}KT",
-              "voice": "WIND {wind_dir} DEGREES, {wind_spd} {WIND_UNIT}"
+              "text": "{wind_dir}/{wind_spd}KT",
+              "voice": "{wind_dir} DEGREES, {wind_spd} {WIND_UNIT}"
             }
           },
           "standardGust": {
@@ -692,7 +643,7 @@
           "includeVisibilitySuffix": true,
           "metersCutoff": 5000,
           "template": {
-            "text": "VIS {visibility}M",
+            "text": "VIS {visibility}",
             "voice": "VISIBILITY {visibility}"
           }
         },

@@ -74,6 +74,13 @@ WXR_Latitude_Min=16
 WXR_Latitude_Max=24
 Window_AD_WxRefreshInterval=600
 
+//Toggle maps shortcut
+Shortcut_Map_Target=1,WPT LBLS\TR_TMC
+Shortcut_Map_Target=2,WPT LBLS\07 APP/DEP
+Shortcut_Map_Target=3,WPT LBLS\25 APP/DEP
+Shortcut_Map_Target=4,WPT LBLS\34 VMMC
+Shortcut_Map_Target=5,WPT LBLS\16 VMMC
+Shortcut_Map_Target=6,WPT LBLS\VFR
 
 [_CTR]
 Window_CPDLC_Current=1,1510,630
