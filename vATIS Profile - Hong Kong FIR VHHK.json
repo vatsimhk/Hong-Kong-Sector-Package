@@ -142,114 +142,54 @@
         {
           "string": "DEP",
           "spoken": "DEPARTURE"
+        },
+        {
+          "string": "07R/C",
+          "spoken": "ZERO SEVEN RIGHT, AND ZERO SEVEN CENTRE"
+        },
+        {
+          "string": "25C/L",
+          "spoken": "TWO FIVE CENTRE, AND TWO FIVE RIGHT"
+        },
+        {
+          "string": "E",
+          "spoken": "EAST"
+        },
+        {
+          "string": "N",
+          "spoken": "NORTH"
+        },
+        {
+          "string": "NM",
+          "spoken": "NAUTICAL MILES"
+        },
+        {
+          "string": "S",
+          "spoken": "SOUTH"
+        },
+        {
+          "string": "W",
+          "spoken": "WEST"
+        },
+        {
+          "string": "NE",
+          "spoken": "NORTH EAST"
+        },
+        {
+          "string": "NW",
+          "spoken": "NORTH WEST"
+        },
+        {
+          "string": "SE",
+          "spoken": "SOUTH EAST"
+        },
+        {
+          "string": "SW",
+          "spoken": "SOUTH WEST"
         }
       ],
-      "airportConditionDefinitions": [
-        {
-          "description": "",
-          "ordinal": 1,
-          "text": "DEPARTURES, RWY 07L.",
-          "enabled": false
-        },
-        {
-          "description": "",
-          "ordinal": 2,
-          "text": "DEPARTURES, RWY 07C.",
-          "enabled": false
-        },
-        {
-          "description": "",
-          "ordinal": 3,
-          "text": "DEPARTURES, RWY 07R.",
-          "enabled": true
-        },
-        {
-          "description": "DEPARTURES, RWY 07C/R. INDEPENDENT PARALLEL DEPARTURE",
-          "ordinal": 4,
-          "text": "DEPARTURES, RWY 07C. AND RWY 07R. INDEPENDENT PARALLEL DEPARTURE IN PROGRESS.",
-          "enabled": false
-        },
-        {
-          "description": "",
-          "ordinal": 5,
-          "text": "DEPARTURES, RWY 25L.",
-          "enabled": false
-        },
-        {
-          "description": "",
-          "ordinal": 6,
-          "text": "DEPARTURES, RWY 25C.",
-          "enabled": false
-        },
-        {
-          "description": "",
-          "ordinal": 7,
-          "text": "DEPARTURES, RWY 25R.",
-          "enabled": false
-        },
-        {
-          "description": "DEPARTURES, RWY 25C. AND RWY 25L. INDEPENDENT PARALLEL",
-          "ordinal": 8,
-          "text": "DEPARTURES, RWY 25C. AND RWY 25L. INDEPENDENT PARALLEL DEPARTURE IN PROGRESS.",
-          "enabled": false
-        },
-        {
-          "description": "",
-          "ordinal": 9,
-          "text": "RWY SFC ALL PARTS WET.",
-          "enabled": false
-        },
-        {
-          "description": "",
-          "ordinal": 10,
-          "text": "SIG WS FCST.",
-          "enabled": false
-        },
-        {
-          "description": "SIG WS FCST AND REP.",
-          "ordinal": 11,
-          "text": "SIG WS FCST AND REP.",
-          "enabled": false
-        },
-        {
-          "description": "",
-          "ordinal": 12,
-          "text": "SIG WS AND MOD TURB FCST.",
-          "enabled": false
-        },
-        {
-          "description": "MOD TURB FCST.",
-          "ordinal": 13,
-          "text": "MOD TURB FCST.",
-          "enabled": false
-        }
-      ],
-      "notamDefinitions": [
-        {
-          "description": "",
-          "ordinal": 1,
-          "text": "TS IN VCY.",
-          "enabled": false
-        },
-        {
-          "description": "",
-          "ordinal": 2,
-          "text": "CB IN APCH AND DEP.",
-          "enabled": false
-        },
-        {
-          "description": "EXP DELAY UP TO XX MINS DUE WX. (CLICK EDIT TO INSERT THE TIME)",
-          "ordinal": 3,
-          "text": "EXP DELAY UP TO XX MINS DUE WX.",
-          "enabled": false
-        },
-        {
-          "description": "EXP DELAY UP TO XX MINS DUE BKLOG. (CLICK EDIT TO INSERT THE TIME)",
-          "ordinal": 4,
-          "text": "EXP DELAY UP TO XX MINS DUE BKLOG.",
-          "enabled": false
-        }
-      ],
+      "airportConditionDefinitions": [],
+      "notamDefinitions": [],
       "atisFormat": {
         "observationTime": {
           "template": {
@@ -581,112 +521,41 @@
         {
           "string": "GP",
           "spoken": "GLIDE PATH"
+        },
+        {
+          "string": "N",
+          "spoken": "NORTH"
+        },
+        {
+          "string": "E",
+          "spoken": "EAST"
+        },
+        {
+          "string": "S",
+          "spoken": "SOUTH"
+        },
+        {
+          "string": "W",
+          "spoken": "WEST"
+        },
+        {
+          "string": "NE",
+          "spoken": "NORTH EAST"
+        },
+        {
+          "string": "NW",
+          "spoken": "NORTH WEST"
+        },
+        {
+          "string": "SE",
+          "spoken": "SOUTH EAST"
+        },
+        {
+          "string": "SW",
+          "spoken": "SOUTH WEST"
         }
       ],
-      "airportConditionDefinitions": [
-        {
-          "description": "",
-          "ordinal": 1,
-          "text": "ARRIVALS, RWY 07L.",
-          "enabled": false
-        },
-        {
-          "description": "",
-          "ordinal": 2,
-          "text": "ARRIVALS, RWY 07C.",
-          "enabled": false
-        },
-        {
-          "description": "",
-          "ordinal": 3,
-          "text": "ARRIVALS, RWY 07R.",
-          "enabled": false
-        },
-        {
-          "description": "",
-          "ordinal": 4,
-          "text": "ARRIVALS, RWY 07L. AND RWY 07R.",
-          "enabled": false
-        },
-        {
-          "description": "",
-          "ordinal": 5,
-          "text": "ARRIVALS, RWY 25L.",
-          "enabled": false
-        },
-        {
-          "description": "",
-          "ordinal": 6,
-          "text": "ARRIVALS, RWY 25C.",
-          "enabled": false
-        },
-        {
-          "description": "",
-          "ordinal": 7,
-          "text": "ARRIVALS, RWY 25R.",
-          "enabled": false
-        },
-        {
-          "description": "",
-          "ordinal": 8,
-          "text": "ARRIVALS, RWY 25R. AND RWY 25L.",
-          "enabled": false
-        },
-        {
-          "description": "",
-          "ordinal": 9,
-          "text": "EXP ILS APCH.",
-          "enabled": false
-        },
-        {
-          "description": "EXP ILS APCH RWY 07L.",
-          "ordinal": 10,
-          "text": "EXP ILS APCH RWY 07L.",
-          "enabled": false
-        },
-        {
-          "description": "EXP RNP APCH.",
-          "ordinal": 11,
-          "text": "EXP RNP APCH.",
-          "enabled": false
-        },
-        {
-          "description": "",
-          "ordinal": 12,
-          "text": "CAUTION POSSIBLE GP FLUCTUATION.",
-          "enabled": false
-        },
-        {
-          "description": "EXPECT RNAV TRANSITION TO ILS APCH RWY 25R.",
-          "ordinal": 13,
-          "text": "EXPECT RNAV TRANSITION TO ILS APCH RWY 25R. EXP ILS APCH RWY 25L.",
-          "enabled": false
-        },
-        {
-          "description": "",
-          "ordinal": 14,
-          "text": "RWY SFC ALL PARTS WET.",
-          "enabled": false
-        },
-        {
-          "description": "RNP APCH IS AVBL ON REQ.",
-          "ordinal": 15,
-          "text": "RNP APCH IS AVBL ON REQ.",
-          "enabled": false
-        },
-        {
-          "description": "",
-          "ordinal": 16,
-          "text": "SIG WS FCST.",
-          "enabled": false
-        },
-        {
-          "description": "SIG WS FCST AND REP.",
-          "ordinal": 17,
-          "text": "SIG WS FCST AND REP.",
-          "enabled": false
-        }
-      ],
+      "airportConditionDefinitions": [],
       "notamDefinitions": [
         {
           "description": "",
