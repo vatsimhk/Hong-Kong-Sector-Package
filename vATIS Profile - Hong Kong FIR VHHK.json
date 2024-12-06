@@ -557,6 +557,10 @@
         {
           "string": "SW",
           "spoken": "SOUTH WEST"
+        },
+        {
+          "string": "TFC",
+          "spoken": "TRAFFIC"
         }
       ],
       "airportConditionDefinitions": [],
