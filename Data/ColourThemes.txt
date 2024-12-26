@@ -7,7 +7,7 @@ Hong Kong TOPSKY.prf END
 Data/Plugins/TopSky/TopSkyMaps.txt BEGIN
 COLORDEF:SID:87:104:114
 COLORDEF:STAR:72:90:147
-COLORDEF:TMABORDER:122:131:147
+COLORDEF:TMABORDER:102:109:122
 COLORDEF:EXTCENTERL:106:151:171
 COLORDEF:VFR:69:69:114
 Data/Plugins/TopSky/TopSkyMaps.txt END
@@ -25,7 +25,7 @@ Data/Plugins/TopSky/TopSkySettings.txt END
 
 Data/Sector/Hong-Kong-Sector-File.sct BEGIN
 #define Pattern 11237226
-#define SectorBoundaries 9667450
+#define SectorBoundaries 8023398
 #define FIRBoundaries 6903631
 #define Coast 6635833
 Data/Sector/Hong-Kong-Sector-File.sct END
