@@ -21,7 +21,7 @@ m_CenterlineVectorBase:2.0
 m_STCA_LowShow:1
 m_STCA_LowVertical:900
 m_STCA_LowHorizontal:3.0
-m_STCA_LowBottom:2500
+m_STCA_LowBottom:5000
 m_STCA_HighShow:1
 m_STCA_HighVertical:900
 m_STCA_HighHorizontal:5.0
@@ -109,7 +109,7 @@ m_STCA_LowPreWarnTime:150
 m_STCA_LowWarnTime:150
 m_HighPreWarnTime:240
 m_STCA_HighWarnTime:240
-m_STCA_ShowCFL:1
+m_STCA_ShowCFL:0
 m_STCA_PlaySoundOnCFL:0
 m_STCA_PlaySoundOnTrackedOnly:1
 m_AutoCorrelateDisabledSQs:1200,2000,2200,7000,7700,7600,7500
@@ -132,6 +132,7 @@ m_ConnectTime:15
 m_AutoAssumeOnGroundStateChangeButton:0
 m_ShowTrackMilesInRouteButton:1
 m_FilterOutSquawks:
+m_EquipmentsIcaoFormat:1
 ORIGPLANE
 m_Visible:0
 m_X:70
