@@ -25,7 +25,7 @@ END
 SEL
 m_Visible:1
 m_X:0
-m_Y:81
+m_Y:82
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:16
@@ -60,7 +60,7 @@ m_Column:EVT:4:0:5000:0:0:0:VATCAN Bookings:::0:0.0
 m_Column:CTOT:6:0:10:0:108:0:CDM Plugin::CDM Plugin:0:0.0
 m_Column:BAY:5:0:1:0:0:1:Ground Radar plugin:::0:3.5
 m_Column:TSAT:5:0:2:0:0:0:CDM Plugin:::0:3.5
-m_Column:Ready:6:0:12:114:0:0:CDM Plugin:CDM Plugin::0:0.0
+m_Column:READY:6:0:12:114:0:0:CDM Plugin:CDM Plugin::0:0.0
 m_Column:CS:9:0:10021:7:6:1:TopSky plugin::TopSky plugin:0:3.5
 m_Column:COM:4:0:58:0:32:1:TopSky plugin:::4:3.5
 m_Column:TYPE:5:0:10028:0:41:1:TopSky plugin:::4:3.5
