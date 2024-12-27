@@ -94,7 +94,7 @@ E113.55.16.824
 
 ;COLOUR THEME BEGIN
 #define Pattern 11237226
-#define SectorBoundaries 9667450
+#define SectorBoundaries 8023398
 #define FIRBoundaries 6903631
 #define Coast 6635833
 ;COLOUR THEME END
