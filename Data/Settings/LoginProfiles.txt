@@ -159,4 +159,4 @@ PROFILE:VHSK_TWR:50:4
 ATIS2:"Shek Kong Tower"
 ATIS3:Up to date Charts & Procedures - vathk.com/en/charts/airport
 ATIS4:Give feedback on my service - hq.vat-sea.com/atc/feedback
-
+END
