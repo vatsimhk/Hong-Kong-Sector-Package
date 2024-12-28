@@ -13,8 +13,8 @@
 	<Debug mode="false" />
 	<FlowRestrictions url="https://vathk.com/api/cdm" />
 	<vdgsFileType type="3"/>
-	<ftpHost host="ftp.vathk.com" />
-	<ftpUser user="cdm@vathk.com" />
+	<ftpHost host="" />
+	<ftpUser user="" />
 	<ftpPassword password="" />
 	<Server mode="true" />
 	<Su_Wait mode="false" />
