@@ -25,6 +25,7 @@
         {
           "id": "9d497203-fe37-456f-8af5-cfdb28a8ba9d",
           "name": "NON-3RS",
+          "airportConditions": "",
           "notams": "",
           "template": "[FACILITY] DEP ATIS [ATIS_CODE] [OBS_TIME]. [ARPT_COND] WIND [FULL_WX_STRING] [TREND]. [NOTAMS] ",
           "externalGenerator": {
@@ -34,6 +35,7 @@
         {
           "id": "f8841903-7770-45dc-b7a7-e642909b5943",
           "name": "07 3RS",
+          "airportConditions": "",
           "notams": "",
           "template": "[FACILITY] DEP ATIS [ATIS_CODE] [OBS_TIME]. [ARPT_COND] WIND RWY 07C [WIND] RWY 07R [WIND] [VIS] [CLOUDS] [TEMP] [DEW] [PRESSURE] [TREND]. [NOTAMS] ",
           "externalGenerator": {
@@ -190,6 +192,30 @@
         {
           "string": "TFC",
           "spoken": "TRAFFIC"
+        },
+        {
+          "string": "07L",
+          "spoken": "ZERO SEVEN LEFT"
+        },
+        {
+          "string": "07R",
+          "spoken": "ZERO SEVEN RIGHT"
+        },
+        {
+          "string": "07C",
+          "spoken": "ZERO SEVEN CENTRE"
+        },
+        {
+          "string": "25L",
+          "spoken": "TWO FIVE LEFT"
+        },
+        {
+          "string": "25C",
+          "spoken": "TWO FIVE CENTRE"
+        },
+        {
+          "string": "25R",
+          "spoken": "TWO FIVE RIGHT"
         }
       ],
       "airportConditionDefinitions": [],
@@ -430,6 +456,7 @@
         {
           "id": "54f37ff5-0442-478c-8f16-315f3b4ac56b",
           "name": "NON-3RS",
+          "airportConditions": "",
           "notams": "",
           "template": "[FACILITY] ARR ATIS [ATIS_CODE] [OBS_TIME]. [ARPT_COND] WIND [FULL_WX_STRING] [TREND]. [NOTAMS] ",
           "externalGenerator": {
@@ -439,6 +466,7 @@
         {
           "id": "819720e5-9235-4a6c-9da4-c9957a8f05cc",
           "name": "3RS 07",
+          "airportConditions": "",
           "template": "[FACILITY] ARR ATIS [ATIS_CODE] [OBS_TIME]. [ARPT_COND] WIND RWY 07L [WIND] RWY 07R [WIND] [VIS] [CLOUDS] [TEMP] [DEW] [PRESSURE] [TREND]. [NOTAMS] ",
           "externalGenerator": {
             "enabled": false
@@ -561,6 +589,30 @@
         {
           "string": "TFC",
           "spoken": "TRAFFIC"
+        },
+        {
+          "string": "07L",
+          "spoken": "ZERO SEVEN LEFT"
+        },
+        {
+          "string": "07C",
+          "spoken": "ZERO SEVEN CENTRE"
+        },
+        {
+          "string": "07R",
+          "spoken": "ZERO SEVEN RIGHT"
+        },
+        {
+          "string": "25L",
+          "spoken": "TWO FIVE LEFT"
+        },
+        {
+          "string": "25C",
+          "spoken": "TWO FIVE CENTRE"
+        },
+        {
+          "string": "25R",
+          "spoken": "TWO FIVE RIGHT"
         }
       ],
       "airportConditionDefinitions": [],

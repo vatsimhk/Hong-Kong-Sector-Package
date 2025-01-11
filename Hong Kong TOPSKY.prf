@@ -113,7 +113,5 @@ Plugins	Plugin6Display1	Ground Radar display
 Plugins	Plugin7	\Data\Plugins\Event Slots Plugin\VATCANBookings.dll
 Plugins	Plugin7Display0	Standard ES radar screen
 Plugins	Plugin7Display1	Ground Radar display
-Plugins	Plugin8	\Data\Plugins\vACDM\vACDM.dll
-Plugins	Plugin8Display0	Ground Radar display
-Plugins	Plugin8Display1	Standard ES radar screen
-Plugins	Plugin9	\Data\Plugins\VCH\VCH.dll
+Plugins	Plugin8	\Data\Plugins\VCH\VCH.dll
+Plugins	Plugin9	\Data\Plugins\CDM\CDM.dll
