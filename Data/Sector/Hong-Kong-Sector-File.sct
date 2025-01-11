@@ -33,13 +33,13 @@
 ;                                                                                                                                                     
 ;    
 ; EuroScope ATC Sector File
-; Copyright (C) 2024 by HKVACC
+; Copyright (C) 2025 by HKVACC
 ; Coastline data from OpenStreetMap "openstreetmap.org/copyright"
 ; All Rights Reserved
-; Hong Kong sector VERSION 2413
+; Hong Kong sector VERSION 2501dev
 
 [INFO] ;Fong Ga
-Hong Kong Sector 2413
+Hong Kong Sector 2501dev
 HKG_E_CTR
 VHHH
 N022.18.37.757
