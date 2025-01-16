@@ -123,10 +123,10 @@
 .ils07C From LIMES via TONIC, cleared ILS RWY 07C approach.
 .ils07r From LIMES via STELA, cleared ILS RWY 07R approach.
 .ils07l From LIMES via TUTBA, cleared ILS RWY 07L approach.
-.ils25l From TD, cleared ILS RWY 25L approach. 
-.ils25C From TD, cleared ILS RWY 25C approach. 
-.tra25R From TD, descend via RNAV transition.
-.ils25R From TOPUN, cleared ILS RWY 25R approach.
+.ils25l From RIVMI, cleared ILS approach RWY 25L. 
+.ils25C From RIVMI, cleared ILS approach RWY 25C. 
+.tra25R From RIVMI, descend via RNAV transition.
+.ils25R From TOPUN, cleared ILS approach RWY 25R.
 .rptest Report established
 ;KaiTak
 .igs13 From CH, cleared IGS RWY13 approach, report established.
@@ -136,7 +136,6 @@
 ;Macau
 .hazel From HAZEL, cleared ILS Z approach runway 34. QNH $altim(VMMC). Report established
 .ils34 Cleared ILS RWY34 approach. Report established
-.llz16 Cleared LOC/DME RWY16 approach. Report established.
 ;VFR
 .left Left closed traffic, maintain VFR not above $1 ft, squawk $squawk, report downwind
 .right Right closed traffic, maintain VFR not above $1 ft, squawk $squawk, report downwind
@@ -150,7 +149,7 @@
 .intds2 when ready, descend to reach $1 by $2. Report leaving $3 .
 .dct Track direct $1
 .thx Thank you for flying in Hong Kong, hope to see you again. Good bye!
-.dmusel When ready, descend FL130 by MUSEL
+.dmusel When ready, descend FL110 by MUSEL
 .dmango When ready, descend FL130 by MANGO
 .dcanto When ready, descend FL130 by CANTO
 .dmurry When ready, descend FL150 by MURRY
