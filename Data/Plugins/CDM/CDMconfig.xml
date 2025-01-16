@@ -16,6 +16,6 @@
 	<ftpHost host="" />
 	<ftpUser user="" />
 	<ftpPassword password="" />
-	<Server mode="true" />
+	<Server mode="false" />
 	<Su_Wait mode="false" />
 </CDM>
