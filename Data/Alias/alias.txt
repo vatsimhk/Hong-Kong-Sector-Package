@@ -119,7 +119,7 @@
 .pd On pilot's own discretion,
 .rais $arr airport is at your $oclock($arr), $dist($arr) nm, report it insight.
 ;ILS Clearence
-.ils Cleared ILS RWY approach $arrrwy, report established.
+.ils Cleared ILS approach RWY $arrrwy, report established.
 .ils07C From LIMES via TONIC, cleared ILS approach RWY 07C.
 .ils07r From LIMES via STELA, cleared ILS approach RWY 07R.
 .ils07l From LIMES via TUTBA, cleared ILS approach RWY 07L.
