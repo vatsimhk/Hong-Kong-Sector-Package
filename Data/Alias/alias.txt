@@ -10,14 +10,11 @@
 .ho Contact $radioname($1) ($atccallsign($1)) on $freq($1), good day.
 .req Contact $radioname($1) on $freq($1) with your requests, good day.
 .ctr Contact Hong Kong Radar on 127.1, good day.
-.tme Contact Hong Kong Radar on 126.5, good day.
-.dep Contact Hong Kong Departure on 123.8, good day.
+.tmw Contact Hong Kong Radar on 127.55, good day.
 .app Contact Hong Kong Approach on 119.1, good day.
 .fad Contact Hong Kong Director on 119.5, callsign only, good day.
 .twr Contact Hong Kong Tower on 118.4, good day.
-.twrn Contact Hong Kong Tower on 118.7, good day.
-.gnd Contact Hong Kong Ground on 122.55, good day.
-.pek Contact Beijing Control on 133.075, good day.
+.gnd Contact Hong Kong Ground on 121.6, good day.
 ;Predeparture Clearance PDC: 
 .pdc $time $dep PDC $aircraft CLRD TO $arr OFF $deprwy VIA $sid SQUAWK $asquawk NEXT FREQ $com ATIS $1. CLIMB VIA SID TO $temp. ACK PDC. CTC $uc($radioname) ON $com WHEN READY TO START
 .nopdc $aircraft PDC REJECTED - FLIGHT PLAN INVALID - REVERT TO VOICE PROCEDURES.
@@ -122,24 +119,23 @@
 .pd On pilot's own discretion,
 .rais $arr airport is at your $oclock($arr), $dist($arr) nm, report it insight.
 ;ILS Clearence
-.ils Cleared ILS RWY $arrrwy approach, report established.
-.ils07C From LIMES via TONIC, cleared ILS RWY 07C approach.
-.ils07r From LIMES via STELA, cleared ILS RWY 07R approach.
-.ils07l From LIMES via TUTBA, cleared ILS RWY 07L approach.
-.ils25l From TD, cleared ILS RWY 25L approach. 
-.ils25C From TD, cleared ILS RWY 25C approach. 
-.tra25R From TD, descend via RNAV transition.
-.ils25R From TOPUN, cleared ILS RWY 25R approach.
+.ils Cleared ILS approach RWY $arrrwy, report established.
+.ils07C From LIMES via TONIC, cleared ILS approach RWY 07C.
+.ils07r From LIMES via STELA, cleared ILS approach RWY 07R.
+.ils07l From LIMES via TUTBA, cleared ILS approach RWY 07L.
+.ils25l From RIVMI, cleared ILS approach RWY 25L. 
+.ils25C From RIVMI, cleared ILS approach RWY 25C. 
+.tra25R From RIVMI, descend via RNAV transition.
+.ils25R From TOPUN, cleared ILS approach RWY 25R.
 .rptest Report established
 ;KaiTak
-.igs13 From CH, cleared IGS RWY13 approach, report established.
+.igs13 From CH, cleared IGS approach RWY13, report established.
 .OM Report Outer Marker
 .GL Report Green Island insight
 .cb Report checkerboard insight
 ;Macau
 .hazel From HAZEL, cleared ILS Z approach runway 34. QNH $altim(VMMC). Report established
-.ils34 Cleared ILS RWY34 approach. Report established
-.llz16 Cleared LOC/DME RWY16 approach. Report established.
+.ils34 Cleared ILS approach RWY34. Report established
 ;VFR
 .left Left closed traffic, maintain VFR not above $1 ft, squawk $squawk, report downwind
 .right Right closed traffic, maintain VFR not above $1 ft, squawk $squawk, report downwind
@@ -153,7 +149,7 @@
 .intds2 when ready, descend to reach $1 by $2. Report leaving $3 .
 .dct Track direct $1
 .thx Thank you for flying in Hong Kong, hope to see you again. Good bye!
-.dmusel When ready, descend FL130 by MUSEL
+.dmusel When ready, descend FL110 by MUSEL
 .dmango When ready, descend FL130 by MANGO
 .dcanto When ready, descend FL130 by CANTO
 .dmurry When ready, descend FL150 by MURRY
