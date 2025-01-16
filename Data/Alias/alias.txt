@@ -119,23 +119,23 @@
 .pd On pilot's own discretion,
 .rais $arr airport is at your $oclock($arr), $dist($arr) nm, report it insight.
 ;ILS Clearence
-.ils Cleared ILS RWY $arrrwy approach, report established.
-.ils07C From LIMES via TONIC, cleared ILS RWY 07C approach.
-.ils07r From LIMES via STELA, cleared ILS RWY 07R approach.
-.ils07l From LIMES via TUTBA, cleared ILS RWY 07L approach.
+.ils Cleared ILS RWY approach $arrrwy, report established.
+.ils07C From LIMES via TONIC, cleared ILS approach RWY 07C.
+.ils07r From LIMES via STELA, cleared ILS approach RWY 07R.
+.ils07l From LIMES via TUTBA, cleared ILS approach RWY 07L.
 .ils25l From RIVMI, cleared ILS approach RWY 25L. 
 .ils25C From RIVMI, cleared ILS approach RWY 25C. 
 .tra25R From RIVMI, descend via RNAV transition.
 .ils25R From TOPUN, cleared ILS approach RWY 25R.
 .rptest Report established
 ;KaiTak
-.igs13 From CH, cleared IGS RWY13 approach, report established.
+.igs13 From CH, cleared IGS approach RWY13, report established.
 .OM Report Outer Marker
 .GL Report Green Island insight
 .cb Report checkerboard insight
 ;Macau
 .hazel From HAZEL, cleared ILS Z approach runway 34. QNH $altim(VMMC). Report established
-.ils34 Cleared ILS RWY34 approach. Report established
+.ils34 Cleared ILS approach RWY34. Report established
 ;VFR
 .left Left closed traffic, maintain VFR not above $1 ft, squawk $squawk, report downwind
 .right Right closed traffic, maintain VFR not above $1 ft, squawk $squawk, report downwind
