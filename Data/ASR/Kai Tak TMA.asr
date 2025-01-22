@@ -3,6 +3,7 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:Hong-Kong-Sector-File.sct
+Regions:Kai Tak Radar Scope Background:polygon
 SHOWC:1
 SHOWSB:0
 BELOW:500
