@@ -46,6 +46,7 @@ ASRFastKeys	3	\Data\ASR\Hong Kong GMC.asr
 ASRFastKeys	4	\Data\ASR\Kai Tak GMC.asr
 ASRFastKeys	5	\Data\ASR\Macau GMC.asr
 ASRFastKeys	6	\Data\ASR\Hong Kong Zone.asr
+ASRFastKeys	7	\Data\ASR\Kai Tak TMA.asr
 Plugins	Plugin0	\Data\Plugins\TopSky\TopSky.dll
 Plugins	Plugin2	\Data\Plugins\Radio Direction Finder\RDFPlugin.dll
 Plugins	Plugin3	\Data\Plugins\Discord Euroscope\DiscordEuroscope.dll
