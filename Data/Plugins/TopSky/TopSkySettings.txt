@@ -81,7 +81,7 @@ Shortcut_Map_Target=3,WPT LBLS\25 APP/DEP
 Shortcut_Map_Target=4,WPT LBLS\34 VMMC
 Shortcut_Map_Target=5,WPT LBLS\16 VMMC
 Shortcut_Map_Target=6,WPT LBLS\VFR
-Shortcut_Map_Target=7,VHHX\Kai Tak
+Shortcut_Map_Target=7,VHHX\Kai Tak (Shortcut)
 
 [_CTR]
 Window_CPDLC_Current=1,1510,630
