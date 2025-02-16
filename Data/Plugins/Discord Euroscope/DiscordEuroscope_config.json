@@ -82,7 +82,7 @@
           "path_to_ese": "..\\..\\Sector"
         },
         "custom_callsigns": {
-            "^HKG_FLC$": "Hong Kong Flow Control",
+            "^HKG_FMP$": "Hong Kong Flow Control",
             "^HKG_M_CTR$": "Hong Kong Radar (Mentor)",
             "^HKG_I_CTR$": "Hong Kong Radar (Instructor)",
             "^HKG_X_CTR$": "Hong Kong Radar (Examiner)",
@@ -114,11 +114,12 @@
             "^HKG_C_CTR$": "Hong Kong Radar (Area Radar Central)",
             "^HKG_E_CTR$": "Hong Kong Radar (Area Radar East)",
             "^HKG_K_CTR$": "Hong Kong Radar (Area Radar East Arrivals)",
+            "^HKG_U_CTR$": "Hong Kong Radar (Area Radar Upper)",
             "^VHHH_W_APP$": "Hong Kong Radar (Terminal Radar West)",
             "^VHHH_C_DEP$": "Hong Kong Radar (Terminal Departure South)",
             "^VHHH_S_APP$": "Hong Kong Radar (Terminal Radar South)",
-            "^VHHH_E_DEP$": "Hong Kong Radar (Terminal Radar East)",
-            "^VHHH_E_APP$": "Hong Kong Radar (Terminal Departure East)",
+            "^VHHH_E_DEP$": "Hong Kong Radar (Terminal Departure East)",
+            "^VHHH_E_APP$": "Hong Kong Radar (Terminal Radar East)",
             "^VMMC_APP$": "Hong Kong Radar (Macau)",
             "^VHHH_APP$": "Hong Kong Approach",
             "^VHHH_F_APP$": "Hong Kong Director",
@@ -128,6 +129,7 @@
             "^VHHH_Z_TWR$": "Hong Kong Zone",
             "^VHHH_F_TWR$": "Hong Kong Information",
             "^VHHH_N_TWR$": "Hong Kong Tower (North)",
+            "^VHHH_C_TWR$": "Hong Kong Tower (Midfield)",
             "^VHHH_S_TWR$": "Hong Kong Tower (South)",
             "^VHHH_1_GND$": "Hong Kong Ground",
             "^VHHH_2_GND$": "Hong Kong Ground",
@@ -140,7 +142,8 @@
             "^VHHX_DEL$": "Hong Kong Delivery (Kai Tak)",
             "^VMMC_TWR$": "Macau Tower",
             "^VMMC_GND$": "Macau Ground",
-            "^VMMC_DEL$": "Macau Delivery"
+            "^VMMC_DEL$": "Macau Delivery",
+            "^VHSK_TWR$": "Shek Kong Tower"
         }
     }
 }
