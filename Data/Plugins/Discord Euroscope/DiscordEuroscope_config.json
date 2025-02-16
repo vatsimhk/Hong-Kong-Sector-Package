@@ -120,7 +120,7 @@
             "^VHHH_S_APP$": "Hong Kong Radar (Terminal Radar South)",
             "^VHHH_E_DEP$": "Hong Kong Radar (Terminal Departure East)",
             "^VHHH_E_APP$": "Hong Kong Radar (Terminal Radar East)",
-            "^VMMC_APP$": "Hong Kong Radar (Macau)",
+            "^VMMC_APP$": "Hong Kong Radar (Macau Approach Radar)",
             "^VHHH_APP$": "Hong Kong Approach",
             "^VHHH_F_APP$": "Hong Kong Director",
             "^VHHH_S_DEP$": "Hong Kong Departure (South)",
