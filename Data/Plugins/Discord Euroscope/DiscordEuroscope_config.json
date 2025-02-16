@@ -107,7 +107,7 @@
             "^VMMC_M(?:_+)GND$": "Macau Ground (Mentor)",
             "^VMMC_I(?:_+)GND$": "Macau Ground (Instructor)",
             "^VMMC_X(?:_+)GND$": "Macau Ground (Examiner)",
-            "^HKG_[WVD]](?:_+)CTR$": "Hong Kong Radar (Area Radar West)",
+            "^HKG_[WVD](?:_+)CTR$": "Hong Kong Radar (Area Radar West)",
             "^HKG_S(?:_+)CTR$": "Hong Kong Radar (Area Radar South)",
             "^HKG_C(?:_+)CTR$": "Hong Kong Radar (Area Radar Central)",
             "^HKG_E(?:_+)CTR$": "Hong Kong Radar (Area Radar East)",
