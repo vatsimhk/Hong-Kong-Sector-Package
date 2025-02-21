@@ -15,10 +15,10 @@
         "playback": {
             "presence_small_image_key": "green",
             "presence_large_image_key" : "vathk_logo",
-            "state" : "Playbacking a logfile",
+            "state" : "Playing back a logfile",
             "details" : "Playback",
             "presence_small_image_text" : "Playback",
-            "presence_large_image_text" : ""
+            "presence_large_image_text" : "{callsign}"
         },
         "sweatbox": {
             "presence_small_image_key": "orange",
