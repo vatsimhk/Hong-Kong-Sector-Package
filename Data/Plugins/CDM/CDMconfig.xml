@@ -2,6 +2,7 @@
 <CDM>
 	<rate ops="72" />
 	<rateLvo ops="72" />
+	<sidInterval url:"https://vathk.com/cdm/sid.txt" />
 	<expiredCtot time="25" />
 	<realMode mode="true" />
 	<invalidateAtTsat mode="true" />
