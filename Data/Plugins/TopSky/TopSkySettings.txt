@@ -20,7 +20,7 @@ Color_Concerned=117,132,142
 Color_Unconcerned=117,132,142
 Color_Sid_Star_Allocation=239,158,107
 Color_Rwy_Locked=241,246,255
-Color_Weather_Map=0,86,86
+Color_Weather_Map=17,143,9
 //COLOUR THEME END
 
 Color_AIW_Intrusion=239,158,107
@@ -66,7 +66,6 @@ RDF_Mode=-1
 WXR_Latitude=22.3
 WXR_Longitude=114.2
 WXR_Brightness=20
-WXR_Zoom=4
 
 WXR_Longitude_Max=121
 WXR_Longitude_Min=108
@@ -100,6 +99,7 @@ STCA_VFR=1
 APW=0
 SAP=0
 System_FPASD=1
+WXR_Zoom=5
 
 [_APP]
 Window_CPDLC_Current=1,1510,630
@@ -112,6 +112,7 @@ STCA_VFR=1
 APW=0
 MTCD=0
 SAP=0
+WXR_Zoom=7
 
 [_TWR]
 Window_CPDLC_Current=1,1510,630
