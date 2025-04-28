@@ -1,7 +1,9 @@
 <?xml version="1.0"?>
 <CDM>
-	<rate ops="72" />
-	<rateLvo ops="72" />
+	<rate ops="40" />
+	<rateLvo ops="40" />
+	<pilotTobt mode="true"/>
+	<autoAtot mode="false" />
 	<sidInterval url="https://vathk.com/cdm/sid.txt" />
 	<expiredCtot time="25" />
 	<realMode mode="true" />
