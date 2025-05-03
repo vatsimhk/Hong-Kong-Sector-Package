@@ -2,7 +2,7 @@
 <CDM>
 	<rate ops="40" />
 	<rateLvo ops="40" />
-	<pilotTobt mode="true"/>
+	<pilotTobt mode="false"/>
 	<autoAtot mode="false" />
 	<sidInterval url="https://vathk.com/cdm/sid.txt" />
 	<expiredCtot time="25" />
