@@ -19,6 +19,8 @@ Equip_ModeS=0
 AppLabel_Font=EuroScope
 Track_HistoryDots_APP=4
 
+System_GUI_Version=1
+
 Label_AFL+VS=1,0,1
 Label_ARWY=0,0,0
 Label_ATYP=0,1,0
