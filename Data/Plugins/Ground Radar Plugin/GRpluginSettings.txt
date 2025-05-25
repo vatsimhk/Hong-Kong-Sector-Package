@@ -64,17 +64,19 @@ RawVideo_Brightness=50
 List_Departure_RWY=1
 List_Departure_SID=1
 List_Departure_TYPE=1
-List_Departure_WTC=1
+List_Departure_WTC=0
+List_Departure_SSR=1
 List_Departure_ADES=0
 List_Departure_EOBT=1
-List_Departure_STAND=1
+List_Departure_STAND=0
 
 List_Arrival_RWY=0
 List_Arrival_TYPE=1
 List_Arrival_WTC=1
+List_Arrival_SSR=1
 List_Arrival_ADEP=0
 List_Arrival_ETA=1
-List_Arrival_STAND=1
+List_Arrival_STAND=0
 
 System_State_OnFreq=STBY
 System_State_StartUp=STUP
