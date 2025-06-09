@@ -1,0 +1,143 @@
+{
+    "discord_appid": "1118160237522862102",
+    "discord_presence_large_image_key" : "vathk_logo",
+    "discord_presence_small_image_key" : "",
+    "sweatbox_bypass" : false,
+    "states" : {
+        "idle": {
+            "presence_small_image_key": "",
+            "presence_large_image_key" : "vathk_logo",
+            "state" : "",
+            "details" : "Idle",
+            "presence_small_image_text" : "",
+            "presence_large_image_text" : "Idle"
+        },
+        "playback": {
+            "presence_small_image_key": "green",
+            "presence_large_image_key" : "vathk_logo",
+            "state" : "Playing back a logfile",
+            "details" : "Playback",
+            "presence_small_image_text" : "Playback",
+            "presence_large_image_text" : "{callsign}"
+        },
+        "sweatbox": {
+            "presence_small_image_key": "orange",
+            "presence_large_image_key" : "vathk_logo",
+            "state" : "Making someone sweat",
+            "details" : "Hosting a Sweatbox session",
+            "presence_small_image_text" : "Sweatbox",
+            "presence_large_image_text" : ""
+        },
+        "direct": {
+            "presence_small_image_key": "",
+            "presence_large_image_key" : "",
+            "state" : "",
+            "details" : "",
+            "presence_small_image_text" : "",
+            "presence_large_image_text" : "",
+            
+            "if_observer" : {
+                "presence_small_image_key": "green",
+                "presence_large_image_key" : "vathk_logo",
+                "state" : "Aircraft in range: {total_inrange}",
+                "details" : "Observing as {callsign}",
+                "presence_small_image_text" : "Observing",
+                "presence_large_image_text" : "{callsign}",
+                "buttons": [
+                    {
+                        "label": "Visit our website",
+                        "url": "https://vathk.com"
+                    }
+                ]
+            },
+            
+            "if_controller": {
+                "presence_small_image_key": "red",
+                "presence_large_image_key" : "vathk_logo",
+                "state" : "{callsign} on {frequency}MHz",
+                "details" : "{rcallsign}",
+                "presence_small_image_text" : "Controlling",
+                "presence_large_image_text" : "{callsign}",
+                "buttons": [
+                    {
+                        "label": "Check my sector",
+                        "url": "https://vatsim-radar.com/?atc={callsign}"
+                    }
+                ]
+            },
+            
+            "if_supervisor": {
+                "presence_small_image_key": "",
+                "presence_large_image_key" : "",
+                "state" : "",
+                "details" : "",
+                "presence_small_image_text" : "",
+                "presence_large_image_text" : ""
+            }
+        }
+    },
+    "radio_callsigns": {
+        "config": {
+          "load_from_ese": false,
+          "path_to_ese": "..\\..\\Sector"
+        },
+        "custom_callsigns": {
+            "^HKG(?:_+)FMP$": "Hong Kong Flow Control",
+            "^HKG_M(?:_+)CTR$": "Hong Kong Radar (Mentor)",
+            "^HKG_I(?:_+)CTR$": "Hong Kong Radar (Instructor)",
+            "^HKG_X(?:_+)CTR$": "Hong Kong Radar (Examiner)",
+            "^VHHH_M(?:_+)APP$": "Hong Kong Approach (Mentor)",
+            "^VHHH_I(?:_+)APP$": "Hong Kong Approach (Instructor)",
+            "^VHHH_X(?:_+)APP$": "Hong Kong Approach (Examiner)",
+            "^VHHH_M(?:_+)TWR$": "Hong Kong Tower (Mentor)",
+            "^VHHH_I(?:_+)TWR$": "Hong Kong Tower (Instructor)",
+            "^VHHH_X(?:_+)TWR$": "Hong Kong Tower (Examiner)",
+            "^VHHH_M(?:_+)GND$": "Hong Kong Ground (Mentor)",
+            "^VHHH_I(?:_+)GND$": "Hong Kong Ground (Instructor)",
+            "^VHHH_X(?:_+)GND$": "Hong Kong Ground (Examiner)",
+            "^VHHX_M(?:_+)TWR$": "Hong Kong Tower (Mentor)",
+            "^VHHX_I(?:_+)TWR$": "Hong Kong Tower (Instructor)",
+            "^VHHX_X(?:_+)TWR$": "Hong Kong Tower (Examiner)",
+            "^VHHX_M(?:_+)GND$": "Hong Kong Tower (Mentor)",
+            "^VHHX_I(?:_+)GND$": "Hong Kong Tower (Instructor)",
+            "^VHHX_X(?:_+)GND$": "Hong Kong Tower (Examiner)",
+            "^VMMC_M(?:_+)TWR$": "Macau Tower (Mentor)",
+            "^VMMC_I(?:_+)TWR$": "Macau Tower (Instructor)",
+            "^VMMC_X(?:_+)TWR$": "Macau Tower (Examiner)",
+            "^VMMC_M(?:_+)GND$": "Macau Ground (Mentor)",
+            "^VMMC_I(?:_+)GND$": "Macau Ground (Instructor)",
+            "^VMMC_X(?:_+)GND$": "Macau Ground (Examiner)",
+            "^HKG_[WVD](?:_+)CTR$": "Hong Kong Radar (Area Radar West)",
+            "^HKG_S(?:_+)CTR$": "Hong Kong Radar (Area Radar South)",
+            "^HKG_C(?:_+)CTR$": "Hong Kong Radar (Area Radar Central)",
+            "^HKG_E(?:_+)CTR$": "Hong Kong Radar (Area Radar East)",
+            "^HKG_K(?:_+)CTR$": "Hong Kong Radar (Area Radar East Arrivals)",
+            "^HKG_U(?:_+)CTR$": "Hong Kong Radar (Area Radar Upper)",
+            "^VHHH_W(?:_+)APP$": "Hong Kong Radar (Terminal Radar West)",
+            "^VHHH_C(?:_+)DEP$": "Hong Kong Radar (Terminal Departure South)",
+            "^VHHH_S(?:_+)APP$": "Hong Kong Radar (Terminal Radar South)",
+            "^VHHH_E(?:_+)DEP$": "Hong Kong Radar (Terminal Departure East)",
+            "^VHHH_E(?:_+)APP$": "Hong Kong Radar (Terminal Radar East)",
+            "^VMMC(?:_+)APP$": "Hong Kong Radar (Macau Approach Radar)",
+            "^VHHH(?:_+)APP$": "Hong Kong Approach",
+            "^VHHH_F(?:_+)APP$": "Hong Kong Director",
+            "^VHHH_S(?:_+)DEP$": "Hong Kong Departure (South)",
+            "^VHHH_N(?:_+)DEP$": "Hong Kong Departure (North)",
+            "^VHHH_H(?:_+)DEP$": "Hong Kong Departure (High)",
+            "^VHHH_Z(?:_+)TWR$": "Hong Kong Zone",
+            "^VHHH_F(?:_+)TWR$": "Hong Kong Information",
+            "^VHHH_N(?:_+)TWR$": "Hong Kong Tower (North)",
+            "^VHHH_C(?:_+)TWR$": "Hong Kong Tower (Midfield)",
+            "^VHHH_S(?:_+)TWR$": "Hong Kong Tower (South)",
+            "^VHHH_[1-5](?:_+)GND$": "Hong Kong Ground",
+            "^VHHH(?:_+)DEL$": "Hong Kong Delivery",
+            "^VHHX(?:_+)TWR$": "Hong Kong Tower (Kai Tak)",
+            "^VHHX(?:_+)GND$": "Hong Kong Ground (Kai Tak)",
+            "^VHHX(?:_+)DEL$": "Hong Kong Delivery (Kai Tak)",
+            "^VMMC(?:_+)TWR$": "Macau Tower",
+            "^VMMC(?:_+)GND$": "Macau Ground",
+            "^VMMC(?:_+)DEL$": "Macau Delivery",
+            "^VHSK(?:_+)TWR$": "Shek Kong Tower"
+        }
+    }
+}
