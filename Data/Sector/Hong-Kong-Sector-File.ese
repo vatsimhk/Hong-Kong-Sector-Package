@@ -3679,14 +3679,23 @@ COPX:VHHX:*:*:*:*:TRW_M:TRV_M:*:*:LAXET
 
 ; ===== Kai Tak 13 Arrival Coordination Points =====
 
-; West inbound
+; West inbound - 07
 COPX:*:*:*:VHHX:*:TMW_MURRY:07_APP_1:*:14000:CANTO
 
-; South inbound
+; South inbound - 07
 COPX:*:*:*:VHHX:*:TMS:07_APP_1:*:14000:BETTY
 
-; East inbound
+; East inbound - 07
 COPX:*:*:*:VHHX:*:TME:07_APP_4f2:*:14000:ABBEY
+
+; West inbound - 25
+COPX:*:*:*:VHHX:*:TMW_MURRY:25_APP_1:*:14000:CANTO
+
+; South inbound - 25
+COPX:*:*:*:VHHX:*:TMS:25_APP_1:*:14000:BETTY
+
+; East inbound - 25
+COPX:*:*:*:VHHX:*:TME:25_APP_1:*:14000:ABBEY
 
 ; ===== 07R/07C/07L Arrival Coordination Points =====
 
@@ -3709,13 +3718,13 @@ COPX:*:*:VH701:VHHH:07L:07_FAD_2:VHHH_ATZ_N:*:2000:ILS07L
 ; ===== 25C/25L/25R Arrival Coordination Points =====
 
 ; West inbound
-COPX:*:*:MURRY:VHHH:*:TMW:25_APP_1:*:11000:MURRY
+COPX:*:*:MURRY:VHHH:*:TMW:25_FAD_13:*:8000:MURRY
 
 ; South inbound
-COPX:*:*:MANGO:VHHH:*:TMS:25_APP_4:*:13000:MANGO
+COPX:*:*:MANGO:VHHH:*:TMS:25_FAD_13:*:9000:MANGO
 
 ; East inbound
-COPX:*:*:MUSEL:VHHH:*:TME:25_APP_3:*:11000:MUSEL
+COPX:*:*:MUSEL:VHHH:*:TME:25_FAD_13:*:9000:MUSEL
 
 COPX:*:*:TEDUR:VHHH:*:25_APP_2:25_FAD_7:*:6000:TEDUR
 COPX:*:*:TEDUR:VHHH:*:25_APP_6:25_FAD_7:*:6000:TEDUR
@@ -3753,10 +3762,12 @@ COPX:VHHH:*:HH481:*:*:25_DES_10:25_DEH_7:13000:*:^F130
 
 ; ===== Kai Tak 13 Departure Coordination Points =====
 COPX:VHHX:13:LIMA:*:*:VHHX_ATZ:07_APP_4f1:7000:*:DEP13
+COPX:VHHX:*:*:*:*:07_APP_5e:TDE_L:14000:*:^TDE
+COPX:VHHX:*:*:*:*:07_APP_1:TDC:14000:*:^TDC
 
-COPX:VHHH:*:*:*:*:07_APP_5e:TDE_L:14000:*:^TDE
-
-COPX:VHHH:*:*:*:*:07_APP_1:TDC:14000:*:^TDC
+COPX:VHHX:13:LIMA:*:*:VHHX_ATZ:25_APP_1:5000:*:DEP13
+COPX:VHHX:*:*:*:*:25_APP_1:TDE_L:14000:*:^TDE
+COPX:VHHX:*:*:*:*:25_APP_1:TDC:14000:*:^TDC
 
 ;TDE
 COPX:VHHH:*:MEBKI:*:*:TDE_H:TRE_M:25000:*:MEBKI
