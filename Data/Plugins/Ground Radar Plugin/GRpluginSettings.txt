@@ -19,6 +19,8 @@ Equip_ModeS=0
 AppLabel_Font=EuroScope
 Track_HistoryDots_APP=4
 
+System_GUI_Version=1
+
 Label_AFL+VS=1,0,1
 Label_ARWY=0,0,0
 Label_ATYP=0,1,0
@@ -52,9 +54,8 @@ RawVideo_Brightness=70
 RawVideo_Afterglow=70
 RawVideo_MaxHistory=0
 
-List_Stand=1,1500,600
-List_Arrival=1,1500,800
-Window_APP=1,1500,300,250,250
+Window_APP_DefPos=1500,300
+Window_APP_DefSize=250,250
 Window_APP_Scale=20
 Window_APP_Extensions=0
 Window_APW_MaxDist=8
@@ -63,17 +64,19 @@ RawVideo_Brightness=50
 List_Departure_RWY=1
 List_Departure_SID=1
 List_Departure_TYPE=1
-List_Departure_WTC=1
+List_Departure_WTC=0
+List_Departure_SSR=1
 List_Departure_ADES=0
 List_Departure_EOBT=1
-List_Departure_STAND=1
+List_Departure_STAND=0
 
 List_Arrival_RWY=0
 List_Arrival_TYPE=1
 List_Arrival_WTC=1
+List_Arrival_SSR=1
 List_Arrival_ADEP=0
 List_Arrival_ETA=1
-List_Arrival_STAND=1
+List_Arrival_STAND=0
 
 System_State_OnFreq=STBY
 System_State_StartUp=STUP
@@ -96,6 +99,9 @@ AppPath=VMMC:16:N022.11.48.221:E113.34.30.421:218:R:710:3
 AppPath=VHHX:13:N022.19.53.540:E114.09.54.889:088:R:660:3
 AppPath=VHHX:31:N022.18.20.590:E114.12.52.843:316:L:15:3
 
+//System_GlobalMenu_Font=Source Code Pro
+System_GlobalMenu_FontSize=13
+
 [VHHH]
 Airport_Runway_Area=07C:N022.19.17.744:E113.55.54.703:N022.19.19.306:E113.55.54.109:N022.18.35.728:E113.53.38.914:N022.18.34.193:E113.53.39.472
 Airport_Runway_Buffer=07C:N022.18.37.922:E113.53.39.356:N022.19.19.848:E113.55.50.580:N022.19.15.100:E113.55.52.482:N022.18.32.579:E113.53.41.345
@@ -103,6 +109,8 @@ Airport_Runway_Buffer=07C:N022.18.37.922:E113.53.39.356:N022.19.19.848:E113.55.5
 Color_Departure=210,211,132
 Color_Arrival=85,199,217
 Color_SelectedLabelFill_Gnd=53,53,53
+GroundLabel_UseSelColor=0
+GroundLabel_Transparency_Bd=0
 GroundLabel_FontSize=13
 Color_SelectedFieldFill_Gnd=154,69,67
 GroundLabel_Transparency_Bg=200
@@ -144,7 +152,12 @@ Label=GND:ARR:2:GS,0,0:AFL,0,2,13:ATYP,0,2:RMK,0,2
 Label=GND:DEP:0:ALRT,0,0:ASSR_E,0,1:COMM,0,1
 Label=GND:DEP:1:CALLSIGN,0,0:DRWY,0,2:SID,0,2
 Label=GND:DEP:2:GS,0,0:AFL,0,2,13:ATYP,0,2:RMK,0,2
+Window_APP=1,1,1500,300,250,250 
 
 [VHHX]
 Airport_Runway_Area=13:N022.19.31.968:E114.11.34.081:N022.18.15.255:E114.12.59.606:N022.18.13.261:E114.12.57.745:N022.19.30.280:E114.11.31.990
 Airport_Runway_Buffer=13:N022.19.33.737:E114.11.34.830:N022.18.15.142:E114.13.02.234:N022.18.10.266:E114.12.57.913:N022.19.29.421:E114.11.29.995
+Window_APP=1,1,1500,300,250,250 
+
+[VMMC]
+Window_APP=1,1,1500,300,250,250 
