@@ -63,15 +63,19 @@ CPDLC_Send_FSM_RCD=1
 RDF_Mode=-1
 
 //WXR
+WXR_Zoom=5
+WXR_Brightness=50
 WXR_Latitude=22.3
 WXR_Longitude=114.2
-WXR_Brightness=20
-
 WXR_Longitude_Max=121
 WXR_Longitude_Min=108
 WXR_Latitude_Min=16
 WXR_Latitude_Max=24
 Window_AD_WxRefreshInterval=600
+WXR_DisplayType=0
+WXR_Echo_dBZ_Hi=50
+WXR_Echo_dBZ_Med=40
+WXR_Echo_dBZ_Lo=30
 
 //Toggle maps shortcut
 Shortcut_Map_Target=1,WPT LBLS\TR_TMC
