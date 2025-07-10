@@ -1,8 +1,10 @@
 <?xml version="1.0"?>
 <CDM>
-	<rate ops="72" />
-	<rateLvo ops="72" />
-	<sidInterval url:"https://vathk.com/cdm/sid.txt" />
+	<rate ops="40" />
+	<rateLvo ops="40" />
+	<pilotTobt mode="true"/>
+	<autoAtot mode="false" />
+	<sidInterval url="https://vathk.com/cdm/sid.txt" />
 	<expiredCtot time="25" />
 	<realMode mode="true" />
 	<invalidateAtTsat mode="true" />
@@ -17,6 +19,7 @@
 	<ftpHost host="" />
 	<ftpUser user="" />
 	<ftpPassword password="" />
-	<Server mode="false" />
+	<Server mode="true" />
 	<Su_Wait mode="false" />
+	<sftpConnection mode="false" />
 </CDM>
