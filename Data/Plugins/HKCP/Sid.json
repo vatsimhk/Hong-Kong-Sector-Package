@@ -110,9 +110,15 @@
         {
           "direction": "ODD",
           "airways": ["V641 SKATE KAPLI G86", "V641 SKATE DCT KAPLI G86"],
+          "destinations": ["RC*"],
           "allowed_fls": ["290", "330", "370", "390", "410"],
-          "FLAS": "FL290, FL330, FL370, FL390 (RCxx), FL410",
-          "restrictedDestinations": [{"icaoStartsWith": "RC", "restrictedLevels": ["390"]}]
+          "FLAS": "FL290, FL330, FL370, FL390 (RCxx), FL410"
+        },
+        {
+          "direction": "ODD",
+          "airways": ["V641 SKATE KAPLI G86", "V641 SKATE DCT KAPLI G86"],
+          "allowed_fls": ["290", "330", "370", "410"],
+          "FLAS": "FL290, FL330, FL370, FL390 (RCxx), FL410"
         }
       ],
       "BEKOL": [
@@ -666,9 +672,15 @@
         {
           "direction": "ODD",
           "airways": "KAPLI G86",
+          "destinations": ["RC*"],
           "allowed_fls": ["290", "330", "370", "390", "410"],
-          "FLAS": "FL290, FL330, FL370, FL390, FL410",
-           "restrictedDestinations": [{"icaoStartsWith": "RC", "restrictedLevels": ["390"]}]
+          "FLAS": "FL290, FL330, FL370, FL390 (RCxx), FL410"
+        },
+        {
+          "direction": "ODD",
+          "airways": "KAPLI G86",
+          "allowed_fls": ["290", "330", "370", "410"],
+          "FLAS": "FL290, FL330, FL370, FL390 (RCxx), FL410"
         }
       ],
       "ALLEY": [
