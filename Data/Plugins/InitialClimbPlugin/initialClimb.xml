@@ -28,7 +28,7 @@
 			<sid name="BEKOL">
 				<alt>050</alt>
 			</sid>
-			<sid name="ALDAD">
+			<sid name="ADLAD">
 				<alt>050</alt>
 			</sid>
 			<sid name="LEKEN">
@@ -121,7 +121,7 @@
     </apt>
 	<apt icao="VMMC">
 		<runway name="34">
-			<sid name="SHL">
+			<sid name="IDUMA">
 				<alt>039</alt>
 			</sid>
 			<sid name="MIPAG">
@@ -133,7 +133,7 @@
 			<sid name="BIGRO">
 				<alt>039</alt>
 			</sid>
-			<sid name="SOUSA">
+			<sid name="NUDPI">
 				<alt>060</alt>
 			</sid>
 			<sid name="CONGA">
@@ -150,7 +150,7 @@
 			</sid>
 		</runway>
 		<runway name="16">
-			<sid name="SHL">
+			<sid name="IDUMA">
 				<alt>059</alt>
 			</sid>
 			<sid name="MIPAG">
@@ -162,7 +162,7 @@
 			<sid name="BIGRO">
 				<alt>049</alt>
 			</sid>
-			<sid name="SOUSA">
+			<sid name="NUDPI">
 				<alt>040</alt>
 			</sid>
 			<sid name="CONGA">
