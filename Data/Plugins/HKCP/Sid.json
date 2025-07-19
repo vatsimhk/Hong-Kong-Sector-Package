@@ -157,7 +157,7 @@
             "A461 IDUMA W22 SHL G471 PLT",
             "A461 SHL G471 PLT",
             "A461 BUBDA W56",
-            "A461 MEXON W616"
+            "A461 MEXON"
           ],
           "allowed_fls": ["291", "311", "331", "351", "371", "391", "411"],
           "FLAS": "Metric RVSM Eastbound Levels"
