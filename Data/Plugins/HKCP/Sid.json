@@ -156,36 +156,8 @@
             "A461 WXI",
             "A461 IDUMA W22 SHL G471 PLT",
             "A461 SHL G471 PLT",
-            "A461 BUBDA W56"
-          ],
-          "allowed_fls": ["291", "311", "331", "351", "371", "391", "411"],
-          "FLAS": "Metric RVSM Eastbound Levels"
-        },
-        {
-          "destinations": ["ZGGG"],
-          "allowed_fls": ["138", "148"],
-          "FLAS": "FL138 (4200m), FL148 (4500m)"
-        },
-        {
-          "destinations": ["ZGSZ"],
-          "allowed_fls": ["59"],
-          "FLAS": "5900ft (1800m)"
-        },
-        {
-          "airways": ["A461 SHL W22 TEPID W24 OSNOV G586"],
-          "allowed_fls": ["301", "321", "341", "361", "381", "401"],
-          "FLAS": "Metric RVSM Westbound Levels"
-        },
-        {
-          "airways": [
-            "A461 ZHO",
-            "A461 LKO",
-            "A461 LIG",
-            "A461 OBLIK",
-            "A461 WXI",
-            "A461 IDUMA W22 SHL G471 PLT",
-            "A461 SHL G471 PLT",
-            "A461 BUBDA W56"
+            "A461 BUBDA W56",
+            "A461 MEXON W616"
           ],
           "allowed_fls": ["291", "311", "331", "351", "371", "391", "411"],
           "FLAS": "Metric RVSM Eastbound Levels"
