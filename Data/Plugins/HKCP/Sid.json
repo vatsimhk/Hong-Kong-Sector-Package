@@ -86,26 +86,6 @@
           "allowed_fls": ["290", "330", "370"],
           "airways": ["V641 NOMAN A461", "V641 NOMAN M501"],
           "FLAS": "FL290, FL330, FL370"
-        }
-      ],
-      "V651": [
-        {
-          "sid_07": ["DALOL1X/07R", "DALOL1Y/07C", "DALOL1Z/07L"],
-          "sid_25": ["DALOL1D/25C", "DALOL1B/25L", "DALOL1F/25R"],
-          "sid_noise": ["DALOL1Y/07C", "DALOL1Z/07L", "DALOL1X/07R"]
-        },
-        {
-          "direction": "ODD",
-          "allowed_fls": ["290", "330", "370", "410"],
-          "airways": "V651 SABNO A583",
-          "FLAS": "FL290, FL330, FL370, FL410"
-        }
-      ],
-      "KAPLI": [
-        {
-          "sid_07": ["DALOL1X/07R", "DALOL1Y/07C", "DALOL1Z/07L"],
-          "sid_25": ["DALOL1D/25C", "DALOL1B/25L", "DALOL1F/25R"],
-          "sid_noise": ["DALOL1X/07R", "DALOL1Y/07C", "DALOL1Z/07L"]
         },
         {
           "direction": "ODD",
@@ -119,6 +99,19 @@
           "airways": ["V641 SKATE KAPLI G86", "V641 SKATE DCT KAPLI G86"],
           "allowed_fls": ["290", "330", "370", "410"],
           "FLAS": "FL290, FL330, FL370, FL390 (RCxx), FL410"
+        }
+      ],
+      "V651": [
+        {
+          "sid_07": ["DALOL1X/07R", "DALOL1Y/07C", "DALOL1Z/07L"],
+          "sid_25": ["DALOL1D/25C", "DALOL1B/25L", "DALOL1F/25R"],
+          "sid_noise": ["DALOL1Y/07C", "DALOL1Z/07L", "DALOL1X/07R"]
+        },
+        {
+          "direction": "ODD",
+          "allowed_fls": ["290", "330", "370", "410"],
+          "airways": "V651 SABNO A583",
+          "FLAS": "FL290, FL330, FL370, FL410"
         }
       ],
       "BEKOL": [
