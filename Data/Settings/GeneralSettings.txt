@@ -18,11 +18,11 @@ m_CenterlineVectorDme:12.0
 m_CenterlineVectorLength:3.0
 m_CenterlineVectorAngle:30.0
 m_CenterlineVectorBase:2.0
-m_STCA_LowShow:1
+m_STCA_LowShow:0
 m_STCA_LowVertical:900
 m_STCA_LowHorizontal:3.0
 m_STCA_LowBottom:5000
-m_STCA_HighShow:1
+m_STCA_HighShow:0
 m_STCA_HighVertical:900
 m_STCA_HighHorizontal:5.0
 m_STCA_HighBottom:24500
@@ -115,7 +115,7 @@ m_STCA_PlaySoundOnTrackedOnly:1
 m_AutoCorrelateDisabledSQs:1200,2000,2200,7000,7700,7600,7500
 m_DontAutoCorrelateDuplicated:1
 m_AcceptPilotSquawkForCorrelation:1
-m_MTCA_Floor:10000
+m_MTCA_Floor:0
 m_MTCA_AltitudeDifference:900
 m_MTCA_Distance:20.0
 m_UseIsectForScratchPad:1
@@ -125,7 +125,7 @@ m_RubberHeadingRounding:5
 SqawkForSModeTransponder:
 m_TransparentTagBackground:1
 m_UseArrDepTagBgColor:0
-SET_MTCA_Show:1
+SET_MTCA_Show:0
 m_TaxiOutTime:7
 m_StartupTime:10
 m_ConnectTime:15
@@ -133,6 +133,8 @@ m_AutoAssumeOnGroundStateChangeButton:0
 m_ShowTrackMilesInRouteButton:1
 m_FilterOutSquawks:
 m_EquipmentsIcaoFormat:1
+m_DoNotShowMessageHandlersInProxy:0
+m_DoNotShowMessageHandlersInMainIfProxyConnected:0
 ORIGPLANE
 m_Visible:0
 m_X:70
