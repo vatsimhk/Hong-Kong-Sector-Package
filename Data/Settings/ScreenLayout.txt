@@ -57,4 +57,4 @@ ScenarioEditorX:414
 ScenarioEditorY:0
 m_ShowSTARControllers:1
 MessageLinesNumber:4
-BackgroundGrphicsInThread:1
+BackgroundGrphicsInThread:0
