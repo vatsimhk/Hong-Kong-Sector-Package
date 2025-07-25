@@ -477,11 +477,6 @@
           "sid_all": ["IDUMA1G/34", "IDUMA1H/16"]
         },
         {
-          "airways": ["G586"],
-          "allowed_fls": ["301", "321", "341", "361", "381", "401"],
-          "FLAS": "Metric RVSM Westbound Levels"
-        },
-        {
           "airways": ["A461", "G471", "W22", "W41"],
           "allowed_fls": ["291", "311", "331", "351", "371", "391", "411"],
           "FLAS": "Metric RVSM Eastbound Levels"
