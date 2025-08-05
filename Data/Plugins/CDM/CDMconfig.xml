@@ -14,6 +14,7 @@
 	<DefaultTaxiTime minutes="10" />
 	<RefreshTime seconds="10" />
 	<Debug mode="false" />
+	<FlowRestrictions url="" />
 	<vdgsFileType type="3"/>
 	<ftpHost host="" />
 	<ftpUser user="" />
