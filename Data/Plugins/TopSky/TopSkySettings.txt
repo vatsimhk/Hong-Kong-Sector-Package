@@ -26,7 +26,13 @@ Color_Weather_Map=17,143,9
 Color_AIW_Intrusion=239,158,107
 Color_QDM=242,255,105
 Color_SEP_Tool_1=41,245,41
-Color_Information_FL=40,255,255
+
+Color_Heading_Vector=40,255,255
+Color_Information_FL=226,202,177
+Color_System_Calculated_TOC=226,202,177
+Color_System_Calculated_TOD=226,202,177
+Color_Flight_Leg=226,202,177
+FlightLeg_LineWidth=0
 
 Color_Selected=255,255,255
 Color_Warning=255,255,0

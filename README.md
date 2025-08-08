@@ -47,7 +47,7 @@ All vACC certified controllers and staff members are allowed to contribute to th
 
 At the beginning of each cycle, a branch will be created for the next AIRAC cycle, and the .sct and .ese sector names will be changed to XXXXdev (e.g. 2402dev) to show that the package is not an official release. All PRs should be submitted to this new branch. When that AIRAC cycle becomes active, the sector names will remove the 'dev' suffix and be merged to the main branch. Thus, the main branch should be reserved for final releases only, that other controllers will download and use. It is not recommended to use the development branch for active controlling.
 
-### Please be wary of comitting the following files:
+### Please be wary of committing the following files:
 - .prf files will contain your last session data, **including your VATSIM CID and Password.**
 - Do not commit personal settings or customisations, such as screen layout, symbology/colours, custom tags, display settings, etc.
-- .asr files will contain a personal directory to your computer, which should be removed before comitting.
+- .asr files will contain a personal directory to your computer, which should be removed before committing.
