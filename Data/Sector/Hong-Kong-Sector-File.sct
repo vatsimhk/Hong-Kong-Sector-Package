@@ -64,7 +64,7 @@ E113.55.16.824
 #define Ground3 255
 #define Water 2364425
 #define Red 180
-#define MVA 5851987
+#define MVA 5524047
 #define LightGrey 13421772
 #define Helipads 7253
 #define HeliIFR 7260
