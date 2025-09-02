@@ -14,10 +14,10 @@ Color_Rwy_App_Line_Inuse=192,192,192
 
 //COLOUR THEME BEGIN
 Color_Coordination=117,132,142
-Color_Assumed=241,246,255
+Color_Assumed=255,255,255
 Color_Redundant=229,214,130
-Color_Concerned=117,132,142
-Color_Unconcerned=117,132,142
+Color_Concerned=115,115,115
+Color_Unconcerned=115,115,115
 Color_Sid_Star_Allocation=239,158,107
 Color_Rwy_Locked=241,246,255
 Color_Weather_Map=17,143,9

@@ -49,10 +49,10 @@ Data/Plugins/TopSky/TopSkyMaps.txt END
 
 Data/Plugins/TopSky/TopSkySettings.txt BEGIN
 Color_Coordination=200,200,200
-Color_Assumed=255,255,128
-Color_Redundant=128,128,128
-Color_Concerned=160,160,160
-Color_Unconcerned=117,132,142
+Color_Assumed=255,255,255
+Color_Redundant=229,214,130
+Color_Concerned=115,115,115
+Color_Unconcerned=115,115,115
 Color_Sid_Star_Allocation=170,170,14
 Color_Rwy_Locked=210,210,41
 Color_Weather_Map=99,99,50
