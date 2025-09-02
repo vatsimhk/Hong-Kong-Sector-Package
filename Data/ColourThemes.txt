@@ -5,10 +5,10 @@ Settings	SettingsfileSYMBOLOGY	\Data\Settings\Symbology.txt
 Hong Kong TOPSKY.prf END
 
 Data/Plugins/TopSky/TopSkyMaps.txt BEGIN
-COLORDEF:SID:87:104:100
-COLORDEF:STAR:72:90:147
-COLORDEF:TMABORDER:102:109:122
-COLORDEF:EXTCENTERL:94:141:145
+COLORDEF:SID:89:89:71
+COLORDEF:STAR:67:77:109
+COLORDEF:TMABORDER:96:96:96
+COLORDEF:EXTCENTERL:66:102:96
 COLORDEF:VFR:69:69:114
 Data/Plugins/TopSky/TopSkyMaps.txt END
 
@@ -25,9 +25,9 @@ Data/Plugins/TopSky/TopSkySettings.txt END
 
 Data/Sector/Hong-Kong-Sector-File.sct BEGIN
 #define Pattern 11237226
-#define SectorBoundaries 8023398
-#define FIRBoundaries 6903631
-#define Coast 6635833
+#define SectorBoundaries 6316128
+#define FIRBoundaries 6316128
+#define Coast 3684408
 Data/Sector/Hong-Kong-Sector-File.sct END
 
 DEFAULT THEME END
