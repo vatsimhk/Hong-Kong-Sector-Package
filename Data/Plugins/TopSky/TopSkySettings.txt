@@ -7,9 +7,9 @@ Color_Border=76,76,76
 Color_WM_Border=76,76,76
 Color_WM_Bg=76,76,76
 Color_WM_Frame=76,76,76
-Color_Background=71,151,229
-Color_BottomShadow=32,38,67
-Color_TopShadow=110,118,168
+Color_Background=63,100,127
+Color_BottomShadow=48,64,76
+Color_TopShadow=167,204,233
 Color_Rwy_App_Line_Inuse=192,192,192
 
 //COLOUR THEME BEGIN
@@ -28,10 +28,10 @@ Color_QDM=242,255,105
 Color_SEP_Tool_1=41,245,41
 
 Color_Heading_Vector=40,255,255
-Color_Information_FL=226,202,177
-Color_System_Calculated_TOC=226,202,177
-Color_System_Calculated_TOD=226,202,177
-Color_Flight_Leg=226,202,177
+Color_Information_FL=196,188,216
+Color_System_Calculated_TOC=196,188,216
+Color_System_Calculated_TOD=196,188,216
+Color_Flight_Leg=196,188,216
 FlightLeg_LineWidth=0
 
 Color_Selected=255,255,255
@@ -41,7 +41,7 @@ Color_Field_Highlight=49,49,49
 Color_Foreground=255,255,255
 Color_Active_Sector=61,63,92
 Color_Inactive_Sector=37,39,67  
-Color_Active_Map_Type_1=127,0,0 //Danger areas
+Color_Active_Map_Type_1=127,76,76 //Danger areas
 System_TrueColorMode=1
 
 RwyAppLines_Auto=0
