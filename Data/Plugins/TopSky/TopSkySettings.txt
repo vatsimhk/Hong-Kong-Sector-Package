@@ -41,7 +41,7 @@ Color_Field_Highlight=49,49,49
 Color_Foreground=255,255,255
 Color_Active_Sector=61,63,92
 Color_Inactive_Sector=37,39,67  
-Color_Active_Map_Type_1=98,58,58 //Danger areas
+Color_Active_Map_Type_1=127,76,76 //Danger areas
 System_TrueColorMode=1
 
 RwyAppLines_Auto=0
