@@ -43,12 +43,12 @@
           "airways": "V631 ENVAR M750 DADON G581",
           "time": [
             {
-              "start": 12,
-              "end": 23,
+              "start": 23,
+              "end": 12,
               "unavailableLevels": ["290"]
             }
           ],
-          "FLAS": "FL290 (2300-1159z), FL330, FL370, FL410, FL450, FL490"
+          "FLAS": "FL290 (1200-2259z), FL330, FL370, FL410, FL450, FL490"
         },
         {
           "direction": "ODD",
@@ -67,12 +67,12 @@
           "airways": "V631 ENVAR M750",
           "time": [
             {
-              "start": 12,
-              "end": 23,
+              "start": 23,
+              "end": 12,
               "unavailableLevels": ["290"]
             }
           ],
-          "FLAS": "FL270, FL290 (2300-1159z), Eastbound RVSM Levels, FL450, FL490"
+          "FLAS": "FL270, FL290 (1200-2259z), Eastbound RVSM Levels, FL450, FL490"
         }
       ],
       "V641": [
@@ -353,12 +353,12 @@
           "airways": "ENVAR M750 DADON G581",
           "time": [
             {
-              "start": 12,
-              "end": 23,
+              "start": 23,
+              "end": 12,
               "unavailableLevels": ["290"]
             }
           ],
-          "FLAS": "FL290 (2300-1159z), FL330, FL370, FL410, FL450, FL490"
+          "FLAS": "FL290 (1200-2259z), FL330, FL370, FL410, FL450, FL490"
         },
         {
           "direction": "ODD",
@@ -377,12 +377,12 @@
           "airways": "ENVAR M750",
           "time": [
             {
-              "start": 12,
-              "end": 23,
+              "start": 23,
+              "end": 12,
               "unavailableLevels": ["290"]
             }
           ],
-          "FLAS": "FL270, FL290 (2300-1159z), FL310, FL330, FL350, FL370, FL390, FL410, FL450, FL490"
+          "FLAS": "FL270, FL290 (1200-2259z), FL310, FL330, FL350, FL370, FL390, FL410, FL450, FL490"
         }
       ],
       "NOMAN": [
@@ -562,12 +562,12 @@
           "airways": "V631 ENVAR M750 DADON G581",
           "time": [
             {
-              "start": 12,
-              "end": 23,
+              "start": 23,
+              "end": 12,
               "unavailableLevels": ["290"]
             }
           ],
-          "FLAS": "FL290 (2300-1159z), FL330, FL370, FL410, FL450, FL490"
+          "FLAS": "FL290 (1200-2259z), FL330, FL370, FL410, FL450, FL490"
         },
         {
           "direction": "ODD",
@@ -586,12 +586,12 @@
           "airways": "V631 ENVAR M750",
           "time": [
             {
-              "start": 12,
-              "end": 23,
+              "start": 23,
+              "end": 12,
               "unavailableLevels": ["290"]
             }
           ],
-          "FLAS": "FL270, FL290 (2300-1159z), FL310, FL330, FL350, FL370, FL390, FL410, FL450, FL490"
+          "FLAS": "FL270, FL290 (1200-2259z), FL310, FL330, FL350, FL370, FL390, FL410, FL450, FL490"
         },
         {
           "direction": "ODD",
