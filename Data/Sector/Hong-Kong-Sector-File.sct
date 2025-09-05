@@ -64,7 +64,7 @@ E113.55.16.824
 #define Ground3 255
 #define Water 2364425
 #define Red 180
-#define MVA 9003897
+#define MVA 5524047
 #define LightGrey 13421772
 #define Helipads 7253
 #define HeliIFR 7260
@@ -74,7 +74,7 @@ E113.55.16.824
 #define ConstructionArea 4342338
 #define ControlledCTR 9667450
 #define UncontrolledUCARA 9667450
-#define ATMSbackground 3223857
+#define ATMSbackground 3158064
 #define VMMCgrass 1591848
 #define VMMCrunwaymarkings 6985115
 #define VMMCtaxiway 4863796
@@ -95,9 +95,9 @@ E113.55.16.824
 
 ;COLOUR THEME BEGIN
 #define Pattern 11237226
-#define SectorBoundaries 8023398
-#define FIRBoundaries 6903631
-#define Coast 6635833
+#define SectorBoundaries 6316128
+#define FIRBoundaries 6316128
+#define Coast 3684408
 ;COLOUR THEME END
 
 [VOR]

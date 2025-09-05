@@ -5,10 +5,10 @@ Settings	SettingsfileSYMBOLOGY	\Data\Settings\Symbology.txt
 Hong Kong TOPSKY.prf END
 
 Data/Plugins/TopSky/TopSkyMaps.txt BEGIN
-COLORDEF:SID:87:104:100
-COLORDEF:STAR:72:90:147
-COLORDEF:TMABORDER:102:109:122
-COLORDEF:EXTCENTERL:94:141:145
+COLORDEF:SID:73:73:66
+COLORDEF:STAR:65:72:89
+COLORDEF:TMABORDER:96:96:96
+COLORDEF:EXTCENTERL:66:102:96
 COLORDEF:VFR:69:69:114
 Data/Plugins/TopSky/TopSkyMaps.txt END
 
@@ -25,9 +25,9 @@ Data/Plugins/TopSky/TopSkySettings.txt END
 
 Data/Sector/Hong-Kong-Sector-File.sct BEGIN
 #define Pattern 11237226
-#define SectorBoundaries 8023398
-#define FIRBoundaries 6903631
-#define Coast 6635833
+#define SectorBoundaries 6316128
+#define FIRBoundaries 6316128
+#define Coast 3684408
 Data/Sector/Hong-Kong-Sector-File.sct END
 
 DEFAULT THEME END
@@ -49,10 +49,10 @@ Data/Plugins/TopSky/TopSkyMaps.txt END
 
 Data/Plugins/TopSky/TopSkySettings.txt BEGIN
 Color_Coordination=200,200,200
-Color_Assumed=255,255,128
-Color_Redundant=128,128,128
-Color_Concerned=160,160,160
-Color_Unconcerned=117,132,142
+Color_Assumed=255,255,255
+Color_Redundant=229,214,130
+Color_Concerned=115,115,115
+Color_Unconcerned=115,115,115
 Color_Sid_Star_Allocation=170,170,14
 Color_Rwy_Locked=210,210,41
 Color_Weather_Map=99,99,50
