@@ -1,6 +1,6 @@
-AIRAC cycle    : 2509
+AIRAC cycle    : 2510
 Version        : 1
-Valid (from/to): 04/SEP/2025 - 02/OCT/2025
+Valid (from/to): 02/OCT/2025 - 30/OCT/2025
 
 Forum          : http://forum.navigraph.com
 
@@ -15,4 +15,4 @@ This file is intended for Navigraph support use only and may not be changed, rea
 further processed by any 3rd party developer/addon.
 
 Parser-Version : DFD v1.0 25.0404 (c) Richard Stefan
-Files parsed on: 26/08/2025
+Files parsed on: 28/09/2025
