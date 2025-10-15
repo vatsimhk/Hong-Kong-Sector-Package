@@ -83,7 +83,7 @@
         },
         {
           "direction": "ODD",
-          "allowed_fls": ["290", "330", "370"],
+          "allowed_fls": ["290", "330", "370", "410"],
           "airways": ["V641 NOMAN A461", "V641 NOMAN M501"],
           "FLAS": "FL290, FL330, FL370"
         },
