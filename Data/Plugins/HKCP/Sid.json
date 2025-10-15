@@ -606,27 +606,27 @@
           "FLAS": "Odd FLs at or below FL270"
         }
       ],
-      "GRUPA": [
+      "SKATE": [
         {
-          "sid_07": ["GRUPA4T/34", "GRUPA2P/16"],
-          "sid_25": ["GRUPA5U/34", "GRUPA2P/16"]
+          "sid_07": ["SKATE1T/34", "SKATE1P/16"],
+          "sid_25": ["SKATE1U/34", "SKATE1P/16"]
         },
         {
           "direction": "ODD",
           "allowed_fls": ["290", "330", "370"],
           "FLAS": "FL290, FL330, FL370",
-          "airways": "V641 NOMAN A461"
+          "airways": "V642 NOMAN A461"
         },
         {
           "direction": "ODD",
           "allowed_fls": ["290", "330", "370"],
           "FLAS": "FL290, FL330, FL370",
-          "airways": "V641 NOMAN M501"
+          "airways": "V642 NOMAN M501"
         },
         {
           "direction": "ODD",
           "allowed_fls": ["290", "330", "370", "410"],
-          "airways": "V651 SABNO A583",
+          "airways": "V652 SABNO A583",
           "FLAS": "FL290, FL330, FL370, FL410"
         },
         {
