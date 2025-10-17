@@ -83,9 +83,9 @@
         },
         {
           "direction": "ODD",
-          "allowed_fls": ["290", "330", "370"],
+          "allowed_fls": ["290", "330", "370", "410"],
           "airways": ["V641 NOMAN A461", "V641 NOMAN M501"],
-          "FLAS": "FL290, FL330, FL370"
+          "FLAS": "FL290, FL330, FL370, FL410"
         },
         {
           "direction": "ODD",
@@ -391,9 +391,9 @@
         },
         {
           "direction": "ODD",
-          "allowed_fls": ["290", "330", "370"],
+          "allowed_fls": ["290", "330", "370", "410"],
           "airways": ["A461", "M501"],
-          "FLAS": "FL290, FL330, FL370"
+          "FLAS": "FL290, FL330, FL370, FL410"
         }
       ],
       "SABNO": [
@@ -613,14 +613,14 @@
         },
         {
           "direction": "ODD",
-          "allowed_fls": ["290", "330", "370"],
-          "FLAS": "FL290, FL330, FL370",
+          "allowed_fls": ["290", "330", "370", "410"],
+          "FLAS": "FL290, FL330, FL370, FL410"
           "airways": "V642 NOMAN A461"
         },
         {
           "direction": "ODD",
-          "allowed_fls": ["290", "330", "370"],
-          "FLAS": "FL290, FL330, FL370",
+          "allowed_fls": ["290", "330", "370", "410"],
+          "FLAS": "FL290, FL330, FL370, FL410",
           "airways": "V642 NOMAN M501"
         },
         {
