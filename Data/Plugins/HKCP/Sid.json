@@ -246,7 +246,7 @@
            {
           "airways": ["V10 SIKOU R339"],
           "allowed_fls": ["321", "341", "361", "381", "401"],
-          "FLAS": "Metric RVSM Westbound Levels"
+          "FLAS": "Metric RVSM Westbound Levels at or above S0980 (FL321)"
         },
         {
           "airways": ["V11 IDOSI P901"],
@@ -447,7 +447,7 @@
         {
           "airways": ["R339"],
           "allowed_fls": ["321", "341", "361", "381", "401"],
-          "FLAS": "Metric RVSM Westbound Levels"
+          "FLAS": "Metric RVSM Westbound Levels at or above S0980 (FL321)"
         }
       ],
       "IDOSI": [
@@ -688,7 +688,7 @@
         {
           "airways": ["V10 SIKOU R339"],
           "allowed_fls": ["321", "341", "361", "381", "401"],
-          "FLAS": "Metric RVSM Westbound Levels"
+          "FLAS": "Metric RVSM Westbound Levels at or above S0980 (FL321)"
         },
         {
           "airways": ["V31 IDOSI A1"],
