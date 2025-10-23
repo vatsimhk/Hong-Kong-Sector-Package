@@ -33,9 +33,9 @@
           "gate": "ABBEY"
         },
         "NOM": {
-          "string": "NOM_V532-BETTY3A",
+          "string": "NOM_V533-BETTY3A",
           "star": "BETTY3A",
-          "route": "NOMAN V532 BETTY",
+          "route": "NOMAN V533 BETTY",
           "gate": "BETTY"
         },
         "SAB": {
@@ -133,9 +133,9 @@
           "gate": "ABBEY"
         },
         "NOM": {
-          "string": "NOM_V532-BETTY3B",
+          "string": "NOM_V533-BETTY3B",
           "star": "BETTY3B",
-          "route": "NOMAN V532 BETTY",
+          "route": "NOMAN V533 BETTY",
           "gate": "BETTY"
         },
         "SAB": {

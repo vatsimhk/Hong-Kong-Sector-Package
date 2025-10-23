@@ -75,7 +75,7 @@
           "FLAS": "FL270, FL290 (1200-2259z), Eastbound RVSM Levels, FL450, FL490"
         }
       ],
-      "V641": [
+      "V642": [
         {
           "sid_07": ["DALOL1X/07R", "DALOL1Y/07C", "DALOL1Z/07L"],
           "sid_25": ["DALOL1D/25C", "DALOL1B/25L", "DALOL1F/25R"],
@@ -84,24 +84,24 @@
         {
           "direction": "ODD",
           "allowed_fls": ["290", "330", "370", "410"],
-          "airways": ["V641 NOMAN A461", "V641 NOMAN M501"],
+          "airways": ["V642 NOMAN A461", "V642 NOMAN M501"],
           "FLAS": "FL290, FL330, FL370, FL410"
         },
         {
           "direction": "ODD",
-          "airways": ["V641 SKATE KAPLI G86", "V641 SKATE DCT KAPLI G86"],
+          "airways": ["V642 SKATE KAPLI G86", "V642 SKATE DCT KAPLI G86"],
           "destinations": ["RC*"],
           "allowed_fls": ["290", "330", "370", "390", "410"],
           "FLAS": "FL290, FL330, FL370, FL390 (RCxx), FL410"
         },
         {
           "direction": "ODD",
-          "airways": ["V641 SKATE KAPLI G86", "V641 SKATE DCT KAPLI G86"],
+          "airways": ["V642 SKATE KAPLI G86", "V642 SKATE DCT KAPLI G86"],
           "allowed_fls": ["290", "330", "370", "410"],
           "FLAS": "FL290, FL330, FL370, FL390 (RCxx), FL410"
         }
       ],
-      "V651": [
+      "V652": [
         {
           "sid_07": ["DALOL1X/07R", "DALOL1Y/07C", "DALOL1Z/07L"],
           "sid_25": ["DALOL1D/25C", "DALOL1B/25L", "DALOL1F/25R"],
@@ -110,7 +110,7 @@
         {
           "direction": "ODD",
           "allowed_fls": ["290", "330", "370", "410"],
-          "airways": "V651 SABNO A583",
+          "airways": "V652 SABNO A583",
           "FLAS": "FL290, FL330, FL370, FL410"
         }
       ],
