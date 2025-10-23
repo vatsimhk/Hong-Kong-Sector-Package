@@ -3444,10 +3444,11 @@ COPX:*:*:SAPAX:ZGGG:*:TDC:07_DEH_1:*:22000:SAPAX
 COPX:*:*:NEDLE:ZGGG:*:TME:25_DEH_9:*:23000:NEDLE
 COPX:*:*:NEDLE:ZGGG:*:TME:07_DEH_4:*:23000:NEDLE
 
-; ========== Terminal Radar - TMA Coordination Points ==========
+; ========== Terminal Radar - TMC Coordination Points ==========
 
 ; West inbound
 COPX:*:*:MAPLE:VHHH:*:TRW_M:TMW:*:26000:MAPLE
+COPX:*:*:MAPLE:VHHH:*:TMW:TML:*:20000:MAPLE
 
 ; South inbound
 COPX:*:*:SONNY:VHHH:*:TRS_M:TMS:*:26000:SONNY
