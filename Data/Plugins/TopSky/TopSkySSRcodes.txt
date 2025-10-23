@@ -1,6 +1,6 @@
 //Inbound SSR codes
 
-RANGE:5201:5277
+RANGE:5201:5257
 ADES:VH:VM
 IFR
 
