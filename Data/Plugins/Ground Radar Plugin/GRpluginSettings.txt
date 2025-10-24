@@ -18,6 +18,8 @@ Equip_ProMode=1
 Equip_ModeS=0 
 AppLabel_Font=EuroScope
 Track_HistoryDots_APP=4
+//Maps_Font=DejaVu Sans
+Maps_FontStyle=700,0,0,0
 
 System_GUI_Version=1
 
@@ -99,7 +101,7 @@ AppPath=VMMC:16:N022.11.48.221:E113.34.30.421:218:R:710:3
 AppPath=VHHX:13:N022.19.53.540:E114.09.54.889:088:R:660:3
 AppPath=VHHX:31:N022.18.20.590:E114.12.52.843:316:L:15:3
 
-//System_GlobalMenu_Font=Source Code Pro
+//System_GlobalMenu_Font=DejaVu Sans Mono
 System_GlobalMenu_FontSize=13
 
 [VHHH]
