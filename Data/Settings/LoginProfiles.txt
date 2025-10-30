@@ -87,8 +87,12 @@ PROFILE:VHHH_H_DEP:150:5
 ATIS2:"Hong Kong Departure"
 ATIS3:Up to date Charts & Procedures - vathk.com/en/charts/airport
 ATIS4:Give feedback on my service - hq.vat-sea.com/atc/feedback
-PROFILE:VHHH_Z_TWR:60:4
+PROFILE:VHHH_Z_TWR:50:4
 ATIS2:"Hong Kong Zone" | Covering VFR traffic only!
+ATIS3:Up to date Charts & Procedures - vathk.com/en/charts/airport
+ATIS4:Give feedback on my service - hq.vat-sea.com/atc/feedback
+PROFILE:VHHH_F_TWR:50:4
+ATIS2:"Hong Kong Information" | Providing FIS for aircraft outside controlled airspace
 ATIS3:Up to date Charts & Procedures - vathk.com/en/charts/airport
 ATIS4:Give feedback on my service - hq.vat-sea.com/atc/feedback
 PROFILE:VHHH_P_APP:150:5
@@ -108,6 +112,10 @@ ATIS2:"Hong Kong Radar"
 ATIS3:Up to date Charts & Procedures - vathk.com/en/charts/airport
 ATIS4:Give feedback on my service - hq.vat-sea.com/atc/feedback
 PROFILE:VHHH_W_APP:150:5
+ATIS2:"Hong Kong Radar" 
+ATIS3:Up to date Charts & Procedures - vathk.com/en/charts/airport
+ATIS4:Give feedback on my service - hq.vat-sea.com/atc/feedback
+PROFILE:VHHH_L_APP:150:5
 ATIS2:"Hong Kong Radar" 
 ATIS3:Up to date Charts & Procedures - vathk.com/en/charts/airport
 ATIS4:Give feedback on my service - hq.vat-sea.com/atc/feedback

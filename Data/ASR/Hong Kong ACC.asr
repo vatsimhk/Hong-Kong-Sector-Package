@@ -26,13 +26,12 @@ High airways:M772:line
 High airways:Q1:line
 High airways:V512:line
 High airways:V522:line
-High airways:V532:line
+High airways:V533:line
 High airways:V542:line
 High airways:V551:line
 High airways:V561:line
 High airways:V571:line
 High airways:V591:line
-Low airways:GRUPA-KAPLI:line
 Low airways:L642:line
 Low airways:P901:line
 Low airways:V10:line
@@ -44,8 +43,8 @@ Low airways:V601:line
 Low airways:V611:line
 Low airways:V621:line
 Low airways:V631:line
-Low airways:V641:line
-Low airways:V651:line
+Low airways:V642:line
+Low airways:V652:line
 SHOWC:1
 SHOWSB:0
 BELOW:11000
@@ -57,7 +56,7 @@ HISTORY_DOTS:0
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:2.00000
+DisplayRotation:3.00000
 TAGFAMILY:AT3 (TR)
 WINDOWAREA:17.343885:108.683889:23.319267:120.443485
 PLUGIN:TopSky plugin:HideMapData:WS,VFR,BUFFER,MRVA,EXTCL,MAPP,KAITAK

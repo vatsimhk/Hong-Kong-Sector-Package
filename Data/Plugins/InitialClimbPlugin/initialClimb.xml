@@ -134,33 +134,33 @@
 				<alt>039</alt>
 			</sid>
 			<sid name="NUDPI">
-				<alt>060</alt>
+				<alt>039</alt>
 			</sid>
 			<sid name="CONGA">
-				<alt>060</alt>
+				<alt>039</alt>
 			</sid>
-			<sid name="GRUPA">
-				<alt>060</alt>
+			<sid name="SKATE">
+				<alt>039</alt>
 			</sid>
 			<sid name="ALLEY">
-				<alt>060</alt>
+				<alt>039</alt>
 			</sid>
 			<sid name="RDVR">
-				<alt>060</alt>
+				<alt>039</alt>
 			</sid>
 		</runway>
 		<runway name="16">
 			<sid name="IDUMA">
-				<alt>059</alt>
+				<alt>039</alt>
 			</sid>
 			<sid name="MIPAG">
-				<alt>059</alt>
+				<alt>039</alt>
 			</sid>
 			<sid name="NLG">
-				<alt>059</alt>
+				<alt>039</alt>
 			</sid>
 			<sid name="BIGRO">
-				<alt>049</alt>
+				<alt>039</alt>
 			</sid>
 			<sid name="NUDPI">
 				<alt>040</alt>
@@ -168,7 +168,7 @@
 			<sid name="CONGA">
 				<alt>040</alt>
 			</sid>
-			<sid name="GRUPA">
+			<sid name="SKATE">
 				<alt>040</alt>
 			</sid>
 			<sid name="ALLEY">
