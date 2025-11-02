@@ -10,7 +10,7 @@
             "DALOL1X/07R",
             "DALOL1Z/07L"
           ],
-          "sid_25": ["DALOL1D/25C", "DALOL1B/25L", "DALOL1F/25R"],
+          "sid_25": ["DALOL1B/25L", "DALOL1D/25C", "DALOL1F/25R"],
           "sid_noise": ["DALOL1Y/07C", "DALOL1Z/07L", "DALOL1X/07R"]
         },
         {
@@ -34,7 +34,7 @@
             "DALOL1X/07R",
             "DALOL1Z/07L"
           ],
-          "sid_25": ["DALOL1D/25C", "DALOL1B/25L", "DALOL1F/25R"],
+          "sid_25": ["DALOL1B/25L", "DALOL1D/25C", "DALOL1F/25R"],
           "sid_noise": ["DALOL1Y/07C", "DALOL1Z/07L", "DALOL1X/07R"]
         },
         {
@@ -77,8 +77,8 @@
       ],
       "V642": [
         {
-          "sid_07": ["DALOL1X/07R", "DALOL1Y/07C", "DALOL1Z/07L"],
-          "sid_25": ["DALOL1D/25C", "DALOL1B/25L", "DALOL1F/25R"],
+          "sid_07": ["XEMEK1T/07C", "DALOL1X/07R", "DALOL1Y/07C", "DALOL1Z/07L"],
+          "sid_25": ["DALOL1B/25L", "DALOL1D/25C", "DALOL1F/25R"],
           "sid_noise": ["DALOL1Y/07C", "DALOL1Z/07L", "DALOL1X/07R"]
         },
         {
@@ -103,8 +103,8 @@
       ],
       "V652": [
         {
-          "sid_07": ["DALOL1X/07R", "DALOL1Y/07C", "DALOL1Z/07L"],
-          "sid_25": ["DALOL1D/25C", "DALOL1B/25L", "DALOL1F/25R"],
+          "sid_07": ["XEMEK1T/07C", "DALOL1X/07R", "DALOL1Y/07C", "DALOL1Z/07L"],
+          "sid_25": ["DALOL1B/25L", "DALOL1D/25C", "DALOL1F/25R"],
           "sid_noise": ["DALOL1Y/07C", "DALOL1Z/07L", "DALOL1X/07R"]
         },
         {
