@@ -7,7 +7,7 @@ color3:182,182,182
 #ORANGE
 color4:212,133,46
 #YELLOW
-color5:212,214,7
+color5:0,192,0
 #DARK YELLOW
 color6:0,192,0
 #RED
