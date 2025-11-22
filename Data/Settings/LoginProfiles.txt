@@ -143,6 +143,10 @@ PROFILE:HKG_C_CTR:600:6
 ATIS2:"Hong Kong Radar"
 ATIS3:Up to date Charts & Procedures - vathk.com/en/charts/airport
 ATIS4:Give feedback on my service - hq.vat-sea.com/atc/feedback
+PROFILE:HKG_Z_CTR:600:6
+ATIS2:"Hong Kong Radar"
+ATIS3:Up to date Charts & Procedures - vathk.com/en/charts/airport
+ATIS4:Give feedback on my service - hq.vat-sea.com/atc/feedback
 PROFILE:HKG_W_CTR:600:6
 ATIS2:"Hong Kong Radar"
 ATIS3:Up to date Charts & Procedures - vathk.com/en/charts/airport
