@@ -5,7 +5,7 @@
 	<realMode mode="true" />
 	<bmi mode="false" />
 	<pilotTobt mode="true"/>
-	<autoAtot mode="false" />
+	<autoAtot mode="true" />
 	<invalidateAtTsat mode="true" />
 	<invalidateAtTobt mode="true" />
 	<readySetTsac mode="false" />
