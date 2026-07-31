@@ -84,14 +84,14 @@ WXR_Echo_dBZ_Med=40
 WXR_Echo_dBZ_Lo=30
 
 //Toggle maps shortcut
-Shortcut_Map_Target=1,WPT LBLS\TR_TMC
-Shortcut_Map_Target=2,WPT LBLS\07 APP/DEP
-Shortcut_Map_Target=3,WPT LBLS\25 APP/DEP
-Shortcut_Map_Target=4,WPT LBLS\34 VMMC
-Shortcut_Map_Target=5,WPT LBLS\16 VMMC
-Shortcut_Map_Target=6,WPT LBLS\VFR
+Shortcut_Map_Target=1,WPT LBL CSTR\TR_TMC
+Shortcut_Map_Target=2,WPT LBL CSTR\07 APP/DEP
+Shortcut_Map_Target=3,WPT LBL CSTR\25 APP/DEP
+Shortcut_Map_Target=4,WPT LBL CSTR\34 VMMC
+Shortcut_Map_Target=5,WPT LBL CSTR\16 VMMC
+Shortcut_Map_Target=6,WPT LBL CSTR\VFR
 Shortcut_Map_Target=7,VHHX\Kai Tak (Shortcut)
-Shortcut_Map_Target=8,WPT LBLS\SPLIT FREQ
+Shortcut_Map_Target=8,WPT LBL CSTR\SPLIT FREQ
 
 MSAW=0
 STCA=0

@@ -3,21 +3,6 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:Hong-Kong-Sector-File.sct
-ARTCC boundary:APPDEP:
-ARTCC boundary:TDC:
-ARTCC boundary:TDE:
-ARTCC boundary:TME:
-ARTCC boundary:TMS:
-ARTCC boundary:TMW:
-ARTCC boundary:TRC:
-ARTCC boundary:TRD:
-ARTCC boundary:TRE:
-ARTCC boundary:TRK:
-ARTCC boundary:TRS:
-ARTCC boundary:TRV:
-ARTCC boundary:TRW:
-ARTCC boundary:TRW_North:
-ARTCC boundary:TRZ:
 Geo:VHHK Landmark Hong Kong Coastline:
 High airways:J101:line
 High airways:J103-:line
@@ -60,4 +45,4 @@ DISABLEZOOMING:0
 DisplayRotation:3.00000
 TAGFAMILY:AT3 (TR)
 WINDOWAREA:17.343885:108.683889:23.319267:120.443485
-PLUGIN:TopSky plugin:HideMapData:WS,VFR,BUFFER,MRVA,EXTCL,MAPP,KAITAK
+PLUGIN:TopSky plugin:ShowMapData:TR_BASE
