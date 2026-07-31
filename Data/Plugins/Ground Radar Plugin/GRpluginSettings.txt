@@ -18,6 +18,8 @@ Equip_ProMode=1
 Equip_ModeS=0 
 AppLabel_Font=EuroScope
 Track_HistoryDots_APP=4
+//Maps_Font=DejaVu Sans
+Maps_FontStyle=700,0,0,0
 
 System_GUI_Version=1
 
@@ -99,7 +101,7 @@ AppPath=VMMC:16:N022.11.48.221:E113.34.30.421:218:R:710:3
 AppPath=VHHX:13:N022.19.53.540:E114.09.54.889:088:R:660:3
 AppPath=VHHX:31:N022.18.20.590:E114.12.52.843:316:L:15:3
 
-//System_GlobalMenu_Font=Source Code Pro
+//System_GlobalMenu_Font=DejaVu Sans Mono
 System_GlobalMenu_FontSize=13
 
 System_APW=0
@@ -116,8 +118,9 @@ System_APM=0
 Airport_Runway_Area=07C:N022.19.17.744:E113.55.54.703:N022.19.19.306:E113.55.54.109:N022.18.35.728:E113.53.38.914:N022.18.34.193:E113.53.39.472
 Airport_Runway_Buffer=07C:N022.18.37.922:E113.53.39.356:N022.19.19.848:E113.55.50.580:N022.19.15.100:E113.55.52.482:N022.18.32.579:E113.53.41.345
 
-Color_Departure=210,211,132
-Color_Arrival=85,199,217
+Color_Departure=229,229,144
+Color_Arrival=135,224,229
+Color_Mixed=180,180,180
 Color_SelectedLabelFill_Gnd=53,53,53
 GroundLabel_UseSelColor=0
 GroundLabel_Transparency_Bd=0
@@ -162,6 +165,16 @@ Label=GND:ARR:2:GS,0,0:AFL,0,2,13:ATYP,0,2:RMK,0,2
 Label=GND:DEP:0:ALRT,0,0:ASSR_E,0,1:COMM,0,1
 Label=GND:DEP:1:CALLSIGN,0,0:DRWY,0,2:SID,0,2
 Label=GND:DEP:2:GS,0,0:AFL,0,2,13:ATYP,0,2:RMK,0,2
+
+Shortcut_Map_Target=8,DISPLAY\XC_FREQ
+
+System_Alert_RIM_Label=INCUR
+System_Alert_APW_Label=AREA-PROXIMITY
+System_Alert_APM_Label=ILS
+System_Alert_ICM_Info_Label=SSR
+System_Alert_Rwy_Closed_Label=RWY-CLSD
+System_Alert_RVM_Label=TWY
+System_Alert_Twy_Closed_Label=TWY-CLSD
 
 [VHHX]
 Airport_Runway_Area=13:N022.19.31.968:E114.11.34.081:N022.18.15.255:E114.12.59.606:N022.18.13.261:E114.12.57.745:N022.19.30.280:E114.11.31.990

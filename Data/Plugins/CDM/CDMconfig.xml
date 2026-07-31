@@ -2,19 +2,21 @@
 <CDM>
 	<rate ops="40" />
 	<rateLvo ops="40" />
+	<realMode mode="true" />
+	<bmi mode="false" />
 	<pilotTobt mode="true"/>
 	<autoAtot mode="false" />
-	<sidInterval url="https://vathk.com/cdm/sid.txt" />
-	<expiredCtot time="25" />
-	<realMode mode="true" />
 	<invalidateAtTsat mode="true" />
-	<Rates url="https://vathk.com/cdm/rate.txt" />
-	<Taxizones url="https://vathk.com/cdm/taxizones.txt" />
-	<Ctot url="https://vathk.com/cdm/ctot.txt" />
-	<DefaultTaxiTime minutes="10" />
+	<invalidateAtTobt mode="true" />
+	<readySetTsac mode="false" />
+	<Rates url="https://raw.githubusercontent.com/vatsimhk/CDM/refs/heads/main/rate.txt" />
+	<Taxizones url="https://raw.githubusercontent.com/vatsimhk/CDM/refs/heads/main/taxizones.txt" />
+	<Slot url="https://raw.githubusercontent.com/vatsimhk/CDM/refs/heads/main/slot.txt" />
+	<sidInterval url="https://raw.githubusercontent.com/vatsimhk/CDM/refs/heads/main/sid.txt" />
+	<DefaultTaxiTime minutes="15" />
 	<RefreshTime seconds="10" />
 	<Debug mode="false" />
-	<FlowRestrictions url="https://vathk.com/api/cdm" />
+	<FlowRestrictions url="" />
 	<vdgsFileType type="3"/>
 	<ftpHost host="" />
 	<ftpUser user="" />
@@ -22,4 +24,10 @@
 	<Server mode="true" />
 	<Su_Wait mode="false" />
 	<sftpConnection mode="false" />
+	<customRestricted url="https://raw.githubusercontent.com/vatsimhk/CDM/refs/heads/main/customrestricted.txt" />
+	<flashingMode tobtLastMin="false" tsatFirstMin="true" tsatLastMin="false"/>
+	<eventPriority mode="true" />
+	<reqTobtPriority mode="true" />
+	<autoSetTobtFromEvSlot mode="true" />
+	<PrivateMessage text="[Hong Kong ACDM] Your TOBT is invalid, please refile on vathk.com/en/adgs and report ready (Your should be ready between TOBT -5 to TOBT +5) [End of ACDM message]" />
 </CDM>

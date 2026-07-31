@@ -29,6 +29,7 @@
 .report Report when ready
 .sq Squawk $squawk
 .atis Information $atiscode current
+.tobt Your TOBT is invalid, update it on vathk.com/en/adgs and report ready again
 ;GROUND
 .tsat TSAT $1, report ready.
 .ps Push and start approved, face $1. Report ready for taxi
