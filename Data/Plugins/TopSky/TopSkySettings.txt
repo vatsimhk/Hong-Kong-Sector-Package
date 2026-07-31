@@ -46,6 +46,18 @@ System_TrueColorMode=1
 
 RwyAppLines_Auto=0
 
+FlightLeg_Font=EuroScope
+Maps_Font=EuroScope
+System_GUI_Font_1=EuroScope
+System_GUI_Font_2=EuroScope
+System_GUI_Font_Fixed_1=EuroScope
+
+TextNotes_Font=EuroScope
+Vector_AHDG_Font=EuroScope
+Vector_FplSep_Font=EuroScope
+Vector_MinSep_Font=EuroScope
+Vector_QDM_Font=EuroScope
+
 //Airspace
 Airspace_No_DUPE_Codes=2000,2200,1200,1000
 
