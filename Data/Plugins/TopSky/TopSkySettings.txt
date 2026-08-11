@@ -94,7 +94,7 @@ Shortcut_Map_Target=4,WPT LBL CSTR\34 VMMC
 Shortcut_Map_Target=5,WPT LBL CSTR\16 VMMC
 Shortcut_Map_Target=6,WPT LBL CSTR\VFR
 Shortcut_Map_Target=7,VHHX\Kai Tak (Shortcut)
-Shortcut_Map_Target=8,WPT LBL CSTR\SPLIT FREQ
+Shortcut_Map_Target=8,WPT LBL CSTR\FREQ SPLIT
 
 [_CTR]
 Window_CPDLC_Current=1,1510,630
