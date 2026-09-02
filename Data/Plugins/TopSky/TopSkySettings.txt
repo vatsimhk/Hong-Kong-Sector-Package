@@ -49,6 +49,10 @@ RwyAppLines_Auto=0
 
 MSAW_VFR=0
 
+//Disable route draw lable
+FlightLeg_Label_Time=0
+FlightLeg_Label_Point=0
+
 //Airspace
 Airspace_No_DUPE_Codes=2000,2200,1200,1000
 
