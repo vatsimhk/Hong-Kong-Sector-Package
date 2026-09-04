@@ -13,7 +13,7 @@ Color_TopShadow=167,204,233
 Color_Rwy_App_Line_Inuse=192,192,192
 
 //COLOUR THEME BEGIN
-Color_Coordination=117,132,142
+Color_Coordination=229,214,130
 Color_Assumed=255,255,255
 Color_Redundant=229,214,130
 Color_Concerned=115,115,115
@@ -48,6 +48,10 @@ System_TrueColorMode=1
 RwyAppLines_Auto=0
 
 MSAW_VFR=0
+
+//Disable route draw lable
+FlightLeg_Label_Time=0
+FlightLeg_Label_Point=0
 
 //Airspace
 Airspace_No_DUPE_Codes=2000,2200,1200,1000
