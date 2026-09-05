@@ -24,7 +24,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2608/1  ++  File-Publisher: Hong Kong vACC - VHHK                                                                ;
+;  AIRAC 2609/1  ++  File-Publisher: Hong Kong vACC - VHHK                                                                ;
 ;=========================================================================================================================;
 AAB	ABELAG AVIATION	ABG	BELGIUM
 AAC	ARMY AIR CORPS	ARMYAIR	UNITED KINGDOM
