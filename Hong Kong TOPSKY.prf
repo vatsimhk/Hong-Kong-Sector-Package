@@ -51,8 +51,8 @@ Plugins	Plugin0	\Data\Plugins\Mplugin_1.0\MAESTRO.dll
 Plugins	Plugin2	\Data\Plugins\TopSky\TopSky.dll
 Plugins	Plugin3	\Data\Plugins\Ground Radar Plugin\GRplugin.dll
 Plugins	Plugin0Display0	Standard ES radar screen
-Plugins	Plugin1Display0	Standard ES radar screen
 Plugins	Plugin2Display0	Standard ES radar screen
+Plugins	Plugin1Display0	Standard ES radar screen
 TeamSpeakVccs	Ts3DialogLeft	0
 TeamSpeakVccs	Ts3DialogTop	0
 TeamSpeakVccs	Ts3DialogRight	750
@@ -60,7 +60,6 @@ TeamSpeakVccs	Ts3DialogBottom	600
 Plugins	Plugin1	\Data\Plugins\HKCP\HKCP.dll
 Settings	sector	\Data\Sector\Hong-Kong-Sector-File.sct
 Settings	SettingsfilePLUGINS	\Data\Settings\GeneralSettings.txt
-Plugins	Plugin2Display1	SMR radar display
 RecentFiles	Recent1	\Data\ASR\Hong Kong ACC.asr
 RecentFiles	Recent2	\Data\ASR\Hong Kong GMC.asr
 RecentFiles	Recent3	\Data\ASR\Hong Kong TMA.asr
@@ -80,7 +79,8 @@ LastSession	rating	0
 LastSession	atis3	Click "Open SCT" to select your view
 TeamSpeakVccs	Ts3NickName	<Your CID Here>
 Plugins	Plugin5	\Data\Plugins\Discord Euroscope\DiscordEuroscope.dll
-Plugins	Plugin2Display2	Ground Radar display
+Plugins	Plugin1Display1	Ground Radar display
+Plugins	Plugin2Display1	Ground Radar display
 LastSession	atis_freq0	127050
 LastSession	atis_callsign0	VHHH_D_ATIS
 LastSession	atis_url0	http://vathk.com/atis/atis.php?dep=$deprwy($atisairportA)&info=$atiscodeA&metar=$metar($atisairportA)
