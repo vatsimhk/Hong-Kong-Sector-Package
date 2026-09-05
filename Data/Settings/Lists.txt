@@ -69,11 +69,11 @@ m_Column:COM:4:0:58:32:0:1:TopSky plugin:::4:3.5
 m_Column:TYPE:5:0:10028:41:0:1:TopSky plugin:::4:3.5
 m_Column:FR:3:0:10031:0:0:1:TopSky plugin:::4:3.5
 m_Column:DEP:5:0:10007:41:0:1:TopSky plugin:::4:3.5
-m_Column:DEST:5:0:10008:45:99:1:TopSky plugin:TopSky plugin:TopSky plugin:4:3.5
+m_Column:DEST:5:0:10008:45:0:1:TopSky plugin:TopSky plugin::4:3.5
 m_Column:SID:8:0:10011:17:108:1:TopSky plugin::HKCP:4:3.5
 m_Column:RWY:4:0:10050:19:0:1:TopSky plugin:::4:3.5
 m_Column:CFL:4:0:10049:109:100:1:TopSky plugin:TopSky plugin:Initial Climb:5:3.5
-m_Column:RFL:4:1:10062:106:99:1:TopSky plugin:HKCP:TopSky plugin:4:3.5
+m_Column:RFL:4:1:10062:106:0:1:TopSky plugin:HKCP::4:3.5
 m_Column:ASQWK:6:0:10020:62:0:1:TopSky plugin:TopSky plugin::0:3.5
 m_Column:SQWK:6:0:139:62:0:1:TopSky plugin:TopSky plugin::0:3.5
 m_Column:C:2:0:10130:27:155:1:TopSky plugin::TopSky plugin:4:3.5
