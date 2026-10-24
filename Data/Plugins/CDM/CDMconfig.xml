@@ -29,5 +29,9 @@
 	<eventPriority mode="true" />
 	<reqTobtPriority mode="true" />
 	<autoSetTobtFromEvSlot mode="true" />
-	<PrivateMessage text="[Hong Kong ACDM] Your TOBT is invalid, please refile on vathk.com/en/adgs and report ready (Your should be ready between TOBT -5 to TOBT +5) [End of ACDM message]" />
+	<disableTobtReqAfterAsrt mode="true" />
+	<nonCdmEarlyClearenceColor minutes="40" />
+	<AtfcmPrivateMessage
+    fls="[HONG KONG ATFMC] OFF-BLOCK TIME EXPIRED - {CALLSIGN} (TOBT: {TOBT}). Please update your off-block time on vathk.com/adgs ."
+    slot="[HONG KONG ATFMC] DEPARTURE SLOT ALLOCATED DUE TO FLOW CONTROL - {CALLSIGN} (TOBT: {TOBT}) CTOT:{CTOT}) . Please monitor for updates on vathk.com/adgs ." />
 </CDM>
