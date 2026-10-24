@@ -32,6 +32,6 @@
 	<disableTobtReqAfterAsrt mode="true" />
 	<nonCdmEarlyClearenceColor minutes="40" />
 	<AtfcmPrivateMessage
-    fls="[HONG KONG ATFMC] OFF-BLOCK TIME EXPIRED - {CALLSIGN} (TOBT: {TOBT}). Please update your off-block time on vathk.com/adgs ."
-    slot="[HONG KONG ATFMC] DEPARTURE SLOT ALLOCATED DUE TO FLOW CONTROL - {CALLSIGN} (TOBT: {TOBT}) CTOT:{CTOT}) . Please monitor for updates on vathk.com/adgs ." />
+    fls="[HONG KONG ATFMC] OFF-BLOCK TIME EXPIRED - {CALLSIGN} (TOBT:{TOBT}). Please update your off-block time on vathk.com/adgs ."
+    slot="[HONG KONG ATFMC] DEPARTURE SLOT ALLOCATED DUE TO FLOW CONTROL - {CALLSIGN} (TOBT:{TOBT}) CTOT:{CTOT}) . Please monitor for updates on vathk.com/adgs ." />
 </CDM>
