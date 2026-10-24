@@ -113,3 +113,6 @@ Plugins	Plugin8	\Data\Plugins\VCH\VCH.dll
 Plugins	Plugin9	\Data\Plugins\CDM\CDM.dll
 Plugins	Plugin9Display0	Standard ES radar screen
 Plugins	Plugin9Display1	Ground Radar display
+Plugins	Plugin3Display0	Ground Radar display
+Plugins	Plugin10	\Data\Plugins\XPGuardES.dll
+Plugins	Plugin10Display0	Ground Radar display
