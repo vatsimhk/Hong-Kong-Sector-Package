@@ -1,18 +1,23 @@
-AIRAC cycle    : 2609
+AIRAC cycle    : 2611
 Version        : 1
-Valid (from/to): 03/SEP/2026 - 01/OCT/2026
+Valid (from/to): 29/OCT/2026 - 25/NOV/2026
 
-Forum          : http://forum.navigraph.com
 
-Data provided by Navigraph - www.navigraph.com - Source data copyright (c) 2026 Jeppesen
-This data may be used for ground based recreational computer game
-simulation software only, and may not be recompiled, interpreted,
-or distributed for any purpose without the written consent of Navigraph.
-The contents of this database is dated and must not be used for real
-world navigation as it is unlawful and unsafe to do so.
+Data provided by Navigraph - www.navigraph.com
+Source data copyright (c) 2026 Jeppesen ForeFlight. All rights reserved.
 
-This file is intended for Navigraph support use only and may not be changed, read or
-further processed by any 3rd party developer/addon.
+Licensed to the individual Navigraph subscriber under a personal,
+non-transferable, revocable license subject to the Navigraph Terms
+of Service, including Jeppesen ForeFlight's Additional Terms
+(navigraph.com/legal/terms-of-service). For game-based learning in
+ground-based, commercial off-the-shelf PC flight simulator software
+only.
 
-Parser-Version : DFD v1.0 26.0513 (c) Richard Stefan
-Files parsed on: 26/08/2026
+This data must not be used for real-world navigation, flight
+planning, flight training, professional or research purposes, or to
+generate charts or maps. It may not be copied, modified, decompiled,
+published, sold or distributed, in whole or in part.
+
+Valid for AIRAC cycle 2611 (29/OCT/2026 - 25/NOV/2026) only. Use after expiry
+is at the user's sole risk. The data may be incomplete and is
+provided "as is" without warranty of any kind.
