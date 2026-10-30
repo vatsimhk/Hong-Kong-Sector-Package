@@ -24,7 +24,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2609/1  ++  File-Publisher: Hong Kong vACC - VHHK                                                                ;
+;  AIRAC 2611/1  ++  File-Publisher: Hong Kong vACC - VHHK                                                                ;
 ;=========================================================================================================================;
 AAB	ABELAG AVIATION	ABG	BELGIUM
 AAC	ARMY AIR CORPS	ARMYAIR	UNITED KINGDOM
@@ -2785,6 +2785,7 @@ IAY	DAEDALOS FLUGBETRIEBS GMBH	IASON	AUSTRIA
 IAZ	ITALIA TOUR AIRLINES S.P.A.	ITALIATOUR	ITALY
 IBB	BINTER CANARIAS	BINTER	SPAIN
 IBC	IBEX AIR CHARTER S.A.R.L.	IBEX CHARTER	LEBANON
+IBD	LUFTHANSA AVIATION TRAINING SWITZERLAND	YOUNGBIRD	SWITZERLAND
 IBE	IBERIA - LINEAS AEREAS DE ESPANA, SOCIEDAD ANONIMA OPERADORA	IBERIA	SPAIN
 IBG	SPRINGFIELD AIR (KANSAS CITY, MO)	ICE BRIDGE	UNITED STATES
 IBJ	AIR TAXI & CHARTER INTERNATIONAL, S.L.	IBERTAXI	SPAIN
