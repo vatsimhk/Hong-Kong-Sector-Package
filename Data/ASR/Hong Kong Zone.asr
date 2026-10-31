@@ -3,7 +3,6 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:Hong-Kong-Sector-File.sct
-Regions:ATMS Background:polygon
 SHOWC:1
 SHOWSB:1
 BELOW:100

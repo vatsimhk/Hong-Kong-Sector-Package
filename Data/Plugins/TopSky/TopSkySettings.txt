@@ -13,7 +13,7 @@ Color_TopShadow=167,204,233
 Color_Rwy_App_Line_Inuse=192,192,192
 
 //COLOUR THEME BEGIN
-Color_Coordination=255,255,255
+Color_Coordination=229,214,130
 Color_Assumed=255,255,255
 Color_Redundant=255,255,255
 Color_Concerned=255,255,255
@@ -28,11 +28,12 @@ Color_QDM=242,255,105
 Color_SEP_Tool_1=41,245,41
 
 Color_Heading_Vector=40,255,255
-Color_Information_FL=196,188,216
-Color_System_Calculated_TOC=196,188,216
-Color_System_Calculated_TOD=196,188,216
-Color_Flight_Leg=196,188,216
+Color_Information_FL=216,185,158
+Color_System_Calculated_TOC=216,185,158
+Color_System_Calculated_TOD=216,185,158
+Color_Flight_Leg=216,185,158
 FlightLeg_LineWidth=0
+Color_Track_Highlight=255,255,255
 
 Color_Selected=255,255,255
 Color_Warning=255,255,0
@@ -46,17 +47,11 @@ System_TrueColorMode=1
 
 RwyAppLines_Auto=0
 
-FlightLeg_Font=EuroScope
-Maps_Font=EuroScope
-System_GUI_Font_1=EuroScope
-System_GUI_Font_2=EuroScope
-System_GUI_Font_Fixed_1=EuroScope
+MSAW_VFR=0
 
-TextNotes_Font=EuroScope
-Vector_AHDG_Font=EuroScope
-Vector_FplSep_Font=EuroScope
-Vector_MinSep_Font=EuroScope
-Vector_QDM_Font=EuroScope
+//Disable route draw lable
+FlightLeg_Label_Time=0
+FlightLeg_Label_Point=0
 
 //Airspace
 Airspace_No_DUPE_Codes=2000,2200,1200,1000
@@ -103,15 +98,7 @@ Shortcut_Map_Target=4,WPT LBL CSTR\34 VMMC
 Shortcut_Map_Target=5,WPT LBL CSTR\16 VMMC
 Shortcut_Map_Target=6,WPT LBL CSTR\VFR
 Shortcut_Map_Target=7,VHHX\Kai Tak (Shortcut)
-Shortcut_Map_Target=8,WPT LBL CSTR\SPLIT FREQ
-
-MSAW=0
-STCA=0
-STCA_VFR=0
-APW=0
-SAP=0
-AIW=0
-MTCD=0
+Shortcut_Map_Target=8,WPT LBL CSTR\FREQ SPLIT
 
 [_CTR]
 Window_CPDLC_Current=1,1510,630

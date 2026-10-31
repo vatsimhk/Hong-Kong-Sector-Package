@@ -30,6 +30,7 @@
     ],
     "25R": [
       ["ILS_25R        ", "TOPUN"],
+      ["ILSRUNSU_25R        ", "RUNSU"],
       ["LOC_25R       ", "RIVMI"],
       ["RNPZ_25R        ", "RIVMI"],
       ["RNPY_25R        ", "LUDLA"]
