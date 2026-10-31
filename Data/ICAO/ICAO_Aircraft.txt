@@ -24,7 +24,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2609/1  ++  File-Publisher: Hong Kong vACC - VHHK                                                                ;
+;  AIRAC 2611/1  ++  File-Publisher: Hong Kong vACC - VHHK                                                                ;
 ;=========================================================================================================================;
 A002	LG1P	IRKUT	A-002
 A1	ML1P	DOUGLAS	A1, EA1, AD Skyraider
@@ -2297,6 +2297,8 @@ SF50	LL1J	CIRRUS	Vision
 SG37	LL1P	SCHWEIZER	SGM237 (TG7)
 SG70	LL1P	GLASS	SG-70 STOLGlass
 SG92	LL1T	TECHNOAVIA	SM-92T/SMG-92 Turbo Finist
+SGCD	ML1J	SAAB	39C/D Gripen C/D (JAS39C/D)
+SGEF	ML1J	SAAB	39E/F Gripen E/F (JAS39E/F)
 SGRA	LL1P	SG AVIATION	Rally
 SGUP	ML4T	AERO SPACELINES	377SGT Super Guppy
 SH09	LH1T	KOPTER	SH-09

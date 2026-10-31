@@ -57,13 +57,13 @@ m_Resizable:1
 m_OrderingColumn:4
 m_HeaderOnly:0
 m_Column:BAY:5:0:1:0:0:1:Ground Radar plugin:::0:3.5
-m_Column:SLOT:5:0:15:130:0:0:CDM Plugin:CDM Plugin::0:3.5
-m_Column:CTOT:5:0:10:108:0:1:CDM Plugin:CDM Plugin::0:3.5
+m_Column:SLOT:5:0:15:130:129:0:CDM Plugin:CDM Plugin:CDM Plugin:0:3.5
+m_Column:CTOT:5:0:10:108:137:1:CDM Plugin:CDM Plugin:CDM Plugin:0:3.5
 m_Column:TTOT:5:0:3:128:0:1:CDM Plugin:CDM Plugin::0:3.5
-m_Column:TOBT:5:0:22:154:0:1:CDM Plugin:CDM Plugin::0:3.5
+m_Column:TOBT:5:0:22:154:123:1:CDM Plugin:CDM Plugin:CDM Plugin:0:3.5
 m_Column:TSAT:5:0:2:104:0:1:CDM Plugin:CDM Plugin::0:3.5
 m_Column:CDT:4:0:17:0:0:1:CDM Plugin:::0:3.5
-m_Column:ARDT:6:0:7:107:114:1:CDM Plugin:CDM Plugin:CDM Plugin:0:3.5
+m_Column:ARDT:6:0:7:155:114:1:CDM Plugin:CDM Plugin:CDM Plugin:0:3.5
 m_Column:CS:9:0:10021:6:7:1:TopSky plugin:TopSky plugin::0:3.5
 m_Column:COM:4:0:58:32:0:1:TopSky plugin:::4:3.5
 m_Column:TYPE:5:0:10028:41:0:1:TopSky plugin:::4:3.5
