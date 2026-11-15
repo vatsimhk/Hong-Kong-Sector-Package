@@ -24,7 +24,7 @@
 	<Server mode="true" />
 	<Su_Wait mode="false" />
 	<sftpConnection mode="false" />
-	<customRestricted url="https://raw.githubusercontent.com/vatsimhk/CDM/refs/heads/main/customrestricted.txt" />
+	<customRestricted url="" />
 	<flashingMode tobtLastMin="false" tsatFirstMin="true" tsatLastMin="false"/>
 	<eventPriority mode="true" />
 	<reqTobtPriority mode="true" />
