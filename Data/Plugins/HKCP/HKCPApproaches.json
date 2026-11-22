@@ -38,9 +38,9 @@
   },
   "VMMC": {
     "16": [
-      ["LOCZ_16        ", "ZUH"],
-      ["LOCY_16        ", "ZUH"],
-      ["LOCX_16        ", "ZUH"],
+      ["LLZZ_16        ", "ZUH"],
+      ["LLZY_16        ", "ZUH"],
+      ["LLZX_16        ", "ZUH"],
       ["RNPY_16        ", "ZUH"],
       ["RNPZ_16        ", "ZUH"]
     ],
