@@ -104,7 +104,7 @@
         "IDOSI": ["IDO"],
         "SIKOU": ["SIK"]
       },
-      "defaults": ["ABB", "BET", "CAN", "LIM"]
+      "defaults": ["ABB", "BET", "CAN", "LIM", "RID"]
     },
     "25": {
       "routes": {
