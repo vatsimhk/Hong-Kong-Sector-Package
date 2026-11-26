@@ -1,9 +1,9 @@
-AIRAC cycle    : 2611
+AIRAC cycle    : 2612
 Version        : 1
-Valid (from/to): 29/OCT/2026 - 25/NOV/2026
+Valid (from/to): 26/NOV/2026 - 23/DEC/2026
 
 
-Data provided by Navigraph - www.navigraph.com
+Data provided by Navigraph - navigraph.com
 Source data copyright (c) 2026 Jeppesen ForeFlight. All rights reserved.
 
 Licensed to the individual Navigraph subscriber under a personal,
@@ -18,6 +18,6 @@ planning, flight training, professional or research purposes, or to
 generate charts or maps. It may not be copied, modified, decompiled,
 published, sold or distributed, in whole or in part.
 
-Valid for AIRAC cycle 2611 (29/OCT/2026 - 25/NOV/2026) only. Use after expiry
+Valid for AIRAC cycle 2612 (26/NOV/2026 - 23/DEC/2026) only. Use after expiry
 is at the user's sole risk. The data may be incomplete and is
 provided "as is" without warranty of any kind.

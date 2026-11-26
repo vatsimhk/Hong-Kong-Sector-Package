@@ -1,12 +1,12 @@
 {
-  "cycle": "2611",
+  "cycle": "2612",
   "revision": "1",
   "name": "FS-Navigator 4.x",
-  "build": "1.0.0",
+  "build": "1.0.1",
   "provider": "JEPPESEN",
   "manufacturerLong": "NAVIGRAPH",
   "manufacturerShort": "NG",
   "format": "custom",
-  "validityPeriod": "2026-10-29/2026-11-25",
-  "createdOn": "2026-10-28 15:26:32 UTC"
+  "validityPeriod": "2026-11-26/2026-12-23",
+  "createdOn": "2026-11-20 10:59:30 UTC"
 }
