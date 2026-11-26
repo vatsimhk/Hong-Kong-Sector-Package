@@ -85,6 +85,12 @@
           "star": "CANTO3A",
           "route": "CANTO",
           "gate": "CANTO"
+        },
+        "RID": {
+          "string": "RID_DCT-RIDGO",
+          "star": "RIDGOxRNPX",
+          "route": "RIDGO",
+          "gate": "R"
         }
       },
       "points": {
