@@ -85,6 +85,12 @@
           "star": "CANTO3A",
           "route": "CANTO",
           "gate": "CANTO"
+        },
+        "RID": {
+          "string": "RID_DCT-RIDGO",
+          "star": "RIDGOxRNPX",
+          "route": "RIDGO",
+          "gate": "R"
         }
       },
       "points": {
@@ -98,7 +104,7 @@
         "IDOSI": ["IDO"],
         "SIKOU": ["SIK"]
       },
-      "defaults": ["ABB", "BET", "CAN", "LIM"]
+      "defaults": ["ABB", "BET", "CAN", "LIM", "RID"]
     },
     "25": {
       "routes": {
